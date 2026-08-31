@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="17206865" text-file="17206865.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_272845">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="66" id="17206865-118074" start="54">Ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274841">
+            <class id="http://purl.obolibrary.org/obo/GO_0044838" label="cell quiescence" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="90" id="17206865-118078" start="71">Cellular Quiescence</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275075">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="506" id="17206865-118114" start="488">formation of cilia</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274635">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="903" id="17206865-118152" start="894">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275403">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="962" id="17206865-118160" start="947">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273969">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1100" id="17206865-118174" start="1091">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274155">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1400" id="17206865-118192" start="1388">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272667">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1672" id="17206865-118210" start="1663">metabolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274937">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2246" id="17206865-118254" start="2231">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274753">
+            <class id="http://purl.obolibrary.org/obo/GO_0008283" label="cell population proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2467" id="17206865-118274" start="2445">cellular proliferation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273261">
+            <class id="http://purl.obolibrary.org/obo/GO_0008219" label="cell death" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2482" id="17206865-118278" start="2472">cell death</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272625">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2552" id="17206865-118282" start="2540">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273733">
+            <class id="http://purl.obolibrary.org/obo/GO_0007605" label="sensory perception of sound" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2817" id="17206865-118290" start="2810">hearing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274881">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3970" id="17206865-118369" start="3923">transduction of extracellular signaling through</span>
+            <span end="3983" id="17206865-118370" start="3975">hedgehog</span>
+            <span end="4042" id="17206865-118371" start="4034">pathways</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274951">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3970" id="17206865-118373" start="3923">transduction of extracellular signaling through</span>
+            <span end="3988" id="17206865-118374" start="3985">Wnt</span>
+            <span end="4042" id="17206865-118375" start="4034">pathways</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272661">
+            <class id="http://purl.obolibrary.org/obo/GO_0048008" label="platelet-derived growth factor receptor signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3970" id="17206865-118377" start="3923">transduction of extracellular signaling through</span>
+            <span end="4042" id="17206865-118378" start="3994">platelet-derived growth factor receptor pathways</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273781">
+            <class id="http://purl.obolibrary.org/obo/GO_0015031" label="protein transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4807" id="17206865-118447" start="4790">protein transport</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272679">
+            <class id="http://purl.obolibrary.org/obo/GO_0015031" label="protein transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5444" id="17206865-118481" start="5423">transport of proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273377">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5809" id="17206865-118515" start="5794">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274883">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6477" id="17206865-118571" start="6462">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275039">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6588" id="17206865-118575" start="6578">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273965">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6689" id="17206865-118585" start="6674">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272485">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6917" id="17206865-118601" start="6905">Ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273353">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6996" id="17206865-118613" start="6980">cilium formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273147">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7067" id="17206865-118621" start="7055">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273539">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7448" id="17206865-118667" start="7430">formation of cilia</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273179">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7557" id="17206865-118675" start="7545">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274995">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8055" id="17206865-118705" start="8043">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273043">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8835" id="17206865-118771" start="8823">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273369">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9032" id="17206865-118783" start="9020">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275499">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9070" id="17206865-118785" start="9058">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274325">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9298" id="17206865-118799" start="9286">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274599">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9626" id="17206865-118845" start="9614">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274853">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9836" id="17206865-118857" start="9824">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275629">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10535" id="17206865-118907" start="10519">cilia biogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273835">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10930" id="17206865-118943" start="10915">Cilia Formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272659">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11011" id="17206865-118947" start="10999">Ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273617">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11425" id="17206865-118981" start="11410">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275257">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11463" id="17206865-118985" start="11452">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275705">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11773" id="17206865-119017" start="11763">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273799">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11845" id="17206865-119027" start="11833">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274747">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12072" id="17206865-119049" start="12060">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275699">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12286" id="17206865-119061" start="12275">transfected</span>
+        </annotation>
+        <annotation id="17206865-408055">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12599" id="17206865-408056" start="12589">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275515">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12735" id="17206865-119099" start="12723">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274273">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12760" id="17206865-119101" start="12750">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273319">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13112" id="17206865-119143" start="13102">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273713">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13953" id="17206865-119235" start="13943">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275411">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14024" id="17206865-119245" start="14009">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274533">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14211" id="17206865-119267" start="14199">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273647">
+            <class id="http://purl.obolibrary.org/obo/GO_0042592" label="homeostatic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14344" id="17206865-119277" start="14333">Homeostasis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274905">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14464" id="17206865-119289" start="14455">metabolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273153">
+            <class id="http://purl.obolibrary.org/obo/GO_0007283" label="spermatogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15310" id="17206865-119351" start="15295">sperm formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274721">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16671" id="17206865-119470" start="16663">cellular</span>
+            <span end="16699" id="17206865-119471" start="16690">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275473">
+            <class id="http://purl.obolibrary.org/obo/GO_0008283" label="cell population proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16685" id="17206865-119475" start="16663">cellular proliferation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275451">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16834" id="17206865-119491" start="16825">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274891">
+            <class id="http://purl.obolibrary.org/obo/GO_1904019" label="epithelial cell apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17348" id="17206865-119531" start="17323">epithelial cell apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272563">
+            <class id="http://purl.obolibrary.org/obo/GO_0050673" label="epithelial cell proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17809" id="17206865-119563" start="17796">proliferation</span>
+            <span end="17843" id="17206865-119564" start="17824">of epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272873">
+            <class id="http://purl.obolibrary.org/obo/GO_1904019" label="epithelial cell apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17843" id="17206865-119566" start="17814">apoptosis of epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272683">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18887" id="17206865-119636" start="18869">formation of cilia</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274659">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19033" id="17206865-119658" start="19021">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272509">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19353" id="17206865-119680" start="19343">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275161">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19397" id="17206865-119682" start="19385">formation of</span>
+            <span end="19413" id="17206865-119683" start="19408">cilia</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272523">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19935" id="17206865-119719" start="19916">biogenesis of cilia</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273141">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20715" id="17206865-119791" start="20706">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273561">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20873" id="17206865-119807" start="20861">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272583">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21147" id="17206865-119837" start="21132">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275663">
+            <class id="http://purl.obolibrary.org/obo/GO_0042073" label="intraciliary transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22029" id="17206865-119885" start="22005">intraflagellar transport</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273073">
+            <class id="http://purl.obolibrary.org/obo/GO_0042073" label="intraciliary transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22034" id="17206865-119889" start="22031">IFT</span>
+        </annotation>
+        <annotation id="17206865-392711">
+            <class id="http://purl.obolibrary.org/obo/GO_0035556" label="intracellular signal transduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22235" id="17206865-392712" start="22196">transduction of intracellular signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275091">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22268" id="17206865-119907" start="22255">morphogenetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274575">
+            <class id="http://purl.obolibrary.org/obo/GO_0007608" label="sensory perception of smell" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22407" id="17206865-119915" start="22398">olfaction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275567">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23028" id="17206865-119973" start="23016">formation of</span>
+            <span end="23052" id="17206865-119974" start="23047">cilia</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273361">
+            <class id="http://purl.obolibrary.org/obo/GO_0042073" label="intraciliary transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23523" id="17206865-120006" start="23520">IFT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273217">
+            <class id="http://purl.obolibrary.org/obo/GO_0042073" label="intraciliary transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23711" id="17206865-120012" start="23708">IFT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274515">
+            <class id="http://purl.obolibrary.org/obo/GO_0042073" label="intraciliary transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23834" id="17206865-120025" start="23831">IFT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273035">
+            <class id="http://purl.obolibrary.org/obo/GO_0015031" label="protein transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23856" id="17206865-120029" start="23839">protein transport</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275517">
+            <class id="http://purl.obolibrary.org/obo/GO_0008283" label="cell population proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23978" id="17206865-120047" start="23960">cell proliferation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274183">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24040" id="17206865-120053" start="24030">expression</span>
+        </annotation>
+        <annotation id="17206865-392713">
+            <class id="http://purl.obolibrary.org/obo/GO_0060070" label="canonical Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24129" id="17206865-392714" start="24108">canonical Wnt pathway</span>
+        </annotation>
+        <annotation id="17206865-392715">
+            <class id="http://purl.obolibrary.org/obo/GO_0060070" label="canonical Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24209" id="17206865-392716" start="24188">canonical Wnt pathway</span>
+        </annotation>
+        <annotation id="17206865-392717">
+            <class id="http://purl.obolibrary.org/obo/GO_0035567" label="non-canonical Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24250" id="17206865-392718" start="24226">noncanonical Wnt pathway</span>
+        </annotation>
+        <annotation id="17206865-392719">
+            <class id="http://purl.obolibrary.org/obo/GO_0035567" label="non-canonical Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24280" id="17206865-392720" start="24256">noncanonical Wnt pathway</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275391">
+            <class id="http://purl.obolibrary.org/obo/GO_0051301" label="cell division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24348" id="17206865-120067" start="24335">cell division</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272591">
+            <class id="http://purl.obolibrary.org/obo/GO_0015031" label="protein transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24560" id="17206865-120083" start="24543">protein transport</span>
+        </annotation>
+        <annotation id="17206865-392721">
+            <class id="http://purl.obolibrary.org/obo/GO_0060071" label="Wnt signaling pathway, planar cell polarity pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24650" id="17206865-392722" start="24620">planar cell polarity signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273305">
+            <class id="http://purl.obolibrary.org/obo/GO_0051301" label="cell division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24690" id="17206865-120093" start="24677">cell division</span>
+        </annotation>
+        <annotation id="17206865-392723">
+            <class id="http://purl.obolibrary.org/obo/GO_0070317" label="negative regulation of G0 to G1 transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25016" id="17206865-392724" start="25002">maintenance of</span>
+            <span end="25054" id="17206865-392725" start="25035">cellular quiescence</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274329">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25093" id="17206865-120128" start="25084">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274647">
+            <class id="http://purl.obolibrary.org/obo/GO_0008283" label="cell population proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25470" id="17206865-120156" start="25448">cellular proliferation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274561">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25893" id="17206865-120178" start="25883">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275455">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26094" id="17206865-120192" start="26085">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273613">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26370" id="17206865-120210" start="26355">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274453">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26752" id="17206865-120236" start="26743">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274519">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26913" id="17206865-120250" start="26904">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272793">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27314" id="17206865-120264" start="27302">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272821">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27538" id="17206865-120274" start="27523">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273905">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27760" id="17206865-120284" start="27750">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274019">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28105" id="17206865-120302" start="28093">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272675">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28171" id="17206865-120306" start="28160">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274153">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28523" id="17206865-120340" start="28512">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274141">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28633" id="17206865-120350" start="28622">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274085">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28750" id="17206865-120356" start="28739">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275465">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28782" id="17206865-120360" start="28771">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275233">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28828" id="17206865-120366" start="28813">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274007">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28879" id="17206865-120368" start="28868">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273923">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28938" id="17206865-120374" start="28927">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274413">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28988" id="17206865-120380" start="28977">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274197">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29601" id="17206865-120404" start="29586">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275357">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29628" id="17206865-120406" start="29616">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273771">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29652" id="17206865-120408" start="29641">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272695">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29690" id="17206865-120412" start="29680">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273549">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29748" id="17206865-120414" start="29737">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275723">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29802" id="17206865-120418" start="29792">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274541">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29942" id="17206865-120420" start="29932">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274611">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30101" id="17206865-120426" start="30091">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274939">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30132" id="17206865-120428" start="30121">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274131">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30207" id="17206865-120430" start="30196">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273619">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30354" id="17206865-120436" start="30342">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275123">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30461" id="17206865-120444" start="30449">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273087">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30537" id="17206865-120452" start="30526">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274077">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30679" id="17206865-120466" start="30664">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272633">
+            <class id="http://purl.obolibrary.org/obo/GO_0002064" label="epithelial cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33567" id="17206865-120629" start="33554">generation of</span>
+            <span end="33599" id="17206865-120630" start="33583">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275251">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35646" id="17206865-120777" start="35631">Gene Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272933">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35696" id="17206865-120783" start="35681">Gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275423">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35774" id="17206865-120789" start="35763">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273833">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35853" id="17206865-120797" start="35842">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275203">
+            <class id="http://purl.obolibrary.org/obo/GO_0042073" label="intraciliary transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36592" id="17206865-120821" start="36589">IFT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274947">
+            <class id="http://purl.obolibrary.org/obo/GO_0042073" label="intraciliary transport" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36619" id="17206865-120823" start="36595">intraflagellar transport</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274185">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36833" id="17206865-120843" start="36823">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274411">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36865" id="17206865-120847" start="36849">Cilium Formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275183">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37024" id="17206865-120863" start="37012">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273393">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37038" id="17206865-120865" start="37026">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273653">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37085" id="17206865-120869" start="37073">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272739">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37244" id="17206865-120883" start="37232">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274615">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37601" id="17206865-120912" start="37589">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272573">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37681" id="17206865-120922" start="37671">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273485">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37804" id="17206865-120932" start="37792">Ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274957">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37914" id="17206865-120938" start="37898">cilia biogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273471">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37987" id="17206865-120944" start="37975">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274525">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38013" id="17206865-120948" start="38002">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275555">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38256" id="17206865-120974" start="38244">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274737">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38394" id="17206865-120982" start="38382">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274609">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38449" id="17206865-120986" start="38439">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275099">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38492" id="17206865-120988" start="38482">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273551">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38645" id="17206865-121000" start="38630">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273545">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39014" id="17206865-121028" start="38999">Cilia Formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273789">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39127" id="17206865-121046" start="39112">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273655">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39221" id="17206865-121056" start="39210">transfected</span>
+        </annotation>
+        <annotation id="17206865-408057">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39257" id="17206865-408058" start="39247">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_273761">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39526" id="17206865-121088" start="39516">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274701">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39624" id="17206865-121102" start="39609">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_274757">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40124" id="17206865-121166" start="40109">cilia formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_272831">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41973" id="17206865-121350" start="41963">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_275215">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42184" id="17206865-121373" start="42175">apoptotic</span>
+        </annotation>
+    </document>
+</knowtator-project>

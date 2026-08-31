@@ -1,0 +1,517 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16968134" text-file="16968134.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_240451">
+            <class id="http://craftcorpus.org/CRAFT_tyrosine_molecular_entity_or_group" label="tyrosine molecular entity or group"/>
+            <span end="1421" id="16968134-16543" start="1413">tyrosine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239083">
+            <class id="http://craftcorpus.org/CRAFT_polyatomic_entity_or_group" label="polyatomic entity or group"/>
+            <span end="2660" id="16968134-136046" start="2651">molecular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238515">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="3453" id="16968134-136123" start="3444">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240411">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="3792" id="16968134-16573" start="3784">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240003">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="7045" id="16968134-16581" start="7038">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237153">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE OR GENE PRODUCT"/>
+            <span end="7061" id="16968134-136410" start="7054">histone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241415">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="7104" id="16968134-16583" start="7097">protein</span>
+        </annotation>
+        <annotation id="16968134-390324">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="12210" id="16968134-390325" start="12202">staining</span>
+        </annotation>
+        <annotation id="16968134-390326">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="12676" id="16968134-390327" start="12668">staining</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237523">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="14293" id="16968134-16609" start="14286">protein</span>
+        </annotation>
+        <annotation id="16968134-390328">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="14388" id="16968134-390329" start="14380">staining</span>
+        </annotation>
+        <annotation id="16968134-390330">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_costaining" label="occurrence/attribute of biological costaining"/>
+            <span end="15362" id="16968134-390331" start="15352">co-stained</span>
+        </annotation>
+        <annotation id="16968134-390332">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="15482" id="16968134-390333" start="15474">staining</span>
+        </annotation>
+        <annotation id="16968134-390334">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="15676" id="16968134-390335" start="15668">staining</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238873">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75055" label="5-bromo-4-chloro-3-indolyl beta-D-galactoside"/>
+            <span end="16337" id="16968134-137233" start="16332">X-gal</span>
+        </annotation>
+        <annotation id="16968134-390336">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="16345" id="16968134-390337" start="16338">stained</span>
+        </annotation>
+        <annotation id="16968134-388033">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3303" label="calcein am"/>
+            <span end="17260" id="16968134-388034" start="17250">calcein-AM</span>
+        </annotation>
+        <annotation id="16968134-388035">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3303" label="calcein am"/>
+            <span end="17468" id="16968134-388036" start="17458">calcein-AM</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239583">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="18009" id="16968134-137375" start="18006">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240789">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="18186" id="16968134-137385" start="18183">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238675">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="18504" id="16968134-137403" start="18501">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239743">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="18627" id="16968134-137411" start="18624">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240083">
+            <class id="http://craftcorpus.org/CRAFT_polyatomic_entity_or_group" label="polyatomic entity or group"/>
+            <span end="18920" id="16968134-137427" start="18911">molecular</span>
+        </annotation>
+        <annotation id="16968134-390338">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="19524" id="16968134-390339" start="19516">staining</span>
+        </annotation>
+        <annotation id="16968134-390340">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="19699" id="16968134-390341" start="19691">staining</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239485">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="20072" id="16968134-16677" start="20065">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240161">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="20660" id="16968134-16683" start="20653">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237135">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="21085" id="16968134-137616" start="21076">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239883">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="21283" id="16968134-16691" start="21275">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240529">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="21559" id="16968134-16697" start="21551">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240113">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_8984" label="sodium dodecyl sulfate"/>
+            <span end="21735" id="16968134-137668" start="21732">SDS</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241557">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75055" label="5-bromo-4-chloro-3-indolyl beta-D-galactoside"/>
+            <span end="23851" id="16968134-137824" start="23846">X-gal</span>
+        </annotation>
+        <annotation id="16968134-390342">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="23859" id="16968134-390343" start="23852">stained</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239249">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="30478" id="16968134-16757" start="30471">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240249">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="30497" id="16968134-16759" start="30490">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240515">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35224" label="effector" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="30534" id="16968134-138363" start="30526">effector</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238859">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="30544" id="16968134-138365" start="30535">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240033">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_23995" label="N-ethyl-N-nitrosourea"/>
+            <span end="32087" id="16968134-138475" start="32084">ENU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240105">
+            <class id="http://craftcorpus.org/CRAFT_tyrosine_molecular_entity_or_group" label="tyrosine molecular entity or group"/>
+            <span end="33795" id="16968134-16769" start="33787">tyrosine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241389">
+            <class id="http://craftcorpus.org/CRAFT_tyrosine_molecular_entity_or_group" label="tyrosine molecular entity or group"/>
+            <span end="33844" id="16968134-16771" start="33836">Tyrosine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237007">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="34190" id="16968134-16773" start="34182">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240679">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75055" label="5-bromo-4-chloro-3-indolyl beta-D-galactoside"/>
+            <span end="38903" id="16968134-138985" start="38898">X-gal</span>
+        </annotation>
+        <annotation id="16968134-390344">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="38912" id="16968134-390345" start="38904">staining</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238005">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75055" label="5-bromo-4-chloro-3-indolyl beta-D-galactoside"/>
+            <span end="38966" id="16968134-138989" start="38961">X-gal</span>
+        </annotation>
+        <annotation id="16968134-390346">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="38975" id="16968134-390347" start="38967">staining</span>
+        </annotation>
+        <annotation id="16968134-387407">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_131189" label="glass"/>
+            <span end="40268" id="16968134-387408" start="40263">glass</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241147">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_31962" label="paraformaldehyde macromolecule" interpretation="MACROMOLECULE OR POLYMER"/>
+            <span end="40491" id="16968134-139053" start="40488">PFA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241451">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_7586" label="nitro blue tetrazolium(2+)"/>
+            <span end="40583" id="16968134-139059" start="40580">NBT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240123">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75508" label="5-bromo-4-chloro-3-indolyl phosphate"/>
+            <span end="40588" id="16968134-139061" start="40584">BCIP</span>
+        </annotation>
+        <annotation id="16968134-388037">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3303" label="calcein am"/>
+            <span end="41324" id="16968134-388038" start="41314">calcein-AM</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239019">
+            <class id="http://craftcorpus.org/CRAFT_polyatomic_entity_or_group" label="polyatomic entity or group"/>
+            <span end="41335" id="16968134-139101" start="41326">Molecular</span>
+        </annotation>
+        <annotation id="16968134-388039">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3303" label="calcein am"/>
+            <span end="41406" id="16968134-388040" start="41396">Calcein-AM</span>
+        </annotation>
+        <annotation id="16968134-388041">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3303" label="calcein am"/>
+            <span end="41635" id="16968134-388042" start="41625">calcein-AM</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238239">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="41841" id="16968134-139129" start="41838">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239539">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="41900" id="16968134-139135" start="41897">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238631">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="41947" id="16968134-139139" start="41944">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237189">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_63016" label="nonyl phenoxypolyethoxylethanol" interpretation="MACROMOLECULE OR POLYMER"/>
+            <span end="42195" id="16968134-139145" start="42191">NP40</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241419">
+            <class id="http://craftcorpus.org/CRAFT_buffer_solution" label="buffer solution"/>
+            <span end="42208" id="16968134-139149" start="42202">buffer</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240889">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_46756" label="HEPES"/>
+            <span end="42221" id="16968134-139151" start="42216">Hepes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239905">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26710" label="sodium chloride"/>
+            <span end="42243" id="16968134-139153" start="42239">NaCl</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237395">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17754" label="glycerol"/>
+            <span end="42257" id="16968134-139155" start="42249">glycerol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237349">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_6636" label="magnesium dichloride"/>
+            <span end="42271" id="16968134-139157" start="42266">MgCl2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239383">
+            <class id="http://craftcorpus.org/CRAFT_EGTA" label="EGTA"/>
+            <span end="42281" id="16968134-16861" start="42277">EGTA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238119">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_28741" label="sodium fluoride"/>
+            <span end="42293" id="16968134-139161" start="42290">NaF</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237501">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9754" label="tris"/>
+            <span end="42357" id="16968134-139163" start="42353">Tris</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237621">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26710" label="sodium chloride"/>
+            <span end="42379" id="16968134-139165" start="42375">NaCl</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241647">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_4735" label="ethylenediaminetetraacetic acid"/>
+            <span end="42389" id="16968134-16863" start="42385">EDTA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240331">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="42399" id="16968134-16865" start="42392">Protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236987">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_8984" label="sodium dodecyl sulfate"/>
+            <span end="42615" id="16968134-139181" start="42612">SDS</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238587">
+            <class id="http://craftcorpus.org/CRAFT_buffer_solution" label="buffer solution"/>
+            <span end="42876" id="16968134-139197" start="42870">buffer</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237855">
+            <class id="http://craftcorpus.org/CRAFT_buffer_solution" label="buffer solution"/>
+            <span end="42921" id="16968134-139199" start="42915">buffer</span>
+        </annotation>
+        <annotation id="16968134-387409">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_131189" label="glass"/>
+            <span end="42979" id="16968134-387410" start="42974">glass</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239771">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_31962" label="paraformaldehyde macromolecule" interpretation="MACROMOLECULE OR POLYMER"/>
+            <span end="43125" id="16968134-139215" start="43122">PFA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240151">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_31962" label="paraformaldehyde macromolecule" interpretation="MACROMOLECULE OR POLYMER"/>
+            <span end="43202" id="16968134-139219" start="43199">PFA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240117">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9750" label="Triton X-100"/>
+            <span end="43245" id="16968134-139223" start="43239">Tx-100</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240367">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37926" label="fluorescein isothiocyanate"/>
+            <span end="43526" id="16968134-139247" start="43522">FITC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239587">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37987" label="Cy3 dye"/>
+            <span end="43535" id="16968134-139249" start="43532">Cy3</span>
+        </annotation>
+        <annotation id="16968134-387411">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_131189" label="glass"/>
+            <span end="43880" id="16968134-387412" start="43875">glass</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238845">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_133748" label="citrate anion"/>
+            <span end="44080" id="16968134-16883" start="44073">citrate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241383">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_59132" label="antigen" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="44104" id="16968134-139281" start="44096">antigens</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237033">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75958" label="solution"/>
+            <span end="44155" id="16968134-139285" start="44147">solution</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240385">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75958" label="solution"/>
+            <span end="44277" id="16968134-139295" start="44269">solution</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239795">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37987" label="Cy3 dye"/>
+            <span end="44311" id="16968134-139297" start="44308">Cy3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238185">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75958" label="solution"/>
+            <span end="44401" id="16968134-139303" start="44393">solution</span>
+        </annotation>
+        <annotation id="16968134-390348">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="44984" id="16968134-390349" start="44977">stained</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240653">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51686" label="haematoxylin"/>
+            <span end="44991" id="16968134-139331" start="44990">H</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240921">
+            <class id="http://craftcorpus.org/CRAFT_eosin" label="eosin"/>
+            <span end="44993" id="16968134-16885" start="44992">E</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238253">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75055" label="5-bromo-4-chloro-3-indolyl beta-D-galactoside"/>
+            <span end="45106" id="16968134-139351" start="45101">X-gal</span>
+        </annotation>
+        <annotation id="16968134-390350">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="45115" id="16968134-390351" start="45107">staining</span>
+        </annotation>
+        <annotation id="16968134-390352">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="46285" id="16968134-390353" start="46277">staining</span>
+        </annotation>
+        <annotation id="16968134-390354">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="47076" id="16968134-390355" start="47069">stained</span>
+        </annotation>
+        <annotation id="16968134-390356">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="47173" id="16968134-390357" start="47165">staining</span>
+        </annotation>
+        <annotation id="16968134-390358">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="47580" id="16968134-390359" start="47573">stained</span>
+        </annotation>
+        <annotation id="16968134-390360">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="47684" id="16968134-390361" start="47676">staining</span>
+        </annotation>
+        <annotation id="16968134-390362">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="47906" id="16968134-390363" start="47898">staining</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237711">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="48233" id="16968134-16897" start="48230">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238969">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="49092" id="16968134-16899" start="49085">protein</span>
+        </annotation>
+        <annotation id="16968134-390364">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="49347" id="16968134-390365" start="49340">stained</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237029">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16866" label="alizarin"/>
+            <span end="49365" id="16968134-139722" start="49353">Alizarin Red</span>
+        </annotation>
+        <annotation id="16968134-390366">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="49392" id="16968134-390367" start="49385">stained</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239099">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75055" label="5-bromo-4-chloro-3-indolyl beta-D-galactoside"/>
+            <span end="51537" id="16968134-139967" start="51532">X-gal</span>
+        </annotation>
+        <annotation id="16968134-390368">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="51546" id="16968134-390369" start="51538">staining</span>
+        </annotation>
+        <annotation id="16968134-390370">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="51779" id="16968134-390371" start="51772">stained</span>
+        </annotation>
+        <annotation id="16968134-390372">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="51898" id="16968134-390373" start="51890">staining</span>
+        </annotation>
+        <annotation id="16968134-390374">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="52024" id="16968134-390375" start="52016">staining</span>
+        </annotation>
+        <annotation id="16968134-390376">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="52540" id="16968134-390377" start="52533">stained</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241569">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75055" label="5-bromo-4-chloro-3-indolyl beta-D-galactoside"/>
+            <span end="52863" id="16968134-140097" start="52858">X-gal</span>
+        </annotation>
+        <annotation id="16968134-390378">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="52871" id="16968134-390379" start="52864">stained</span>
+        </annotation>
+        <annotation id="16968134-388043">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3303" label="calcein am"/>
+            <span end="53660" id="16968134-388044" start="53650">calcein-AM</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237015">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="53809" id="16968134-140189" start="53806">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239219">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="53891" id="16968134-140193" start="53888">dye</span>
+        </annotation>
+        <annotation id="16968134-388045">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3303" label="calcein am"/>
+            <span end="54011" id="16968134-388046" start="54001">Calcein-AM</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239541">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="54236" id="16968134-140225" start="54233">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237611">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="54322" id="16968134-140229" start="54319">dye</span>
+        </annotation>
+        <annotation id="16968134-390380">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="54354" id="16968134-390381" start="54346">staining</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_238025">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="54486" id="16968134-140243" start="54483">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241131">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="54592" id="16968134-140249" start="54589">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_237813">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="54631" id="16968134-140255" start="54628">dye</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239893">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="54727" id="16968134-140261" start="54724">dye</span>
+        </annotation>
+        <annotation id="16968134-390382">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_costaining" label="occurrence/attribute of biological costaining"/>
+            <span end="54984" id="16968134-390383" start="54974">co-stained</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240121">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="55720" id="16968134-16959" start="55713">Protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_239135">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="56300" id="16968134-16971" start="56293">Protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240021">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="56474" id="16968134-16973" start="56467">Protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240499">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="56940" id="16968134-16983" start="56932">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_240895">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75055" label="5-bromo-4-chloro-3-indolyl beta-D-galactoside"/>
+            <span end="57143" id="16968134-140440" start="57138">X-gal</span>
+        </annotation>
+        <annotation id="16968134-390384">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="57151" id="16968134-390385" start="57144">stained</span>
+        </annotation>
+        <annotation id="16968134-390386">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="57220" id="16968134-390387" start="57213">stained</span>
+        </annotation>
+        <annotation id="16968134-388047">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_88178" label="nuclear fast red"/>
+            <span end="57242" id="16968134-388048" start="57226">Nuclear Fast Red</span>
+        </annotation>
+    </document>
+</knowtator-project>

@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="17565376" text-file="17565376.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_295381">
+            <class id="http://purl.obolibrary.org/obo/GO_0042592" label="homeostatic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="55" id="17565376-237590" start="44">Homeostasis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294523">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="659" id="17565376-237628" start="654">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295587">
+            <class id="http://purl.obolibrary.org/obo/GO_0048541" label="Peyer\'s patch development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1362" id="17565376-237682" start="1351">development</span>
+            <span end="1378" id="17565376-237683" start="1376">of</span>
+            <span end="1386" id="17565376-237684" start="1383">PPs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294923">
+            <class id="http://purl.obolibrary.org/obo/GO_0006955" label="immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1434" id="17565376-237690" start="1419">immune response</span>
+        </annotation>
+        <annotation id="17565376-392470">
+            <class id="http://purl.obolibrary.org/obo/GO_0045087" label="innate immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1878" id="17565376-392471" start="1863">innate immunity</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295957">
+            <class id="http://purl.obolibrary.org/obo/GO_0001816" label="cytokine production" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2088" id="17565376-237738" start="2075">production of</span>
+            <span end="2115" id="17565376-237739" start="2106">cytokines</span>
+        </annotation>
+        <annotation id="17565376-393112">
+            <class id="http://purl.obolibrary.org/obo/GO_0050729" label="positive regulation of inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2105" id="17565376-393113" start="2089">pro-inflammatory</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294475">
+            <class id="http://purl.obolibrary.org/obo/GO_0006954" label="inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3010" id="17565376-237780" start="2998">inflammatory</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296503">
+            <class id="http://purl.obolibrary.org/obo/GO_0007586" label="digestion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3072" id="17565376-237786" start="3063">digestive</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295147">
+            <class id="http://purl.obolibrary.org/obo/GO_0042088" label="T-helper 1 type immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3122" id="17565376-237793" start="3114">T helper</span>
+            <span end="3145" id="17565376-237794" start="3128">1 immune response</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295443">
+            <class id="http://purl.obolibrary.org/obo/GO_0042088" label="T-helper 1 type immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3126" id="17565376-237796" start="3124">Th</span>
+            <span end="3145" id="17565376-237797" start="3128">1 immune response</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295109">
+            <class id="http://purl.obolibrary.org/obo/GO_0006955" label="immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3477" id="17565376-237827" start="3462">immune response</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295893">
+            <class id="http://purl.obolibrary.org/obo/GO_0048541" label="Peyer\'s patch development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3844" id="17565376-237843" start="3830">PP development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294949">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3897" id="17565376-237847" start="3892">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296369">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5081" id="17565376-237905" start="5071">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295187">
+            <class id="http://purl.obolibrary.org/obo/GO_0006954" label="inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5559" id="17565376-237945" start="5547">inflammation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296379">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5745" id="17565376-237957" start="5740">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294235">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5917" id="17565376-237971" start="5912">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295399">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6535" id="17565376-238011" start="6526">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295863">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6576" id="17565376-238013" start="6567">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294145">
+            <class id="http://purl.obolibrary.org/obo/GO_0007613" label="memory" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8263" id="17565376-238167" start="8257">memory</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295941">
+            <class id="http://purl.obolibrary.org/obo/GO_0007613" label="memory" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8371" id="17565376-238195" start="8365">memory</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295685">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8720" id="17565376-238231" start="8711">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296391">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8928" id="17565376-238247" start="8918">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294297">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9295" id="17565376-238293" start="9286">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295581">
+            <class id="http://purl.obolibrary.org/obo/GO_0001816" label="cytokine production" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9456" id="17565376-238309" start="9437">cytokine production</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296359">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9809" id="17565376-238329" start="9799">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294293">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9882" id="17565376-238339" start="9872">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294375">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10021" id="17565376-238351" start="10011">expression</span>
+        </annotation>
+        <annotation id="17565376-392472">
+            <class id="http://purl.obolibrary.org/obo/GO_0045087" label="innate immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10091" id="17565376-392473" start="10076">innate immunity</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295529">
+            <class id="http://purl.obolibrary.org/obo/GO_0048541" label="Peyer\'s patch development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12063" id="17565376-238485" start="12049">PP development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296131">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12260" id="17565376-238511" start="12250">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296075">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12806" id="17565376-238559" start="12801">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295449">
+            <class id="http://purl.obolibrary.org/obo/GO_0009888" label="tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13280" id="17565376-238597" start="13266">development of</span>
+            <span end="13300" id="17565376-238598" start="13294">tissue</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294579">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13486" id="17565376-238614" start="13481">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295167">
+            <class id="http://purl.obolibrary.org/obo/GO_0038111" label="interleukin-7-mediated signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13609" id="17565376-238628" start="13594">IL-7 signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294889">
+            <class id="http://purl.obolibrary.org/obo/GO_0048568" label="embryonic organ development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13645" id="17565376-238630" start="13632">organogenesis</span>
+            <span end="13658" id="17565376-238631" start="13652">during</span>
+            <span end="13678" id="17565376-238632" start="13663">embryonic stage</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296185">
+            <class id="http://purl.obolibrary.org/obo/GO_0048541" label="Peyer\'s patch development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13651" id="17565376-238634" start="13632">organogenesis of PP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295963">
+            <class id="http://purl.obolibrary.org/obo/GO_0002520" label="immune system development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13785" id="17565376-238646" start="13771">development of</span>
+            <span end="13811" id="17565376-238647" start="13798">immune system</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294853">
+            <class id="http://purl.obolibrary.org/obo/GO_0048541" label="Peyer\'s patch development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14200" id="17565376-238671" start="14186">PP development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294535">
+            <class id="http://purl.obolibrary.org/obo/GO_0048541" label="Peyer\'s patch development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14399" id="17565376-238689" start="14385">PP development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296341">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15268" id="17565376-238747" start="15259">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_293815">
+            <class id="http://purl.obolibrary.org/obo/GO_0019882" label="antigen processing and presentation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15962" id="17565376-238809" start="15944">antigen presenting</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294307">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16232" id="17565376-238845" start="16223">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295805">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16324" id="17565376-238853" start="16315">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295323">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16449" id="17565376-238861" start="16440">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294373">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16630" id="17565376-238882" start="16621">apoptosis</span>
+        </annotation>
+        <annotation id="17565376-393114">
+            <class id="http://purl.obolibrary.org/obo/GO_0050729" label="positive regulation of inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16769" id="17565376-393115" start="16753">pro-inflammatory</span>
+        </annotation>
+        <annotation id="17565376-393116">
+            <class id="http://purl.obolibrary.org/obo/GO_0050728" label="negative regulation of inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16800" id="17565376-393117" start="16783">anti-inflammatory</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295695">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16824" id="17565376-238906" start="16814">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294739">
+            <class id="http://purl.obolibrary.org/obo/GO_0006955" label="immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16955" id="17565376-238914" start="16940">immune response</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295165">
+            <class id="http://purl.obolibrary.org/obo/GO_0001816" label="cytokine production" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16998" id="17565376-238920" start="16979">cytokine production</span>
+        </annotation>
+        <annotation id="17565376-393118">
+            <class id="http://purl.obolibrary.org/obo/GO_0050729" label="positive regulation of inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17388" id="17565376-393120" start="17384">Pro-</span>
+            <span end="17410" id="17565376-393119" start="17398">inflammatory</span>
+        </annotation>
+        <annotation id="17565376-393121">
+            <class id="http://purl.obolibrary.org/obo/GO_0050728" label="negative regulation of inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17410" id="17565376-393122" start="17393">anti-inflammatory</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294269">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17844" id="17565376-238984" start="17834">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294495">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="17960" id="17565376-238994" start="17947">down regulate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294711">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="17978" id="17565376-238996" start="17965">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295919">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18011" id="17565376-239004" start="18001">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295369">
+            <class id="http://purl.obolibrary.org/obo/GO_0002250" label="adaptive immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19314" id="17565376-239088" start="19289">adaptive immune responses</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295233">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19477" id="17565376-239106" start="19457">cell differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295043">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19802" id="17565376-239124" start="19792">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295791">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20180" id="17565376-239160" start="20170">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294611">
+            <class id="http://purl.obolibrary.org/obo/GO_0032609" label="type II interferon production" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20376" id="17565376-239178" start="20361">IFNγ production</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294011">
+            <class id="http://purl.obolibrary.org/obo/GO_0006954" label="inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20738" id="17565376-239194" start="20726">inflammation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294529">
+            <class id="http://purl.obolibrary.org/obo/GO_0070431" label="nucleotide-binding oligomerization domain containing 2 signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20993" id="17565376-239214" start="20979">Nod2 signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_293957">
+            <class id="http://purl.obolibrary.org/obo/GO_0042088" label="T-helper 1 type immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21062" id="17565376-239220" start="21050">Th1 response</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296037">
+            <class id="http://purl.obolibrary.org/obo/GO_0042088" label="T-helper 1 type immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21100" id="17565376-239224" start="21097">Th1</span>
+            <span end="21122" id="17565376-239225" start="21114">response</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294413">
+            <class id="http://purl.obolibrary.org/obo/GO_0006954" label="inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21122" id="17565376-239227" start="21101">inflammatory response</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296371">
+            <class id="http://purl.obolibrary.org/obo/GO_0042592" label="homeostatic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21680" id="17565376-239265" start="21669">homeostatis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295881">
+            <class id="http://purl.obolibrary.org/obo/GO_0006955" label="immune response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22088" id="17565376-239287" start="22073">immune response</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294615">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23614" id="17565376-239373" start="23604">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295693">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="23652" id="17565376-239375" start="23650">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296103">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24319" id="17565376-239409" start="24314">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295111">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24382" id="17565376-239415" start="24377">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296335">
+            <class id="http://purl.obolibrary.org/obo/GO_0019835" label="cytolysis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25139" id="17565376-239457" start="25134">lysis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296447">
+            <class id="http://purl.obolibrary.org/obo/GO_0001171" label="reverse transcription" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27652" id="17565376-239629" start="27631">reverse transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294549">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="27682" id="17565376-239635" start="27680">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295913">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28407" id="17565376-239669" start="28397">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_293999">
+            <class id="http://purl.obolibrary.org/obo/GO_0007613" label="memory" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31064" id="17565376-239837" start="31058">memory</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_293857">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31237" id="17565376-239863" start="31228">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295513">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31274" id="17565376-239878" start="31265">Apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294465">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31971" id="17565376-239927" start="31966">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295859">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32198" id="17565376-239939" start="32189">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294605">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33387" id="17565376-240077" start="33377">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_293905">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33407" id="17565376-240081" start="33396">Expressions</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294199">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33993" id="17565376-240133" start="33983">expression</span>
+        </annotation>
+        <annotation id="17565376-392978">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34978" id="17565376-392979" start="34954">homologous recombination</span>
+        </annotation>
+        <annotation id="17565376-392980">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35212" id="17565376-392981" start="35188">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294953">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="35243" id="17565376-240241" start="35230">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295679">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="35801" id="17565376-240291" start="35788">Recombination</span>
+        </annotation>
+        <annotation id="17565376-392982">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36493" id="17565376-392983" start="36469">homologous recombination</span>
+        </annotation>
+        <annotation id="17565376-392984">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36592" id="17565376-392985" start="36568">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_296507">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36755" id="17565376-240345" start="36745">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_294363">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="36782" id="17565376-240353" start="36780">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295475">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36917" id="17565376-240367" start="36907">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_295815">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36960" id="17565376-240369" start="36950">expression</span>
+        </annotation>
+    </document>
+</knowtator-project>

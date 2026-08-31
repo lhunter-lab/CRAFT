@@ -1,0 +1,666 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="17002498" text-file="17002498.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_243245">
+            <class id="http://purl.obolibrary.org/obo/CL_0002187" label="basal cell of epidermis"/>
+            <span end="606" id="17002498-129423" start="582">basal cells of epidermis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243285">
+            <class id="http://purl.obolibrary.org/obo/CL_0000079" label="stratified epithelial cell"/>
+            <span end="596" id="17002498-129427" start="588">cells of</span>
+            <span end="637" id="17002498-129428" start="617">stratified epithelia</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243153">
+            <class id="http://purl.obolibrary.org/obo/CL_0002321" label="embryonic cell (metazoa)"/>
+            <span end="1282" id="17002498-129493" start="1267">embryonic cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246283">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="1309" id="17002498-129499" start="1294">epithelial cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244019">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3195" id="17002498-10747" start="3187">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244435">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3476" id="17002498-10753" start="3468">cellular</span>
+        </annotation>
+        <annotation id="17002498-392289">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intercellular_association" label="attribute of intercellular association"/>
+            <span end="3511" id="17002498-392290" start="3498">intercellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245647">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3605" id="17002498-10757" start="3601">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242835">
+            <class id="http://purl.obolibrary.org/obo/CL_0000034" label="stem cell"/>
+            <span end="3662" id="17002498-129715" start="3653">stem cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242403">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3692" id="17002498-10761" start="3688">cell</span>
+        </annotation>
+        <annotation id="17002498-388478">
+            <class id="http://purl.obolibrary.org/obo/CL_0000039" label="germ line cell"/>
+            <span end="3868" id="17002498-388479" start="3860">germline</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246061">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5689" id="17002498-10763" start="5685">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246007">
+            <class id="http://purl.obolibrary.org/obo/CL_0002187" label="basal cell of epidermis"/>
+            <span end="6022" id="17002498-129882" start="5998">basal cells of epidermis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242979">
+            <class id="http://purl.obolibrary.org/obo/CL_0000079" label="stratified epithelial cell"/>
+            <span end="6012" id="17002498-129886" start="6004">cells of</span>
+            <span end="6053" id="17002498-129887" start="6033">stratified epithelia</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243769">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="6366" id="17002498-10769" start="6362">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243151">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="6777" id="17002498-129964" start="6763">embryonic stem</span>
+            <span end="6788" id="17002498-129965" start="6783">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245473">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="6781" id="17002498-129967" start="6779">ES</span>
+            <span end="6788" id="17002498-129968" start="6783">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242361">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="7334" id="17002498-130039" start="7332">ES</span>
+        </annotation>
+        <annotation id="17002498-388480">
+            <class id="http://purl.obolibrary.org/obo/CL_0000039" label="germ line cell"/>
+            <span end="7785" id="17002498-388481" start="7777">germline</span>
+        </annotation>
+        <annotation id="17002498-388482">
+            <class id="http://purl.obolibrary.org/obo/CL_0000039" label="germ line cell"/>
+            <span end="8278" id="17002498-388483" start="8270">germline</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246059">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="10220" id="17002498-10785" start="10215">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243423">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="10259" id="17002498-130298" start="10252">ES cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246041">
+            <class id="http://purl.obolibrary.org/obo/CL_0000023" label="oocyte"/>
+            <span end="10519" id="17002498-130334" start="10512">oocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245801">
+            <class id="http://purl.obolibrary.org/obo/CL_0000362" label="epidermal cell"/>
+            <span end="10805" id="17002498-130350" start="10791">epidermal cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245513">
+            <class id="http://purl.obolibrary.org/obo/CL_0000362" label="epidermal cell"/>
+            <span end="10875" id="17002498-130362" start="10867">cells of</span>
+            <span end="10889" id="17002498-130363" start="10880">epidermis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245209">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="11132" id="17002498-130383" start="11109">thymic epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245123">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="11138" id="17002498-130387" start="11134">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245937">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18025" id="17002498-10827" start="18020">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245645">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18150" id="17002498-10829" start="18145">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243881">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="20608" id="17002498-10839" start="20603">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245855">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="20820" id="17002498-10841" start="20815">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242323">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21069" id="17002498-10843" start="21064">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245455">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21479" id="17002498-10847" start="21474">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245827">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21617" id="17002498-10849" start="21612">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245135">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21664" id="17002498-10851" start="21659">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243191">
+            <class id="http://purl.obolibrary.org/obo/CL_0000646" label="basal cell"/>
+            <span end="21910" id="17002498-131102" start="21905">basal</span>
+            <span end="21920" id="17002498-131103" start="21915">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245181">
+            <class id="http://purl.obolibrary.org/obo/CL_0002561" label="outer root sheath cell"/>
+            <span end="21920" id="17002498-131107" start="21911">ORS cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244509">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21963" id="17002498-10855" start="21958">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243359">
+            <class id="http://purl.obolibrary.org/obo/CL_0000059" label="ameloblast"/>
+            <span end="25086" id="17002498-131336" start="25075">ameloblasts</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246053">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="25147" id="17002498-10859" start="25142">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246201">
+            <class id="http://craftcorpus.org/CRAFT_lymphoid_entity" label="lymphoid entity"/>
+            <span end="25835" id="17002498-131410" start="25827">lymphoid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243295">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="25855" id="17002498-131414" start="25846">thymocyte</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245145">
+            <class id="http://purl.obolibrary.org/obo/CL_0002365" label="medullary thymic epithelial cell"/>
+            <span end="25913" id="17002498-131416" start="25906">TECs of</span>
+            <span end="25932" id="17002498-131417" start="25925">medulla</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242529">
+            <class id="http://purl.obolibrary.org/obo/CL_0002364" label="cortical thymic epithelial cell"/>
+            <span end="25920" id="17002498-131419" start="25906">TECs of cortex</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243993">
+            <class id="http://purl.obolibrary.org/obo/CL_0002364" label="cortical thymic epithelial cell"/>
+            <span end="25984" id="17002498-131427" start="25976">Cortical</span>
+            <span end="26002" id="17002498-131428" start="25999">TEC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242315">
+            <class id="http://purl.obolibrary.org/obo/CL_0002365" label="medullary thymic epithelial cell"/>
+            <span end="26002" id="17002498-131432" start="25989">medullary TEC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243887">
+            <class id="http://craftcorpus.org/CRAFT_lymphoid_entity" label="lymphoid entity"/>
+            <span end="26145" id="17002498-131446" start="26137">lymphoid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242775">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="26201" id="17002498-131452" start="26198">TEC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246109">
+            <class id="http://craftcorpus.org/CRAFT_lymphoid_entity" label="lymphoid entity"/>
+            <span end="26468" id="17002498-131468" start="26460">lymphoid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243739">
+            <class id="http://purl.obolibrary.org/obo/CL_0000542" label="lymphocyte"/>
+            <span end="26584" id="17002498-131476" start="26573">lymphocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241831">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="26835" id="17002498-131494" start="26825">thymocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243585">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="27091" id="17002498-131510" start="27087">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244185">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="27146" id="17002498-131514" start="27133">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243055">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="27278" id="17002498-131526" start="27262">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243687">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="27379" id="17002498-131538" start="27363">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242647">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="27538" id="17002498-131554" start="27525">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245193">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="28487" id="17002498-131596" start="28477">thymocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243397">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="28573" id="17002498-10871" start="28568">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244211">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="28675" id="17002498-10875" start="28670">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244459">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="28757" id="17002498-10877" start="28752">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243213">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="28890" id="17002498-10879" start="28885">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242881">
+            <class id="http://purl.obolibrary.org/obo/CL_0000542" label="lymphocyte"/>
+            <span end="29088" id="17002498-131643" start="29077">lymphocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245239">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="29215" id="17002498-131647" start="29205">thymocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242461">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="29280" id="17002498-131653" start="29264">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244071">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="29499" id="17002498-10883" start="29494">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244851">
+            <class id="http://purl.obolibrary.org/obo/CL_0000646" label="basal cell"/>
+            <span end="29526" id="17002498-131675" start="29515">basal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244559">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="29548" id="17002498-131681" start="29544">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245385">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="29601" id="17002498-10887" start="29596">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244233">
+            <class id="http://purl.obolibrary.org/obo/CL_0000311" label="keratin accumulating cell"/>
+            <span end="30030" id="17002498-131713" start="30018">keratinizing</span>
+            <span end="30047" id="17002498-131714" start="30042">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244317">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="30047" id="17002498-131720" start="30031">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245279">
+            <class id="http://purl.obolibrary.org/obo/CL_0000775" label="neutrophil"/>
+            <span end="30134" id="17002498-131724" start="30123">neutrophils</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242917">
+            <class id="http://purl.obolibrary.org/obo/CL_0000235" label="macrophage"/>
+            <span end="30150" id="17002498-131726" start="30139">macrophages</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245729">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="30504" id="17002498-131750" start="30494">thymocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243481">
+            <class id="http://purl.obolibrary.org/obo/CL_0000311" label="keratin accumulating cell"/>
+            <span end="30583" id="17002498-131756" start="30571">keratinizing</span>
+            <span end="30600" id="17002498-131757" start="30595">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242889">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="30600" id="17002498-131761" start="30584">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244259">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="30748" id="17002498-131773" start="30732">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246267">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="30777" id="17002498-10895" start="30772">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244251">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="30949" id="17002498-10897" start="30944">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242629">
+            <class id="http://purl.obolibrary.org/obo/CL_0000646" label="basal cell"/>
+            <span end="30995" id="17002498-131799" start="30984">basal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245481">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="31296" id="17002498-10901" start="31291">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243075">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="31443" id="17002498-131837" start="31439">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243801">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="31517" id="17002498-131843" start="31504">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242441">
+            <class id="http://purl.obolibrary.org/obo/CL_0002365" label="medullary thymic epithelial cell"/>
+            <span end="31592" id="17002498-131847" start="31583">medullary</span>
+            <span end="31609" id="17002498-131848" start="31605">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242627">
+            <class id="http://purl.obolibrary.org/obo/CL_0002364" label="cortical thymic epithelial cell"/>
+            <span end="31609" id="17002498-131852" start="31596">cortical TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242829">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="31629" id="17002498-131854" start="31626">TEC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243187">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="31686" id="17002498-131856" start="31676">thymocytes</span>
+        </annotation>
+        <annotation id="17002498-388484">
+            <class id="http://purl.obolibrary.org/obo/CL_0000039" label="germ line cell"/>
+            <span end="31862" id="17002498-388485" start="31854">germline</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243781">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="33185" id="17002498-10903" start="33180">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244991">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="34783" id="17002498-132097" start="34774">embryonic</span>
+            <span end="34805" id="17002498-132098" start="34795">stem cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243057">
+            <class id="http://purl.obolibrary.org/obo/CL_0000221" label="ectodermal cell"/>
+            <span end="34794" id="17002498-132102" start="34784">ectodermal</span>
+            <span end="34805" id="17002498-132103" start="34800">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245349">
+            <class id="http://purl.obolibrary.org/obo/CL_0000221" label="ectodermal cell"/>
+            <span end="34977" id="17002498-132123" start="34961">ectodermal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245399">
+            <class id="http://purl.obolibrary.org/obo/CL_0002187" label="basal cell of epidermis"/>
+            <span end="37113" id="17002498-132302" start="37099">basal cells of</span>
+            <span end="37127" id="17002498-132303" start="37118">epidermis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243759">
+            <class id="http://purl.obolibrary.org/obo/CL_0002561" label="outer root sheath cell"/>
+            <span end="37113" id="17002498-132307" start="37105">cells of</span>
+            <span end="37157" id="17002498-132308" start="37136">ORS of hair follicles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243925">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="37275" id="17002498-10929" start="37270">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241801">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="37428" id="17002498-10931" start="37423">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242417">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="37455" id="17002498-10933" start="37451">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245079">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="37676" id="17002498-10935" start="37671">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241881">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="37841" id="17002498-10937" start="37836">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242183">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="38052" id="17002498-10939" start="38048">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244825">
+            <class id="http://purl.obolibrary.org/obo/CL_0000646" label="basal cell"/>
+            <span end="38106" id="17002498-132400" start="38095">basal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243777">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="40706" id="17002498-132563" start="40697">thymocyte</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243581">
+            <class id="http://purl.obolibrary.org/obo/CL_0002365" label="medullary thymic epithelial cell"/>
+            <span end="40874" id="17002498-132583" start="40860">medullary TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243215">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="40912" id="17002498-132587" start="40908">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246189">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="41017" id="17002498-132597" start="41013">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241673">
+            <class id="http://purl.obolibrary.org/obo/CL_0002365" label="medullary thymic epithelial cell"/>
+            <span end="41273" id="17002498-132621" start="41259">medullary TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245375">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="41338" id="17002498-132627" start="41334">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244429">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="41440" id="17002498-132631" start="41436">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243367">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="41864" id="17002498-10945" start="41859">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241783">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="41929" id="17002498-10947" start="41924">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245307">
+            <class id="http://purl.obolibrary.org/obo/CL_0002365" label="medullary thymic epithelial cell"/>
+            <span end="42102" id="17002498-132675" start="42093">medullary</span>
+            <span end="42120" id="17002498-132676" start="42116">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242537">
+            <class id="http://purl.obolibrary.org/obo/CL_0002364" label="cortical thymic epithelial cell"/>
+            <span end="42120" id="17002498-132680" start="42107">cortical TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245769">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="42134" id="17002498-132682" start="42125">thymocyte</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245127">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="42238" id="17002498-10949" start="42233">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245223">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="42306" id="17002498-132700" start="42290">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243675">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="42396" id="17002498-10953" start="42391">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241679">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="42412" id="17002498-132710" start="42409">TEC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243269">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="42512" id="17002498-132718" start="42496">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243113">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="42558" id="17002498-10957" start="42553">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241763">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="42618" id="17002498-132734" start="42602">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242123">
+            <class id="http://purl.obolibrary.org/obo/CL_0000775" label="neutrophil"/>
+            <span end="42700" id="17002498-132738" start="42689">neutrophils</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244249">
+            <class id="http://purl.obolibrary.org/obo/CL_0000235" label="macrophage"/>
+            <span end="42716" id="17002498-132740" start="42705">macrophages</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245861">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="42745" id="17002498-132744" start="42729">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243015">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="42785" id="17002498-132748" start="42775">thymocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243227">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="42872" id="17002498-132754" start="42868">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246129">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="42967" id="17002498-10963" start="42962">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241939">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="43001" id="17002498-132766" start="42988">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246231">
+            <class id="http://purl.obolibrary.org/obo/CL_0000646" label="basal cell"/>
+            <span end="43060" id="17002498-132774" start="43049">basal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242859">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="43088" id="17002498-132780" start="43085">TEC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241977">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="43154" id="17002498-132784" start="43141">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242209">
+            <class id="http://purl.obolibrary.org/obo/CL_0000775" label="neutrophil"/>
+            <span end="43313" id="17002498-132788" start="43302">neutrophils</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245693">
+            <class id="http://purl.obolibrary.org/obo/CL_0000235" label="macrophage"/>
+            <span end="43329" id="17002498-132790" start="43318">macrophages</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246033">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="43482" id="17002498-132798" start="43472">thymocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244547">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="43566" id="17002498-132808" start="43562">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243363">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="43623" id="17002498-132814" start="43608">epithelial cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246069">
+            <class id="http://purl.obolibrary.org/obo/CL_0002364" label="cortical thymic epithelial cell"/>
+            <span end="43684" id="17002498-132822" start="43676">cortical</span>
+            <span end="43702" id="17002498-132823" start="43698">TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246285">
+            <class id="http://purl.obolibrary.org/obo/CL_0002365" label="medullary thymic epithelial cell"/>
+            <span end="43702" id="17002498-132827" start="43688">medullary TECs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245715">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="43743" id="17002498-132829" start="43734">thymocyte</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243519">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="43818" id="17002498-132831" start="43808">thymocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243499">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="43943" id="17002498-132841" start="43940">TEC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245639">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="44037" id="17002498-132849" start="44028">thymocyte</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243303">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="44170" id="17002498-132863" start="44167">TEC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242031">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="44273" id="17002498-132871" start="44263">thymocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243381">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="44290" id="17002498-132873" start="44286">TECs</span>
+        </annotation>
+        <annotation id="17002498-388486">
+            <class id="http://purl.obolibrary.org/obo/CL_0000039" label="germ line cell"/>
+            <span end="44506" id="17002498-388487" start="44498">germline</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243621">
+            <class id="http://purl.obolibrary.org/obo/CL_0002321" label="embryonic cell (metazoa)"/>
+            <span end="45023" id="17002498-132907" start="45008">embryonic cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242569">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="45254" id="17002498-10971" start="45250">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244371">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="45929" id="17002498-133000" start="45921">ES cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243623">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="46021" id="17002498-133010" start="46013">ES cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244649">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="46032" id="17002498-10977" start="46027">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244341">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="46070" id="17002498-133018" start="46068">ES</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245593">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="46324" id="17002498-133030" start="46322">ES</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243721">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="46462" id="17002498-133044" start="46455">ES cell</span>
+        </annotation>
+        <annotation id="17002498-388488">
+            <class id="http://purl.obolibrary.org/obo/CL_0000039" label="germ line cell"/>
+            <span end="46829" id="17002498-388489" start="46821">germline</span>
+        </annotation>
+        <annotation id="17002498-388490">
+            <class id="http://purl.obolibrary.org/obo/CL_0000039" label="germ line cell"/>
+            <span end="47241" id="17002498-388491" start="47233">germline</span>
+        </annotation>
+        <annotation id="17002498-388492">
+            <class id="http://purl.obolibrary.org/obo/CL_0000039" label="germ line cell"/>
+            <span end="48467" id="17002498-388493" start="48459">germline</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244667">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="54341" id="17002498-11013" start="54336">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244443">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="55249" id="17002498-133630" start="55246">TEC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244951">
+            <class id="http://purl.obolibrary.org/obo/CL_0002293" label="epithelial cell of thymus"/>
+            <span end="55274" id="17002498-133634" start="55252">thymic epithelial cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246089">
+            <class id="http://purl.obolibrary.org/obo/CL_0002322" label="embryonic stem cell"/>
+            <span end="56253" id="17002498-133731" start="56251">ES</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244113">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="59575" id="17002498-11041" start="59570">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242261">
+            <class id="http://purl.obolibrary.org/obo/CL_0000893" label="thymocyte"/>
+            <span end="60663" id="17002498-134114" start="60653">thymocytes</span>
+        </annotation>
+    </document>
+</knowtator-project>

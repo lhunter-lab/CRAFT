@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16507151" text-file="16507151.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_205815">
+            <class id="http://craftcorpus.org/CRAFT_hormone" label="hormone"/>
+            <span end="2999" id="16507151-17313" start="2991">hormonal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206129">
+            <class id="http://purl.obolibrary.org/obo/GO_0034061" label="DNA polymerase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="7754" id="16507151-145742" start="7740">DNA Polymerase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_205881">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7879" id="16507151-145748" start="7870">annealing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_205961">
+            <class id="http://purl.obolibrary.org/obo/GO_0003824" label="catalytic activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="9031" id="16507151-17351" start="9025">Enzyme</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_205921">
+            <class id="http://purl.obolibrary.org/obo/GO_0004601" label="peroxidase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="9601" id="16507151-145806" start="9591">peroxidase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206275">
+            <class id="http://craftcorpus.org/CRAFT_polymerase" label="polymerase"/>
+            <span end="18002" id="16507151-17409" start="17992">polymerase</span>
+        </annotation>
+    </document>
+</knowtator-project>

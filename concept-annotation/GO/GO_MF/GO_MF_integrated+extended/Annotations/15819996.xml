@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15819996" text-file="15819996.txt">
+        <annotation id="15819996-392739">
+            <class id="http://purl.obolibrary.org/obo/GO_0005509" label="calcium ion binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2390" id="15819996-392740" start="2378">Ca2+-binding</span>
+        </annotation>
+        <annotation id="15819996-392544">
+            <class id="http://purl.obolibrary.org/obo/GO_0005543" label="phospholipid binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2440" id="15819996-392545" start="2420">phospholipid binding</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129509">
+            <class id="http://purl.obolibrary.org/obo/GO_0004601" label="peroxidase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="6182" id="15819996-272303" start="6172">peroxidase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130511">
+            <class id="http://craftcorpus.org/CRAFT_peptidase_or_protease_or_proteinase_inhibitor" label="peptidase/protease/proteinase inhibitor"/>
+            <span end="37676" id="15819996-274545" start="37658">protease inhibitor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129625">
+            <class id="http://purl.obolibrary.org/obo/GO_0004601" label="peroxidase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="38243" id="15819996-274573" start="38233">Peroxidase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130427">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38840" id="15819996-274609" start="38830">hybridized</span>
+        </annotation>
+    </document>
+</knowtator-project>

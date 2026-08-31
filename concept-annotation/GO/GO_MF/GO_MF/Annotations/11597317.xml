@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="11597317" text-file="11597317.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_22725">
+            <class id="http://purl.obolibrary.org/obo/GO_0000150" label="DNA strand exchange activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="1516" id="11597317-5167" start="1494">homologous recombinase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_23557">
+            <class id="http://purl.obolibrary.org/obo/GO_0004519" label="endonuclease activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="3577" id="11597317-5336" start="3565">endonuclease</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_22921">
+            <class id="http://purl.obolibrary.org/obo/GO_0000150" label="DNA strand exchange activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="7241" id="11597317-5559" start="7219">homologous recombinase</span>
+        </annotation>
+        <annotation id="11597317-392465">
+            <class id="http://purl.obolibrary.org/obo/GO_0003677" label="DNA binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7890" id="11597317-392466" start="7879">DNA binding</span>
+        </annotation>
+        <annotation id="11597317-392658">
+            <class id="http://purl.obolibrary.org/obo/GO_0003697" label="single-stranded DNA binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10342" id="11597317-392659" start="10332">binding to</span>
+            <span end="10363" id="11597317-392660" start="10347">regions of ssDNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_23235">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13311" id="11597317-5981" start="13302">annealing</span>
+        </annotation>
+    </document>
+</knowtator-project>

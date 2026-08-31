@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15630473" text-file="15630473.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_112105">
+            <class id="http://purl.obolibrary.org/obo/GO_0008083" label="growth factor activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="545" id="15630473-92961" start="532">growth factor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112607">
+            <class id="http://purl.obolibrary.org/obo/GO_0140110" label="transcription regulator activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="618" id="15630473-92967" start="598">transcription factor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114061">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="678" id="15630473-92973" start="646">mitogen-activated protein kinase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114889">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="684" id="15630473-92977" start="680">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113289">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="1016" id="15630473-93012" start="1012">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116459">
+            <class id="http://purl.obolibrary.org/obo/GO_0016015" label="morphogen activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="1308" id="15630473-93024" start="1298">morphogens</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116595">
+            <class id="http://purl.obolibrary.org/obo/GO_0016015" label="morphogen activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="2136" id="15630473-93091" start="2125">morphogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115981">
+            <class id="http://purl.obolibrary.org/obo/GO_0008083" label="growth factor activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="2180" id="15630473-93101" start="2167">growth factor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115611">
+            <class id="http://purl.obolibrary.org/obo/GO_0008083" label="growth factor activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="2223" id="15630473-93109" start="2209">growth factors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114695">
+            <class id="http://purl.obolibrary.org/obo/GO_0004888" label="transmembrane signaling receptor activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="2290" id="15630473-93117" start="2267">transmembrane receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113547">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="5591" id="15630473-93368" start="5559">mitogen-activated protein kinase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114019">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="5597" id="15630473-93372" start="5593">MAPK</span>
+        </annotation>
+        <annotation id="15630473-392721">
+            <class id="http://purl.obolibrary.org/obo/GO_0008013" label="beta-catenin binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6065" id="15630473-392722" start="6048">β-catenin binding</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115679">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9316" id="15630473-93651" start="9303">hybridization</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115787">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9620" id="15630473-93674" start="9607">hybridization</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113115">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9818" id="15630473-93682" start="9805">hybridization</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114307">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9937" id="15630473-93692" start="9927">hybridized</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114319">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10050" id="15630473-93700" start="10039">Hybridizing</span>
+        </annotation>
+        <annotation id="15630473-407002">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_not_being_or_becoming_annealed" label="attribute of not being or becoming annealed"/>
+            <span end="10118" id="15630473-407003" start="10104">nonhybridizing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112341">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11284" id="15630473-93790" start="11271">hybridization</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112615">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11693" id="15630473-93817" start="11680">hybridization</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115669">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="12593" id="15630473-93884" start="12589">MAPK</span>
+        </annotation>
+        <annotation id="15630473-392723">
+            <class id="http://purl.obolibrary.org/obo/GO_0003677" label="DNA binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20326" id="15630473-392724" start="20315">DNA binding</span>
+        </annotation>
+        <annotation id="15630473-392975">
+            <class id="http://purl.obolibrary.org/obo/GO_0070851" label="growth factor receptor binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21026" id="15630473-392976" start="20998">growth factor receptor-bound</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116855">
+            <class id="http://craftcorpus.org/CRAFT_nucleotide_exchange_factor" label="nucleotide exchange factor"/>
+            <span end="21099" id="15630473-94566" start="21073">nucleotide exchange factor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112393">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="21150" id="15630473-94570" start="21146">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116711">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="22187" id="15630473-94652" start="22183">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112971">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="23169" id="15630473-94728" start="23165">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113173">
+            <class id="http://purl.obolibrary.org/obo/GO_0008083" label="growth factor activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="25968" id="15630473-94932" start="25955">growth factor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112189">
+            <class id="http://purl.obolibrary.org/obo/GO_0005024" label="transforming growth factor beta receptor activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="26109" id="15630473-94940" start="26095">TGF-β receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116481">
+            <class id="http://purl.obolibrary.org/obo/GO_0004565" label="beta-galactosidase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="26721" id="15630473-94978" start="26706">β-galactosidase</span>
+        </annotation>
+        <annotation id="15630473-392725">
+            <class id="http://purl.obolibrary.org/obo/GO_0046332" label="SMAD binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27687" id="15630473-392726" start="27675">SMAD binding</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113919">
+            <class id="http://purl.obolibrary.org/obo/GO_0016015" label="morphogen activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="30824" id="15630473-95285" start="30815">morphogen</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116333">
+            <class id="http://purl.obolibrary.org/obo/GO_0016015" label="morphogen activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="31869" id="15630473-95375" start="31859">morphogens</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115559">
+            <class id="http://purl.obolibrary.org/obo/GO_0140110" label="transcription regulator activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="33001" id="15630473-95443" start="32981">transcription factor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112127">
+            <class id="http://purl.obolibrary.org/obo/GO_0140110" label="transcription regulator activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="33917" id="15630473-95515" start="33896">transcription factors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112069">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="35071" id="15630473-95592" start="35067">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116335">
+            <class id="http://purl.obolibrary.org/obo/GO_0140110" label="transcription regulator activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="38439" id="15630473-95833" start="38419">transcription factor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116999">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="40831" id="15630473-96034" start="40827">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112791">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="43140" id="15630473-96149" start="43136">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112365">
+            <class id="http://craftcorpus.org/CRAFT_glutathione_S_transferase" label="glutathione S-transferase"/>
+            <span end="44136" id="15630473-96199" start="44133">GST</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113723">
+            <class id="http://craftcorpus.org/CRAFT_peptidase_or_protease_or_proteinase_inhibitor" label="peptidase/protease/proteinase inhibitor"/>
+            <span end="45148" id="15630473-96287" start="45129">protease inhibitors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114809">
+            <class id="http://craftcorpus.org/CRAFT_peptidase_or_protease_or_proteinase_inhibitor" label="peptidase/protease/proteinase inhibitor"/>
+            <span end="45469" id="15630473-96311" start="45450">protease inhibitors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116709">
+            <class id="http://purl.obolibrary.org/obo/GO_0004565" label="beta-galactosidase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="46637" id="15630473-96351" start="46622">β-galactosidase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116913">
+            <class id="http://purl.obolibrary.org/obo/GO_0045289" label="luciferin monooxygenase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="46651" id="15630473-96353" start="46641">luciferase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112985">
+            <class id="http://purl.obolibrary.org/obo/GO_0045289" label="luciferin monooxygenase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="46808" id="15630473-96357" start="46798">luciferase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115881">
+            <class id="http://purl.obolibrary.org/obo/GO_0050248" label="Renilla-luciferin 2-monooxygenase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="46887" id="15630473-96361" start="46869">Runella luciferase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114417">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="47172" id="15630473-96371" start="47168">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112149">
+            <class id="http://purl.obolibrary.org/obo/GO_0015925" label="galactosidase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="47957" id="15630473-96417" start="47954">gal</span>
+        </annotation>
+        <annotation id="15630473-392727">
+            <class id="http://purl.obolibrary.org/obo/GO_0046332" label="SMAD binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48075" id="15630473-392728" start="48063">SMAD binding</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116739">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48373" id="15630473-96437" start="48360">hybridization</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116023">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48813" id="15630473-96463" start="48800">hybridization</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115605">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="49066" id="15630473-96486" start="49052">hybridizations</span>
+        </annotation>
+        <annotation id="15630473-392977">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_occurrence_before_annealing" label="attribute of occurrence before annealing"/>
+            <span end="49211" id="15630473-392978" start="49198">prehybridized</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115193">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="49253" id="15630473-96496" start="49243">hybridized</span>
+        </annotation>
+        <annotation id="15630473-387627">
+            <class id="http://craftcorpus.org/CRAFT_alkaline_phosphatase" label="alkaline phosphatase"/>
+            <span end="49355" id="15630473-387628" start="49353">AP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112391">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="50263" id="15630473-96530" start="50261">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116797">
+            <class id="http://craftcorpus.org/CRAFT_glyceraldehyde_3_phosphate_dehydrogenase" label="glyceraldehyde-3-phosphate dehydrogenase"/>
+            <span end="50590" id="15630473-96558" start="50585">GAPDH</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115135">
+            <class id="http://craftcorpus.org/CRAFT_glyceraldehyde_3_phosphate_dehydrogenase" label="glyceraldehyde-3-phosphate dehydrogenase"/>
+            <span end="50640" id="15630473-96562" start="50635">GAPDH</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115499">
+            <class id="http://purl.obolibrary.org/obo/GO_0016015" label="morphogen activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="51556" id="15630473-96596" start="51545">morphogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112123">
+            <class id="http://purl.obolibrary.org/obo/GO_0008083" label="growth factor activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="51676" id="15630473-96614" start="51663">growth factor</span>
+        </annotation>
+        <annotation id="15630473-392979">
+            <class id="http://purl.obolibrary.org/obo/GO_0070851" label="growth factor receptor binding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51714" id="15630473-392980" start="51686">growth factor receptor-bound</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114459">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="51845" id="15630473-96646" start="51841">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112087">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="51880" id="15630473-96650" start="51848">mitogen-activated protein kinase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116583">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="51934" id="15630473-96660" start="51930">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112589">
+            <class id="http://purl.obolibrary.org/obo/GO_0008083" label="growth factor activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="52222" id="15630473-96698" start="52209">growth factor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113531">
+            <class id="http://purl.obolibrary.org/obo/GO_0140666" label="annealing activity" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52559" id="15630473-96724" start="52545">hybridizations</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114649">
+            <class id="http://purl.obolibrary.org/obo/GO_0003712" label="transcription coregulator activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="59029" id="15630473-97280" start="59007">transcription cofactor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114847">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="59370" id="15630473-97321" start="59366">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115749">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="62024" id="15630473-97555" start="62020">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116601">
+            <class id="http://craftcorpus.org/CRAFT_MAP_kinase" label="MAP kinase"/>
+            <span end="62484" id="15630473-97603" start="62480">MAPK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115591">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="63822" id="15630473-97714" start="63820">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112945">
+            <class id="http://purl.obolibrary.org/obo/GO_0003964" label="RNA-directed DNA polymerase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="63886" id="15630473-97716" start="63865">reverse transcriptase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116549">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="63890" id="15630473-97718" start="63888">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113455">
+            <class id="http://craftcorpus.org/CRAFT_glyceraldehyde_3_phosphate_dehydrogenase" label="glyceraldehyde-3-phosphate dehydrogenase"/>
+            <span end="63941" id="15630473-97724" start="63936">GAPDH</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116043">
+            <class id="http://purl.obolibrary.org/obo/GO_0004565" label="beta-galactosidase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="64114" id="15630473-97744" start="64099">β-galactosidase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112635">
+            <class id="http://purl.obolibrary.org/obo/GO_0004565" label="beta-galactosidase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="64178" id="15630473-97750" start="64163">β-galactosidase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112357">
+            <class id="http://purl.obolibrary.org/obo/GO_0004565" label="beta-galactosidase activity" interpretation="FUNCTION-BEARING ENTITY"/>
+            <span end="64454" id="15630473-97780" start="64439">β-galactosidase</span>
+        </annotation>
+    </document>
+</knowtator-project>

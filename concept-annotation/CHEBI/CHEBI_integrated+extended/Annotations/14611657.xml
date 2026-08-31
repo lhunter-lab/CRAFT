@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="14611657" text-file="14611657.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_39269">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="3143" id="14611657-11316" start="3135">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37337">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="5498" id="14611657-11504" start="5495">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_36765">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17089" label="glycoprotein"/>
+            <span end="6321" id="14611657-11576" start="6309">glycoprotein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39283">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="9173" id="14611657-11813" start="9170">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40533">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="10131" id="14611657-11875" start="10124">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38589">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="10161" id="14611657-11879" start="10154">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37151">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36976" label="nucleotide" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="12003" id="14611657-12031" start="11993">nucleotide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37993">
+            <class id="http://craftcorpus.org/CRAFT_proline_molecular_entity_or_group" label="proline molecular entity or group"/>
+            <span end="13946" id="14611657-12162" start="13939">proline</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40605">
+            <class id="http://craftcorpus.org/CRAFT_biomacromolecule_unit_residue" label="biomacromolecule unit residue"/>
+            <span end="13954" id="14611657-12164" start="13947">residue</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37673">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="14255" id="14611657-12188" start="14252">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37075">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="14578" id="14611657-12214" start="14575">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38875">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="15203" id="14611657-12254" start="15200">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39617">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="17578" id="14611657-12432" start="17575">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37915">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="17646" id="14611657-12441" start="17643">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39449">
+            <class id="http://craftcorpus.org/CRAFT_oligonucleotide" label="oligonucleotide"/>
+            <span end="18006" id="14611657-12459" start="18001">oligo</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40327">
+            <class id="http://craftcorpus.org/CRAFT_thymine_or_thymidine_molecular_entity_or_group" label="thymine/thymidine molecular entity or group"/>
+            <span end="18009" id="14611657-12461" start="18007">dT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37983">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="20013" id="14611657-12587" start="20010">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40029">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="20549" id="14611657-12627" start="20546">RNA</span>
+        </annotation>
+        <annotation id="14611657-387739">
+            <class id="http://craftcorpus.org/CRAFT_poly_A_or_dA_molecular_entity_or_group" label="poly(A) or poly(dA) molecular entity or group"/>
+            <span end="22019" id="14611657-387740" start="22012">poly(A)</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37753">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="22430" id="14611657-12787" start="22423">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39341">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="22516" id="14611657-12795" start="22509">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39271">
+            <class id="http://craftcorpus.org/CRAFT_amino_acid_molecular_entity_or_group" label="amino acid molecular entity or group"/>
+            <span end="22589" id="14611657-12801" start="22578">amino acids</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39691">
+            <class id="http://craftcorpus.org/CRAFT_methionine_molecule_or_residue" label="methionine molecular entity or group"/>
+            <span end="22626" id="14611657-12803" start="22616">methionine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37409">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="23078" id="14611657-12843" start="23071">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38161">
+            <class id="http://craftcorpus.org/CRAFT_biomacromolecule_unit_residue" label="biomacromolecule unit residue"/>
+            <span end="23162" id="14611657-12851" start="23154">residues</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37999">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="24299" id="14611657-12934" start="24296">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37225">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="25366" id="14611657-13038" start="25363">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39679">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="26149" id="14611657-13084" start="26146">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38749">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="26328" id="14611657-13092" start="26325">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40185">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="31350" id="14611657-13457" start="31345">mRNAs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38301">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="33639" id="14611657-13637" start="33632">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39483">
+            <class id="http://craftcorpus.org/CRAFT_oligonucleotide" label="oligonucleotide"/>
+            <span end="33790" id="14611657-13647" start="33774">oligonucleotides</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38347">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="34650" id="14611657-13719" start="34646">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38117">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="35076" id="14611657-13754" start="35072">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38307">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="35426" id="14611657-13793" start="35419">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39551">
+            <class id="http://craftcorpus.org/CRAFT_methionine_molecule_or_residue" label="methionine molecular entity or group"/>
+            <span end="35618" id="14611657-13807" start="35608">methionine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38931">
+            <class id="http://craftcorpus.org/CRAFT_amino_acid_molecular_entity_or_group" label="amino acid molecular entity or group"/>
+            <span end="35644" id="14611657-13809" start="35633">amino acids</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37051">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="35808" id="14611657-13831" start="35801">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40493">
+            <class id="http://craftcorpus.org/CRAFT_biomacromolecule_unit_residue" label="biomacromolecule unit residue"/>
+            <span end="36126" id="14611657-13853" start="36118">residues</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39189">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="36311" id="14611657-13865" start="36308">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38405">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="36670" id="14611657-13899" start="36667">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38807">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="38274" id="14611657-14064" start="38266">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39849">
+            <class id="http://craftcorpus.org/CRAFT_oligonucleotide" label="oligonucleotide"/>
+            <span end="39076" id="14611657-14120" start="39071">oligo</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37987">
+            <class id="http://craftcorpus.org/CRAFT_thymine_or_thymidine_molecular_entity_or_group" label="thymine/thymidine molecular entity or group"/>
+            <span end="39079" id="14611657-14122" start="39077">dT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37159">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="39463" id="14611657-14146" start="39460">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_36873">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_2511" label="agarose"/>
+            <span end="39891" id="14611657-14164" start="39884">agarose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38999">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="39989" id="14611657-14170" start="39986">dye</span>
+        </annotation>
+        <annotation id="14611657-407011">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51086" label="chemical role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="40010" id="14611657-407012" start="40001">chemistry</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37375">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="40257" id="14611657-14182" start="40254">DNA</span>
+        </annotation>
+        <annotation id="14611657-387207">
+            <class id="http://craftcorpus.org/CRAFT_poly_A_or_dA_molecular_entity_or_group" label="poly(A) or poly(dA) molecular entity or group"/>
+            <span end="40372" id="14611657-387208" start="40365">poly(A)</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_36837">
+            <class id="http://craftcorpus.org/CRAFT_nucleobase_molecular_entity_or_group" label="nucleobase molecular entity or group"/>
+            <span end="40766" id="14611657-14216" start="40762">base</span>
+        </annotation>
+        <annotation id="14611657-387211">
+            <class id="http://craftcorpus.org/CRAFT_poly_A_or_dA_molecular_entity_or_group" label="poly(A) or poly(dA) molecular entity or group"/>
+            <span end="41858" id="14611657-387212" start="41853">polyA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39411">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36976" label="nucleotide" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="42043" id="14611657-14302" start="42033">nucleotide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40107">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="44161" id="14611657-14420" start="44154">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39731">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="45239" id="14611657-14478" start="45236">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_36973">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="45398" id="14611657-14484" start="45395">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39941">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="46280" id="14611657-14522" start="46277">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37575">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="46326" id="14611657-14526" start="46323">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39611">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_25107" label="magnesium atom" interpretation="ATOM OR ELEMENTAL MOLECULAR ENTITY"/>
+            <span end="46449" id="14611657-14530" start="46440">magnesium</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39797">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_39442" label="fluorescent probe" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="46498" id="14611657-14534" start="46481">fluorescent probe</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37859">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="46718" id="14611657-14544" start="46715">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40725">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="47022" id="14611657-14556" start="47019">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38615">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="47088" id="14611657-14560" start="47085">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39421">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="47593" id="14611657-14590" start="47590">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39337">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_42098" label="digoxigenin"/>
+            <span end="47680" id="14611657-14594" start="47669">digoxigenin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37907">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16397" label="formamide"/>
+            <span end="48065" id="14611657-14620" start="48056">formamide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40461">
+            <class id="http://craftcorpus.org/CRAFT_polyatomic_entity_or_group" label="polyatomic entity or group"/>
+            <span end="49572" id="14611657-14694" start="49563">Molecular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39635">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="50361" id="14611657-14736" start="50358">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_39049">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="51399" id="14611657-14810" start="51396">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_36987">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="51536" id="14611657-14822" start="51533">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37325">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="52403" id="14611657-14874" start="52400">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38997">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_42098" label="digoxigenin"/>
+            <span end="52442" id="14611657-14878" start="52431">digoxigenin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38565">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="53088" id="14611657-14931" start="53080">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40419">
+            <class id="http://craftcorpus.org/CRAFT_biomacromolecule_unit_residue" label="biomacromolecule unit residue"/>
+            <span end="53327" id="14611657-14947" start="53319">residues</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38617">
+            <class id="http://craftcorpus.org/CRAFT_methionine_molecule_or_residue" label="methionine molecular entity or group"/>
+            <span end="54180" id="14611657-15009" start="54170">methionine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38823">
+            <class id="http://craftcorpus.org/CRAFT_methionine_molecule_or_residue" label="methionine molecular entity or group"/>
+            <span end="54213" id="14611657-15013" start="54212">M</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_37911">
+            <class id="http://craftcorpus.org/CRAFT_methionine_molecule_or_residue" label="methionine molecular entity or group"/>
+            <span end="54262" id="14611657-15017" start="54252">methionine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_38485">
+            <class id="http://craftcorpus.org/CRAFT_adenine_or_adenosine_or_deoxyadenosine_molecular_entity_or_group" label="adenine/adenosine/deoxyadenosine molecular entity or group"/>
+            <span end="54437" id="14611657-15023" start="54436">A</span>
+        </annotation>
+        <annotation id="14611657-387213">
+            <class id="http://craftcorpus.org/CRAFT_poly_A_or_dA_molecular_entity_or_group" label="poly(A) or poly(dA) molecular entity or group"/>
+            <span end="54468" id="14611657-387214" start="54461">poly(A)</span>
+        </annotation>
+    </document>
+</knowtator-project>

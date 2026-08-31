@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="17020410" text-file="17020410.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_248549">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="204" id="17020410-319997" start="199">human</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246401">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="619" id="17020410-320007" start="614">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247487">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_1" label="root" interpretation="ORGANISM OR TAXON"/>
+            <span end="909" id="17020410-320021" start="899">organismal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247783">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_40674" label="Mammalia" interpretation="ORGANISM OR TAXON"/>
+            <span end="1396" id="17020410-320045" start="1389">mammals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248419">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_40674" label="Mammalia" interpretation="ORGANISM OR TAXON"/>
+            <span end="1622" id="17020410-320055" start="1615">mammals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247915">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_1" label="root" interpretation="ORGANISM OR TAXON"/>
+            <span end="1836" id="17020410-320063" start="1827">organisms</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247951">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="1904" id="17020410-320065" start="1899">human</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247515">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_1" label="root" interpretation="ORGANISM OR TAXON"/>
+            <span end="2302" id="17020410-320093" start="2291">individuals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247809">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="2808" id="17020410-320121" start="2803">human</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247449">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_4896" label="Schizosaccharomyces pombe" interpretation="ORGANISM OR TAXON"/>
+            <span end="4621" id="17020410-320210" start="4590">Schizosaccharomyces pombe yeast</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248047">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="5205" id="17020410-320234" start="5200">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247099">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="5249" id="17020410-320238" start="5244">human</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247433">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="6042" id="17020410-320296" start="6035">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248053">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="6271" id="17020410-320314" start="6267">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247679">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="6923" id="17020410-320354" start="6917">humans</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247961">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="7271" id="17020410-320376" start="7264">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248275">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="7311" id="17020410-320378" start="7306">Mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246641">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="7432" id="17020410-320390" start="7427">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248689">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="7716" id="17020410-320424" start="7711">human</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246429">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9031" label="Gallus gallus" interpretation="ORGANISM OR TAXON"/>
+            <span end="7855" id="17020410-320436" start="7848">Chicken</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246385">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="9234" id="17020410-320578" start="9230">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248013">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="9282" id="17020410-320584" start="9277">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248183">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_1" label="root" interpretation="ORGANISM OR TAXON"/>
+            <span end="9774" id="17020410-320632" start="9764">organismal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248219">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="9895" id="17020410-320642" start="9888">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248539">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="9927" id="17020410-320644" start="9923">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246515">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="10018" id="17020410-320654" start="10014">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247205">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="10167" id="17020410-320666" start="10160">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248243">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="10700" id="17020410-320706" start="10693">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246829">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="10808" id="17020410-320712" start="10804">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248355">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="10878" id="17020410-320718" start="10874">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246441">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="11048" id="17020410-320732" start="11044">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246677">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="11430" id="17020410-320758" start="11426">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247047">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="11483" id="17020410-320762" start="11476">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248145">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="11671" id="17020410-320772" start="11667">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247191">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="11800" id="17020410-320782" start="11796">Mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247811">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="11900" id="17020410-320790" start="11896">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246665">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="12022" id="17020410-320802" start="12018">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248217">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="12278" id="17020410-320814" start="12274">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246541">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="12372" id="17020410-320826" start="12368">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247119">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="12495" id="17020410-320836" start="12491">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246639">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="12620" id="17020410-320844" start="12616">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247615">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="12784" id="17020410-320854" start="12780">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248201">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="13265" id="17020410-320881" start="13261">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246997">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="13446" id="17020410-320887" start="13442">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246371">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="13522" id="17020410-320893" start="13518">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247519">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="13584" id="17020410-320897" start="13580">Mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247197">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="13699" id="17020410-320905" start="13694">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247909">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="13840" id="17020410-320909" start="13836">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248075">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="13879" id="17020410-320913" start="13872">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246835">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="14052" id="17020410-320925" start="14048">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246529">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="14152" id="17020410-320931" start="14148">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247279">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="14195" id="17020410-320935" start="14188">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247805">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="14266" id="17020410-320939" start="14262">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248031">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="14479" id="17020410-320947" start="14475">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248237">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="14589" id="17020410-320953" start="14585">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246531">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="14709" id="17020410-320959" start="14705">Mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247415">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="14810" id="17020410-320967" start="14806">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248495">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="14888" id="17020410-320973" start="14883">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248457">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="14950" id="17020410-320979" start="14946">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246505">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="15024" id="17020410-320989" start="15020">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248109">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="15048" id="17020410-320995" start="15044">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247883">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="15299" id="17020410-321011" start="15294">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247881">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="15453" id="17020410-321029" start="15449">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248691">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="15672" id="17020410-321037" start="15668">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247201">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="15728" id="17020410-321047" start="15724">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248575">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="15820" id="17020410-321057" start="15816">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246675">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="15960" id="17020410-321063" start="15956">Mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248585">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="16165" id="17020410-321079" start="16161">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247965">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="16216" id="17020410-321081" start="16209">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247329">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="17443" id="17020410-321149" start="17436">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246431">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_1" label="root" interpretation="ORGANISM OR TAXON"/>
+            <span end="17686" id="17020410-321157" start="17678">organism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247977">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="18234" id="17020410-321203" start="18229">human</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246793">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="18362" id="17020410-321213" start="18357">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246443">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="19194" id="17020410-321259" start="19188">animal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248565">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="22602" id="17020410-321501" start="22597">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247821">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="22686" id="17020410-321507" start="22681">human</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248387">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="23486" id="17020410-321555" start="23479">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247731">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="23600" id="17020410-321565" start="23593">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247037">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="23974" id="17020410-321591" start="23970">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248395">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_40674" label="Mammalia" interpretation="ORGANISM OR TAXON"/>
+            <span end="24424" id="17020410-321607" start="24415">mammalian</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247213">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="24819" id="17020410-321621" start="24814">human</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246503">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_1" label="root" interpretation="ORGANISM OR TAXON"/>
+            <span end="25231" id="17020410-321635" start="25222">organisms</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247541">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="25248" id="17020410-321637" start="25242">humans</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246921">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="25309" id="17020410-321639" start="25303">animal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246931">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_1" label="root" interpretation="ORGANISM OR TAXON"/>
+            <span end="26127" id="17020410-321683" start="26119">organism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247979">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="26477" id="17020410-321725" start="26473">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246681">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="26618" id="17020410-321745" start="26614">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248167">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="27094" id="17020410-321785" start="27090">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247815">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_4896" label="Schizosaccharomyces pombe" interpretation="ORGANISM OR TAXON"/>
+            <span end="29609" id="17020410-321966" start="29601">S. pombe</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246653">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="29866" id="17020410-321984" start="29860">humans</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246947">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="29887" id="17020410-321986" start="29882">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248577">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="30696" id="17020410-322022" start="30692">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246709">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_4896" label="Schizosaccharomyces pombe" interpretation="ORGANISM OR TAXON"/>
+            <span end="31027" id="17020410-322044" start="31019">S. pombe</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248513">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_40674" label="Mammalia" interpretation="ORGANISM OR TAXON"/>
+            <span end="32216" id="17020410-322092" start="32209">Mammals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248511">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="32227" id="17020410-322094" start="32221">humans</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246649">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="32727" id="17020410-322110" start="32720">animals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247673">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_9606" label="Homo sapiens" interpretation="ORGANISM OR TAXON"/>
+            <span end="32779" id="17020410-322114" start="32774">human</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247741">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_40674" label="Mammalia" interpretation="ORGANISM OR TAXON"/>
+            <span end="33370" id="17020410-322142" start="33363">mammals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247141">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="33808" id="17020410-322158" start="33804">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248591">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="33861" id="17020410-322166" start="33857">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248319">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="34103" id="17020410-322182" start="34099">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248173">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="34113" id="17020410-322184" start="34108">mouse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248045">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="34360" id="17020410-322198" start="34354">Animal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247093">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="34517" id="17020410-322206" start="34513">Mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_248315">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="34634" id="17020410-322208" start="34630">mice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247479">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_1" label="root" interpretation="ORGANISM OR TAXON"/>
+            <span end="34725" id="17020410-322212" start="34716">organisms</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247443">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_33208" label="Metazoa" interpretation="ORGANISM OR TAXON"/>
+            <span end="34740" id="17020410-322214" start="34734">animal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_247651">
+            <class id="http://purl.obolibrary.org/obo/NCBITaxon_10088" label="Mus" interpretation="ORGANISM OR TAXON"/>
+            <span end="35708" id="17020410-322253" start="35703">mouse</span>
+        </annotation>
+    </document>
+</knowtator-project>

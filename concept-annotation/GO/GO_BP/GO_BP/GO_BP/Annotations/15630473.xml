@@ -1,0 +1,903 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15630473" text-file="15630473.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_114919">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="77" id="15630473-92927" start="50">Hair Follicle Morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113099">
+            <class id="http://purl.obolibrary.org/obo/GO_0048513" label="animal organ development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="123" id="15630473-92929" start="110">organogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115809">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="277" id="15630473-92937" start="264">morphogenesis</span>
+        </annotation>
+        <annotation id="15630473-393304">
+            <class id="http://purl.obolibrary.org/obo/GO_0098609" label="cell-cell adhesion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="813" id="15630473-393305" start="791">intercellular adhesion</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112681">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1468" id="15630473-93036" start="1455">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115405">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1896" id="15630473-93069" start="1883">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114965">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2421" id="15630473-93133" start="2406">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113433">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2581" id="15630473-93139" start="2568">morphogenetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113989">
+            <class id="http://purl.obolibrary.org/obo/GO_0008283" label="cell population proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3055" id="15630473-93153" start="3042">proliferation</span>
+            <span end="3093" id="15630473-93154" start="3091">of</span>
+            <span end="3108" id="15630473-93155" start="3103">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112077">
+            <class id="http://purl.obolibrary.org/obo/GO_0001709" label="cell fate determination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3288" id="15630473-93169" start="3272">determination of</span>
+            <span end="3308" id="15630473-93170" start="3298">cell fates</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113141">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4895" id="15630473-93302" start="4868">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112471">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5041" id="15630473-93312" start="5028">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116375">
+            <class id="http://purl.obolibrary.org/obo/GO_0030041" label="actin filament polymerization" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5246" id="15630473-93336" start="5226">actin polymerization</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115401">
+            <class id="http://purl.obolibrary.org/obo/GO_0001837" label="epithelial to mesenchymal transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6298" id="15630473-93422" start="6261">epithelial to mesenchymal transitions</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113153">
+            <class id="http://purl.obolibrary.org/obo/GO_0001837" label="epithelial to mesenchymal transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6304" id="15630473-93426" start="6300">EMTs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114801">
+            <class id="http://purl.obolibrary.org/obo/GO_0001837" label="epithelial to mesenchymal transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6450" id="15630473-93445" start="6447">EMT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113045">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6671" id="15630473-93455" start="6661">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116643">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6881" id="15630473-93471" start="6872">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114795">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7487" id="15630473-93505" start="7474">Wnt signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115115">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7582" id="15630473-93517" start="7567">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116557">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7854" id="15630473-93545" start="7839">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115121">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7935" id="15630473-93557" start="7920">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113221">
+            <class id="http://purl.obolibrary.org/obo/GO_0001708" label="cell fate specification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8101" id="15630473-93569" start="8078">cell fate specification</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116531">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8230" id="15630473-93581" start="8221">Expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114119">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8290" id="15630473-93587" start="8277">Morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112323">
+            <class id="http://purl.obolibrary.org/obo/GO_0001837" label="epithelial to mesenchymal transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8362" id="15630473-93591" start="8358">EMTs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115341">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8828" id="15630473-93615" start="8818">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112933">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8942" id="15630473-93625" start="8915">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114737">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9104" id="15630473-93635" start="9094">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114735">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9142" id="15630473-93639" start="9129">embryogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116485">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9257" id="15630473-93647" start="9248">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112183">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9475" id="15630473-93668" start="9462">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116947">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9538" id="15630473-93672" start="9528">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114027">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9877" id="15630473-93688" start="9867">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112089">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10014" id="15630473-93698" start="10001">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113297">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10219" id="15630473-93712" start="10209">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112937">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10576" id="15630473-93738" start="10566">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116037">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10864" id="15630473-93758" start="10837">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116241">
+            <class id="http://purl.obolibrary.org/obo/GO_0045165" label="cell fate commitment" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11165" id="15630473-93772" start="11152">commitment of</span>
+            <span end="11183" id="15630473-93773" start="11178">cells</span>
+            <span end="11212" id="15630473-93774" start="11210">to</span>
+            <span end="11229" id="15630473-93775" start="11220">cell fate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114723">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11559" id="15630473-93809" start="11550">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114509">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11735" id="15630473-93821" start="11725">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116089">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12090" id="15630473-93848" start="12077">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115053">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12393" id="15630473-93872" start="12383">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112693">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12579" id="15630473-93882" start="12565">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116199">
+            <class id="http://purl.obolibrary.org/obo/GO_0010629" label="negative regulation of gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12988" id="15630473-93914" start="12970">down-regulation in</span>
+            <span end="13010" id="15630473-93915" start="13000">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113603">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13059" id="15630473-93919" start="13049">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113491">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13193" id="15630473-93937" start="13183">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115817">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13321" id="15630473-93943" start="13311">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115027">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13554" id="15630473-93969" start="13545">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112813">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13699" id="15630473-93981" start="13694">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114933">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13835" id="15630473-93993" start="13820">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113865">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13967" id="15630473-93997" start="13962">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116755">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14312" id="15630473-94021" start="14302">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113935">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14621" id="15630473-94045" start="14611">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112091">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14734" id="15630473-94055" start="14724">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114317">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14942" id="15630473-94071" start="14932">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113515">
+            <class id="http://purl.obolibrary.org/obo/GO_0007369" label="gastrulation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15227" id="15630473-94088" start="15215">gastrulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116561">
+            <class id="http://purl.obolibrary.org/obo/GO_0043588" label="skin development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15310" id="15630473-94094" start="15294">skin development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112459">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15361" id="15630473-94096" start="15351">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112359">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15693" id="15630473-94118" start="15684">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116987">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16257" id="15630473-94154" start="16248">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112119">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16764" id="15630473-94200" start="16754">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116795">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17518" id="15630473-94256" start="17509">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112413">
+            <class id="http://purl.obolibrary.org/obo/GO_0034333" label="adherens junction assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17989" id="15630473-94282" start="17977">AJ formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116275">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18042" id="15630473-94288" start="18027">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113039">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18164" id="15630473-94292" start="18154">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114625">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18198" id="15630473-94298" start="18188">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113311">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18260" id="15630473-94302" start="18249">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114297">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18285" id="15630473-94306" start="18275">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115583">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18602" id="15630473-94352" start="18592">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114791">
+            <class id="http://purl.obolibrary.org/obo/GO_0006412" label="translation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18825" id="15630473-94364" start="18814">translation</span>
+        </annotation>
+        <annotation id="15630473-392319">
+            <class id="http://purl.obolibrary.org/obo/GO_0098609" label="cell-cell adhesion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19238" id="15630473-392320" start="19216">intercellular adhesion</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112983">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19704" id="15630473-94428" start="19693">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114733">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19729" id="15630473-94432" start="19719">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112959">
+            <class id="http://purl.obolibrary.org/obo/GO_0051170" label="import into nucleus" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20193" id="15630473-94462" start="20180">translocation</span>
+            <span end="20209" id="15630473-94463" start="20207">to</span>
+            <span end="20221" id="15630473-94464" start="20214">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114387">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20632" id="15630473-94514" start="20626">mating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114025">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21302" id="15630473-94582" start="21292">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113569">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22286" id="15630473-94662" start="22275">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116803">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22311" id="15630473-94666" start="22301">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116021">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22403" id="15630473-94670" start="22392">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115627">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23249" id="15630473-94732" start="23239">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116919">
+            <class id="http://purl.obolibrary.org/obo/GO_0010468" label="regulation of gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23520" id="15630473-94744" start="23507">Regulation of</span>
+            <span end="23542" id="15630473-94745" start="23527">Gene Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114641">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23660" id="15630473-94761" start="23650">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115267">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23836" id="15630473-94777" start="23826">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112901">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24002" id="15630473-94789" start="23993">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116765">
+            <class id="http://purl.obolibrary.org/obo/GO_0046903" label="secretion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24046" id="15630473-94795" start="24039">secrete</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115995">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24116" id="15630473-94799" start="24113">Wnt</span>
+            <span end="24136" id="15630473-94800" start="24127">signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114517">
+            <class id="http://purl.obolibrary.org/obo/GO_0007179" label="transforming growth factor beta receptor signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24136" id="15630473-94804" start="24121">TGF-β signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113725">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24396" id="15630473-94825" start="24386">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112515">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24566" id="15630473-94841" start="24556">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115119">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24801" id="15630473-94851" start="24791">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115887">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25322" id="15630473-94893" start="25312">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116491">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26222" id="15630473-94942" start="26207">phosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113579">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26273" id="15630473-94950" start="26263">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114815">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26342" id="15630473-94954" start="26332">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113241">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26373" id="15630473-94956" start="26359">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112053">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26498" id="15630473-94962" start="26488">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116779">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26904" id="15630473-95001" start="26892">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114663">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28210" id="15630473-95091" start="28183">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113785">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28374" id="15630473-95107" start="28365">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112703">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28749" id="15630473-95137" start="28740">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115615">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28888" id="15630473-95151" start="28878">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112197">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29064" id="15630473-95165" start="29054">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113147">
+            <class id="http://purl.obolibrary.org/obo/GO_0007179" label="transforming growth factor beta receptor signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29561" id="15630473-95211" start="29546">TGF-β signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112715">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29821" id="15630473-95229" start="29806">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114037">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30256" id="15630473-95249" start="30243">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113525">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30781" id="15630473-95283" start="30771">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113395">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30867" id="15630473-95287" start="30857">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115251">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31575" id="15630473-95352" start="31572">Wnt</span>
+            <span end="31600" id="15630473-95353" start="31583">signaling pathway</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116937">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31671" id="15630473-95359" start="31644">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112239">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31807" id="15630473-95371" start="31792">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115855">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32013" id="15630473-95383" start="32000">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112843">
+            <class id="http://purl.obolibrary.org/obo/GO_0009887" label="animal organ morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32300" id="15630473-95409" start="32281">organ morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112557">
+            <class id="http://purl.obolibrary.org/obo/GO_0008283" label="cell population proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32574" id="15630473-95413" start="32566">cellular</span>
+            <span end="32600" id="15630473-95414" start="32587">proliferation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114725">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32574" id="15630473-95416" start="32566">cellular</span>
+            <span end="32621" id="15630473-95417" start="32606">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113363">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32798" id="15630473-95429" start="32771">Hair Follicle Morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114033">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32840" id="15630473-95433" start="32827">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116745">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33219" id="15630473-95463" start="33206">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116891">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33465" id="15630473-95485" start="33452">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115927">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33669" id="15630473-95497" start="33662">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113427">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34254" id="15630473-95531" start="34244">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116829">
+            <class id="http://purl.obolibrary.org/obo/GO_0044851" label="hair cycle phase" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34364" id="15630473-95539" start="34355">phases of</span>
+            <span end="34385" id="15630473-95540" start="34375">hair cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116221">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34511" id="15630473-95548" start="34502">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114345">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34806" id="15630473-95576" start="34796">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113671">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35062" id="15630473-95590" start="35052">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113179">
+            <class id="http://purl.obolibrary.org/obo/GO_0007179" label="transforming growth factor beta receptor signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35884" id="15630473-95632" start="35869">TGF-β signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115191">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35954" id="15630473-95638" start="35939">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115625">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36090" id="15630473-95650" start="36080">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115575">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36238" id="15630473-95660" start="36228">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112679">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36538" id="15630473-95680" start="36529">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115943">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36573" id="15630473-95684" start="36546">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113939">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36640" id="15630473-95686" start="36630">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116617">
+            <class id="http://purl.obolibrary.org/obo/GO_0001837" label="epithelial to mesenchymal transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36759" id="15630473-95700" start="36722">epithelial to mesenchymal transitions</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115929">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36823" id="15630473-95706" start="36813">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114235">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36885" id="15630473-95710" start="36858">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115917">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37756" id="15630473-95777" start="37746">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114453">
+            <class id="http://purl.obolibrary.org/obo/GO_0034333" label="adherens junction assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37840" id="15630473-95785" start="37828">AJ formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116179">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38208" id="15630473-95813" start="38181">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116889">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38236" id="15630473-95819" start="38221">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114381">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38702" id="15630473-95855" start="38687">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112385">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38906" id="15630473-95867" start="38897">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114309">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38956" id="15630473-95869" start="38941">physiologically</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112835">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39030" id="15630473-95881" start="39020">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115811">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39224" id="15630473-95895" start="39221">Wnt</span>
+            <span end="39241" id="15630473-95896" start="39232">signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114583">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39292" id="15630473-95904" start="39279">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114943">
+            <class id="http://purl.obolibrary.org/obo/GO_0010629" label="negative regulation of gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39434" id="15630473-95910" start="39416">down-regulation in</span>
+            <span end="39461" id="15630473-95911" start="39446">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115783">
+            <class id="http://purl.obolibrary.org/obo/GO_0010629" label="negative regulation of gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39592" id="15630473-95927" start="39574">down-regulation in</span>
+            <span end="39614" id="15630473-95928" start="39604">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113261">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39799" id="15630473-95940" start="39772">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115441">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40072" id="15630473-95970" start="40059">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112913">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40749" id="15630473-96026" start="40738">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114463">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40770" id="15630473-96030" start="40759">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116489">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41115" id="15630473-96061" start="41105">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112519">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41464" id="15630473-96081" start="41454">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115221">
+            <class id="http://purl.obolibrary.org/obo/GO_0002009" label="morphogenesis of an epithelium" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42384" id="15630473-96113" start="42360">epithelial morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113271">
+            <class id="http://purl.obolibrary.org/obo/GO_0019835" label="cytolysis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="44962" id="15630473-96265" start="44956">lysing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114475">
+            <class id="http://purl.obolibrary.org/obo/GO_0019835" label="cytolysis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="44977" id="15630473-96269" start="44972">lysis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116217">
+            <class id="http://purl.obolibrary.org/obo/GO_0019835" label="cytolysis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46001" id="15630473-96323" start="45996">lysis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116915">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46480" id="15630473-96347" start="46467">transfections</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115111">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46944" id="15630473-96367" start="46932">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117015">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47164" id="15630473-96369" start="47149">phosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112425">
+            <class id="http://purl.obolibrary.org/obo/GO_0001837" label="epithelial to mesenchymal transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51569" id="15630473-96600" start="51566">EMT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114147">
+            <class id="http://purl.obolibrary.org/obo/GO_0001837" label="epithelial to mesenchymal transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51608" id="15630473-96604" start="51572">epithelial to mesenchymal transition</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114115">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51929" id="15630473-96658" start="51915">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114287">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51994" id="15630473-96664" start="51980">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114831">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52345" id="15630473-96714" start="52336">Expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116075">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52394" id="15630473-96718" start="52381">Morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112605">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52744" id="15630473-96746" start="52734">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116977">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52804" id="15630473-96752" start="52791">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115413">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52871" id="15630473-96756" start="52861">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113121">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52983" id="15630473-96768" start="52972">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114285">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="53005" id="15630473-96770" start="52995">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116683">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="53442" id="15630473-96808" start="53432">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116083">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="53587" id="15630473-96830" start="53577">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116215">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="53743" id="15630473-96846" start="53734">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115737">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="53796" id="15630473-96850" start="53787">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112841">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="54962" id="15630473-96947" start="54952">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114497">
+            <class id="http://purl.obolibrary.org/obo/GO_0007631" label="feeding behavior" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="55360" id="15630473-96979" start="55349">food intake</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114667">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="55834" id="15630473-97015" start="55824">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113673">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="56267" id="15630473-97040" start="56258">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114665">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="56818" id="15630473-97076" start="56808">Expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115699">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="56982" id="15630473-97098" start="56973">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116573">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="57192" id="15630473-97116" start="57183">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115655">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="57238" id="15630473-97122" start="57229">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115239">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="57305" id="15630473-97136" start="57296">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116563">
+            <class id="http://purl.obolibrary.org/obo/GO_0070268" label="cornification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="57315" id="15630473-97138" start="57306">cornified</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112665">
+            <class id="http://purl.obolibrary.org/obo/GO_0070268" label="cornification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="57409" id="15630473-97160" start="57400">cornified</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116479">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="57436" id="15630473-97166" start="57427">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114999">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="58793" id="15630473-97252" start="58784">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115025">
+            <class id="http://purl.obolibrary.org/obo/GO_0007265" label="Ras protein signal transduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="59365" id="15630473-97318" start="59362">Ras</span>
+            <span end="59388" id="15630473-97319" start="59371">signaling cascade</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112927">
+            <class id="http://purl.obolibrary.org/obo/GO_0000165" label="MAPK cascade" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="59388" id="15630473-97323" start="59366">MAPK signaling cascade</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116693">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="59409" id="15630473-97327" start="59399">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115525">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="59923" id="15630473-97373" start="59913">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114979">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="60206" id="15630473-97389" start="60197">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116673">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="60361" id="15630473-97403" start="60350">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115087">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="60493" id="15630473-97415" start="60481">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112761">
+            <class id="http://purl.obolibrary.org/obo/GO_0034333" label="adherens junction assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="60599" id="15630473-97427" start="60587">AJ formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114863">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="60742" id="15630473-97437" start="60731">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116227">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="60857" id="15630473-97449" start="60847">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112707">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="60925" id="15630473-97455" start="60914">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114199">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="61898" id="15630473-97543" start="61888">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113411">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="62086" id="15630473-97563" start="62075">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115961">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="62123" id="15630473-97567" start="62113">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115801">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="62155" id="15630473-97573" start="62145">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112057">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="62626" id="15630473-97617" start="62616">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113655">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="62655" id="15630473-97619" start="62652">Wnt</span>
+            <span end="62676" id="15630473-97620" start="62667">signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116857">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="63136" id="15630473-97660" start="63125">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115059">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="63204" id="15630473-97668" start="63194">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113823">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="63546" id="15630473-97696" start="63536">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113941">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="63645" id="15630473-97704" start="63635">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112193">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="63980" id="15630473-97732" start="63970">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115389">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="64155" id="15630473-97748" start="64144">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115867">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="64724" id="15630473-97786" start="64714">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113439">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="64859" id="15630473-97804" start="64849">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114397">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="65098" id="15630473-97826" start="65088">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114205">
+            <class id="http://purl.obolibrary.org/obo/GO_0007179" label="transforming growth factor beta receptor signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="65335" id="15630473-97862" start="65320">TGF-β signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115837">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="65527" id="15630473-97886" start="65524">Wnt</span>
+            <span end="65557" id="15630473-97887" start="65539">signaling pathways</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114559">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="65665" id="15630473-97905" start="65656">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115329">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="66133" id="15630473-97923" start="66130">Wnt</span>
+            <span end="66154" id="15630473-97924" start="66145">signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113213">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="66556" id="15630473-97956" start="66529">hair follicle morphogenesis</span>
+        </annotation>
+    </document>
+</knowtator-project>

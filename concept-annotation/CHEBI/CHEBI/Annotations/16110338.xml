@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16110338" text-file="16110338.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_165491">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_52206" label="biochemical role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="1227" id="16110338-51305" start="1216">biochemical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165855">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17234" label="glucose"/>
+            <span end="1291" id="16110338-293160" start="1284">glucose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164551">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24384" label="glycogens"/>
+            <span end="1300" id="16110338-293165" start="1292">glycogen</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164515">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26130" label="biological pigment" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="3682" id="16110338-293305" start="3672">pigmentary</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167721">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26710" label="sodium chloride"/>
+            <span end="9172" id="16110338-293615" start="9168">salt</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167505">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51231" label="DAPI"/>
+            <span end="10118" id="16110338-293683" start="10092">6-diamidino-2-phenylindole</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165347">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51231" label="DAPI"/>
+            <span end="10124" id="16110338-293685" start="10120">DAPI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166635">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51231" label="DAPI"/>
+            <span end="10323" id="16110338-293701" start="10319">DAPI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164695">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17234" label="glucose"/>
+            <span end="14289" id="16110338-293991" start="14282">glucose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165097">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35366" label="fatty acid"/>
+            <span end="14328" id="16110338-294001" start="14318">fatty acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166277">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16991" label="deoxyribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="14353" id="16110338-51377" start="14350">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166033">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24432" label="biological role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="14455" id="16110338-294027" start="14448">biology</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166513">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_60311" label="thyroid hormone" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="15890" id="16110338-294125" start="15875">Thyroid Hormone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166141">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_60311" label="thyroid hormone" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="16106" id="16110338-294149" start="16091">thyroid hormone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164961">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_22695" label="base" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="19410" id="16110338-294387" start="19405">basic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167191">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_25017" label="leucine" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="19418" id="16110338-51397" start="19411">leucine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167475">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16991" label="deoxyribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="20185" id="16110338-51403" start="20182">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167609">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="22063" id="16110338-294605" start="22055">electron</span>
+        </annotation>
+        <annotation id="16110338-387699">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_87647" label="tolonium chloride"/>
+            <span end="22252" id="16110338-387700" start="22238">toluidine blue</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166885">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="23240" id="16110338-294693" start="23232">electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167523">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="23502" id="16110338-294714" start="23494">electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165241">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="25778" id="16110338-294860" start="25770">electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166887">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_7754" label="oligonucleotide"/>
+            <span end="30868" id="16110338-51485" start="30853">oligonucleotide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167265">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="33117" id="16110338-295362" start="33108">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166241">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24384" label="glycogens"/>
+            <span end="33859" id="16110338-295417" start="33851">glycogen</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165169">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17234" label="glucose"/>
+            <span end="33867" id="16110338-295419" start="33860">glucose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165529">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17158" label="methylglyoxal"/>
+            <span end="33947" id="16110338-295427" start="33934">methylglyoxal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166035">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17234" label="glucose"/>
+            <span end="34013" id="16110338-295433" start="34006">glucose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167421">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17234" label="glucose"/>
+            <span end="34254" id="16110338-295459" start="34247">glucose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166845">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="34297" id="16110338-51507" start="34290">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164357">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24384" label="glycogens"/>
+            <span end="34834" id="16110338-295505" start="34826">glycogen</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165875">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17234" label="glucose"/>
+            <span end="34846" id="16110338-295510" start="34839">glucose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166287">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24384" label="glycogens"/>
+            <span end="35063" id="16110338-295528" start="35055">glycogen</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166005">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="43094" id="16110338-51555" start="43091">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_168059">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33893" label="reagent" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="43185" id="16110338-295950" start="43178">reagent</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166179">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="43250" id="16110338-51557" start="43247">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165461">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="43342" id="16110338-51559" start="43339">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166279">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="43496" id="16110338-51561" start="43493">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167035">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37987" label="Cy3 dye"/>
+            <span end="43637" id="16110338-295974" start="43634">Cy3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165947">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37989" label="Cy5 dye"/>
+            <span end="43644" id="16110338-295976" start="43641">Cy5</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165391">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="43756" id="16110338-51563" start="43753">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164025">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37987" label="Cy3 dye"/>
+            <span end="43945" id="16110338-295992" start="43942">Cy3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167893">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37989" label="Cy5 dye"/>
+            <span end="43972" id="16110338-295996" start="43969">Cy5</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_168045">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37958" label="dye" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="44009" id="16110338-295998" start="44005">dyes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166633">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37987" label="Cy3 dye"/>
+            <span end="44948" id="16110338-296020" start="44945">Cy3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164963">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37989" label="Cy5 dye"/>
+            <span end="44955" id="16110338-296022" start="44952">Cy5</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167571">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37987" label="Cy3 dye"/>
+            <span end="45456" id="16110338-296024" start="45453">Cy3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167815">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37989" label="Cy5 dye"/>
+            <span end="45460" id="16110338-296026" start="45457">Cy5</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164143">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="46149" id="16110338-51565" start="46146">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164347">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="46232" id="16110338-51567" start="46229">RNA</span>
+        </annotation>
+        <annotation id="16110338-387397">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_131189" label="glass"/>
+            <span end="47869" id="16110338-387398" start="47864">glass</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167253">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_42098" label="digoxigenin"/>
+            <span end="47912" id="16110338-296118" start="47901">digoxygenin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167207">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15713" label="UTP"/>
+            <span end="47923" id="16110338-51571" start="47920">UTP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167949">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_7586" label="nitro blue tetrazolium(2+)"/>
+            <span end="47974" id="16110338-296124" start="47971">NBT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166123">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75508" label="5-bromo-4-chloro-3-indolyl phosphate"/>
+            <span end="47979" id="16110338-296126" start="47975">BCIP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166547">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_42098" label="digoxigenin"/>
+            <span end="48236" id="16110338-296136" start="48225">digoxygenin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165327">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_52302" label="Cy2 dye"/>
+            <span end="48989" id="16110338-296170" start="48986">Cy2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166647">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37987" label="Cy3 dye"/>
+            <span end="48997" id="16110338-296172" start="48994">Cy3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164651">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51231" label="DAPI"/>
+            <span end="49151" id="16110338-296184" start="49144">4′-DAPI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164113">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="49309" id="16110338-296188" start="49301">Electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166003">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75958" label="solution"/>
+            <span end="49720" id="16110338-296208" start="49712">solution</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167375">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_31962" label="paraformaldehyde macromolecule" interpretation="MACROMOLECULE OR POLYMER"/>
+            <span end="49743" id="16110338-296210" start="49727">paraformaldehyde</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164701">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_64276" label="glutaraldehyde"/>
+            <span end="49761" id="16110338-296212" start="49747">glutaraldehyde</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167687">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16223" label="dimethylarsinate"/>
+            <span end="49775" id="16110338-296214" start="49765">cacodylate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164583">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_48765" label="dimethylarsinic acid"/>
+            <span end="49804" id="16110338-296218" start="49790">cacodylic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166541">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3312" label="calcium dichloride"/>
+            <span end="49827" id="16110338-296220" start="49811">calcium chloride</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164917">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_73702" label="wax"/>
+            <span end="49960" id="16110338-296230" start="49957">wax</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164209">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26130" label="biological pigment" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="50152" id="16110338-296240" start="50145">pigment</span>
+        </annotation>
+        <annotation id="16110338-387318">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_88215" label="osmium tetroxide"/>
+            <span end="50386" id="16110338-387319" start="50370">osmium tetroxide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164135">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_30059" label="potassium hexacyanoferrate(4-)"/>
+            <span end="50417" id="16110338-296248" start="50395">potassium ferrocyanide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167075">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_132951" label="maleate"/>
+            <span end="50481" id="16110338-51583" start="50474">maleate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165871">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_132951" label="maleate"/>
+            <span end="50576" id="16110338-51585" start="50569">maleate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165185">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_132951" label="maleate"/>
+            <span end="50650" id="16110338-51587" start="50643">maleate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166061">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16236" label="ethanol"/>
+            <span end="50700" id="16110338-296264" start="50693">ethanol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166899">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16236" label="ethanol"/>
+            <span end="50734" id="16110338-296266" start="50727">ethanol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167981">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16236" label="ethanol"/>
+            <span end="50779" id="16110338-296268" start="50772">ethanol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165075">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_38685" label="1,2-epoxypropane"/>
+            <span end="50857" id="16110338-296272" start="50842">propylene oxide</span>
+        </annotation>
+        <annotation id="16110338-387701">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_87647" label="tolonium chloride"/>
+            <span end="51034" id="16110338-387702" start="51020">toluidine blue</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167649">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_38909" label="trisodium borate"/>
+            <span end="51054" id="16110338-296274" start="51041">sodium borate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167715">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="51315" id="16110338-296292" start="51307">electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164345">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_25016" label="lead atom" interpretation="ATOM OR ELEMENTAL MOLECULAR ENTITY"/>
+            <span end="51438" id="16110338-51591" start="51434">lead</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167231">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_133748" label="citrate anion"/>
+            <span end="51446" id="16110338-51593" start="51439">citrate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165575">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="51587" id="16110338-296302" start="51579">electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165467">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="51633" id="16110338-296304" start="51625">electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167669">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="52496" id="16110338-296350" start="52488">electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166901">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37987" label="Cy3 dye"/>
+            <span end="56595" id="16110338-296543" start="56592">Cy3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165163">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37989" label="Cy5 dye"/>
+            <span end="56599" id="16110338-296545" start="56596">Cy5</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167217">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37987" label="Cy3 dye"/>
+            <span end="56702" id="16110338-296547" start="56699">Cy3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_163949">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_37989" label="Cy5 dye"/>
+            <span end="56706" id="16110338-296549" start="56703">Cy5</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164411">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="56838" id="16110338-51619" start="56835">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166761">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="59500" id="16110338-296635" start="59492">electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167307">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33893" label="reagent" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="59589" id="16110338-296637" start="59581">reagents</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164003">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51231" label="DAPI"/>
+            <span end="59920" id="16110338-296645" start="59916">DAPI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_166561">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51231" label="DAPI"/>
+            <span end="59949" id="16110338-296647" start="59923">6-diamidino-2-phenylindole</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167755">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26130" label="biological pigment" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="63341" id="16110338-296833" start="63334">pigment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_165073">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51231" label="DAPI"/>
+            <span end="64179" id="16110338-296901" start="64175">DAPI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167499">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51231" label="DAPI"/>
+            <span end="64388" id="16110338-296922" start="64384">DAPI</span>
+        </annotation>
+        <annotation id="16110338-387703">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_87647" label="tolonium chloride"/>
+            <span end="66347" id="16110338-387704" start="66333">Toluidine blue</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_164943">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_10545" label="electron"/>
+            <span end="67553" id="16110338-297167" start="67545">Electron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_167227">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33893" label="reagent" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="69239" id="16110338-297255" start="69231">reagents</span>
+        </annotation>
+    </document>
+</knowtator-project>

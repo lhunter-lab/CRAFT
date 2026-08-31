@@ -1,0 +1,779 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="17002498" text-file="17002498.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_245685">
+            <class id="http://purl.obolibrary.org/obo/GO_0048538" label="thymus development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="70" id="17002498-129376" start="56">Development of</span>
+            <span end="86" id="17002498-129377" start="80">Thymus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246213">
+            <class id="http://purl.obolibrary.org/obo/GO_0043588" label="skin development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="75" id="17002498-129379" start="56">Development of Skin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241675">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="197" id="17002498-129391" start="176">Wnt signaling pathway</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242109">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="465" id="17002498-129409" start="460">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245235">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2165" id="17002498-129563" start="2160">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243963">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2209" id="17002498-129571" start="2202">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244287">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2343" id="17002498-129589" start="2333">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245939">
+            <class id="http://purl.obolibrary.org/obo/GO_0048513" label="animal organ development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2618" id="17002498-129613" start="2604">development of</span>
+            <span end="2630" id="17002498-129614" start="2624">organs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246149">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2808" id="17002498-129626" start="2787">Wnt signaling pathway</span>
+        </annotation>
+        <annotation id="17002498-392373">
+            <class id="http://purl.obolibrary.org/obo/GO_0098609" label="cell-cell adhesion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3520" id="17002498-392374" start="3498">intercellular adhesion</span>
+        </annotation>
+        <annotation id="17002498-392350">
+            <class id="http://purl.obolibrary.org/obo/GO_0007010" label="cytoskeleton organization" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3547" id="17002498-392351" start="3522">cytoskeletal organization</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245579">
+            <class id="http://purl.obolibrary.org/obo/GO_0051726" label="regulation of cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3596" id="17002498-129705" start="3583">regulation of</span>
+            <span end="3611" id="17002498-129706" start="3601">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241873">
+            <class id="http://purl.obolibrary.org/obo/GO_0042981" label="regulation of apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3596" id="17002498-129708" start="3583">regulation of</span>
+            <span end="3625" id="17002498-129709" start="3616">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241843">
+            <class id="http://purl.obolibrary.org/obo/GO_0098722" label="asymmetric stem cell division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3671" id="17002498-129713" start="3642">asymmetric stem cell division</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243185">
+            <class id="http://purl.obolibrary.org/obo/GO_0030111" label="regulation of Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4732" id="17002498-129781" start="4705">regulation of Wnt signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241845">
+            <class id="http://purl.obolibrary.org/obo/GO_0009880" label="embryonic pattern specification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4763" id="17002498-129785" start="4736">embryonic pattern formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245753">
+            <class id="http://purl.obolibrary.org/obo/GO_0009887" label="animal organ morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4784" id="17002498-129787" start="4768">morphogenesis of</span>
+            <span end="4796" id="17002498-129788" start="4790">organs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245345">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5344" id="17002498-129828" start="5331">embryogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243369">
+            <class id="http://purl.obolibrary.org/obo/GO_0007369" label="gastrulation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5403" id="17002498-129830" start="5391">gastrulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242243">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5589" id="17002498-129842" start="5585">mate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245387">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5881" id="17002498-129868" start="5876">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242791">
+            <class id="http://purl.obolibrary.org/obo/GO_0048513" label="animal organ development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6142" id="17002498-129899" start="6128">development of</span>
+            <span end="6157" id="17002498-129900" start="6151">organs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246331">
+            <class id="http://purl.obolibrary.org/obo/GO_0001709" label="cell fate determination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6372" id="17002498-129922" start="6344">determinations of cell fates</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242141">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6405" id="17002498-129928" start="6384">embryonic development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243443">
+            <class id="http://purl.obolibrary.org/obo/GO_0043588" label="skin development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6634" id="17002498-129946" start="6615">development of skin</span>
+        </annotation>
+        <annotation id="17002498-392218">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_recombineering" label="occurrence/attribute of DNA recombineering"/>
+            <span end="6985" id="17002498-392219" start="6971">recombineering</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245133">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="7112" id="17002498-10773" start="7097">transcriptional</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244987">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="7237" id="17002498-130033" start="7224">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244775">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting" label="occurrence/attribute/effect of translational frameshifting"/>
+            <span end="7942" id="17002498-130107" start="7934">shift in</span>
+            <span end="7967" id="17002498-130108" start="7954">reading frame</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242103">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="9060" id="17002498-10781" start="9047">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245157">
+            <class id="http://purl.obolibrary.org/obo/GO_0006412" label="translation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9076" id="17002498-130192" start="9065">translation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242053">
+            <class id="http://purl.obolibrary.org/obo/GO_0001967" label="suckling behavior" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9394" id="17002498-130218" start="9389">nurse</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245891">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9943" id="17002498-130266" start="9939">born</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245869">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10231" id="17002498-130294" start="10221">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242283">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10840" id="17002498-130356" start="10830">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245993">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10859" id="17002498-130358" start="10848">mitotically</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243149">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11084" id="17002498-130377" start="11074">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242963">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11395" id="17002498-130416" start="11391">born</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244201">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11627" id="17002498-130426" start="11622">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245251">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11719" id="17002498-130434" start="11715">born</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242607">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11849" id="17002498-130442" start="11845">born</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242687">
+            <class id="http://purl.obolibrary.org/obo/GO_0001967" label="suckling behavior" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11913" id="17002498-130448" start="11907">nursed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243541">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11998" id="17002498-130454" start="11993">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243079">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_biological_pigmentation" label="occurrence/attribute/effect of biological pigmentation"/>
+            <span end="12733" id="17002498-130484" start="12721">pigmentation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241779">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13008" id="17002498-130500" start="13003">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242955">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14644" id="17002498-130582" start="14640">born</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245529">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15736" id="17002498-130643" start="15726">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243673">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="15840" id="17002498-130655" start="15827">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246085">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="16599" id="17002498-130749" start="16586">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244553">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="16735" id="17002498-130761" start="16733">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244845">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="16873" id="17002498-130771" start="16871">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244619">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17001" id="17002498-130789" start="16992">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243147">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="17306" id="17002498-130815" start="17293">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243907">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18169" id="17002498-130866" start="18156">differentiate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244651">
+            <class id="http://purl.obolibrary.org/obo/GO_0042640" label="anagen" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18283" id="17002498-130872" start="18268">anagen phase of</span>
+            <span end="18298" id="17002498-130873" start="18288">hair cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244165">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19394" id="17002498-130923" start="19381">Wnt signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244119">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19434" id="17002498-130925" start="19424">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244737">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19636" id="17002498-130943" start="19626">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242655">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19696" id="17002498-130945" start="19686">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242473">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19874" id="17002498-130962" start="19864">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242967">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="20036" id="17002498-130978" start="20021">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241753">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20096" id="17002498-130980" start="20086">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245703">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20136" id="17002498-130984" start="20127">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245219">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20789" id="17002498-131029" start="20779">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246241">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21611" id="17002498-131080" start="21601">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245721">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22024" id="17002498-131117" start="21997">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242385">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22069" id="17002498-131121" start="22059">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243237">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22121" id="17002498-131127" start="22112">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241917">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22206" id="17002498-131137" start="22179">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246269">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22295" id="17002498-131145" start="22285">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241729">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22703" id="17002498-131165" start="22693">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242709">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22914" id="17002498-131179" start="22887">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245069">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23052" id="17002498-131189" start="23042">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244413">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="23878" id="17002498-131237" start="23863">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241677">
+            <class id="http://purl.obolibrary.org/obo/GO_0048598" label="embryonic morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23951" id="17002498-131243" start="23942">embryonic</span>
+            <span end="23979" id="17002498-131244" start="23966">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242309">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23979" id="17002498-131250" start="23952">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243771">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24066" id="17002498-131254" start="24039">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244623">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24926" id="17002498-131314" start="24916">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241985">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25010" id="17002498-131326" start="25000">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245143">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25054" id="17002498-131332" start="25044">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245821">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25141" id="17002498-131344" start="25131">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245725">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25366" id="17002498-131366" start="25356">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243119">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25633" id="17002498-131390" start="25606">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243159">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25794" id="17002498-131408" start="25784">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242295">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26055" id="17002498-131434" start="26045">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244777">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26852" id="17002498-131496" start="26841">mitotically</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244973">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27046" id="17002498-131508" start="27036">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244463">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27321" id="17002498-131532" start="27311">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243663">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="27524" id="17002498-131552" start="27510">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243705">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29439" id="17002498-131667" start="29429">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242983">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29474" id="17002498-131671" start="29464">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242359">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30017" id="17002498-131711" start="30007">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245015">
+            <class id="http://purl.obolibrary.org/obo/GO_0031424" label="keratinization" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30030" id="17002498-131716" start="30018">keratinizing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244387">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="30294" id="17002498-131732" start="30279">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241821">
+            <class id="http://purl.obolibrary.org/obo/GO_0031424" label="keratinization" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30583" id="17002498-131754" start="30571">keratinizing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245221">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30692" id="17002498-131767" start="30682">expression</span>
+        </annotation>
+        <annotation id="17002498-392668">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_being_undifferentiated" label="attribute of being undifferentiated"/>
+            <span end="30983" id="17002498-392669" start="30967">undifferentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246111">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31057" id="17002498-131805" start="31047">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242779">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31159" id="17002498-131813" start="31149">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243893">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31237" id="17002498-131821" start="31227">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245567">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31438" id="17002498-131835" start="31428">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243975">
+            <class id="http://purl.obolibrary.org/obo/GO_0030216" label="keratinocyte differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31517" id="17002498-131841" start="31485">differentiation to keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244701">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31791" id="17002498-131866" start="31770">Wnt signaling pathway</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242007">
+            <class id="http://purl.obolibrary.org/obo/GO_0007369" label="gastrulation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32597" id="17002498-131910" start="32585">gastrulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243977">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33198" id="17002498-131960" start="33191">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243007">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33440" id="17002498-131988" start="33413">Hair Follicle Morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243011">
+            <class id="http://purl.obolibrary.org/obo/GO_0001942" label="hair follicle development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33485" id="17002498-131992" start="33460">hair follicle development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244351">
+            <class id="http://purl.obolibrary.org/obo/GO_0016055" label="Wnt signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33790" id="17002498-132006" start="33769">Wnt signaling pathway</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244907">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33934" id="17002498-132018" start="33924">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242745">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34026" id="17002498-132026" start="34016">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243691">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="34127" id="17002498-132038" start="34112">down-regulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243869">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34194" id="17002498-132046" start="34184">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244239">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34517" id="17002498-132076" start="34504">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242445">
+            <class id="http://purl.obolibrary.org/obo/GO_0001715" label="ectodermal cell fate specification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34773" id="17002498-132090" start="34757">specification of</span>
+            <span end="34794" id="17002498-132091" start="34784">ectodermal</span>
+            <span end="34805" id="17002498-132092" start="34800">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244739">
+            <class id="http://purl.obolibrary.org/obo/GO_0048866" label="stem cell fate specification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34773" id="17002498-132094" start="34757">specification of</span>
+            <span end="34805" id="17002498-132095" start="34795">stem cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243921">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="34874" id="17002498-132111" start="34859">down-regulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244609">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34944" id="17002498-132117" start="34934">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242891">
+            <class id="http://purl.obolibrary.org/obo/GO_0060789" label="hair follicle placode formation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35011" id="17002498-132129" start="34989">hair placode formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245635">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35323" id="17002498-132153" start="35313">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242341">
+            <class id="http://purl.obolibrary.org/obo/GO_0048598" label="embryonic morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35866" id="17002498-132219" start="35857">embryonic</span>
+            <span end="35894" id="17002498-132220" start="35881">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241751">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35894" id="17002498-132226" start="35867">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244061">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36136" id="17002498-132236" start="36126">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245031">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36238" id="17002498-132238" start="36228">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241879">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="36467" id="17002498-10925" start="36452">transcriptional</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244475">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36604" id="17002498-132264" start="36591">embryogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243927">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36651" id="17002498-132266" start="36641">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243603">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="36757" id="17002498-132274" start="36744">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246093">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36972" id="17002498-132294" start="36946">hair follicle morphgenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244983">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="37066" id="17002498-132298" start="37052">overexpression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246207">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37207" id="17002498-132318" start="37197">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244037">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37269" id="17002498-132324" start="37259">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243439">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="37300" id="17002498-132328" start="37287">differentiate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242367">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37791" id="17002498-132368" start="37781">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245337">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="37835" id="17002498-132374" start="37821">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245211">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37988" id="17002498-132390" start="37978">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244505">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38031" id="17002498-132394" start="38021">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244447">
+            <class id="http://purl.obolibrary.org/obo/GO_0001709" label="cell fate determination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38071" id="17002498-132398" start="38048">cell fate determination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244755">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="38250" id="17002498-132406" start="38235">down-regulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246279">
+            <class id="http://purl.obolibrary.org/obo/GO_0031069" label="hair follicle morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38501" id="17002498-132420" start="38474">hair follicle morphogenesis</span>
+        </annotation>
+        <annotation id="17002498-393217">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_misexpression" label="occurrence/attribute of misexpression"/>
+            <span end="38770" id="17002498-393218" start="38757">misexpressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245485">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38827" id="17002498-132442" start="38822">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242351">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38897" id="17002498-132446" start="38888">embryonic</span>
+            <span end="38915" id="17002498-132447" start="38904">development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245293">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38961" id="17002498-132455" start="38951">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245933">
+            <class id="http://purl.obolibrary.org/obo/GO_0001967" label="suckling behavior" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39870" id="17002498-132519" start="39864">nursed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242981">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40106" id="17002498-132533" start="40096">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242523">
+            <class id="http://purl.obolibrary.org/obo/GO_0048538" label="thymus development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40489" id="17002498-132555" start="40469">Thymus Organogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244403">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40817" id="17002498-132577" start="40807">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243063">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_gene_coexpression" label="occurrence/attribute of gene coexpression"/>
+            <span end="41034" id="17002498-132599" start="41025">coexpress</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242247">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41231" id="17002498-132617" start="41221">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244097">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41308" id="17002498-132625" start="41298">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244103">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_gene_coexpression" label="occurrence/attribute of gene coexpression"/>
+            <span end="41423" id="17002498-132629" start="41412">coexpressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243871">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41940" id="17002498-132661" start="41930">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244243">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="42089" id="17002498-132671" start="42074">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243167">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42457" id="17002498-132714" start="42447">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243045">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="42982" id="17002498-132764" start="42968">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246227">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="43016" id="17002498-132768" start="43007">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245407">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="43131" id="17002498-132782" start="43116">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243061">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="43545" id="17002498-132804" start="43535">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241813">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="43665" id="17002498-132818" start="43650">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242317">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="43887" id="17002498-132837" start="43877">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244013">
+            <class id="http://purl.obolibrary.org/obo/GO_0048538" label="thymus development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="44002" id="17002498-132847" start="43984">thymic development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243951">
+            <class id="http://purl.obolibrary.org/obo/GO_0048538" label="thymus development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="44250" id="17002498-132869" start="44232">thymus development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245173">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45007" id="17002498-132903" start="44997">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243775">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45053" id="17002498-132911" start="45040">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242173">
+            <class id="http://purl.obolibrary.org/obo/GO_0048538" label="thymus development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45150" id="17002498-132923" start="45131">thymus organogensis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243155">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45204" id="17002498-132927" start="45194">expression</span>
+        </annotation>
+        <annotation id="17002498-392220">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_recombineering" label="occurrence/attribute of DNA recombineering"/>
+            <span end="45540" id="17002498-392221" start="45526">recombineering</span>
+        </annotation>
+        <annotation id="17002498-392968">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46722" id="17002498-392969" start="46698">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242319">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="46859" id="17002498-133074" start="46846">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243239">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_interbreeding" label="occurrence/attribute of interbreeding"/>
+            <span end="47026" id="17002498-10983" start="47017">interbred</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244307">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47172" id="17002498-133104" start="47165">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_246223">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="50022" id="17002498-133281" start="50009">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242497">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="50063" id="17002498-133287" start="50050">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243767">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="50121" id="17002498-133291" start="50119">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245033">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="50341" id="17002498-133303" start="50331">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242587">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="50407" id="17002498-133313" start="50405">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244331">
+            <class id="http://purl.obolibrary.org/obo/GO_0001171" label="reverse transcription" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="50627" id="17002498-133327" start="50608">reverse-transcribed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242789">
+            <class id="http://purl.obolibrary.org/obo/GO_0009293" label="transduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52259" id="17002498-133423" start="52247">Transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244199">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_biological_pigmentation" label="occurrence/attribute/effect of biological pigmentation"/>
+            <span end="53790" id="17002498-133518" start="53777">pigmentations</span>
+        </annotation>
+        <annotation id="17002498-392222">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_recombineering" label="occurrence/attribute of DNA recombineering"/>
+            <span end="55587" id="17002498-392223" start="55573">recombineering</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_244771">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="55694" id="17002498-133674" start="55684">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242381">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="55769" id="17002498-133680" start="55767">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_241867">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="55919" id="17002498-133684" start="55906">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245875">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination" label="occurrence/attribute of DNA combination"/>
+            <span end="57158" id="17002498-133819" start="57148">recombined</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245381">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="58255" id="17002498-133899" start="58245">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243763">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="58512" id="17002498-133939" start="58502">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242617">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="58573" id="17002498-133947" start="58571">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_245763">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="59113" id="17002498-134007" start="59100">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_242925">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="59704" id="17002498-134036" start="59694">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_243315">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="60926" id="17002498-134125" start="60919">Matings</span>
+        </annotation>
+    </document>
+</knowtator-project>

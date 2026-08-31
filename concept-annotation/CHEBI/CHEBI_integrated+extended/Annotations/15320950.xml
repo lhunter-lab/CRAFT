@@ -1,0 +1,889 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15320950" text-file="15320950.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_86599">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="22" id="15320950-3278" start="15">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86909">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="499" id="15320950-3280" start="491">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85843">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="566" id="15320950-3282" start="562">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84761">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="657" id="15320950-71739" start="655">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85269">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="1339" id="15320950-71800" start="1337">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85725">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="1461" id="15320950-71816" start="1449">free radical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85013">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="1544" id="15320950-3300" start="1540">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85877">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="1576" id="15320950-3302" start="1569">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86185">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="1605" id="15320950-71836" start="1603">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_87039">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="1654" id="15320950-3304" start="1646">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84757">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="1671" id="15320950-71842" start="1669">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84969">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="1712" id="15320950-71846" start="1710">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85313">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29101" label="sodium(1+)"/>
+            <span end="1741" id="15320950-71854" start="1738">Na+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86919">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="1749" id="15320950-71858" start="1747">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85505">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="1902" id="15320950-3306" start="1895">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84899">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="2231" id="15320950-3308" start="2224">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84409">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16382" label="iodide"/>
+            <span end="2514" id="15320950-71892" start="2508">iodide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86435">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16382" label="iodide"/>
+            <span end="2579" id="15320950-71898" start="2573">iodide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86565">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_49706" label="perchlorate"/>
+            <span end="2678" id="15320950-71912" start="2667">perchlorate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86161">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_22563" label="anion"/>
+            <span end="2821" id="15320950-71918" start="2816">anion</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84531">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17996" label="chloride"/>
+            <span end="2854" id="15320950-71924" start="2851">Cl-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85567">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16382" label="iodide"/>
+            <span end="2858" id="15320950-71926" start="2856">I-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85207">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="2866" id="15320950-71928" start="2860">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84585">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15740" label="formate"/>
+            <span end="2878" id="15320950-71930" start="2871">formate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84389">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="3275" id="15320950-3312" start="3271">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86367">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="3444" id="15320950-3314" start="3437">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86517">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="3772" id="15320950-3316" start="3764">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85063">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="4321" id="15320950-72023" start="4319">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85885">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="4921" id="15320950-3322" start="4913">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84841">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="5002" id="15320950-72101" start="5000">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85217">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="5077" id="15320950-72105" start="5075">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84985">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_7984" label="Pentobarbital sodium"/>
+            <span end="5388" id="15320950-72115" start="5368">sodium pentobarbital</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85097">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17996" label="chloride"/>
+            <span end="5444" id="15320950-72119" start="5441">Cl-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84681">
+            <class id="http://craftcorpus.org/CRAFT_phosphate" label="phosphate"/>
+            <span end="5459" id="15320950-3324" start="5450">phosphate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85751">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_buffering" label="occurrence/attribute of buffering"/>
+            <span end="5468" id="15320950-72123" start="5460">buffered</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85653">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_84997" label="sodium gluconate"/>
+            <span end="5481" id="15320950-72125" start="5469">Na-gluconate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86093">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75958" label="solution"/>
+            <span end="5490" id="15320950-72127" start="5482">solution</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86763">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_31962" label="paraformaldehyde macromolecule" interpretation="MACROMOLECULE OR POLYMER"/>
+            <span end="5521" id="15320950-72129" start="5505">paraformaldehyde</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84517">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_4735" label="ethylenediaminetetraacetic acid"/>
+            <span end="5617" id="15320950-3326" start="5613">EDTA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84959">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17992" label="sucrose"/>
+            <span end="5646" id="15320950-72139" start="5639">sucrose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86045">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_46793" label="poly(ethylene glycol)"/>
+            <span end="5696" id="15320950-72141" start="5677">polyethylene glycol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86339">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9750" label="Triton X-100"/>
+            <span end="5805" id="15320950-72145" start="5797">Triton-X</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85571">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9750" label="Triton X-100"/>
+            <span end="5813" id="15320950-72147" start="5811">TX</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86237">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9750" label="Triton X-100"/>
+            <span end="5917" id="15320950-72157" start="5915">TX</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84801">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9750" label="Triton X-100"/>
+            <span end="6314" id="15320950-72187" start="6312">TX</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86031">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9750" label="Triton X-100"/>
+            <span end="6413" id="15320950-72191" start="6411">TX</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86527">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_52661" label="Alexa Fluor 488"/>
+            <span end="6457" id="15320950-72197" start="6448">Alexa 488</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84909">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51248" label="Alexa Fluor 594"/>
+            <span end="6485" id="15320950-72203" start="6476">Alexa 594</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85049">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51248" label="Alexa Fluor 594"/>
+            <span end="6518" id="15320950-72209" start="6509">Alexa 594</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85401">
+            <class id="http://craftcorpus.org/CRAFT_polyatomic_entity_or_group" label="polyatomic entity or group"/>
+            <span end="6529" id="15320950-72211" start="6520">Molecular</span>
+        </annotation>
+        <annotation id="15320950-388972">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="6595" id="15320950-388973" start="6587">staining</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_87041">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_52661" label="Alexa Fluor 488"/>
+            <span end="6610" id="15320950-72217" start="6601">Alexa 488</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85089">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_8040" label="phalloidin"/>
+            <span end="6632" id="15320950-72221" start="6622">phalloidin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84459">
+            <class id="http://craftcorpus.org/CRAFT_polyatomic_entity_or_group" label="polyatomic entity or group"/>
+            <span end="6643" id="15320950-72223" start="6634">Molecular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86679">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9750" label="Triton X-100"/>
+            <span end="6701" id="15320950-72227" start="6699">TX</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85997">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_7984" label="Pentobarbital sodium"/>
+            <span end="7086" id="15320950-72237" start="7066">sodium pentobarbital</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86209">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17997" label="dinitrogen"/>
+            <span end="7163" id="15320950-72243" start="7161">N2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86571">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="7650" id="15320950-3328" start="7647">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85825">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="7680" id="15320950-3330" start="7677">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86963">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="7800" id="15320950-3334" start="7796">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84511">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="7932" id="15320950-3336" start="7929">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85255">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="8078" id="15320950-3338" start="8075">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84499">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51461" label="SYBR Green I"/>
+            <span end="8211" id="15320950-72303" start="8199">SYBR green I</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84345">
+            <class id="http://craftcorpus.org/CRAFT_polyatomic_entity_or_group" label="polyatomic entity or group"/>
+            <span end="8222" id="15320950-72305" start="8213">Molecular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85415">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="8255" id="15320950-3340" start="8251">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86171">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="8264" id="15320950-3342" start="8260">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84779">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="8275" id="15320950-72317" start="8273">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86751">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_2511" label="agarose"/>
+            <span end="8916" id="15320950-72345" start="8909">agarose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86217">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="9021" id="15320950-72349" start="9012">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84423">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="9113" id="15320950-72351" start="9104">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84639">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="9209" id="15320950-72353" start="9200">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84731">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="9486" id="15320950-72355" start="9477">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86977">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="9566" id="15320950-3344" start="9562">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86969">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="9624" id="15320950-3346" start="9620">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86967">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_7984" label="Pentobarbital sodium"/>
+            <span end="9846" id="15320950-72377" start="9826">sodium pentobarbital</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85343">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33364" label="platinum" interpretation="ATOM OR ELEMENTAL MOLECULAR ENTITY"/>
+            <span end="10015" id="15320950-3348" start="10013">Pt</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86523">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_49666" label="iridium atom" interpretation="ATOM OR ELEMENTAL MOLECULAR ENTITY"/>
+            <span end="10018" id="15320950-3350" start="10016">Ir</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86583">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33364" label="platinum" interpretation="ATOM OR ELEMENTAL MOLECULAR ENTITY"/>
+            <span end="10048" id="15320950-3352" start="10046">Pt</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85599">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33364" label="platinum" interpretation="ATOM OR ELEMENTAL MOLECULAR ENTITY"/>
+            <span end="10287" id="15320950-3354" start="10285">Pt</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85731">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26714" label="sodium salt"/>
+            <span end="10606" id="15320950-72401" start="10595">sodium salt</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86453">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="10675" id="15320950-72405" start="10673">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86023">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="10941" id="15320950-72413" start="10939">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86791">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_75958" label="solution"/>
+            <span end="10991" id="15320950-72415" start="10982">solutions</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85237">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36916" label="cation"/>
+            <span end="11010" id="15320950-72417" start="11004">cation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85379">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="11014" id="15320950-72419" start="11012">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86243">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29101" label="sodium(1+)"/>
+            <span end="11022" id="15320950-72421" start="11019">Na+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85963">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="11080" id="15320950-72423" start="11078">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86079">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29101" label="sodium(1+)"/>
+            <span end="11099" id="15320950-72425" start="11096">Na+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85869">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="11290" id="15320950-72427" start="11288">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86413">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29101" label="sodium(1+)"/>
+            <span end="11302" id="15320950-72429" start="11299">Na+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86531">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29101" label="sodium(1+)"/>
+            <span end="11372" id="15320950-72431" start="11369">Na+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84811">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29101" label="sodium(1+)"/>
+            <span end="11380" id="15320950-72433" start="11377">Na+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84545">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="11493" id="15320950-72439" start="11491">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85497">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="11814" id="15320950-3356" start="11810">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85179">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="11983" id="15320950-3360" start="11976">protein</span>
+        </annotation>
+        <annotation id="15320950-388976">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="12154" id="15320950-388977" start="12146">Staining</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85613">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_59132" label="antigen" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="12227" id="15320950-72481" start="12218">antigenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85955">
+            <class id="http://craftcorpus.org/CRAFT_peptide_molecular_entity_or_group" label="peptide molecular entity or group"/>
+            <span end="12235" id="15320950-72483" start="12228">peptide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86211">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="12662" id="15320950-72525" start="12656">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84643">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="12702" id="15320950-72531" start="12696">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85197">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="12764" id="15320950-72537" start="12758">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85471">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16526" label="carbon dioxide"/>
+            <span end="12805" id="15320950-72541" start="12802">CO2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86637">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16526" label="carbon dioxide"/>
+            <span end="12877" id="15320950-72551" start="12874">CO2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86241">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="13011" id="15320950-72563" start="13005">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86957">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="13060" id="15320950-72567" start="13054">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86271">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="13167" id="15320950-72573" start="13161">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84543">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="13212" id="15320950-3376" start="13205">Protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86699">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="14070" id="15320950-72714" start="14068">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85849">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="14157" id="15320950-3404" start="14150">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85603">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="14580" id="15320950-3414" start="14576">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85367">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="14724" id="15320950-3418" start="14717">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85235">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="15797" id="15320950-72890" start="15795">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86455">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="16161" id="15320950-72906" start="16159">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85607">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="16317" id="15320950-72918" start="16315">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85541">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="16490" id="15320950-72946" start="16488">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_87063">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="16883" id="15320950-72974" start="16881">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84481">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="17003" id="15320950-72994" start="17001">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85501">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="17713" id="15320950-73066" start="17711">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86325">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="17930" id="15320950-73092" start="17928">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86653">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="17988" id="15320950-73098" start="17986">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84675">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="18032" id="15320950-73102" start="18030">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86639">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="18748" id="15320950-3452" start="18745">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85601">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="18940" id="15320950-3454" start="18936">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85297">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="18986" id="15320950-3456" start="18982">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86473">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="19138" id="15320950-3458" start="19134">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_87059">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="19148" id="15320950-73214" start="19139">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86015">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="19158" id="15320950-3460" start="19154">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85863">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="19292" id="15320950-3462" start="19288">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86191">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="19399" id="15320950-3464" start="19395">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84925">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="19496" id="15320950-3466" start="19492">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85451">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="19670" id="15320950-3468" start="19666">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86799">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="20030" id="15320950-3474" start="20026">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84709">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="20040" id="15320950-73300" start="20031">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86075">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="20133" id="15320950-3476" start="20129">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86155">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="20143" id="15320950-73310" start="20134">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84827">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="20452" id="15320950-3478" start="20448">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85525">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="20570" id="15320950-3480" start="20567">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86373">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="20656" id="15320950-3482" start="20653">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84819">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="20729" id="15320950-3484" start="20725">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85547">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="20819" id="15320950-3486" start="20815">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85221">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="20855" id="15320950-3488" start="20852">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85345">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="21187" id="15320950-3490" start="21183">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84873">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="21310" id="15320950-3492" start="21306">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85713">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="21394" id="15320950-3494" start="21390">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85061">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="21524" id="15320950-3498" start="21517">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85045">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="21643" id="15320950-3500" start="21636">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86145">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="21742" id="15320950-73479" start="21740">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86535">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="21859" id="15320950-3502" start="21852">Protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84433">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="22698" id="15320950-3506" start="22694">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85163">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="22708" id="15320950-73569" start="22699">molecules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84829">
+            <class id="http://craftcorpus.org/CRAFT_rRNA" label="rRNA"/>
+            <span end="23230" id="15320950-3510" start="23226">rRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84861">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="23240" id="15320950-73603" start="23231">molecules</span>
+        </annotation>
+        <annotation id="15320950-388982">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_staining" label="occurrence/attribute of biological staining"/>
+            <span end="24948" id="15320950-388983" start="24940">staining</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86525">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26130" label="biological pigment" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="24984" id="15320950-73720" start="24977">pigment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86703">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="27553" id="15320950-73948" start="27551">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85553">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="27653" id="15320950-73962" start="27651">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86847">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="27716" id="15320950-73964" start="27714">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84341">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="27765" id="15320950-73970" start="27763">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85243">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="27921" id="15320950-73986" start="27919">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84633">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="28032" id="15320950-74002" start="28030">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86877">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3213" label="bumetanide"/>
+            <span end="28077" id="15320950-74004" start="28067">bumetanide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85773">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="28218" id="15320950-3568" start="28210">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85899">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="28271" id="15320950-74025" start="28269">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85047">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="28350" id="15320950-74033" start="28348">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84671">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="28367" id="15320950-74035" start="28365">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86505">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3213" label="bumetanide"/>
+            <span end="28423" id="15320950-74039" start="28413">bumetanide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84783">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_77608" label="loop diuretic" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="28440" id="15320950-74041" start="28427">loop-diuretic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86227">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29101" label="sodium(1+)"/>
+            <span end="28462" id="15320950-74043" start="28459">Na+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86795">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="28470" id="15320950-74047" start="28468">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86513">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_3213" label="bumetanide"/>
+            <span end="28509" id="15320950-74051" start="28499">Bumetanide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86221">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="28759" id="15320950-74081" start="28757">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86233">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29101" label="sodium(1+)"/>
+            <span end="28843" id="15320950-74094" start="28840">Na+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84361">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="28851" id="15320950-74098" start="28849">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84327">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="29005" id="15320950-3570" start="28998">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86177">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="29127" id="15320950-3572" start="29119">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86483">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="29209" id="15320950-3576" start="29202">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85053">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="29293" id="15320950-3578" start="29289">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86037">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="29437" id="15320950-74169" start="29435">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86921">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="29516" id="15320950-74181" start="29514">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86733">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="29544" id="15320950-3582" start="29537">Protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84849">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="29897" id="15320950-74244" start="29895">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84689">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="30071" id="15320950-3588" start="30064">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86273">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16526" label="carbon dioxide"/>
+            <span end="30134" id="15320950-74266" start="30131">CO2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86353">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="30144" id="15320950-74268" start="30138">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86265">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="30177" id="15320950-74272" start="30164">free radicals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86757">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16526" label="carbon dioxide"/>
+            <span end="30191" id="15320950-74274" start="30188">CO2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84489">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="30209" id="15320950-74276" start="30196">free radicals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84907">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16526" label="carbon dioxide"/>
+            <span end="30378" id="15320950-74294" start="30375">CO2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86429">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="30388" id="15320950-74296" start="30382">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85929">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="30435" id="15320950-74302" start="30422">free radicals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85585">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="30476" id="15320950-74304" start="30464">free radical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86557">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16856" label="glutathione"/>
+            <span end="30524" id="15320950-74310" start="30513">glutathione</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84957">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_25179" label="melanins"/>
+            <span end="30536" id="15320950-74312" start="30529">melanin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85711">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26130" label="biological pigment" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="30544" id="15320950-74314" start="30537">pigment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86661">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="30618" id="15320950-74320" start="30612">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84839">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17544" label="hydrogencarbonate"/>
+            <span end="30671" id="15320950-74324" start="30665">HCO3 -</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85125">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="30779" id="15320950-74332" start="30767">free radical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_87009">
+            <class id="http://craftcorpus.org/CRAFT_cysteine_molecular_entity_or_group" label="cysteine molecular entity or group"/>
+            <span end="30831" id="15320950-3602" start="30823">cysteine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85651">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16856" label="glutathione"/>
+            <span end="30890" id="15320950-74339" start="30879">glutathione</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85629">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="30948" id="15320950-74341" start="30936">free radical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85775">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="31128" id="15320950-74351" start="31116">free radical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86235">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="31231" id="15320950-74355" start="31219">free radical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86077">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="31277" id="15320950-3604" start="31270">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85609">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="31354" id="15320950-74371" start="31352">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86635">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26519" label="radical"/>
+            <span end="31433" id="15320950-74379" start="31420">free radicals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86985">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="31514" id="15320950-74387" start="31512">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86295">
+            <class id="http://craftcorpus.org/CRAFT_cysteine_molecular_entity_or_group" label="cysteine molecular entity or group"/>
+            <span end="31829" id="15320950-3612" start="31826">Cys</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84759">
+            <class id="http://craftcorpus.org/CRAFT_cysteine_molecular_entity_or_group" label="cysteine molecular entity or group"/>
+            <span end="31839" id="15320950-3614" start="31831">cysteine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86215">
+            <class id="http://craftcorpus.org/CRAFT_glutamate_or_glutamic_acid_molecular_entity_or_group" label="glutamate/glutamic acid molecular entity or group"/>
+            <span end="31844" id="15320950-74417" start="31841">Glu</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_84703">
+            <class id="http://craftcorpus.org/CRAFT_glutamate" label="glutamate"/>
+            <span end="31855" id="15320950-3616" start="31846">glutamate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86485">
+            <class id="http://craftcorpus.org/CRAFT_glycine_molecular_entity_or_group" label="glycine molecular entity or group"/>
+            <span end="31860" id="15320950-3618" start="31857">Gly</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85105">
+            <class id="http://craftcorpus.org/CRAFT_glycine_molecular_entity_or_group" label="glycine molecular entity or group"/>
+            <span end="31869" id="15320950-3620" start="31862">glycine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85215">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16856" label="glutathione"/>
+            <span end="31911" id="15320950-74431" start="31900">glutathione</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85029">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26833" label="sulfur atom" interpretation="ATOM OR ELEMENTAL MOLECULAR ENTITY"/>
+            <span end="31913" id="15320950-3622" start="31912">S</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85769">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16856" label="glutathione"/>
+            <span end="31930" id="15320950-74437" start="31927">GSH</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_86997">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16856" label="glutathione"/>
+            <span end="31943" id="15320950-74439" start="31932">glutathione</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85183">
+            <class id="http://craftcorpus.org/CRAFT_polyatomic_entity_or_group" label="polyatomic entity or group"/>
+            <span end="32087" id="15320950-74441" start="32078">molecular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85043">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24432" label="biological role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="32098" id="15320950-74443" start="32088">biological</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85587">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_29103" label="potassium(1+)"/>
+            <span end="32451" id="15320950-74451" start="32449">K+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85951">
+            <class id="http://craftcorpus.org/CRAFT_polyatomic_entity_or_group" label="polyatomic entity or group"/>
+            <span end="33024" id="15320950-74465" start="33015">Molecular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_85351">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24432" label="biological role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="33032" id="15320950-74467" start="33025">Biology</span>
+        </annotation>
+    </document>
+</knowtator-project>

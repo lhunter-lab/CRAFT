@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="17069463" text-file="17069463.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_253797">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="699" id="17069463-78122" start="686">mitochondrial</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255755">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="993" id="17069463-78152" start="986">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255323">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="2429" id="17069463-78290" start="2422">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253509">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="2441" id="17069463-78292" start="2434">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256735">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="2749" id="17069463-78310" start="2736">mitochondrial</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254485">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_nucleocytoplasmic_association" label="attribute of nucleocytoplasmic association"/>
+            <span end="3651" id="17069463-78380" start="3634">nucleocytoplasmic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255421">
+            <class id="http://purl.obolibrary.org/obo/GO_0072686" label="mitotic spindle"/>
+            <span end="3733" id="17069463-78391" start="3718">mitotic spindle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254425">
+            <class id="http://purl.obolibrary.org/obo/GO_0005635" label="nuclear envelope"/>
+            <span end="3767" id="17069463-78393" start="3751">nuclear envelope</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256689">
+            <class id="http://purl.obolibrary.org/obo/GO_0005635" label="nuclear envelope"/>
+            <span end="3816" id="17069463-78395" start="3800">nuclear envelope</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253811">
+            <class id="http://purl.obolibrary.org/obo/GO_0000776" label="kinetochore"/>
+            <span end="3843" id="17069463-78399" start="3832">kinetochore</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254181">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="4317" id="17069463-78431" start="4310">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257075">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="4372" id="17069463-78437" start="4362">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256193">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="4407" id="17069463-78441" start="4400">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257295">
+            <class id="http://purl.obolibrary.org/obo/GO_0005874" label="microtubule"/>
+            <span end="4830" id="17069463-78476" start="4819">microtubule</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253337">
+            <class id="http://purl.obolibrary.org/obo/GO_0008541" label="proteasome regulatory particle, lid subcomplex"/>
+            <span end="5302" id="17069463-78508" start="5296">cap of</span>
+            <span end="5317" id="17069463-78509" start="5307">proteasome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255471">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="5385" id="17069463-78519" start="5378">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255977">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="5632" id="17069463-78547" start="5623">cytosolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257185">
+            <class id="http://purl.obolibrary.org/obo/GO_1990876" label="cytoplasmic side of nuclear pore"/>
+            <span end="5683" id="17069463-78551" start="5666">cytosolic face of</span>
+            <span end="5708" id="17069463-78552" start="5688">nuclear pore complex</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256789">
+            <class id="http://purl.obolibrary.org/obo/GO_1990876" label="cytoplasmic side of nuclear pore"/>
+            <span end="5683" id="17069463-78554" start="5666">cytosolic face of</span>
+            <span end="5713" id="17069463-78555" start="5710">NPC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254517">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="5795" id="17069463-78563" start="5783">mitochondria</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254413">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="5822" id="17069463-78565" start="5811">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255219">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="5914" id="17069463-78575" start="5903">cytoplasmic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257333">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="5974" id="17069463-78579" start="5963">cytoplasmic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255953">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="6011" id="17069463-78581" start="5998">nuclear pores</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257087">
+            <class id="http://purl.obolibrary.org/obo/GO_0008541" label="proteasome regulatory particle, lid subcomplex"/>
+            <span end="6391" id="17069463-78607" start="6388">cap</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254061">
+            <class id="http://purl.obolibrary.org/obo/GO_0000502" label="proteasome complex"/>
+            <span end="6418" id="17069463-78609" start="6408">proteasome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254787">
+            <class id="http://purl.obolibrary.org/obo/GO_0030849" label="autosome"/>
+            <span end="6741" id="17069463-78651" start="6732">autosomal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255833">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="6915" id="17069463-78671" start="6902">mitochondrial</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255047">
+            <class id="http://purl.obolibrary.org/obo/GO_0032473" label="cytoplasmic side of mitochondrial outer membrane"/>
+            <span end="7021" id="17069463-78679" start="7002">cytoplasmic face of</span>
+            <span end="7038" id="17069463-78680" start="7026">mitochondria</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256635">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="7139" id="17069463-78682" start="7126">mitochondrial</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256485">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="8668" id="17069463-78801" start="8655">mitochondrial</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254841">
+            <class id="http://purl.obolibrary.org/obo/GO_0019867" label="outer membrane"/>
+            <span end="8706" id="17069463-78803" start="8692">outer membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256565">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="9088" id="17069463-78831" start="9078">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256099">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="10386" id="17069463-78924" start="10373">mitochondrial</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256119">
+            <class id="http://purl.obolibrary.org/obo/GO_0016020" label="membrane"/>
+            <span end="10413" id="17069463-78928" start="10405">membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254221">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="10811" id="17069463-78954" start="10802">cytosolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255889">
+            <class id="http://purl.obolibrary.org/obo/GO_0005758" label="mitochondrial intermembrane space"/>
+            <span end="10913" id="17069463-78962" start="10886">mitochondrial intermembrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254673">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="11538" id="17069463-79014" start="11528">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256991">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="11760" id="17069463-79026" start="11750">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253729">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="11887" id="17069463-79034" start="11877">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255303">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="15529" id="17069463-79248" start="15525">NPCs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253567">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="15616" id="17069463-79254" start="15604">mitochondria</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253453">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="15643" id="17069463-79256" start="15632">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255983">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="15743" id="17069463-79270" start="15732">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254325">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="15983" id="17069463-79294" start="15971">mitochondria</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253395">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="16001" id="17069463-79296" start="15990">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253323">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="16186" id="17069463-79313" start="16176">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256751">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="16257" id="17069463-79319" start="16245">mitochondria</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256679">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="16844" id="17069463-79367" start="16837">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256863">
+            <class id="http://purl.obolibrary.org/obo/GO_0001917" label="photoreceptor inner segment"/>
+            <span end="16891" id="17069463-79371" start="16886">inner</span>
+            <span end="16921" id="17069463-79372" start="16914">segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253561">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="17155" id="17069463-79388" start="17143">mitochondria</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254085">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="17656" id="17069463-79428" start="17649">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256339">
+            <class id="http://purl.obolibrary.org/obo/GO_0005840" label="ribosome"/>
+            <span end="19164" id="17069463-79584" start="19156">ribosome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254453">
+            <class id="http://purl.obolibrary.org/obo/GO_0044297" label="cell body"/>
+            <span end="19266" id="17069463-79592" start="19255">cell bodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255251">
+            <class id="http://purl.obolibrary.org/obo/GO_0030424" label="axon"/>
+            <span end="19334" id="17069463-79598" start="19318">axonal processes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254609">
+            <class id="http://purl.obolibrary.org/obo/GO_0001917" label="photoreceptor inner segment"/>
+            <span end="20273" id="17069463-79682" start="20260">inner segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254281">
+            <class id="http://purl.obolibrary.org/obo/GO_0045202" label="synapse"/>
+            <span end="20418" id="17069463-79698" start="20410">synaptic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255923">
+            <class id="http://purl.obolibrary.org/obo/GO_0001750" label="photoreceptor outer segment"/>
+            <span end="20461" id="17069463-79700" start="20430">outer segment of photoreceptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256943">
+            <class id="http://purl.obolibrary.org/obo/GO_0001750" label="photoreceptor outer segment"/>
+            <span end="20551" id="17069463-79724" start="20538">outer segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254295">
+            <class id="http://purl.obolibrary.org/obo/GO_0001917" label="photoreceptor inner segment"/>
+            <span end="20575" id="17069463-79728" start="20562">inner segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255165">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="20595" id="17069463-79734" start="20588">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256451">
+            <class id="http://purl.obolibrary.org/obo/GO_0045202" label="synapse"/>
+            <span end="20633" id="17069463-79736" start="20625">synaptic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255971">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="20660" id="17069463-79742" start="20653">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257261">
+            <class id="http://purl.obolibrary.org/obo/GO_0045202" label="synapse"/>
+            <span end="20698" id="17069463-79744" start="20690">synaptic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255975">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="21145" id="17069463-79794" start="21141">NPCs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256745">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="22472" id="17069463-79888" start="22460">mitochondria</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254229">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="22512" id="17069463-79890" start="22501">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255313">
+            <class id="http://purl.obolibrary.org/obo/GO_0045202" label="synapse"/>
+            <span end="22686" id="17069463-79902" start="22678">synaptic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254753">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="22834" id="17069463-79912" start="22830">NPCs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255469">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="22986" id="17069463-79930" start="22982">NPCs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254459">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="22995" id="17069463-79932" start="22992">NPC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254877">
+            <class id="http://purl.obolibrary.org/obo/GO_0005635" label="nuclear envelope"/>
+            <span end="23024" id="17069463-79934" start="23008">nuclear envelope</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256729">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="23166" id="17069463-79960" start="23156">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255693">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="33248" id="17069463-80862" start="33235">mitochondrial</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256987">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="33256" id="17069463-80864" start="33253">NPC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256577">
+            <class id="http://purl.obolibrary.org/obo/GO_0008541" label="proteasome regulatory particle, lid subcomplex"/>
+            <span end="34720" id="17069463-80955" start="34714">cap of</span>
+            <span end="34735" id="17069463-80956" start="34725">proteasome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255781">
+            <class id="http://purl.obolibrary.org/obo/GO_0000502" label="proteasome complex"/>
+            <span end="34944" id="17069463-80978" start="34934">proteasome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253915">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="35013" id="17069463-80984" start="35002">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256109">
+            <class id="http://purl.obolibrary.org/obo/GO_0000502" label="proteasome complex"/>
+            <span end="35501" id="17069463-81011" start="35491">proteasome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257093">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intracellular_association" label="attribute of intracellular association"/>
+            <span end="36566" id="17069463-81072" start="36553">intracellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255041">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intracellular_association" label="attribute of intracellular association"/>
+            <span end="36874" id="17069463-81094" start="36861">intracellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256761">
+            <class id="http://purl.obolibrary.org/obo/GO_0008541" label="proteasome regulatory particle, lid subcomplex"/>
+            <span end="37331" id="17069463-81106" start="37325">cap of</span>
+            <span end="37346" id="17069463-81107" start="37336">proteasome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254029">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="37495" id="17069463-81113" start="37488">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253629">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="37595" id="17069463-81127" start="37588">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257191">
+            <class id="http://purl.obolibrary.org/obo/GO_0001917" label="photoreceptor inner segment"/>
+            <span end="38964" id="17069463-81197" start="38959">inner</span>
+            <span end="38982" id="17069463-81198" start="38975">segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257147">
+            <class id="http://purl.obolibrary.org/obo/GO_0001750" label="photoreceptor outer segment"/>
+            <span end="38982" id="17069463-81200" start="38969">outer segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253999">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intracellular_association" label="attribute of intracellular association"/>
+            <span end="39488" id="17069463-81237" start="39475">intracellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253913">
+            <class id="http://purl.obolibrary.org/obo/GO_0001917" label="photoreceptor inner segment"/>
+            <span end="39720" id="17069463-81255" start="39707">inner segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254951">
+            <class id="http://purl.obolibrary.org/obo/GO_0001750" label="photoreceptor outer segment"/>
+            <span end="39744" id="17069463-81259" start="39731">outer segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253487">
+            <class id="http://purl.obolibrary.org/obo/GO_0031080" label="nuclear pore outer ring"/>
+            <span end="40291" id="17069463-81289" start="40270">Nup107-Nup160 complex</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254627">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="40380" id="17069463-81295" start="40368">nuclear pore</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255663">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="43301" id="17069463-81479" start="43291">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255801">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="43647" id="17069463-81503" start="43639">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255135">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="43694" id="17069463-81505" start="43686">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255191">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="44605" id="17069463-81557" start="44595">Antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254161">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="44804" id="17069463-81575" start="44794">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254591">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="44873" id="17069463-81577" start="44865">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253721">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="44958" id="17069463-81581" start="44948">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253709">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="45072" id="17069463-81587" start="45062">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254669">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="45920" id="17069463-81623" start="45910">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256345">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="46020" id="17069463-81631" start="46010">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257195">
+            <class id="http://purl.obolibrary.org/obo/GO_0005840" label="ribosome"/>
+            <span end="48226" id="17069463-81697" start="48218">ribosome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256281">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="52530" id="17069463-81929" start="52520">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256947">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="52832" id="17069463-81963" start="52822">Antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254493">
+            <class id="http://purl.obolibrary.org/obo/GO_0001917" label="photoreceptor inner segment"/>
+            <span end="52924" id="17069463-81967" start="52911">inner segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256477">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="52936" id="17069463-81969" start="52925">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_257187">
+            <class id="http://purl.obolibrary.org/obo/GO_0001917" label="photoreceptor inner segment"/>
+            <span end="53096" id="17069463-81981" start="53058">inner segment of photoreceptor neurons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254641">
+            <class id="http://purl.obolibrary.org/obo/GO_0045202" label="synapse"/>
+            <span end="53174" id="17069463-81993" start="53166">synaptic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253477">
+            <class id="http://purl.obolibrary.org/obo/GO_0045202" label="synapse"/>
+            <span end="53369" id="17069463-81997" start="53361">synaptic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255955">
+            <class id="http://purl.obolibrary.org/obo/GO_0001750" label="photoreceptor outer segment"/>
+            <span end="53439" id="17069463-82001" start="53426">outer segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255779">
+            <class id="http://purl.obolibrary.org/obo/GO_0001917" label="photoreceptor inner segment"/>
+            <span end="53463" id="17069463-82005" start="53450">inner segment</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256879">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="53483" id="17069463-82011" start="53476">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_253739">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="53537" id="17069463-82021" start="53530">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_256855">
+            <class id="http://purl.obolibrary.org/obo/GO_0005739" label="mitochondrion"/>
+            <span end="53653" id="17069463-82035" start="53641">mitochondria</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_255441">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="54109" id="17069463-82073" start="54099">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254901">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="54471" id="17069463-82113" start="54468">NPC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_254463">
+            <class id="http://purl.obolibrary.org/obo/GO_0005643" label="nuclear pore"/>
+            <span end="54494" id="17069463-82115" start="54474">nuclear pore complex</span>
+        </annotation>
+    </document>
+</knowtator-project>

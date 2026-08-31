@@ -1,0 +1,1508 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15238161" text-file="15238161.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_77345">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="43" id="15238161-256710" start="28">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77083">
+            <class id="http://purl.obolibrary.org/obo/GO_0046903" label="secretion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="107" id="15238161-256716" start="99">Secreted</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78779">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="116" id="15238161-256720" start="108">Hedgehog</span>
+            <span end="132" id="15238161-256721" start="122">signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78891">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="120" id="15238161-256725" start="118">Hh</span>
+            <span end="132" id="15238161-256726" start="122">signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78519">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="445" id="15238161-256752" start="435">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78871">
+            <class id="http://purl.obolibrary.org/obo/GO_0042694" label="muscle cell fate specification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="495" id="15238161-256756" start="479">specification of</span>
+            <span end="515" id="15238161-256757" start="503">muscle cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77657">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="577" id="15238161-256769" start="569">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75121">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="613" id="15238161-256775" start="598">differentiating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75661">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="670" id="15238161-256781" start="657">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77803">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="795" id="15238161-256791" start="785">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78283">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="819" id="15238161-256795" start="806">up-regulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75995">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="848" id="15238161-256797" start="833">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75839">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="926" id="15238161-256803" start="911">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78235">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1005" id="15238161-256811" start="995">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77785">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1082" id="15238161-256815" start="1067">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77927">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1233" id="15238161-256834" start="1218">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75467">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1286" id="15238161-256838" start="1272">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77901">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1310" id="15238161-256846" start="1300">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76059">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="1376" id="15238161-256852" start="1361">over-expression</span>
+        </annotation>
+        <annotation id="15238161-392916">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="1495" id="15238161-392917" start="1473">muscle fibre formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77965">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1527" id="15238161-256866" start="1512">differentiating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78875">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1559" id="15238161-256868" start="1552">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76319">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1675" id="15238161-256876" start="1665">expressing</span>
+        </annotation>
+        <annotation id="15238161-392921">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="1753" id="15238161-392922" start="1737">muscle formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76005">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1773" id="15238161-256886" start="1758">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78211">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="1817" id="15238161-256888" start="1807">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77899">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="1905" id="15238161-256898" start="1895">myogenesis</span>
+        </annotation>
+        <annotation id="15238161-393176">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_prodifferentiative_activity" label="occurrence/attribute of prodifferentiative activity"/>
+            <span end="1994" id="15238161-393177" start="1975">pro-differentiative</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78543">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="2087" id="15238161-256910" start="2072">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76757">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2114" id="15238161-256912" start="2104">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78649">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="2213" id="15238161-256920" start="2203">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76867">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="2362" id="15238161-256928" start="2347">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77195">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2537" id="15238161-256938" start="2522">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75385">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2656" id="15238161-256944" start="2649">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75151">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2761" id="15238161-256950" start="2754">express</span>
+        </annotation>
+        <annotation id="15238161-392926">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="2859" id="15238161-392927" start="2847">formation of</span>
+            <span end="2887" id="15238161-392928" start="2874">muscle fibres</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75405">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="3085" id="15238161-256969" start="3070">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77119">
+            <class id="http://purl.obolibrary.org/obo/GO_0046903" label="secretion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3274" id="15238161-256985" start="3266">secreted</span>
+        </annotation>
+        <annotation id="15238161-392932">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="3365" id="15238161-392933" start="3357">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76325">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3507" id="15238161-257002" start="3497">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77867">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="3557" id="15238161-257009" start="3549">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75149">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="4167" id="15238161-257072" start="4159">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77885">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="4560" id="15238161-257104" start="4550">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76805">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="4694" id="15238161-257110" start="4679">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78731">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="4868" id="15238161-257118" start="4858">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76085">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="5035" id="15238161-257130" start="5027">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75893">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="5074" id="15238161-257132" start="5059">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77529">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="5123" id="15238161-257134" start="5115">Myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75973">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5273" id="15238161-257148" start="5266">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75965">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="5303" id="15238161-257152" start="5293">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75109">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="5401" id="15238161-257159" start="5393">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76685">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="5460" id="15238161-257167" start="5444">muscle formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78383">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="5662" id="15238161-257177" start="5647">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75251">
+            <class id="http://purl.obolibrary.org/obo/GO_0009948" label="anterior/posterior axis specification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5797" id="15238161-257187" start="5767">anteroposterior axis formation</span>
+        </annotation>
+        <annotation id="15238161-393219">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_misexpression" label="occurrence/attribute of misexpression"/>
+            <span end="5848" id="15238161-393220" start="5834">mis-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78359">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="6013" id="15238161-257201" start="6003">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75485">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="6289" id="15238161-257213" start="6274">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78255">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="6408" id="15238161-257221" start="6393">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76641">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6448" id="15238161-257225" start="6438">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76957">
+            <class id="http://purl.obolibrary.org/obo/GO_0061061" label="muscle structure development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6560" id="15238161-257229" start="6548">formation of</span>
+            <span end="6579" id="15238161-257230" start="6572">muscles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76591">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6634" id="15238161-257236" start="6621">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76491">
+            <class id="http://purl.obolibrary.org/obo/GO_0009948" label="anterior/posterior axis specification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6695" id="15238161-257238" start="6665">anteroposterior axis formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76429">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="6751" id="15238161-257244" start="6736">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75457">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="7072" id="15238161-257264" start="7064">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76391">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="7124" id="15238161-257268" start="7116">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76769">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="7274" id="15238161-257280" start="7259">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75501">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="7417" id="15238161-257286" start="7402">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75955">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7579" id="15238161-257296" start="7566">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77679">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="7625" id="15238161-257302" start="7610">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77371">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="7668" id="15238161-257304" start="7658">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75217">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="7703" id="15238161-257308" start="7693">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76861">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="7770" id="15238161-257316" start="7762">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76549">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="7923" id="15238161-257328" start="7915">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78057">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="8255" id="15238161-257348" start="8247">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75653">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="8282" id="15238161-257352" start="8274">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76811">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="8299" id="15238161-257354" start="8291">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75187">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="8378" id="15238161-257360" start="8370">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77271">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="8510" id="15238161-257364" start="8502">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78647">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="8643" id="15238161-257370" start="8635">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77489">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="8725" id="15238161-257374" start="8717">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78331">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="8907" id="15238161-257386" start="8893">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78127">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="8972" id="15238161-257392" start="8964">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76883">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8986" id="15238161-257396" start="8979">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77575">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="9151" id="15238161-257400" start="9137">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78517">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9231" id="15238161-257406" start="9213">differentiation of</span>
+            <span end="9261" id="15238161-257407" start="9256">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76511">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="9255" id="15238161-257413" start="9247">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76655">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="9380" id="15238161-257423" start="9365">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77525">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10095" id="15238161-257447" start="10085">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77689">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="10104" id="15238161-257449" start="10096">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75065">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="10205" id="15238161-257457" start="10197">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78021">
+            <class id="http://purl.obolibrary.org/obo/GO_0008283" label="cell population proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10277" id="15238161-257461" start="10261">proliferation of</span>
+            <span end="10296" id="15238161-257462" start="10291">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76543">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="10290" id="15238161-257464" start="10282">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76599">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="10333" id="15238161-257468" start="10319">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75289">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="10342" id="15238161-257470" start="10334">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77029">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="10535" id="15238161-257486" start="10521">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78239">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10549" id="15238161-257490" start="10542">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77807">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10749" id="15238161-257498" start="10739">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77735">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="10824" id="15238161-257502" start="10810">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77365">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10838" id="15238161-257506" start="10831">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76079">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="11008" id="15238161-257514" start="10993">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76303">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="11100" id="15238161-257522" start="11092">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77683">
+            <class id="http://purl.obolibrary.org/obo/GO_0051450" label="myoblast proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11210" id="15238161-257530" start="11202">myoblast</span>
+            <span end="11250" id="15238161-257531" start="11237">proliferation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75353">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="11235" id="15238161-257533" start="11220">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75351">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11291" id="15238161-257535" start="11282">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78213">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="11537" id="15238161-257553" start="11529">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75871">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="11783" id="15238161-257575" start="11768">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75557">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="12071" id="15238161-257589" start="12056">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76903">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="12125" id="15238161-257595" start="12110">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77087">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="12243" id="15238161-257601" start="12228">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75589">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="12310" id="15238161-257605" start="12295">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76671">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="12385" id="15238161-257611" start="12370">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75821">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="12524" id="15238161-257623" start="12510">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77781">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="12793" id="15238161-257639" start="12778">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78541">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="13517" id="15238161-44191" start="13504">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76837">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="13699" id="15238161-44195" start="13686">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76939">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="13733" id="15238161-257705" start="13721">up-regulates</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75317">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13825" id="15238161-257715" start="13815">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78033">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14116" id="15238161-257741" start="14106">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75067">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="14154" id="15238161-257743" start="14139">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75499">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="14588" id="15238161-257778" start="14573">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78085">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14755" id="15238161-257794" start="14745">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78039">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="14805" id="15238161-257796" start="14791">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78805">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14834" id="15238161-257804" start="14827">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77001">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14894" id="15238161-257806" start="14887">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77565">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="14936" id="15238161-257808" start="14926">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76221">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="15027" id="15238161-257810" start="15013">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78609">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15286" id="15238161-257826" start="15276">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77245">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15548" id="15238161-257834" start="15538">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78075">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15609" id="15238161-257843" start="15599">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75625">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="15699" id="15238161-257850" start="15691">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78643">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15733" id="15238161-257854" start="15726">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76501">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="15801" id="15238161-257858" start="15786">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76675">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15984" id="15238161-257868" start="15977">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78651">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="16039" id="15238161-257870" start="16024">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75933">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16220" id="15238161-257880" start="16211">expresses</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78507">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="16417" id="15238161-257892" start="16402">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75387">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="16449" id="15238161-257894" start="16434">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77335">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="16653" id="15238161-257898" start="16639">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78851">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="16886" id="15238161-257914" start="16874">up-regulates</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75809">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17033" id="15238161-257918" start="17023">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76753">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17087" id="15238161-257920" start="17078">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77605">
+            <class id="http://purl.obolibrary.org/obo/GO_0035425" label="autocrine signaling" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17126" id="15238161-257924" start="17117">autocrine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76297">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="17463" id="15238161-257940" start="17448">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76643">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="17536" id="15238161-257944" start="17521">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75917">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="17670" id="15238161-257952" start="17655">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78813">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="17917" id="15238161-257956" start="17903">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77623">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18007" id="15238161-257964" start="17993">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77287">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18027" id="15238161-257968" start="18017">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78655">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18218" id="15238161-257972" start="18203">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75621">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18260" id="15238161-257976" start="18250">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75327">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18497" id="15238161-257984" start="18482">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75285">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18522" id="15238161-257986" start="18512">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75829">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18668" id="15238161-257998" start="18653">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76613">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18775" id="15238161-258002" start="18760">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75645">
+            <class id="http://purl.obolibrary.org/obo/GO_0007520" label="myoblast fusion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18789" id="15238161-258004" start="18780">fusion of</span>
+            <span end="18803" id="15238161-258005" start="18794">myoblasts</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76275">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19040" id="15238161-258023" start="19033">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76893">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="19114" id="15238161-258029" start="19104">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78883">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19144" id="15238161-258033" start="19131">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77769">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="19199" id="15238161-258037" start="19189">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76625">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19433" id="15238161-258055" start="19423">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77393">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="19528" id="15238161-258059" start="19518">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76205">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20110" id="15238161-258087" start="20101">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75403">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20185" id="15238161-258089" start="20175">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77367">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20818" id="15238161-258109" start="20809">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78145">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21037" id="15238161-258117" start="21027">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78029">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21357" id="15238161-258140" start="21339">differentiation of</span>
+            <span end="21387" id="15238161-258141" start="21382">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77973">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="23292" id="15238161-258254" start="23280">up-regulates</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78447">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23407" id="15238161-258264" start="23397">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75629">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="23479" id="15238161-258274" start="23467">up-regulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77617">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23736" id="15238161-258294" start="23723">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77815">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="23755" id="15238161-258298" start="23745">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77707">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23778" id="15238161-258300" start="23768">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75307">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23889" id="15238161-258318" start="23876">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76545">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23930" id="15238161-258324" start="23921">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78135">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24073" id="15238161-258336" start="24063">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78349">
+            <class id="http://purl.obolibrary.org/obo/GO_0009888" label="tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24154" id="15238161-258342" start="24142">histogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78685">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24188" id="15238161-258346" start="24178">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75429">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24286" id="15238161-258350" start="24273">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78263">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24381" id="15238161-258356" start="24371">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78333">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24445" id="15238161-258366" start="24436">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76951">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="24466" id="15238161-258368" start="24458">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77297">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="24537" id="15238161-258376" start="24529">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77703">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24741" id="15238161-258392" start="24728">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76631">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="24786" id="15238161-258394" start="24778">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77243">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24838" id="15238161-258398" start="24828">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76443">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24886" id="15238161-258402" start="24873">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77725">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="24933" id="15238161-258406" start="24918">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78093">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="24951" id="15238161-258408" start="24941">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78299">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="25068" id="15238161-258418" start="25052">muscle formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76021">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25129" id="15238161-258426" start="25119">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76765">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="25489" id="15238161-258446" start="25474">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76727">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="25527" id="15238161-258454" start="25515">up-regulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76457">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25547" id="15238161-258458" start="25537">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78271">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25731" id="15238161-258470" start="25718">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75753">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25760" id="15238161-258472" start="25750">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77887">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="25823" id="15238161-258480" start="25808">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75077">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25892" id="15238161-258490" start="25882">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75959">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="26165" id="15238161-258506" start="26150">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75793">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26215" id="15238161-258514" start="26205">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77421">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="26648" id="15238161-258548" start="26634">muscle-forming</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77047">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27627" id="15238161-258586" start="27617">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76663">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="28138" id="15238161-258606" start="28124">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75155">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28395" id="15238161-258620" start="28388">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78443">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="28895" id="15238161-258644" start="28880">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77447">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="28981" id="15238161-258646" start="28971">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75081">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="29050" id="15238161-258652" start="29035">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77161">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="29167" id="15238161-258660" start="29152">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77303">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="29187" id="15238161-258664" start="29171">muscle formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78819">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29631" id="15238161-258680" start="29621">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77315">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="30008" id="15238161-258700" start="29993">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75369">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="30083" id="15238161-258704" start="30068">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76993">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="30822" id="15238161-258742" start="30807">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77079">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="30843" id="15238161-258746" start="30828">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78411">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30986" id="15238161-258750" start="30979">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76709">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="31393" id="15238161-258770" start="31378">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76203">
+            <class id="http://purl.obolibrary.org/obo/GO_0046903" label="secretion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31492" id="15238161-258780" start="31483">secreting</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78405">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="31622" id="15238161-258790" start="31607">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76125">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32255" id="15238161-258808" start="32245">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78771">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="33223" id="15238161-258860" start="33207">muscle formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78557">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="33441" id="15238161-258872" start="33431">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76289">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="33474" id="15238161-258876" start="33459">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77351">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="33573" id="15238161-258886" start="33558">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75953">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33941" id="15238161-258904" start="33931">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76379">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="34003" id="15238161-258908" start="33988">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78459">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="34067" id="15238161-258914" start="34052">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78053">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="34211" id="15238161-258920" start="34196">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77357">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="34633" id="15238161-258934" start="34623">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78163">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35509" id="15238161-258968" start="35499">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75069">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="35751" id="15238161-258980" start="35741">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76649">
+            <class id="http://craftcorpus.org/CRAFT_material_innervation_or_occurrence_or_attribute_of_innervation" label="material innervation or occurrence/attribute of innervation"/>
+            <span end="36112" id="15238161-259006" start="36101">innervation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76733">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="36218" id="15238161-259008" start="36208">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76947">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36767" id="15238161-259050" start="36754">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75487">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="36843" id="15238161-259056" start="36828">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76705">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="36871" id="15238161-259058" start="36861">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78123">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37592" id="15238161-259130" start="37582">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76061">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="37696" id="15238161-259142" start="37682">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77737">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37721" id="15238161-259148" start="37711">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77149">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37835" id="15238161-259154" start="37825">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77389">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37921" id="15238161-259162" start="37912">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78329">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="38109" id="15238161-259180" start="38095">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77563">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="38180" id="15238161-259184" start="38166">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76331">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="38513" id="15238161-259200" start="38498">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77291">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="38883" id="15238161-259224" start="38868">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75591">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="39026" id="15238161-259232" start="39016">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75391">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39129" id="15238161-259240" start="39116">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76745">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="39148" id="15238161-259244" start="39138">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75763">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="39193" id="15238161-259250" start="39178">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77331">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="39271" id="15238161-259254" start="39256">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78355">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39377" id="15238161-259262" start="39359">differentiation of</span>
+            <span end="39386" id="15238161-259263" start="39381">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77659">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="39464" id="15238161-259271" start="39449">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76535">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="39600" id="15238161-259285" start="39592">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78637">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="39675" id="15238161-259295" start="39660">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78423">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="39847" id="15238161-259307" start="39832">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78231">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="40019" id="15238161-259317" start="40004">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77349">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="40094" id="15238161-259323" start="40079">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78671">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="40306" id="15238161-259339" start="40291">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77573">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40467" id="15238161-259355" start="40454">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78259">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="40662" id="15238161-259371" start="40654">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77237">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="40769" id="15238161-259381" start="40754">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76047">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="40834" id="15238161-259387" start="40819">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77145">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41024" id="15238161-259405" start="41014">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78593">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="41041" id="15238161-259407" start="41029">up-regulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77771">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41121" id="15238161-259411" start="41111">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78143">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="41188" id="15238161-259419" start="41178">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75461">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="41343" id="15238161-259439" start="41328">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76293">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="41657" id="15238161-259455" start="41642">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76065">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41688" id="15238161-259459" start="41678">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78023">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="41777" id="15238161-259465" start="41769">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77109">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="41858" id="15238161-259469" start="41843">differentiating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76333">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="41867" id="15238161-259471" start="41859">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78821">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41970" id="15238161-259483" start="41957">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75451">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="42056" id="15238161-259489" start="42048">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78709">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="42249" id="15238161-259497" start="42234">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76209">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="42274" id="15238161-259501" start="42264">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76961">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="42359" id="15238161-259507" start="42344">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77503">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="42376" id="15238161-259509" start="42361">Differentiating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76207">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42404" id="15238161-259517" start="42397">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77153">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="42490" id="15238161-259523" start="42475">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77011">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42855" id="15238161-259543" start="42848">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77697">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="42929" id="15238161-259545" start="42918">up-regulate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77889">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="43089" id="15238161-259563" start="43076">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75991">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="43212" id="15238161-259569" start="43202">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77131">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="43374" id="15238161-259581" start="43361">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78365">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="43641" id="15238161-259596" start="43631">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76329">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="43696" id="15238161-259598" start="43681">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75361">
+            <class id="http://purl.obolibrary.org/obo/GO_0035556" label="intracellular signal transduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="43791" id="15238161-259606" start="43767">intracellular signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77207">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="43820" id="15238161-259610" start="43805">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77833">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="43883" id="15238161-259614" start="43870">up-regulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76889">
+            <class id="http://purl.obolibrary.org/obo/GO_0046903" label="secretion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="44074" id="15238161-259626" start="44067">secrete</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77015">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="44131" id="15238161-259628" start="44123">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77317">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="44384" id="15238161-259636" start="44375">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78225">
+            <class id="http://purl.obolibrary.org/obo/GO_0008219" label="cell death" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="44435" id="15238161-259640" start="44425">cell death</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75071">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="44605" id="15238161-259648" start="44591">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77949">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="44651" id="15238161-259654" start="44636">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77851">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="44732" id="15238161-259656" start="44717">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76515">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="44946" id="15238161-259675" start="44933">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77637">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="44984" id="15238161-259679" start="44974">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78729">
+            <class id="http://purl.obolibrary.org/obo/GO_0008219" label="cell death" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45012" id="15238161-259683" start="45002">cell death</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75225">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="45080" id="15238161-259687" start="45065">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77415">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="45169" id="15238161-259691" start="45159">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76809">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45205" id="15238161-259695" start="45196">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77033">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="45310" id="15238161-259699" start="45295">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75423">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="45619" id="15238161-259709" start="45604">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76907">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="45722" id="15238161-259713" start="45707">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75935">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45841" id="15238161-259715" start="45831">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77775">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="45870" id="15238161-259717" start="45855">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76249">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="46038" id="15238161-259725" start="46025">differentiate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78857">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="46097" id="15238161-259731" start="46084">up-regulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78351">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="46160" id="15238161-259737" start="46147">differentiate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76015">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="46487" id="15238161-259757" start="46472">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78089">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46833" id="15238161-259787" start="46818">differentiation</span>
+            <span end="46853" id="15238161-259788" start="46851">of</span>
+            <span end="46868" id="15238161-259789" start="46863">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77417">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="46862" id="15238161-259791" start="46854">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77711">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="46907" id="15238161-259795" start="46899">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75235">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="47061" id="15238161-259811" start="47053">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76371">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47129" id="15238161-259817" start="47122">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77895">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="47841" id="15238161-259845" start="47826">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78229">
+            <class id="http://purl.obolibrary.org/obo/GO_0051716" label="cellular response to stimulus" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48074" id="15238161-259855" start="48063">response of</span>
+            <span end="48089" id="15238161-259856" start="48084">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76885">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="48083" id="15238161-259858" start="48075">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77663">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="48150" id="15238161-259868" start="48135">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75757">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48265" id="15238161-259884" start="48252">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76147">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="48323" id="15238161-259888" start="48313">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76629">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="48409" id="15238161-259894" start="48394">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75747">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="48501" id="15238161-259902" start="48486">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77969">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="48582" id="15238161-259908" start="48567">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76873">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48662" id="15238161-259912" start="48652">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75841">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="49165" id="15238161-259942" start="49157">myogenic</span>
+        </annotation>
+        <annotation id="15238161-393180">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_prodifferentiative_activity" label="occurrence/attribute of prodifferentiative activity"/>
+            <span end="49199" id="15238161-393181" start="49180">pro-differentiative</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77467">
+            <class id="http://purl.obolibrary.org/obo/GO_0051450" label="myoblast proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="49390" id="15238161-259956" start="49364">proliferation of myoblasts</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75679">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="49594" id="15238161-259972" start="49586">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75687">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="49627" id="15238161-259980" start="49612">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77537">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="49670" id="15238161-259984" start="49657">up-regulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76359">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="49738" id="15238161-259992" start="49730">myogenic</span>
+        </annotation>
+        <annotation id="15238161-339633">
+            <class id="http://purl.obolibrary.org/obo/GO_0016049" label="cell growth" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="49794" id="15238161-339634" start="49785">growth of</span>
+            <span end="49833" id="15238161-339635" start="49828">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75701">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="49807" id="15238161-260000" start="49799">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76991">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="49827" id="15238161-260002" start="49819">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77921">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="50393" id="15238161-260054" start="50378">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75659">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="50487" id="15238161-260064" start="50472">over-expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75493">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="50698" id="15238161-260088" start="50690">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78009">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="50840" id="15238161-260104" start="50832">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77179">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="50980" id="15238161-260116" start="50965">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78487">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="51003" id="15238161-260120" start="50988">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75827">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51087" id="15238161-260126" start="51074">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78463">
+            <class id="http://purl.obolibrary.org/obo/GO_0051450" label="myoblast proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51113" id="15238161-260130" start="51091">myoblast proliferation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76093">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="51221" id="15238161-260136" start="51206">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76569">
+            <class id="http://purl.obolibrary.org/obo/GO_0051450" label="myoblast proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51313" id="15238161-260146" start="51291">myoblast proliferation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78335">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="51377" id="15238161-260154" start="51369">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78611">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="51546" id="15238161-260170" start="51538">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76645">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="51602" id="15238161-260174" start="51587">differentiative</span>
+        </annotation>
+        <annotation id="15238161-393184">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_prodifferentiative_activity" label="occurrence/attribute of prodifferentiative activity"/>
+            <span end="51661" id="15238161-393185" start="51642">pro-differentiative</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76105">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="51783" id="15238161-260182" start="51769">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77105">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51838" id="15238161-260186" start="51825">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78013">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="51866" id="15238161-260188" start="51856">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78817">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51955" id="15238161-260196" start="51942">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77603">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52005" id="15238161-260200" start="51995">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77127">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="52105" id="15238161-260204" start="52092">differentiate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78377">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="52283" id="15238161-260214" start="52268">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75291">
+            <class id="http://purl.obolibrary.org/obo/GO_0007224" label="smoothened signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52344" id="15238161-260222" start="52331">Hh signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75719">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="52417" id="15238161-260224" start="52407">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78509">
+            <class id="http://purl.obolibrary.org/obo/GO_0046903" label="secretion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52497" id="15238161-260228" start="52488">secreting</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78465">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="52618" id="15238161-260240" start="52603">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76945">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="52650" id="15238161-260244" start="52635">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78209">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="52770" id="15238161-260254" start="52755">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75357">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="52849" id="15238161-260262" start="52839">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76473">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="53033" id="15238161-260270" start="53023">myogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76181">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="53121" id="15238161-260282" start="53110">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76639">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle" label="occurrence/attribute of muscle formation/development"/>
+            <span end="55345" id="15238161-260388" start="55337">myogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_76001">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="57098" id="15238161-260464" start="57084">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_75107">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="57242" id="15238161-260470" start="57227">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_78313">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="57839" id="15238161-260486" start="57824">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77099">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="57953" id="15238161-260494" start="57939">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77219">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="58423" id="15238161-260518" start="58408">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_77299">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="58491" id="15238161-260528" start="58476">over-expression</span>
+        </annotation>
+    </document>
+</knowtator-project>

@@ -1,0 +1,765 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15588329" text-file="15588329.txt">
+        <annotation id="15588329-409571">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="102" id="15588329-409572" start="98">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107445">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="129" id="15588329-310970" start="121">neuronal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107767">
+            <class id="http://purl.obolibrary.org/obo/CL_0000117" label="CNS neuron (sensu Vertebrata)"/>
+            <span end="432" id="15588329-310990" start="421">CNS neurons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107949">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="668" id="15588329-311006" start="654">neuronal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107855">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="801" id="15588329-311020" start="793">neuronal</span>
+        </annotation>
+        <annotation id="15588329-389038">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="816" id="15588329-389039" start="802">precursor cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_106201">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="888" id="15588329-311030" start="882">neuron</span>
+        </annotation>
+        <annotation id="15588329-409293">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="899" id="15588329-409294" start="894">cells</span>
+        </annotation>
+        <annotation id="15588329-389040">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="940" id="15588329-389041" start="925">precursor cells</span>
+        </annotation>
+        <annotation id="15588329-409295">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="1341" id="15588329-409296" start="1333">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107333">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="1672" id="15588329-311089" start="1664">neuronal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107967">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="1713" id="15588329-311093" start="1705">neuronal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107619">
+            <class id="http://purl.obolibrary.org/obo/CL_0000117" label="CNS neuron (sensu Vertebrata)"/>
+            <span end="2407" id="15588329-311138" start="2396">CNS neurons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107715">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="2445" id="15588329-311140" start="2437">neuronal</span>
+        </annotation>
+        <annotation id="15588329-409297">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="2451" id="15588329-409298" start="2446">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107359">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="2593" id="15588329-311148" start="2585">neuronal</span>
+        </annotation>
+        <annotation id="15588329-409299">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3478" id="15588329-409300" start="3474">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_106397">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="3512" id="15588329-311238" start="3504">neuronal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107733">
+            <class id="http://purl.obolibrary.org/obo/CL_0000117" label="CNS neuron (sensu Vertebrata)"/>
+            <span end="3712" id="15588329-311248" start="3701">CNS neurons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_106935">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="3760" id="15588329-311250" start="3747">neuronal cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_106623">
+            <class id="http://purl.obolibrary.org/obo/CL_1001611" label="cerebellar neuron"/>
+            <span end="3897" id="15588329-311262" start="3878">cerebellar neuronal</span>
+        </annotation>
+        <annotation id="15588329-389042">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="3912" id="15588329-389043" start="3898">precursor cell</span>
+        </annotation>
+        <annotation id="15588329-409301">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3979" id="15588329-409302" start="3974">cells</span>
+        </annotation>
+        <annotation id="15588329-409303">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="4170" id="15588329-409304" start="4165">cells</span>
+        </annotation>
+        <annotation id="15588329-409305">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="4238" id="15588329-409306" start="4234">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107145">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="4283" id="15588329-311298" start="4277">neuron</span>
+        </annotation>
+        <annotation id="15588329-409307">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="4301" id="15588329-409308" start="4297">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_106315">
+            <class id="http://purl.obolibrary.org/obo/CL_0000120" label="granule cell"/>
+            <span end="4349" id="15588329-311302" start="4334">granule neurons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105723">
+            <class id="http://purl.obolibrary.org/obo/CL_0000001" label="primary cultured cell"/>
+            <span end="4491" id="15588329-311314" start="4479">Primary cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105311">
+            <class id="http://purl.obolibrary.org/obo/CL_0000120" label="granule cell"/>
+            <span end="4529" id="15588329-311318" start="4514">granule neurons</span>
+        </annotation>
+        <annotation id="15588329-409309">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="4837" id="15588329-409310" start="4833">cell</span>
+        </annotation>
+        <annotation id="15588329-409311">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="4921" id="15588329-409312" start="4913">cellular</span>
+        </annotation>
+        <annotation id="15588329-409313">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5050" id="15588329-409314" start="5046">cell</span>
+        </annotation>
+        <annotation id="15588329-409315">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5077" id="15588329-409316" start="5072">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105421">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="5175" id="15588329-311362" start="5167">neuronal</span>
+        </annotation>
+        <annotation id="15588329-389044">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="5217" id="15588329-389045" start="5202">precursor cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105715">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="5231" id="15588329-311370" start="5225">neuron</span>
+        </annotation>
+        <annotation id="15588329-399180">
+            <class id="http://purl.obolibrary.org/obo/CL_0000121" label="Purkinje cell"/>
+            <span end="5397" id="15588329-399181" start="5389">Purkinje</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_106361">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="5446" id="15588329-311388" start="5438">Neuronal</span>
+        </annotation>
+        <annotation id="15588329-409317">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5483" id="15588329-409318" start="5478">cells</span>
+        </annotation>
+        <annotation id="15588329-409319">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5519" id="15588329-409320" start="5514">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_106595">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="5681" id="15588329-311434" start="5673">neuronal</span>
+        </annotation>
+        <annotation id="15588329-409321">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5781" id="15588329-409322" start="5776">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105707">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="5797" id="15588329-311450" start="5791">neuron</span>
+        </annotation>
+        <annotation id="15588329-409323">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5832" id="15588329-409324" start="5828">cell</span>
+        </annotation>
+        <annotation id="15588329-409325">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5935" id="15588329-409326" start="5930">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105975">
+            <class id="http://purl.obolibrary.org/obo/CL_0000121" label="Purkinje cell"/>
+            <span end="5972" id="15588329-311474" start="5957">Purkinje neuron</span>
+        </annotation>
+        <annotation id="15588329-409327">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="6038" id="15588329-409328" start="6034">cell</span>
+        </annotation>
+        <annotation id="15588329-409329">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="6185" id="15588329-409330" start="6180">cells</span>
+        </annotation>
+        <annotation id="15588329-409331">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="6273" id="15588329-409332" start="6268">cells</span>
+        </annotation>
+        <annotation id="15588329-409333">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="6563" id="15588329-409334" start="6558">cells</span>
+        </annotation>
+        <annotation id="15588329-409335">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="6703" id="15588329-409336" start="6698">cells</span>
+        </annotation>
+        <annotation id="15588329-409337">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="6935" id="15588329-409338" start="6930">cells</span>
+        </annotation>
+        <annotation id="15588329-409339">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="7036" id="15588329-409340" start="7031">cells</span>
+        </annotation>
+        <annotation id="15588329-409341">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="7458" id="15588329-409342" start="7453">cells</span>
+        </annotation>
+        <annotation id="15588329-409343">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="7516" id="15588329-409344" start="7511">cells</span>
+        </annotation>
+        <annotation id="15588329-409345">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="7596" id="15588329-409346" start="7591">cells</span>
+        </annotation>
+        <annotation id="15588329-409347">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="7638" id="15588329-409348" start="7633">cells</span>
+        </annotation>
+        <annotation id="15588329-409349">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="7795" id="15588329-409350" start="7790">cells</span>
+        </annotation>
+        <annotation id="15588329-409351">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="7891" id="15588329-409352" start="7886">cells</span>
+        </annotation>
+        <annotation id="15588329-409353">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="8033" id="15588329-409354" start="8029">cell</span>
+        </annotation>
+        <annotation id="15588329-409355">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="8058" id="15588329-409356" start="8054">cell</span>
+        </annotation>
+        <annotation id="15588329-389046">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="8453" id="15588329-389047" start="8438">precursor cells</span>
+        </annotation>
+        <annotation id="15588329-389048">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="8570" id="15588329-389049" start="8555">precursor cells</span>
+        </annotation>
+        <annotation id="15588329-409357">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="9025" id="15588329-409358" start="9020">cells</span>
+        </annotation>
+        <annotation id="15588329-409359">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="9315" id="15588329-409360" start="9310">cells</span>
+        </annotation>
+        <annotation id="15588329-409361">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="9531" id="15588329-409362" start="9526">cells</span>
+        </annotation>
+        <annotation id="15588329-409363">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="9629" id="15588329-409364" start="9624">cells</span>
+        </annotation>
+        <annotation id="15588329-409365">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="9713" id="15588329-409366" start="9705">cellular</span>
+        </annotation>
+        <annotation id="15588329-409367">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="10074" id="15588329-409368" start="10069">cells</span>
+        </annotation>
+        <annotation id="15588329-389050">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="10522" id="15588329-389051" start="10507">precursor cells</span>
+        </annotation>
+        <annotation id="15588329-409369">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="10640" id="15588329-409370" start="10635">cells</span>
+        </annotation>
+        <annotation id="15588329-409371">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="10781" id="15588329-409372" start="10776">cells</span>
+        </annotation>
+        <annotation id="15588329-409373">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="11323" id="15588329-409374" start="11318">cells</span>
+        </annotation>
+        <annotation id="15588329-409375">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="11587" id="15588329-409376" start="11582">cells</span>
+        </annotation>
+        <annotation id="15588329-409377">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="11945" id="15588329-409378" start="11940">cells</span>
+        </annotation>
+        <annotation id="15588329-409379">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12285" id="15588329-409380" start="12280">cells</span>
+        </annotation>
+        <annotation id="15588329-409381">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12463" id="15588329-409382" start="12458">cells</span>
+        </annotation>
+        <annotation id="15588329-409383">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12692" id="15588329-409384" start="12687">cells</span>
+        </annotation>
+        <annotation id="15588329-409385">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12792" id="15588329-409386" start="12787">cells</span>
+        </annotation>
+        <annotation id="15588329-409387">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12837" id="15588329-409388" start="12833">cell</span>
+        </annotation>
+        <annotation id="15588329-409389">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13205" id="15588329-409390" start="13201">cell</span>
+        </annotation>
+        <annotation id="15588329-409391">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13370" id="15588329-409392" start="13362">cellular</span>
+        </annotation>
+        <annotation id="15588329-409393">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13528" id="15588329-409394" start="13523">cells</span>
+        </annotation>
+        <annotation id="15588329-409395">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13729" id="15588329-409396" start="13724">cells</span>
+        </annotation>
+        <annotation id="15588329-389052">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="13804" id="15588329-389053" start="13789">precursor cells</span>
+        </annotation>
+        <annotation id="15588329-409397">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13929" id="15588329-409398" start="13924">cells</span>
+        </annotation>
+        <annotation id="15588329-409399">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="14051" id="15588329-409400" start="14046">cells</span>
+        </annotation>
+        <annotation id="15588329-409401">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="14170" id="15588329-409402" start="14165">cells</span>
+        </annotation>
+        <annotation id="15588329-409403">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="14316" id="15588329-409404" start="14308">cellular</span>
+        </annotation>
+        <annotation id="15588329-409405">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="14453" id="15588329-409406" start="14445">cellular</span>
+        </annotation>
+        <annotation id="15588329-409407">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15014" id="15588329-409408" start="15006">cellular</span>
+        </annotation>
+        <annotation id="15588329-409409">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15086" id="15588329-409410" start="15081">cells</span>
+        </annotation>
+        <annotation id="15588329-409411">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15142" id="15588329-409412" start="15137">cells</span>
+        </annotation>
+        <annotation id="15588329-409413">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15256" id="15588329-409414" start="15251">cells</span>
+        </annotation>
+        <annotation id="15588329-409415">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15360" id="15588329-409416" start="15355">cells</span>
+        </annotation>
+        <annotation id="15588329-409417">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15469" id="15588329-409418" start="15464">cells</span>
+        </annotation>
+        <annotation id="15588329-409419">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15633" id="15588329-409420" start="15628">cells</span>
+        </annotation>
+        <annotation id="15588329-409421">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="16092" id="15588329-409422" start="16087">cells</span>
+        </annotation>
+        <annotation id="15588329-409423">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="16116" id="15588329-409424" start="16111">cells</span>
+        </annotation>
+        <annotation id="15588329-409425">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="16133" id="15588329-409426" start="16128">cells</span>
+        </annotation>
+        <annotation id="15588329-409427">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="16371" id="15588329-409428" start="16367">cell</span>
+        </annotation>
+        <annotation id="15588329-409429">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="16557" id="15588329-409430" start="16552">cells</span>
+        </annotation>
+        <annotation id="15588329-389054">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="17130" id="15588329-389055" start="17115">precursor cells</span>
+        </annotation>
+        <annotation id="15588329-409431">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="17313" id="15588329-409432" start="17308">cells</span>
+        </annotation>
+        <annotation id="15588329-409433">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="17396" id="15588329-409434" start="17391">cells</span>
+        </annotation>
+        <annotation id="15588329-409435">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="17632" id="15588329-409436" start="17627">cells</span>
+        </annotation>
+        <annotation id="15588329-409437">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18019" id="15588329-409438" start="18014">cells</span>
+        </annotation>
+        <annotation id="15588329-409439">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18165" id="15588329-409440" start="18160">cells</span>
+        </annotation>
+        <annotation id="15588329-409441">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18304" id="15588329-409442" start="18299">cells</span>
+        </annotation>
+        <annotation id="15588329-409443">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18439" id="15588329-409444" start="18435">cell</span>
+        </annotation>
+        <annotation id="15588329-409445">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18524" id="15588329-409446" start="18519">cells</span>
+        </annotation>
+        <annotation id="15588329-389056">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="18615" id="15588329-389057" start="18600">precursor cells</span>
+        </annotation>
+        <annotation id="15588329-409447">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18716" id="15588329-409448" start="18711">cells</span>
+        </annotation>
+        <annotation id="15588329-409449">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18951" id="15588329-409450" start="18946">cells</span>
+        </annotation>
+        <annotation id="15588329-409451">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19302" id="15588329-409452" start="19298">cell</span>
+        </annotation>
+        <annotation id="15588329-409453">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19401" id="15588329-409454" start="19396">cells</span>
+        </annotation>
+        <annotation id="15588329-409455">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19461" id="15588329-409456" start="19456">cells</span>
+        </annotation>
+        <annotation id="15588329-409457">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19854" id="15588329-409458" start="19849">cells</span>
+        </annotation>
+        <annotation id="15588329-409459">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19926" id="15588329-409460" start="19921">cells</span>
+        </annotation>
+        <annotation id="15588329-409461">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19957" id="15588329-409462" start="19952">cells</span>
+        </annotation>
+        <annotation id="15588329-409463">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19992" id="15588329-409464" start="19984">cellular</span>
+        </annotation>
+        <annotation id="15588329-409465">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="20305" id="15588329-409466" start="20300">cells</span>
+        </annotation>
+        <annotation id="15588329-409467">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="20416" id="15588329-409468" start="20411">cells</span>
+        </annotation>
+        <annotation id="15588329-409469">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="20667" id="15588329-409470" start="20662">cells</span>
+        </annotation>
+        <annotation id="15588329-409471">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="20947" id="15588329-409472" start="20939">Cellular</span>
+        </annotation>
+        <annotation id="15588329-389058">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="21029" id="15588329-389059" start="21014">precursor cells</span>
+        </annotation>
+        <annotation id="15588329-409473">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21108" id="15588329-409474" start="21103">cells</span>
+        </annotation>
+        <annotation id="15588329-409475">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21166" id="15588329-409476" start="21161">cells</span>
+        </annotation>
+        <annotation id="15588329-409477">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21341" id="15588329-409478" start="21333">cellular</span>
+        </annotation>
+        <annotation id="15588329-409479">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21500" id="15588329-409480" start="21496">Cell</span>
+        </annotation>
+        <annotation id="15588329-409481">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21595" id="15588329-409482" start="21590">cells</span>
+        </annotation>
+        <annotation id="15588329-409483">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21741" id="15588329-409484" start="21736">cells</span>
+        </annotation>
+        <annotation id="15588329-409485">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21830" id="15588329-409486" start="21825">cells</span>
+        </annotation>
+        <annotation id="15588329-389060">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="22015" id="15588329-389061" start="22000">precursor cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107669">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="22063" id="15588329-312873" start="22057">neuron</span>
+        </annotation>
+        <annotation id="15588329-409487">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="22124" id="15588329-409488" start="22119">cells</span>
+        </annotation>
+        <annotation id="15588329-409489">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="22231" id="15588329-409490" start="22226">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105705">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="22565" id="15588329-312914" start="22557">neuronal</span>
+        </annotation>
+        <annotation id="15588329-409491">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="22658" id="15588329-409492" start="22653">cells</span>
+        </annotation>
+        <annotation id="15588329-409493">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="22847" id="15588329-409494" start="22842">cells</span>
+        </annotation>
+        <annotation id="15588329-409495">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="23172" id="15588329-409496" start="23167">cells</span>
+        </annotation>
+        <annotation id="15588329-409497">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="23371" id="15588329-409498" start="23366">cells</span>
+        </annotation>
+        <annotation id="15588329-409499">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="23557" id="15588329-409500" start="23552">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107127">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="24452" id="15588329-313069" start="24444">neuronal</span>
+        </annotation>
+        <annotation id="15588329-389062">
+            <class id="http://purl.obolibrary.org/obo/CL_0011115" label="precursor cell"/>
+            <span end="24468" id="15588329-389063" start="24453">precursor cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105291">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="24591" id="15588329-313088" start="24583">neuronal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_106709">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="24946" id="15588329-313126" start="24938">neuronal</span>
+        </annotation>
+        <annotation id="15588329-409501">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="24952" id="15588329-409502" start="24947">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105865">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="25024" id="15588329-313134" start="25017">neurons</span>
+        </annotation>
+        <annotation id="15588329-409503">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="25449" id="15588329-409504" start="25444">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105523">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="25492" id="15588329-313173" start="25484">neuronal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105663">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="25625" id="15588329-313183" start="25618">neurons</span>
+        </annotation>
+        <annotation id="15588329-409505">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="25748" id="15588329-409506" start="25743">cells</span>
+        </annotation>
+        <annotation id="15588329-409507">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="25868" id="15588329-409508" start="25864">cell</span>
+        </annotation>
+        <annotation id="15588329-409509">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="27059" id="15588329-409510" start="27055">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105957">
+            <class id="http://purl.obolibrary.org/obo/CL_1001611" label="cerebellar neuron"/>
+            <span end="27288" id="15588329-313299" start="27269">cerebellar neuronal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107373">
+            <class id="http://purl.obolibrary.org/obo/CL_0001031" label="cerebellar granule cell"/>
+            <span end="27523" id="15588329-313309" start="27498">cerebellar granule neuron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_106669">
+            <class id="http://purl.obolibrary.org/obo/CL_0000120" label="granule cell"/>
+            <span end="28054" id="15588329-313341" start="28040">granule neuron</span>
+        </annotation>
+        <annotation id="15588329-409511">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="28851" id="15588329-409512" start="28847">cell</span>
+        </annotation>
+        <annotation id="15588329-409513">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="28870" id="15588329-409514" start="28866">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_107561">
+            <class id="http://purl.obolibrary.org/obo/CL_0000540" label="neuron"/>
+            <span end="29083" id="15588329-313385" start="29075">Neuronal</span>
+        </annotation>
+        <annotation id="15588329-409515">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="29320" id="15588329-409516" start="29316">cell</span>
+        </annotation>
+        <annotation id="15588329-409517">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="29905" id="15588329-409518" start="29900">Cells</span>
+        </annotation>
+        <annotation id="15588329-409519">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="29983" id="15588329-409520" start="29978">cells</span>
+        </annotation>
+        <annotation id="15588329-409521">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="30077" id="15588329-409522" start="30072">cells</span>
+        </annotation>
+        <annotation id="15588329-409523">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="30116" id="15588329-409524" start="30111">Cells</span>
+        </annotation>
+        <annotation id="15588329-409525">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="30258" id="15588329-409526" start="30253">cells</span>
+        </annotation>
+        <annotation id="15588329-409527">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="30425" id="15588329-409528" start="30421">cell</span>
+        </annotation>
+        <annotation id="15588329-409529">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="30500" id="15588329-409530" start="30495">cells</span>
+        </annotation>
+        <annotation id="15588329-409531">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="30959" id="15588329-409532" start="30954">cells</span>
+        </annotation>
+        <annotation id="15588329-409533">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="31003" id="15588329-409534" start="30998">cells</span>
+        </annotation>
+        <annotation id="15588329-409535">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="31284" id="15588329-409536" start="31279">Cells</span>
+        </annotation>
+        <annotation id="15588329-409537">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="32177" id="15588329-409538" start="32173">cell</span>
+        </annotation>
+        <annotation id="15588329-409539">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="32980" id="15588329-409540" start="32975">cells</span>
+        </annotation>
+        <annotation id="15588329-409541">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="33771" id="15588329-409542" start="33766">Cells</span>
+        </annotation>
+        <annotation id="15588329-409543">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="33815" id="15588329-409544" start="33810">cells</span>
+        </annotation>
+        <annotation id="15588329-409545">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="34005" id="15588329-409546" start="34000">cells</span>
+        </annotation>
+        <annotation id="15588329-409547">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="34098" id="15588329-409548" start="34093">cells</span>
+        </annotation>
+        <annotation id="15588329-409549">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="35118" id="15588329-409550" start="35114">Cell</span>
+        </annotation>
+        <annotation id="15588329-409551">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="35207" id="15588329-409552" start="35202">cells</span>
+        </annotation>
+        <annotation id="15588329-409553">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="35413" id="15588329-409554" start="35409">cell</span>
+        </annotation>
+        <annotation id="15588329-409555">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="35758" id="15588329-409556" start="35753">Cells</span>
+        </annotation>
+        <annotation id="15588329-409557">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="35799" id="15588329-409558" start="35794">cells</span>
+        </annotation>
+        <annotation id="15588329-409559">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="35975" id="15588329-409560" start="35970">Cells</span>
+        </annotation>
+        <annotation id="15588329-409561">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="36130" id="15588329-409562" start="36126">Cell</span>
+        </annotation>
+        <annotation id="15588329-409563">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="36296" id="15588329-409564" start="36292">cell</span>
+        </annotation>
+        <annotation id="15588329-409565">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="36494" id="15588329-409566" start="36490">cell</span>
+        </annotation>
+        <annotation id="15588329-409567">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="36587" id="15588329-409568" start="36582">cells</span>
+        </annotation>
+        <annotation id="15588329-409569">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="36755" id="15588329-409570" start="36751">cell</span>
+        </annotation>
+    </document>
+</knowtator-project>

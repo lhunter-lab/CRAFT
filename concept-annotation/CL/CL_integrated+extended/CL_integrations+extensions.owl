@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:craft="http://craftcorpus.org/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:obo="http://purl.obolibrary.org/obo/"
+>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_CL_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_CL_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_OBO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_lens_fiber">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <craft:has_substitutable_CL_class>http://purl.obolibrary.org/obo/CL_0011004</craft:has_substitutable_CL_class>
+    <rdfs:label>lens fiber</rdfs:label>
+    <craft:annotatable_text>lens fiber; lens fibers; lens fibre; lens fibres</craft:annotatable_text>
+    <obo:IAO_0000115>A lens fiber cell (an elongated vertebrate lens cell that tightly packs to make up the bulk of the mature lens in a camera-type eye), or lens fiber (the region of the lens largely consisting of such cells).</obo:IAO_0000115>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_association_with_cells">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_CL_class>http://purl.obolibrary.org/obo/CL_0000000</craft:has_entailed_absence_of_association_with_CL_class>
+    <rdfs:label>absence of association with cells</rdfs:label>
+    <craft:annotatable_text>acellular; a-cellular</craft:annotatable_text>
+    <obo:IAO_0000115>An attribute of absence of some kind of association with (e.g., of possessing, being composed of, involving) cells.</obo:IAO_0000115>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_association_with_macrophages">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_CL_class>http://purl.obolibrary.org/obo/CL_0000235</craft:has_entailed_absence_of_association_with_CL_class>
+    <rdfs:label>absence of association with macrophages</rdfs:label>
+    <craft:annotatable_text>macrophageless; macrophage-less</craft:annotatable_text>
+    <obo:IAO_0000115>An attribute of absence of some kind of association with (e.g., of possessing, involving) macrophages.</obo:IAO_0000115>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_CL_cellularity">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <rdfs:label>cellularity</rdfs:label>
+    <craft:has_deductively_entailed_CL_class>http://purl.obolibrary.org/obo/CL_0000000</craft:has_deductively_entailed_CL_class>
+    <craft:annotatable_text>cellularity; cellularities</craft:annotatable_text>
+    <obo:IAO_0000115>The amount(s) and/or type(s) of cells in a given tissue/substance.</obo:IAO_0000115>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_lymphoid_entity">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <craft:has_subsumed_CL_class>http://purl.obolibrary.org/obo/CL_0000051</craft:has_subsumed_CL_class>
+    <craft:has_subsumed_CL_class>http://purl.obolibrary.org/obo/CL_0000542</craft:has_subsumed_CL_class>
+    <craft:has_subsumed_CL_class>http://purl.obolibrary.org/obo/CL_0000838</craft:has_subsumed_CL_class>
+    <craft:has_subsumed_CL_class>http://purl.obolibrary.org/obo/CL_0000936</craft:has_subsumed_CL_class>
+    <rdfs:label>lymphoid entity</rdfs:label>
+    <craft:annotatable_text>lymphoid</craft:annotatable_text>
+    <obo:IAO_0000115>An early lymphoid progenitor cell, common lymphoid progenitor cell, lymphoid-lineage-restricted progenitor cell, or lymphoid system.</obo:IAO_0000115>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+    <rdfs:label>definition</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_multiple_cells">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <rdfs:label>attribute of association with multiple cells</rdfs:label>
+    <craft:has_deductively_entailed_CL_class>http://purl.obolibrary.org/obo/CL_0000000</craft:has_deductively_entailed_CL_class>
+    <craft:annotatable_text>multicell; multicellular; multi-cell; multi-cellular</craft:annotatable_text>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., of possessing, containing, involving) multiple cells.</obo:IAO_0000115>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_association_with_gametes">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_CL_class>http://purl.obolibrary.org/obo/CL_0000300</craft:has_entailed_absence_of_association_with_CL_class>
+    <rdfs:label>absence of association with gametes</rdfs:label>
+    <craft:annotatable_text>agametic</craft:annotatable_text>
+    <obo:IAO_0000115>An attribute of absence of some kind of association with (e.g., of possessing, involving) gametes.</obo:IAO_0000115>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_cells">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <rdfs:label>absence of cells</rdfs:label>
+    <craft:denotes_absence_of_CL_class>http://purl.obolibrary.org/obo/CL_0000000</craft:denotes_absence_of_CL_class>
+    <craft:annotatable_text>acellularity</craft:annotatable_text>
+    <obo:IAO_0000115>An absence of cells.</obo:IAO_0000115>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_absence_of_association_with_CL_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_CL_class"/>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/denotes_absence_of_CL_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_CL_class"/>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_intercellular_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <rdfs:label>attribute of intercellular association</rdfs:label>
+    <craft:has_deductively_entailed_CL_class>http://purl.obolibrary.org/obo/CL_0000000</craft:has_deductively_entailed_CL_class>
+    <craft:annotatable_text>intercellular; inter-cellular; intercellularly; inter-cellularly</craft:annotatable_text>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., occurring, being situated, having involvement) between or among cells.</obo:IAO_0000115>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
+    <rdfs:label>annotatable text</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_multiple_egg_cells">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_CL_extension_class"/>
+    <rdfs:label>attribute of association with multiple egg cells</rdfs:label>
+    <craft:has_deductively_entailed_CL_class>http://purl.obolibrary.org/obo/CL_0000025</craft:has_deductively_entailed_CL_class>
+    <craft:annotatable_text>polyovular; poly-ovular</craft:annotatable_text>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., of possessing, containing, involving) multiple egg cells.</obo:IAO_0000115>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsumed_CL_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_CL_class"/>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_CL_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_CL_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_CL_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Ontology rdf:about="http://craftcorpus.org/"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_CL_extension_class">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label>CL extension class</rdfs:label>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
+</rdf:RDF>

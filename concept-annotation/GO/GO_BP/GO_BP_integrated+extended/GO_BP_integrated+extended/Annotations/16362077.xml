@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16362077" text-file="16362077.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_190297">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="133" id="16362077-113898" start="126">mitosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190835">
+            <class id="http://purl.obolibrary.org/obo/GO_0016070" label="RNA metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="250" id="16362077-113912" start="236">RNA metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191447">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="276" id="16362077-113914" start="265">physiologic</span>
+        </annotation>
+        <annotation id="16362077-392894">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="382" id="16362077-392895" start="358">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189209">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="746" id="16362077-113972" start="731">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190757">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="775" id="16362077-113974" start="765">osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189833">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="951" id="16362077-113994" start="941">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191091">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1016" id="16362077-114002" start="1001">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188677">
+            <class id="http://purl.obolibrary.org/obo/GO_0060349" label="bone morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1052" id="16362077-114006" start="1034">bone morphogenetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188821">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1179" id="16362077-114030" start="1166">differentiate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188675">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1330" id="16362077-114050" start="1315">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192271">
+            <class id="http://craftcorpus.org/CRAFT_positive_regulator" label="positive regulator"/>
+            <span end="1606" id="16362077-114074" start="1588">positive regulator</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189647">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1635" id="16362077-114078" start="1620">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188789">
+            <class id="http://craftcorpus.org/CRAFT_negative_regulator" label="negative regulator"/>
+            <span end="1660" id="16362077-114080" start="1642">negative regulator</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192325">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="1690" id="16362077-114084" start="1675">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189477">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1788" id="16362077-114096" start="1768">cell differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188281">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1815" id="16362077-114100" start="1805">metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192049">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2291" id="16362077-114128" start="2280">physiologic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192379">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="2606" id="16362077-114152" start="2591">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189901">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2788" id="16362077-114164" start="2777">physiologic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189073">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2882" id="16362077-114179" start="2872">metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190411">
+            <class id="http://purl.obolibrary.org/obo/GO_0001501" label="skeletal system development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3043" id="16362077-114187" start="3023">skeletal development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190395">
+            <class id="http://purl.obolibrary.org/obo/GO_0051716" label="cellular response to stimulus" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3679" id="16362077-114219" start="3668">response of</span>
+            <span end="3690" id="16362077-114220" start="3685">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188539">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_of_bone_development_or_ossification" label="occurrence of bone development or ossification"/>
+            <span end="3872" id="16362077-114240" start="3856">bone development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189593">
+            <class id="http://purl.obolibrary.org/obo/GO_0045453" label="bone resorption" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3979" id="16362077-114246" start="3964">bone resorption</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190763">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4394" id="16362077-114278" start="4380">cell apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189057">
+            <class id="http://purl.obolibrary.org/obo/GO_0051716" label="cellular response to stimulus" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4484" id="16362077-114282" start="4473">response of</span>
+            <span end="4510" id="16362077-114283" start="4505">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189947">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="4564" id="16362077-114291" start="4549">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188819">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4940" id="16362077-114319" start="4930">adipogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189991">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="4956" id="16362077-114321" start="4941">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191651">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="5015" id="16362077-8754" start="5000">transcriptional</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189155">
+            <class id="http://purl.obolibrary.org/obo/GO_0001709" label="cell fate determination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5085" id="16362077-114331" start="5062">cell fate determination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188353">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5351" id="16362077-114367" start="5327">cellular differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188591">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5376" id="16362077-114369" start="5366">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190635">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_myelin_assembly_or_myelination" label="occurrence/attribute of myelin assembly or myelination"/>
+            <span end="5671" id="16362077-114397" start="5660">myelination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188307">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5708" id="16362077-114399" start="5698">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192125">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_neuron_development_or_generation" label="occurrence/attribute of neuron development/generation"/>
+            <span end="5764" id="16362077-114405" start="5752">formation of</span>
+            <span end="5796" id="16362077-114406" start="5789">neurons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190609">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_glial_cell_development_or_generation" label="occurrence/attribute of glial cell development/generation"/>
+            <span end="5776" id="16362077-114408" start="5752">formation of glial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188767">
+            <class id="http://purl.obolibrary.org/obo/GO_0001709" label="cell fate determination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5870" id="16362077-114420" start="5847">cell fate determination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191067">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="6063" id="16362077-114442" start="6048">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190287">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6153" id="16362077-114450" start="6146">mitosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188765">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6267" id="16362077-114462" start="6256">physiologic</span>
+        </annotation>
+        <annotation id="16362077-392718">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_being_unspliced" label="attribute of being unspliced"/>
+            <span end="6535" id="16362077-392719" start="6526">unspliced</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192191">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6934" id="16362077-114528" start="6916">differentiation of</span>
+            <span end="6960" id="16362077-114529" start="6955">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189671">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7037" id="16362077-114547" start="7027">osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192169">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7071" id="16362077-114549" start="7061">adipogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191869">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="7232" id="16362077-114565" start="7219">differentiate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190659">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7337" id="16362077-114581" start="7317">cell differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191103">
+            <class id="http://purl.obolibrary.org/obo/GO_1990523" label="bone regeneration" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7403" id="16362077-114585" start="7399">bone</span>
+            <span end="7428" id="16362077-114586" start="7416">regeneration</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191131">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7414" id="16362077-114590" start="7404">metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190675">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7483" id="16362077-114596" start="7474">Expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190693">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7576" id="16362077-114608" start="7567">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190981">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7624" id="16362077-114612" start="7614">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189801">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8834" id="16362077-114698" start="8825">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190911">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8904" id="16362077-114704" start="8894">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190261">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9000" id="16362077-114714" start="8989">physiologic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189277">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="9397" id="16362077-114750" start="9395">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191389">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9990" id="16362077-114804" start="9985">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189559">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10185" id="16362077-114830" start="10176">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189857">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10204" id="16362077-114832" start="10190">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189427">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10215" id="16362077-114834" start="10208">mitosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188937">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_breeding" label="occurrence/attribute of breeding"/>
+            <span end="10370" id="16362077-8834" start="10362">breeding</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192165">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10567" id="16362077-114872" start="10557">metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191235">
+            <class id="http://purl.obolibrary.org/obo/GO_0046849" label="bone remodeling" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13962" id="16362077-115142" start="13947">Bone Remodeling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189865">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="17336" id="16362077-115466" start="17321">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190033">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="17627" id="16362077-115482" start="17625">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191951">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="17691" id="16362077-115490" start="17676">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189993">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="17834" id="16362077-115512" start="17822">up-regulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192251">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18339" id="16362077-115568" start="18324">Differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191119">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18379" id="16362077-115572" start="18364">Differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191885">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18558" id="16362077-115586" start="18543">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191117">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="18683" id="16362077-115598" start="18670">differentiate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189141">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18704" id="16362077-115600" start="18694">osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189089">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18726" id="16362077-115602" start="18716">adipogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191747">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="18954" id="16362077-115616" start="18935">negatively regulate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191035">
+            <class id="http://purl.obolibrary.org/obo/GO_0045595" label="regulation of cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19018" id="16362077-115622" start="19005">regulation of</span>
+            <span end="19044" id="16362077-115623" start="19029">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190781">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="19165" id="16362077-115647" start="19151">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190485">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19260" id="16362077-115653" start="19248">adipogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188583">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19343" id="16362077-115657" start="19331">adipogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192217">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19357" id="16362077-115659" start="19345">Adipogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191731">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="19518" id="16362077-115673" start="19503">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192061">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19545" id="16362077-115675" start="19535">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189713">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="19566" id="16362077-8868" start="19553">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191395">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="19643" id="16362077-115691" start="19629">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190095">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19715" id="16362077-115699" start="19703">adipogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188477">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19940" id="16362077-115713" start="19922">differentiation of</span>
+            <span end="19958" id="16362077-115714" start="19953">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189125">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="20158" id="16362077-115740" start="20143">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190165">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20224" id="16362077-115742" start="20214">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189349">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20310" id="16362077-115755" start="20299">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191541">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20457" id="16362077-115763" start="20447">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189153">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="20610" id="16362077-115771" start="20595">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189787">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20645" id="16362077-115773" start="20635">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190543">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20743" id="16362077-115777" start="20733">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188567">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="20804" id="16362077-115785" start="20802">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189615">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20835" id="16362077-115787" start="20825">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191317">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20949" id="16362077-115795" start="20939">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191375">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22020" id="16362077-115883" start="22002">differentiation of</span>
+            <span end="22050" id="16362077-115884" start="22045">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189617">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="22087" id="16362077-115896" start="22072">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189319">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="22126" id="16362077-115900" start="22111">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188495">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22209" id="16362077-115906" start="22198">physiologic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188447">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22666" id="16362077-115966" start="22648">differentiation of</span>
+            <span end="22689" id="16362077-115967" start="22684">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189447">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="22867" id="16362077-116004" start="22852">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189589">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="22954" id="16362077-116010" start="22939">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188863">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="23090" id="16362077-116022" start="23075">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190993">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23161" id="16362077-116030" start="23150">physiologic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191653">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23222" id="16362077-116036" start="23212">adipogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189989">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23237" id="16362077-116038" start="23227">osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192099">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="23253" id="16362077-116040" start="23238">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189303">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23311" id="16362077-116050" start="23301">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189459">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23451" id="16362077-116060" start="23442">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190337">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23626" id="16362077-116078" start="23616">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190459">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23789" id="16362077-116094" start="23779">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190969">
+            <class id="http://purl.obolibrary.org/obo/GO_0001501" label="skeletal system development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24065" id="16362077-116126" start="24045">skeletal development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189785">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24504" id="16362077-116160" start="24483">embryonic development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190789">
+            <class id="http://purl.obolibrary.org/obo/GO_0046849" label="bone remodeling" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25935" id="16362077-116320" start="25920">bone remodeling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189439">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26417" id="16362077-116370" start="26407">metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189519">
+            <class id="http://purl.obolibrary.org/obo/GO_0045453" label="bone resorption" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26567" id="16362077-116390" start="26552">bone resorption</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191497">
+            <class id="http://purl.obolibrary.org/obo/GO_0045453" label="bone resorption" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26655" id="16362077-116396" start="26640">bone resorption</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191461">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27058" id="16362077-116424" start="27040">differentiation of</span>
+            <span end="27092" id="16362077-116425" start="27087">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188445">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27187" id="16362077-116452" start="27177">osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190421">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="27535" id="16362077-116499" start="27521">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189895">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="27715" id="16362077-116529" start="27700">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188711">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="27792" id="16362077-116539" start="27777">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188463">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27901" id="16362077-116557" start="27881">cell differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190697">
+            <class id="http://purl.obolibrary.org/obo/GO_0045453" label="bone resorption" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28244" id="16362077-116593" start="28229">bone resorption</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189279">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28866" id="16362077-116657" start="28856">metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189067">
+            <class id="http://purl.obolibrary.org/obo/GO_0045453" label="bone resorption" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28979" id="16362077-116665" start="28964">bone resorption</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191273">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="29101" id="16362077-116675" start="29086">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190947">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29148" id="16362077-116677" start="29137">physiologic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190457">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29182" id="16362077-116683" start="29172">metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192281">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29236" id="16362077-116693" start="29216">cell differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189863">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29410" id="16362077-116713" start="29400">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188759">
+            <class id="http://purl.obolibrary.org/obo/GO_0007565" label="female pregnancy" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29828" id="16362077-116733" start="29820">pregnant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190383">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32770" id="16362077-116893" start="32765">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191967">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="35672" id="16362077-117029" start="35657">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191793">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="35872" id="16362077-117035" start="35870">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190103">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35923" id="16362077-117041" start="35908">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191027">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="36967" id="16362077-117095" start="36952">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192285">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="37122" id="16362077-117101" start="37107">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191605">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="37276" id="16362077-117109" start="37274">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191753">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37303" id="16362077-117111" start="37291">adipogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189571">
+            <class id="http://purl.obolibrary.org/obo/GO_0001171" label="reverse transcription" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37505" id="16362077-117127" start="37486">reverse-transcribed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192347">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="37549" id="16362077-117131" start="37547">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190595">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="37591" id="16362077-9010" start="37576">transcriptional</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189063">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37672" id="16362077-117139" start="37662">adipogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190857">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="37688" id="16362077-117141" start="37673">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188681">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="38031" id="16362077-117153" start="38016">down-regulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188853">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38376" id="16362077-117171" start="38363">Transfections</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191227">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38498" id="16362077-117179" start="38486">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190743">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38638" id="16362077-117187" start="38628">Osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188671">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="38654" id="16362077-117189" start="38639">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190997">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38699" id="16362077-117193" start="38689">osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192041">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="38715" id="16362077-117195" start="38700">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191687">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39058" id="16362077-117217" start="39043">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191685">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="39120" id="16362077-117221" start="39118">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190883">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39310" id="16362077-117235" start="39295">Gene Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188547">
+            <class id="http://purl.obolibrary.org/obo/GO_0060349" label="bone morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40237" id="16362077-117290" start="40219">bone morphogenetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192367">
+            <class id="http://purl.obolibrary.org/obo/GO_0007565" label="female pregnancy" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40588" id="16362077-117338" start="40580">pregnant</span>
+        </annotation>
+        <annotation id="16362077-392896">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41825" id="16362077-392897" start="41801">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192021">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42382" id="16362077-117472" start="42372">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189037">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="45814" id="16362077-117792" start="45799">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189791">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46688" id="16362077-117833" start="46676">Adipogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191963">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="46924" id="16362077-117867" start="46909">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189241">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="47234" id="16362077-117879" start="47232">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188627">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="47307" id="16362077-117885" start="47292">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188369">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47443" id="16362077-117893" start="47433">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_192413">
+            <class id="http://purl.obolibrary.org/obo/GO_0060612" label="adipose tissue development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47457" id="16362077-117895" start="47447">adipogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189383">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47536" id="16362077-117907" start="47526">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191961">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47616" id="16362077-117915" start="47606">Osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191011">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="47632" id="16362077-117917" start="47617">Differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191717">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47731" id="16362077-117929" start="47720">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_189473">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48062" id="16362077-117957" start="48052">Osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191093">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="48078" id="16362077-117959" start="48063">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188761">
+            <class id="http://purl.obolibrary.org/obo/GO_0001503" label="ossification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48194" id="16362077-117963" start="48184">osteogenic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_188829">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="48210" id="16362077-117965" start="48195">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191865">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48237" id="16362077-117969" start="48227">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_191121">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="48302" id="16362077-117979" start="48300">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190607">
+            <class id="http://purl.obolibrary.org/obo/GO_0048539" label="bone marrow development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48499" id="16362077-117999" start="48485">Development of</span>
+            <span end="48517" id="16362077-118000" start="48506">Bone Marrow</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_190415">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_breeding" label="occurrence/attribute of breeding"/>
+            <span end="49155" id="16362077-9082" start="49147">Breeding</span>
+        </annotation>
+    </document>
+</knowtator-project>
