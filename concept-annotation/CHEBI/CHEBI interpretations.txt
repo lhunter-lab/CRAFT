@@ -1,7 +1,7 @@
-ATOM OR ELEMENTAL MOLECULAR ENTITY: Indicates that the annotation class can be interpreted as referring to either atoms of the specified element or as the corresponding elemental molecular entities, i.e., molecular entities all atoms of which are of the same element, which can be monoatomic (e.g., iron(0), iron(2+)) or polyatomic (e.g., dioxygen, peroxide).
+ATOM OR ELEMENTAL MOLECULAR ENTITY: Indicates that the annotation class can be interpreted as referring to either atoms of the specified element or to the corresponding elemental molecular entities, i.e., molecular entities all atoms of which are of the same element, which can be monoatomic (e.g., iron(0), iron(2+)) or polyatomic (e.g., dioxygen, peroxide).
 	•	subclasses of atom (CHEBI_33250)
 
-GENE OR GENE PRODUCT: Indicates that the annotation class can be interpreted as either gene products or as the corresponding genes.
+GENE, TRANSCRIPT OR PROTEIN: Indicates that the annotation class can be interpreted as referring to proteins or to their corresponding genes or transcripts.
 	•	subclasses of protein (CHEBI_36080) except:
 			hemoglobin (CHEBI_35143)
 			glycoprotein (CHEBI_17089) and its subclasses
@@ -22,16 +22,16 @@ GENE OR GENE PRODUCT: Indicates that the annotation class can be interpreted as 
 	•	somatostatin (CHEBI_64628)
 	•	vasopressin (CHEBI_9937)
 
-GENE, GENE PRODUCT OR MACROMOLECULAR COMPLEX: Indicates that the annotation class can be interpreted as referring to either gene products, as the corresponding genes, or as macromolecular complexes all of whose subunits are the corresponding proteins.
+GENE, TRANSCRIPT, PROTEIN OR MACROMOLECULAR COMPLEX: Indicates that the annotation class can be interpreted as referring to proteins, to their corresponding genes or transcripts, or to macromolecular complexes all of whose subunits are the corresponding proteins.
 	•	hemoglobin (CHEBI_35143)
 
-GENE, GENE PRODUCT OR POLYMER: Indicates that the annotation class can be interpreted as referring to either gene products, as the corresponding genes, or as polymeric mixtures of the corresponding proteins.
+GENE, TRANSCRIPT, PROTEIN OR POLYMER: Indicates that the annotation class can be interpreted as referring to either proteins, to their corresponding genes or transcripts, or to polymeric mixtures of the corresponding proteins.
 	•	Collagen (CHEBI_3815)
 
-MACROMOLECULE OR POLYMER: Indicates that the annotation class can be interpreted as referring to either macromolecules (i.e., individual molecules) or as corresponding polymers (i.e., mixtures of types of the corresponding macromolecules). 
+MACROMOLECULE OR POLYMER: Indicates that the annotation class can be interpreted as referring to either macromolecules (i.e., individual molecules) or to corresponding polymers (i.e., mixtures of types of the corresponding macromolecules). 
 	•	subclasses of macromolecule (CHEBI_33839) other than biomacromolecule (CHEBI_33694) and polypeptide (CHEBI_15841) and their subclasses
 
-MOLECULAR ENTITY OR SUBSTITUENT GROUP: Indicates that the annotation class can be interpreted as referring to either molecular entities (i.e., separately distinguishable chemical entities, e.g., an alanine molecule) or as corresponding substituent groups (e.g., alanyl group, alanine residue).
+MOLECULAR ENTITY OR SUBSTITUENT GROUP: Indicates that the annotation class can be interpreted as referring to either molecular entities (i.e., separately distinguishable chemical entities, e.g., an alanine molecule) or to corresponding substituent groups (e.g., alanyl group, alanine residue).
 	•	amino acid (CHEBI_33709) and its subclasses other than non-proteinogenic amino acid (CHEBI_83820) and its subclasses  AND that are an object of an is_substituent_group from assertion
 	•	nucleobase (CHEBI_18282) and its subclasses AND that are an object of an is_substituent_group_from assertion
 	•	nucleoside (CHEBI_33838) and its subclasses AND that are an object of an is_substituent_group_from assertion
@@ -66,11 +66,11 @@ MOLECULAR ENTITY OR SUBSTITUENT GROUP: Indicates that the annotation class can b
 	•	thymidine (CHEBI_17748)
 	
 
-OCCURRENCE, ATTRIBUTE OR AREA OF STUDY: Indicates that the annotation class can be interpreted as referring to roles, conceptualized as either occurrences/processes (e.g., biochemical occurrences/processes) or as attributes of entities (e.g., biochemical functionalities possessed by entities), or as areas of study of these occurrences, attributes, and bearers (e.g., the field of biochemistry).
+OCCURRENCE, ATTRIBUTE OR AREA OF STUDY: Indicates that the annotation class can be interpreted as referring to roles, conceptualized as either occurrences/processes (e.g., biochemical occurrences/processes), to attributes of entities (e.g., biochemical functionalities possessed by entities), or to areas of study of these occurrences, attributes, and bearers (e.g., the field of biochemistry).
 	•	biochemical role (CHEBI_52206)
 	•	biological role (CHEBI_24432)
 	•	biophysical role (CHEBI_52208)
 	•	chemical role (CHEBI_51086)
 
-ROLE-BEARING ENTITY: Indicates that the annotation class is to be interpreted as referring to the bearers of the specified roles rather than the functionalities possessed by these bearers.
+ROLE-BEARING ENTITY: Indicates that the annotation class is be interpreted as referring to the bearers of the specified roles rather than the functionalities possessed by these bearers.
 	•	subclasses of application (CHEBI_33232), biological role (CHEBI_24432), and chemical role (CHEBI_51086) other than biochemical role (CHEBI_52206) and biophysical role (CHEBI_52208)

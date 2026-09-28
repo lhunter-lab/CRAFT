@@ -1,0 +1,985 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16870721" text-file="16870721.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_236487">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="162" id="16870721-214605" start="159">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235439">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="207" id="16870721-214611" start="204">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236617">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="388" id="16870721-214623" start="385">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235099">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="737" id="16870721-214643" start="734">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236663">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1148" id="16870721-214666" start="1145">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236603">
+            <class id="http://purl.obolibrary.org/obo/PR_000000001" label="protein"/>
+            <span end="1192" id="16870721-33368" start="1184">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236019">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1311" id="16870721-214680" start="1308">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_234981">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1363" id="16870721-214684" start="1360">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235697">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1476" id="16870721-214690" start="1473">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236397">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1834" id="16870721-214720" start="1831">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236671">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2024" id="16870721-214728" start="2021">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235135">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2770" id="16870721-214764" start="2767">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236317">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="3498" id="16870721-214804" start="3495">p53</span>
+        </annotation>
+        <annotation id="16870721-407797">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="3792" id="16870721-407798" start="3789">Cre</span>
+        </annotation>
+        <annotation id="16870721-407799">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="3844" id="16870721-407800" start="3841">Cre</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235081">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5890" id="16870721-214964" start="5887">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235371">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6187" id="16870721-214980" start="6184">p53</span>
+        </annotation>
+        <annotation id="16870721-411375">
+            <class id="http://purl.obolibrary.org/obo/PR_F1KC47" label="type-2 restriction enzyme ClaI (Caryophanon latum)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6964" id="16870721-411376" start="6960">ClaI</span>
+        </annotation>
+        <annotation id="16870721-411387">
+            <class id="http://purl.obolibrary.org/obo/PR_F1KC51" label="type-2 restriction enzyme FseI (Frankia sp. Eul1b)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6975" id="16870721-411388" start="6971">FseI</span>
+        </annotation>
+        <annotation id="16870721-406969">
+            <class id="http://purl.obolibrary.org/obo/PR_Q2I6W2" label="type-2 restriction enzyme NotI (Nocardia otitidiscaviarum)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7149" id="16870721-406970" start="7145">NotI</span>
+        </annotation>
+        <annotation id="16870721-406971">
+            <class id="http://purl.obolibrary.org/obo/PR_Q2I6W2" label="type-2 restriction enzyme NotI (Nocardia otitidiscaviarum)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7206" id="16870721-406972" start="7202">NotI</span>
+        </annotation>
+        <annotation id="16870721-411389">
+            <class id="http://purl.obolibrary.org/obo/PR_F1KC51" label="type-2 restriction enzyme FseI (Frankia sp. Eul1b)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7232" id="16870721-411390" start="7228">FseI</span>
+        </annotation>
+        <annotation id="16870721-408509">
+            <class id="http://purl.obolibrary.org/obo/PR_000050209" label="type-2 restriction enzyme PmlI (Stenotrophomonas maltophilia)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7308" id="16870721-408510" start="7304">PmlI</span>
+        </annotation>
+        <annotation id="16870721-406902">
+            <class id="http://purl.obolibrary.org/obo/PR_000050207" label="type-2 restriction enzyme MfeI (Mycoplasma fermentans)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7313" id="16870721-406903" start="7309">MfeI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235223">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7340" id="16870721-215054" start="7335">Trp53</span>
+        </annotation>
+        <annotation id="16870721-411397">
+            <class id="http://purl.obolibrary.org/obo/PR_A0A1S4NYF7" label="type-2 restriction enzyme SwaI (Staphylococcus warneri)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7454" id="16870721-411398" start="7450">SwaI</span>
+        </annotation>
+        <annotation id="16870721-411353">
+            <class id="http://purl.obolibrary.org/obo/PR_B0LT74" label="type-2 restriction enzyme EagI (Pantoea agglomerans)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7475" id="16870721-411354" start="7471">EagI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236703">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7542" id="16870721-215064" start="7539">p53</span>
+        </annotation>
+        <annotation id="16870721-411377">
+            <class id="http://purl.obolibrary.org/obo/PR_F1KC47" label="type-2 restriction enzyme ClaI (Caryophanon latum)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7574" id="16870721-411378" start="7570">ClaI</span>
+        </annotation>
+        <annotation id="16870721-411355">
+            <class id="http://purl.obolibrary.org/obo/PR_B0LT74" label="type-2 restriction enzyme EagI (Pantoea agglomerans)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7579" id="16870721-411356" start="7575">EagI</span>
+        </annotation>
+        <annotation id="16870721-411379">
+            <class id="http://purl.obolibrary.org/obo/PR_F1KC47" label="type-2 restriction enzyme ClaI (Caryophanon latum)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7644" id="16870721-411380" start="7640">ClaI</span>
+        </annotation>
+        <annotation id="16870721-406973">
+            <class id="http://purl.obolibrary.org/obo/PR_Q2I6W2" label="type-2 restriction enzyme NotI (Nocardia otitidiscaviarum)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7653" id="16870721-406974" start="7649">NotI</span>
+        </annotation>
+        <annotation id="16870721-411381">
+            <class id="http://purl.obolibrary.org/obo/PR_F1KC47" label="type-2 restriction enzyme ClaI (Caryophanon latum)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7733" id="16870721-411382" start="7729">ClaI</span>
+        </annotation>
+        <annotation id="16870721-411391">
+            <class id="http://purl.obolibrary.org/obo/PR_F1KC51" label="type-2 restriction enzyme FseI (Frankia sp. Eul1b)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7742" id="16870721-411392" start="7738">FseI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235055">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7877" id="16870721-215080" start="7874">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235389">
+            <class id="http://purl.obolibrary.org/obo/PR_P43870" label="type II restriction enzyme HindIII (Haemophilus influenzae Rd KW20)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7994" id="16870721-215090" start="7987">HindIII</span>
+        </annotation>
+        <annotation id="16870721-406975">
+            <class id="http://purl.obolibrary.org/obo/PR_Q2I6W2" label="type-2 restriction enzyme NotI (Nocardia otitidiscaviarum)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8003" id="16870721-406976" start="7999">NotI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235817">
+            <class id="http://purl.obolibrary.org/obo/PR_P43870" label="type II restriction enzyme HindIII (Haemophilus influenzae Rd KW20)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8014" id="16870721-215092" start="8007">HindIII</span>
+        </annotation>
+        <annotation id="16870721-405881">
+            <class id="http://purl.obolibrary.org/obo/PR_P00642" label="type II restriction enzyme EcoRI (Escherichia coli)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8020" id="16870721-405882" start="8015">EcoRI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236295">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8040" id="16870721-215094" start="8035">Trp53</span>
+        </annotation>
+        <annotation id="16870721-405883">
+            <class id="http://purl.obolibrary.org/obo/PR_P00642" label="type II restriction enzyme EcoRI (Escherichia coli)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8068" id="16870721-405884" start="8063">EcoRI</span>
+        </annotation>
+        <annotation id="16870721-406977">
+            <class id="http://purl.obolibrary.org/obo/PR_Q2I6W2" label="type-2 restriction enzyme NotI (Nocardia otitidiscaviarum)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8073" id="16870721-406978" start="8069">NotI</span>
+        </annotation>
+        <annotation id="16870721-411399">
+            <class id="http://purl.obolibrary.org/obo/PR_000050203" label="type-2 restriction enzyme Bsu36I (Bacillus subtilis 36)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8213" id="16870721-411400" start="8207">Bsu36I</span>
+        </annotation>
+        <annotation id="16870721-405885">
+            <class id="http://purl.obolibrary.org/obo/PR_P00642" label="type II restriction enzyme EcoRI (Escherichia coli)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8219" id="16870721-405886" start="8214">EcoRI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235063">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8244" id="16870721-215104" start="8241">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235595">
+            <class id="http://purl.obolibrary.org/obo/PR_P23940" label="type II restriction enzyme BamHI (Bacillus amyloliquefaciens)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8426" id="16870721-215116" start="8421">BamHI</span>
+        </annotation>
+        <annotation id="16870721-408511">
+            <class id="http://purl.obolibrary.org/obo/PR_000050209" label="type-2 restriction enzyme PmlI (Stenotrophomonas maltophilia)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8431" id="16870721-408512" start="8427">PmlI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236771">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8461" id="16870721-215120" start="8458">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235095">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8796" id="16870721-215140" start="8793">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236599">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8925" id="16870721-215154" start="8922">p53</span>
+        </annotation>
+        <annotation id="16870721-405635">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8928" id="16870721-405636" start="8925">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236263">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8936" id="16870721-215156" start="8933">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235751">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8965" id="16870721-215160" start="8962">p53</span>
+        </annotation>
+        <annotation id="16870721-405637">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8969" id="16870721-405638" start="8966">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236069">
+            <class id="http://purl.obolibrary.org/obo/PR_000000001" label="protein"/>
+            <span end="8984" id="16870721-33420" start="8977">protein</span>
+        </annotation>
+        <annotation id="16870721-409114">
+            <class id="http://purl.obolibrary.org/obo/PR_J9UZ90" label="type-2 restriction enzyme SacII (Streptomyces achromogenes)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9012" id="16870721-409115" start="9007">SacII</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236749">
+            <class id="http://purl.obolibrary.org/obo/PR_P43870" label="type II restriction enzyme HindIII (Haemophilus influenzae Rd KW20)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9020" id="16870721-215166" start="9013">HindIII</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236865">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9040" id="16870721-215168" start="9037">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236829">
+            <class id="http://purl.obolibrary.org/obo/PR_P43870" label="type II restriction enzyme HindIII (Haemophilus influenzae Rd KW20)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9152" id="16870721-215180" start="9145">HindIII</span>
+        </annotation>
+        <annotation id="16870721-411393">
+            <class id="http://purl.obolibrary.org/obo/PR_F1KC51" label="type-2 restriction enzyme FseI (Frankia sp. Eul1b)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9169" id="16870721-411394" start="9165">FseI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236145">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9222" id="16870721-215189" start="9219">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235615">
+            <class id="http://purl.obolibrary.org/obo/PR_P23940" label="type II restriction enzyme BamHI (Bacillus amyloliquefaciens)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9423" id="16870721-215197" start="9418">BamHI</span>
+        </annotation>
+        <annotation id="16870721-405887">
+            <class id="http://purl.obolibrary.org/obo/PR_P00642" label="type II restriction enzyme EcoRI (Escherichia coli)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9560" id="16870721-405888" start="9555">EcoRI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235759">
+            <class id="http://purl.obolibrary.org/obo/PR_P23940" label="type II restriction enzyme BamHI (Bacillus amyloliquefaciens)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9645" id="16870721-215207" start="9640">BamHI</span>
+        </annotation>
+        <annotation id="16870721-405889">
+            <class id="http://purl.obolibrary.org/obo/PR_P00642" label="type II restriction enzyme EcoRI (Escherichia coli)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9655" id="16870721-405890" start="9650">EcoRI</span>
+        </annotation>
+        <annotation id="16870721-405639">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9679" id="16870721-405640" start="9676">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235661">
+            <class id="http://purl.obolibrary.org/obo/PR_P23940" label="type II restriction enzyme BamHI (Bacillus amyloliquefaciens)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9703" id="16870721-215215" start="9697">Bam HI</span>
+        </annotation>
+        <annotation id="16870721-405891">
+            <class id="http://purl.obolibrary.org/obo/PR_P00642" label="type II restriction enzyme EcoRI (Escherichia coli)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9709" id="16870721-405892" start="9704">EcoRI</span>
+        </annotation>
+        <annotation id="16870721-405641">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9737" id="16870721-405642" start="9734">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235701">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9790" id="16870721-215221" start="9787">p53</span>
+        </annotation>
+        <annotation id="16870721-405643">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9794" id="16870721-405644" start="9791">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235295">
+            <class id="http://purl.obolibrary.org/obo/PR_P43870" label="type II restriction enzyme HindIII (Haemophilus influenzae Rd KW20)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9888" id="16870721-215227" start="9881">HindIII</span>
+        </annotation>
+        <annotation id="16870721-411395">
+            <class id="http://purl.obolibrary.org/obo/PR_F1KC51" label="type-2 restriction enzyme FseI (Frankia sp. Eul1b)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9897" id="16870721-411396" start="9893">FseI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235197">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9929" id="16870721-215229" start="9926">p53</span>
+        </annotation>
+        <annotation id="16870721-405645">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9932" id="16870721-405646" start="9929">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236033">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10004" id="16870721-215237" start="10001">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235609">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10079" id="16870721-215245" start="10076">p53</span>
+        </annotation>
+        <annotation id="16870721-405647">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10082" id="16870721-405648" start="10079">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235901">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10126" id="16870721-215253" start="10123">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235415">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10412" id="16870721-215271" start="10409">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235635">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10488" id="16870721-215277" start="10485">p53</span>
+        </annotation>
+        <annotation id="16870721-405649">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10491" id="16870721-405650" start="10488">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236807">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10498" id="16870721-215279" start="10495">p53</span>
+        </annotation>
+        <annotation id="16870721-405651">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10558" id="16870721-405652" start="10555">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235899">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10590" id="16870721-215285" start="10587">p53</span>
+        </annotation>
+        <annotation id="16870721-405653">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10593" id="16870721-405654" start="10590">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235279">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10662" id="16870721-215289" start="10659">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235957">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10721" id="16870721-215293" start="10718">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236525">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10751" id="16870721-215297" start="10748">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236841">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10855" id="16870721-215303" start="10852">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236727">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11005" id="16870721-215311" start="11002">p53</span>
+        </annotation>
+        <annotation id="16870721-411401">
+            <class id="http://purl.obolibrary.org/obo/PR_A0A2R3QXB2" label="type-2 restriction enzyme PmeI (Pseudomonas mendocina)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11593" id="16870721-411402" start="11589">PmeI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236481">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11797" id="16870721-215357" start="11794">p53</span>
+        </annotation>
+        <annotation id="16870721-407801">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11885" id="16870721-407802" start="11882">Cre</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235375">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12274" id="16870721-215385" start="12271">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236475">
+            <class id="http://purl.obolibrary.org/obo/PR_000000001" label="protein"/>
+            <span end="13086" id="16870721-33448" start="13079">Protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235177">
+            <class id="http://purl.obolibrary.org/obo/PR_000000001" label="protein"/>
+            <span end="13163" id="16870721-33450" start="13156">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236239">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13505" id="16870721-215457" start="13502">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236193">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14646" id="16870721-215521" start="14643">p53</span>
+        </annotation>
+        <annotation id="16870721-405655">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14659" id="16870721-405656" start="14656">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235465">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14664" id="16870721-215525" start="14661">p53</span>
+        </annotation>
+        <annotation id="16870721-405657">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14667" id="16870721-405658" start="14664">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235619">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14691" id="16870721-215527" start="14688">p53</span>
+        </annotation>
+        <annotation id="16870721-405659">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14742" id="16870721-405660" start="14739">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235199">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15309" id="16870721-215551" start="15306">p53</span>
+        </annotation>
+        <annotation id="16870721-405661">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15314" id="16870721-405662" start="15311">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236225">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15383" id="16870721-215561" start="15380">p53</span>
+        </annotation>
+        <annotation id="16870721-405663">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15491" id="16870721-405664" start="15488">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236833">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15498" id="16870721-215567" start="15495">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235647">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15521" id="16870721-215569" start="15518">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235369">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15559" id="16870721-215571" start="15556">p53</span>
+        </annotation>
+        <annotation id="16870721-405665">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15562" id="16870721-405666" start="15559">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236207">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15607" id="16870721-215575" start="15604">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235779">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15612" id="16870721-215577" start="15609">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236157">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15717" id="16870721-215585" start="15714">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235787">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15727" id="16870721-215589" start="15724">p53</span>
+        </annotation>
+        <annotation id="16870721-405667">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15730" id="16870721-405668" start="15727">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235663">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15804" id="16870721-215593" start="15801">p53</span>
+        </annotation>
+        <annotation id="16870721-405669">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15809" id="16870721-405670" start="15806">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236131">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15990" id="16870721-215609" start="15987">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235795">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16090" id="16870721-215624" start="16087">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236307">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16114" id="16870721-215626" start="16111">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235169">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16218" id="16870721-215636" start="16215">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236461">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16371" id="16870721-215644" start="16368">p53</span>
+        </annotation>
+        <annotation id="16870721-405671">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16374" id="16870721-405672" start="16371">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236261">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16518" id="16870721-215660" start="16515">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235263">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16601" id="16870721-215662" start="16598">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235501">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16630" id="16870721-215666" start="16627">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235965">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16673" id="16870721-215674" start="16670">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236729">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16689" id="16870721-215676" start="16686">p53</span>
+        </annotation>
+        <annotation id="16870721-405673">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16708" id="16870721-405674" start="16705">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236869">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16951" id="16870721-215698" start="16948">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235325">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17093" id="16870721-215706" start="17090">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235397">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17197" id="16870721-215718" start="17194">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235457">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17234" id="16870721-215720" start="17231">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235181">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17247" id="16870721-215724" start="17244">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235629">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17305" id="16870721-215730" start="17302">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235319">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17413" id="16870721-215744" start="17410">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235689">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17847" id="16870721-215776" start="17844">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236027">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17933" id="16870721-215784" start="17930">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236017">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17944" id="16870721-215786" start="17941">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235877">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18005" id="16870721-215790" start="18002">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235593">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18029" id="16870721-215794" start="18026">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235903">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18099" id="16870721-215802" start="18096">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235539">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18151" id="16870721-215806" start="18148">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236639">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18230" id="16870721-215812" start="18227">p53</span>
+        </annotation>
+        <annotation id="16870721-407803">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18252" id="16870721-407804" start="18249">Cre</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236879">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18283" id="16870721-215820" start="18280">p53</span>
+        </annotation>
+        <annotation id="16870721-405675">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18286" id="16870721-405676" start="18283">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235133">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18438" id="16870721-215832" start="18435">p53</span>
+        </annotation>
+        <annotation id="16870721-405677">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18441" id="16870721-405678" start="18438">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236141">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18469" id="16870721-215838" start="18466">p53</span>
+        </annotation>
+        <annotation id="16870721-405679">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18472" id="16870721-405680" start="18469">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235519">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18546" id="16870721-215842" start="18543">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235747">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18677" id="16870721-215848" start="18674">p53</span>
+        </annotation>
+        <annotation id="16870721-405681">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18680" id="16870721-405682" start="18677">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236443">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18826" id="16870721-215856" start="18823">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235671">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18870" id="16870721-215860" start="18867">p53</span>
+        </annotation>
+        <annotation id="16870721-405683">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18873" id="16870721-405684" start="18870">GFP</span>
+        </annotation>
+        <annotation id="16870721-407805">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18917" id="16870721-407806" start="18914">Cre</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236759">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19220" id="16870721-215876" start="19217">p53</span>
+        </annotation>
+        <annotation id="16870721-405685">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19223" id="16870721-405686" start="19220">GFP</span>
+        </annotation>
+        <annotation id="16870721-407807">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19278" id="16870721-407808" start="19275">Cre</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235535">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19613" id="16870721-215896" start="19610">p53</span>
+        </annotation>
+        <annotation id="16870721-405687">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19616" id="16870721-405688" start="19613">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236619">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19667" id="16870721-215902" start="19664">p53</span>
+        </annotation>
+        <annotation id="16870721-405689">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19670" id="16870721-405690" start="19667">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235733">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19711" id="16870721-215904" start="19708">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236079">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19735" id="16870721-215908" start="19732">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235217">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19755" id="16870721-215912" start="19752">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235123">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19886" id="16870721-215922" start="19883">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236205">
+            <class id="http://purl.obolibrary.org/obo/PR_000000001" label="protein"/>
+            <span end="19899" id="16870721-33528" start="19892">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235859">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19929" id="16870721-215926" start="19926">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236731">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19964" id="16870721-215932" start="19961">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236477">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20086" id="16870721-215934" start="20083">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235613">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20128" id="16870721-215942" start="20125">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235641">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20188" id="16870721-215944" start="20185">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236457">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20410" id="16870721-215954" start="20407">p53</span>
+        </annotation>
+        <annotation id="16870721-405691">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20473" id="16870721-405692" start="20470">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235005">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20518" id="16870721-215964" start="20515">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235637">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="21383" id="16870721-216011" start="21380">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235479">
+            <class id="http://purl.obolibrary.org/obo/PR_000000084" label="c-myc protein" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="21390" id="16870721-216013" start="21385">c-myc</span>
+        </annotation>
+        <annotation id="16870721-407809">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="22394" id="16870721-407810" start="22391">Cre</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235621">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="23418" id="16870721-216137" start="23415">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235035">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="23444" id="16870721-216139" start="23441">p53</span>
+        </annotation>
+        <annotation id="16870721-405893">
+            <class id="http://purl.obolibrary.org/obo/PR_P00642" label="type II restriction enzyme EcoRI (Escherichia coli)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="23484" id="16870721-405894" start="23479">EcoRI</span>
+        </annotation>
+        <annotation id="16870721-405895">
+            <class id="http://purl.obolibrary.org/obo/PR_P00642" label="type II restriction enzyme EcoRI (Escherichia coli)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="23488" id="16870721-405896" start="23486">RI</span>
+        </annotation>
+        <annotation id="16870721-405897">
+            <class id="http://purl.obolibrary.org/obo/PR_P00642" label="type II restriction enzyme EcoRI (Escherichia coli)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="23754" id="16870721-405898" start="23749">EcoRI</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235473">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="23808" id="16870721-216165" start="23805">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235359">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="24359" id="16870721-216205" start="24356">p53</span>
+        </annotation>
+        <annotation id="16870721-405693">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="24362" id="16870721-405694" start="24359">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236093">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="24450" id="16870721-216215" start="24447">p53</span>
+        </annotation>
+        <annotation id="16870721-405695">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="24453" id="16870721-405696" start="24450">GFP</span>
+        </annotation>
+        <annotation id="16870721-407811">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="24531" id="16870721-407812" start="24528">Cre</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236179">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="25338" id="16870721-216259" start="25335">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236587">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="25409" id="16870721-216263" start="25406">p53</span>
+        </annotation>
+        <annotation id="16870721-405697">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="25414" id="16870721-405698" start="25411">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235713">
+            <class id="http://purl.obolibrary.org/obo/PR_000000001" label="protein"/>
+            <span end="25512" id="16870721-33580" start="25505">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236129">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="25540" id="16870721-216277" start="25537">p53</span>
+        </annotation>
+        <annotation id="16870721-405699">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="25543" id="16870721-405700" start="25540">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235699">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="25671" id="16870721-216283" start="25668">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236479">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="25693" id="16870721-216287" start="25690">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235339">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="25780" id="16870721-216295" start="25777">p53</span>
+        </annotation>
+        <annotation id="16870721-405701">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="25783" id="16870721-405702" start="25780">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235045">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26128" id="16870721-216319" start="26125">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235915">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26138" id="16870721-216321" start="26135">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236201">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26242" id="16870721-216325" start="26239">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235289">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26282" id="16870721-216329" start="26279">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236611">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26360" id="16870721-216337" start="26357">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235243">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26462" id="16870721-216349" start="26459">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236425">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26474" id="16870721-216353" start="26471">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235409">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26512" id="16870721-216355" start="26509">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236855">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26613" id="16870721-216363" start="26610">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236751">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26635" id="16870721-216365" start="26632">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236055">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26749" id="16870721-216379" start="26746">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236815">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26962" id="16870721-216393" start="26959">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236107">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27152" id="16870721-216399" start="27149">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235843">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27377" id="16870721-216427" start="27374">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235093">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27408" id="16870721-216431" start="27405">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235523">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27479" id="16870721-216437" start="27476">p53</span>
+        </annotation>
+        <annotation id="16870721-405703">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27482" id="16870721-405704" start="27479">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236087">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27573" id="16870721-216445" start="27570">p53</span>
+        </annotation>
+        <annotation id="16870721-407813">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27611" id="16870721-407814" start="27608">Cre</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235219">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27642" id="16870721-216453" start="27639">p53</span>
+        </annotation>
+        <annotation id="16870721-405705">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27645" id="16870721-405706" start="27642">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235837">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27900" id="16870721-216463" start="27897">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236253">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27918" id="16870721-216467" start="27915">p53</span>
+        </annotation>
+        <annotation id="16870721-407815">
+            <class id="http://purl.obolibrary.org/obo/PR_P06956" label="recombinase cre (Escherichia phage P1)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27956" id="16870721-407816" start="27953">Cre</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236655">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="27987" id="16870721-216475" start="27984">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236725">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28313" id="16870721-216495" start="28310">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236385">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28480" id="16870721-216501" start="28477">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235875">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28537" id="16870721-216505" start="28534">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236799">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28568" id="16870721-216509" start="28565">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235959">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28619" id="16870721-216515" start="28616">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236097">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28633" id="16870721-216519" start="28630">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235499">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28845" id="16870721-216523" start="28842">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236693">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28872" id="16870721-216529" start="28869">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236427">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28944" id="16870721-216535" start="28941">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236631">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28956" id="16870721-216537" start="28953">p53</span>
+        </annotation>
+        <annotation id="16870721-405707">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28959" id="16870721-405708" start="28956">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235489">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29065" id="16870721-216541" start="29062">p53</span>
+        </annotation>
+        <annotation id="16870721-405709">
+            <class id="http://purl.obolibrary.org/obo/PR_P42212" label="green fluorescent protein (Aequorea victoria)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29068" id="16870721-405710" start="29065">GFP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236667">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29125" id="16870721-216543" start="29122">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235937">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29196" id="16870721-216545" start="29193">p53</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236229">
+            <class id="http://purl.obolibrary.org/obo/PR_000003035" label="cellular tumor antigen p53" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29379" id="16870721-216553" start="29376">p53</span>
+        </annotation>
+    </document>
+</knowtator-project>

@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:craft="http://craftcorpus.org/"
   xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:obo="http://purl.obolibrary.org/obo/"
 >
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_metal_chelation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
+    <rdfs:label>occurrence/attribute of metal chelation</rdfs:label>
+    <obo:IAO_0000115>The formation of bonds from two or more atoms within the same ligand to a metal atom in complexes in which the metal is part of a ring; or, an attribute of such an occurrence, e.g., of participating in such an interaction.</obo:IAO_0000115>
+    <craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/MOP_0000604</craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>
+    <craft:annotatable_text>chelate; chelated; chelates; chelating; chelation; metal chelating; metal-chelating; metal chelation</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_unglycosylated">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
+    <rdfs:label>attribute of being unglycosylated</rdfs:label>
+    <obo:IAO_0000115>An attribute of something being unglycosylated.</obo:IAO_0000115>
+    <craft:has_entailed_absence_of_association_with_MOP_class>http://purl.obolibrary.org/obo/MOP_0000162</craft:has_entailed_absence_of_association_with_MOP_class>
+    <craft:annotatable_text>nonglycosylated; non-glycosylated; unglycosylated; un-glycosylated</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_dimethylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
+    <rdfs:label>occurrence/attribute of dimethylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of the addition of two methyl groups to a chemical moiety; or, an attribute of such an occurrence, e.g., of being, becoming, or having become altered in such an occurrence, or of altering a chemical moiety in such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_MOP_class>http://purl.obolibrary.org/obo/MOP_0000364</craft:has_deductively_entailed_MOP_class>
+    <craft:annotatable_text>dimethylate; dimethylates; dimethylated; dimethylating; dimethylation; dimethylations; di-methylate; di-methylates; di-methylated; di-methylating; di-methylation; di-methylations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_methylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
+    <rdfs:label>occurrence/attribute of methylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence in which a methyl group becomes covalently attached to a molecule; or, an attribute of such an occurrence, e.g., of having or having had a methyl become attached, or of bringing about such an occurrence.</obo:IAO_0000115>
+    <craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/MOP_0000364</craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>
+    <craft:annotatable_text>methylate; methylates; methylated; methylting; methylation; methylations</craft:annotatable_text>
+  </owl:Class>
   <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation">
     <rdfs:subPropertyOf>
       <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_MOP_class">
@@ -13,45 +41,39 @@
       </owl:AnnotationProperty>
     </rdfs:subPropertyOf>
   </owl:AnnotationProperty>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effector_of_oxidation">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
-    <craft:has_prototypically_entailed_MOP_class>http://purl.obolibrary.org/obo/MOP_0000568</craft:has_prototypically_entailed_MOP_class>
-    <rdfs:label>occurrence/attribute/effector of oxidation</rdfs:label>
-    <craft:annotatable_text>oxidant</craft:annotatable_text>
-    <obo:IAO_0000115>An occurrence or attribute of oxidation (i.e., of removing electrons from another reactant in a redox reaction); or, an oxidizing agent.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_methylation">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
-    <craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/MOP_0000364</craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>
-    <rdfs:label>occurrence/attribute of methylation</rdfs:label>
-    <craft:annotatable_text>methylate; methylates; methylated; methylting; methylation; methylations</craft:annotatable_text>
-    <obo:IAO_0000115>An occurrence in which a methyl group becomes covalently attached to a molecule; or, an attribute of such an occurrence, e.g., of having or having had a methyl become attached, or of bringing about such an occurrence.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_glycosylation">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
-    <craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/MOP_0000162</craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>
-    <rdfs:label>occurrence/attribute of glycosylation</rdfs:label>
-    <craft:annotatable_text>glycosylate; glycosylates; glycosylated; glycosylating; glycosylation; glycosylations</craft:annotatable_text>
-    <obo:IAO_0000115>An occurrence of glycosylation, i.e., the covalent attachment and further modification of carbohydrate residues to a substrate molecule; or, an attribute of such an occurrence, e.g., of being, becoming, or having become modified in such an occurrence.</obo:IAO_0000115>
-  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
+    <rdfs:label>annotatable text</rdfs:label>
+  </owl:AnnotationProperty>
   <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_trimethylation">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
     <rdfs:label>occurrence/attribute of trimethylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of the addition of three methyl groups to a chemical moiety; or, an attribute of such an occurrence, e.g., of being, becoming, or having become altered in such an occurrence, or of altering a chemical moiety in such an occurrence.</obo:IAO_0000115>
     <craft:has_deductively_entailed_MOP_class>http://purl.obolibrary.org/obo/MOP_0000364</craft:has_deductively_entailed_MOP_class>
     <craft:annotatable_text>trimethylate; trimethylates; trimethylated; trimethylating; trimethylation; trimethylations; tri-methylate; tri-methylates; tri-methylated; tri-methylating; tri-methylation; tri-methylations</craft:annotatable_text>
-    <obo:IAO_0000115>An occurrence of the addition of three methyl groups to a chemical moiety; or, an attribute of such an occurrence, e.g., of being, becoming, or having become altered in such an occurrence, or of altering a chemical moiety in such an occurrence.</obo:IAO_0000115>
   </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_metal_chelation">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
-    <craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/MOP_0000604</craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>
-    <rdfs:label>occurrence/attribute of metal chelation</rdfs:label>
-    <craft:annotatable_text>chelate; chelated; chelates; chelating; chelation; metal chelating; metal-chelating; metal chelation</craft:annotatable_text>
-    <obo:IAO_0000115>The formation of bonds from two or more atoms within the same ligand to a metal atom in complexes in which the metal is part of a ring; or, an attribute of such an occurrence, e.g., of participating in such an interaction.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
-    <rdfs:label>definition</rdfs:label>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_prototypically_entailed_MOP_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_MOP_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_MOP_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
   </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_glycosylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
+    <rdfs:label>occurrence/attribute of glycosylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of glycosylation, i.e., the covalent attachment and further modification of carbohydrate residues to a substrate molecule; or, an attribute of such an occurrence, e.g., of being, becoming, or having become modified in such an occurrence.</obo:IAO_0000115>
+    <craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/MOP_0000162</craft:has_substitutable_MOP_class_with_occurrence_or_attribute_interpretation>
+    <craft:annotatable_text>glycosylate; glycosylates; glycosylated; glycosylating; glycosylation; glycosylations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effector_of_oxidation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
+    <rdfs:label>occurrence/attribute/effector of oxidation</rdfs:label>
+    <obo:IAO_0000115>An occurrence or attribute of oxidation (i.e., of removing electrons from another reactant in a redox reaction); or, an oxidizing agent.</obo:IAO_0000115>
+    <craft:has_prototypically_entailed_MOP_class>http://purl.obolibrary.org/obo/MOP_0000568</craft:has_prototypically_entailed_MOP_class>
+    <craft:annotatable_text>oxidant</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
   <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_absence_of_association_with_MOP_class">
     <rdfs:subPropertyOf>
       <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_MOP_class">
@@ -62,43 +84,21 @@
   <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_covalent_association">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
     <rdfs:label>occurrence/attribute of covalent association</rdfs:label>
+    <obo:IAO_0000115>An occurrence or attribute of being covalently associated with something else.</obo:IAO_0000115>
     <craft:has_deductively_entailed_MOP_class>http://purl.obolibrary.org/obo/MOP_0000779</craft:has_deductively_entailed_MOP_class>
     <craft:annotatable_text>covalent interaction; covalent interactions; covalently interacting, covalent bonding; covalently bound; covalent attachment; covalent attachments; covalently attached</craft:annotatable_text>
-    <obo:IAO_0000115>An occurrence or attribute of being covalently associated with something else.</obo:IAO_0000115>
   </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_dimethylation">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
-    <rdfs:label>occurrence/attribute of dimethylation</rdfs:label>
-    <craft:has_deductively_entailed_MOP_class>http://purl.obolibrary.org/obo/MOP_0000364</craft:has_deductively_entailed_MOP_class>
-    <craft:annotatable_text>dimethylate; dimethylates; dimethylated; dimethylating; dimethylation; dimethylations; di-methylate; di-methylates; di-methylated; di-methylating; di-methylation; di-methylations</craft:annotatable_text>
-    <obo:IAO_0000115>An occurrence of the addition of two methyl groups to a chemical moiety; or, an attribute of such an occurrence, e.g., of being, becoming, or having become altered in such an occurrence, or of altering a chemical moiety in such an occurrence.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_unglycosylated">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_MOP_extension_class"/>
-    <craft:has_entailed_absence_of_association_with_MOP_class>http://purl.obolibrary.org/obo/MOP_0000162</craft:has_entailed_absence_of_association_with_MOP_class>
-    <rdfs:label>attribute of being unglycosylated</rdfs:label>
-    <craft:annotatable_text>nonglycosylated; non-glycosylated; unglycosylated; un-glycosylated</craft:annotatable_text>
-    <obo:IAO_0000115>An attribute of something being unglycosylated.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
-    <rdfs:label>annotatable text</rdfs:label>
+  <owl:Ontology rdf:about="http://craftcorpus.org/"/>
+  <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+    <rdfs:label>definition</rdfs:label>
   </owl:AnnotationProperty>
   <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_MOP_class">
-    <rdfs:subPropertyOf>
-      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_MOP_class">
-        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_MOP_class"/>
-      </owl:AnnotationProperty>
-    </rdfs:subPropertyOf>
-  </owl:AnnotationProperty>
-  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_prototypically_entailed_MOP_class">
     <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_entailed_MOP_class"/>
   </owl:AnnotationProperty>
-  <owl:Ontology rdf:about="http://craftcorpus.org/"/>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
   <owl:Class rdf:about="http://craftcorpus.org/CRAFT_MOP_extension_class">
     <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
     <rdfs:label>MOP extension class</rdfs:label>
   </owl:Class>
-  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
 </rdf:RDF>

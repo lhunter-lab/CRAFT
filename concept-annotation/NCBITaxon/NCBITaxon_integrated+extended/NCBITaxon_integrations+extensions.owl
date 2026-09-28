@@ -1,54 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:craft="http://craftcorpus.org/"
   xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:obo="http://purl.obolibrary.org/obo/"
 >
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_bacteriophage">
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_ungulate">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_10239</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>bacteriophage</rdfs:label>
-    <craft:annotatable_text>bacteriophage; bacteriophages; phage; phages</craft:annotatable_text>
-    <obo:IAO_0000115>A virus that can infect and replicate within bacteria.</obo:IAO_0000115>
+    <rdfs:label>ungulate</rdfs:label>
+    <obo:IAO_0000115>A hoofed mammal within the superorder Laurasiatheria, divided into the odd-toed ungulates of the order Perissodactyla (including equids, rhinoceroses, and tapirs) and, within the order Artiodactyla, the even-toed ungulates of the subtaxa Ancodonta (including hippopotamuses), Ruminantia (including bovids, cervids, chevrotains, giraffids, musk deer, and pronghorns), Suina (including peccaries and pigs), and Tylopoda (including camelids).</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_314145</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_2653790</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_35497</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9787</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9834</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9845</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>ungulate; ungulates</craft:annotatable_text>
   </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fish">
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_enterobian_or_strongyloidean_worm">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_7742</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_117565</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_117569</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_118072</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7777</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7878</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7898</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>fish</rdfs:label>
-    <craft:annotatable_text>fish; fishes</craft:annotatable_text>
-    <obo:IAO_0000115>An aquatic, anamniotic, gill-bearing vertebrate animal with a tough cranium to protect the brain but lacking limbs with digits. Fish are now considered a paraphyletic group, with extant species in the taxa Actinopterygii, Chondrichthyes, Coelicanthimorpha, Dipnomorpha, Hyperoartia, and Myxini.</obo:IAO_0000115>
+    <rdfs:label>enterobian or strongyloidean worm</rdfs:label>
+    <obo:IAO_0000115>A nematode worm of the genus Enterobius or the genus Strongyloides, each of which has subtaxa which can be referred to as pinworms.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_6236</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_51027</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_6247</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>pinworm; pinworms</craft:annotatable_text>
   </owl:Class>
-  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation">
-    <rdfs:subPropertyOf>
-      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_NCBITaxon_class">
-        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_entailed_NCBITaxon_class"/>
-      </owl:AnnotationProperty>
-    </rdfs:subPropertyOf>
-  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_yeast">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>yeast</rdfs:label>
+    <obo:IAO_0000115>Any species of fungus that grows primarily in a unicellular form and reproduces via budding or fission, substantially represented in the taxa Chaetothyriales (black yeasts), Saccharomycotina (true yeasts), and Schizosaccharomycetaceae (fission yeasts).</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_4751</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_147537</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_34395</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_4894</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>yeast; yeasts</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_coral">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>coral</rdfs:label>
+    <obo:IAO_0000115>A colonial marine intervertebrate within the subphylum Anthozoa of the phylum Cnidaria, typically forming compact colonies of many identical individual polyps. Coral species include important reef builders that inhabit tropical oceans and secrete calcium carbonate to form a hard skeleton.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_6101</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_6102</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_6132</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>coral; corals</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_ground_squirrel">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>ground squirrel</rdfs:label>
+    <obo:IAO_0000115>A member of any of the species commonly referred to as ground squirrels, within the Xerinae subfamily of squirrels and specifically from the subtaxa Ammospermophilus, Callospermophilus, Ictidomys, Notocitellus, Otospermophilus, Poliocitellus, Sciurotamias, Spermophilus, Urocitellus, Xerini, and Xerospermophilus. This extension class excludes the Xerinae subtaxa Marmota (members of which are typically referred to as marmots), Neotamias and Tamias (members of which are typically referred to as chipmunks), and Protoxerini (members of which are variously referred to as bush squirrels, giant squirrels, palm squirrels, pygmy squirrels, striped squirrels, or sun squirrels).</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_337726</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1048899</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141636</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141637</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141640</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141641</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141643</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141645</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_226848</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_337729</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_45485</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9996</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>ground squirrel; ground squirrels</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fruit_fly">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>fruit fly</rdfs:label>
+    <obo:IAO_0000115>A fly of either the genus Drosophila or of the family Tephritidae, each of which are referred to as fruit flies.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_43741</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7211</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7215</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>fruit fly; fruit flies</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_quail">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>quail</rdfs:label>
+    <obo:IAO_0000115>A member of any of the species within the taxonomic order Galliformes commonly referred to as quails; more specifically the New World quails are constituted by the family Odontophoridae, and the Old World quails are constituted by the genera Coturnix, Excalfactoria, Perdicula, and Synoicus within the family Phasianidae.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_8976</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1592579</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_224313</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_249171</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_2821314</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9090</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>quail; quails</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_HSV">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>HSV</rdfs:label>
+    <obo:IAO_0000115>One of herpes simplex virus 1 or 2 (HSV-1/HSV-2), of the genus Simplexvirus, each a common and contagious virus that can infect humans.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_10294</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_10298</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_10310</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>herpes simplex virus; herpes simplex viruses; HSV</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_chick">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>chick</rdfs:label>
+    <obo:IAO_0000115>A young bird.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_8782</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>chick; chicks</craft:annotatable_text>
+  </owl:Class>
   <owl:Class rdf:about="http://craftcorpus.org/CRAFT_mare">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9788</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
     <rdfs:label>mare</rdfs:label>
-    <craft:annotatable_text>mare; mares</craft:annotatable_text>
     <obo:IAO_0000115>An adult female horse or other equid.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_girl">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9606</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>girl</rdfs:label>
-    <craft:annotatable_text>girl; girls</craft:annotatable_text>
-    <obo:IAO_0000115>A female child.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9788</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>mare; mares</craft:annotatable_text>
   </owl:Class>
   <owl:Class rdf:about="http://craftcorpus.org/CRAFT_worm">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>worm</rdfs:label>
+    <obo:IAO_0000115>Any one of many different distantly related bilateral animals commonly referred to as worms, typically having long cylindrical tube-like bodies, no limbs, and no eyes.  Included in this grouping are the taxa Acanthocephala (thorny-headed worms), Annelida (segmented worms), Chaetognatha (arrow worms), Enteropneusta (acorn worms), Entoprocta (goblet worms), Gnathostomulida (jaw worms), Nematoda (nematodes/roundworms), Nematomorpha (horsehair worms), Nemertea (ribbon worms), Onychophora (velvet worms), Pentastomida (tongue worms), Phoronida (phoronid worms), Platyhelminthes (flatworms), Priapulida (priapulid worms), and Teredinidae (shipworms).</obo:IAO_0000115>
     <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_33213</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_10220</craft:has_subsumed_NCBITaxon_class>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_10229</craft:has_subsumed_NCBITaxon_class>
@@ -65,179 +128,22 @@
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_6340</craft:has_subsumed_NCBITaxon_class>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_66780</craft:has_subsumed_NCBITaxon_class>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7561</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>worm</rdfs:label>
     <craft:annotatable_text>worm; worms</craft:annotatable_text>
-    <obo:IAO_0000115>Any one of many different distantly related bilateral animals commonly referred to as worms, typically having long cylindrical tube-like bodies, no limbs, and no eyes.  Included in this grouping are the taxa Acanthocephala (thorny-headed worms), Annelida (segmented worms), Chaetognatha (arrow worms), Enteropneusta (acorn worms), Entoprocta (goblet worms), Gnathostomulida (jaw worms), Nematoda (nematodes/roundworms), Nematomorpha (horsehair worms), Nemertea (ribbon worms), Onychophora (velvet worms), Pentastomida (tongue worms), Phoronida (phoronid worms), Platyhelminthes (flatworms), Priapulida (priapulid worms), and Teredinidae (shipworms).</obo:IAO_0000115>
   </owl:Class>
   <owl:Class rdf:about="http://craftcorpus.org/CRAFT_jellyfish">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>jellyfish</rdfs:label>
+    <obo:IAO_0000115>A member of any of the subtaxa of the phylum Cnidaria commonly referred to as jellyfishes, and in particular of the subtaxa Cubozoa (the box jellyfishes), Scyphozoa (the true jellyfishes), and Staurozoa (the stalked jellyfishes).</obo:IAO_0000115>
     <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_6073</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1927913</craft:has_subsumed_NCBITaxon_class>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_6137</craft:has_subsumed_NCBITaxon_class>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_6142</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>jellyfish</rdfs:label>
     <craft:annotatable_text>jellyfish; jellyfishes</craft:annotatable_text>
-    <obo:IAO_0000115>A member of any of the subtaxa of the phylum Cnidaria commonly referred to as jellyfishes, and in particular of the subtaxa Cubozoa (the box jellyfishes), Scyphozoa (the true jellyfishes), and Staurozoa (the stalked jellyfishes).</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_quail">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_8976</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1592579</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_224313</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_249171</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_2821314</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9090</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>quail</rdfs:label>
-    <craft:annotatable_text>quail; quails</craft:annotatable_text>
-    <obo:IAO_0000115>A member of any of the species within the taxonomic order Galliformes commonly referred to as quails; more specifically the New World quails are constituted by the family Odontophoridae, and the Old World quails are constituted by the genera Coturnix, Excalfactoria, Perdicula, and Synoicus within the family Phasianidae.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_HIV">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_11646</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_11676</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_11709</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_12721</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>HIV</rdfs:label>
-    <craft:annotatable_text>HIV; human immunodeficiency virus</craft:annotatable_text>
-    <obo:IAO_0000115>One of several species of Lentivirus that infects humans, over time causing acquired immunodeficiency syndrome.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_pup">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_7742</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>pup</rdfs:label>
-    <craft:annotatable_text>pup; pups</craft:annotatable_text>
-    <obo:IAO_0000115>A young animal of one of a number of categories of vertebrates, including bats, canids, rodents, seals, and sharks.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_ungulate">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_314145</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_2653790</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_35497</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9787</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9834</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9845</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>ungulate</rdfs:label>
-    <craft:annotatable_text>ungulate; ungulates</craft:annotatable_text>
-    <obo:IAO_0000115>A hoofed mammal within the superorder Laurasiatheria, divided into the odd-toed ungulates of the order Perissodactyla (including equids, rhinoceroses, and tapirs) and, within the order Artiodactyla, the even-toed ungulates of the subtaxa Ancodonta (including hippopotamuses), Ruminantia (including bovids, cervids, chevrotains, giraffids, musk deer, and pronghorns), Suina (including peccaries and pigs), and Tylopoda (including camelids).</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_man">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9606</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>man</rdfs:label>
-    <craft:annotatable_text>man; men</craft:annotatable_text>
-    <obo:IAO_0000115>An adult male human.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_yeast">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_4751</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_147537</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_34395</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_4894</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>yeast</rdfs:label>
-    <craft:annotatable_text>yeast; yeasts</craft:annotatable_text>
-    <obo:IAO_0000115>Any species of fungus that grows primarily in a unicellular form and reproduces via budding or fission, substantially represented in the taxa Chaetothyriales (black yeasts), Saccharomycotina (true yeasts), and Schizosaccharomycetaceae (fission yeasts).</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_nonmammalian">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <rdfs:label>attribute of being nonmammalian</rdfs:label>
-    <craft:annotatable_text>nonmammalian; non-mammalian</craft:annotatable_text>
-    <craft:has_entailed_absence_of_association_with_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_40674</craft:has_entailed_absence_of_association_with_NCBITaxon_class>
-    <obo:IAO_0000115>An attribute of not being a mammal.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_calf">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_40674</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>calf</rdfs:label>
-    <craft:annotatable_text>calf; calves</craft:annotatable_text>
-    <obo:IAO_0000115>A young individual of any one of a number of types of mammals, including bovids, camels, cervids, cetaceans, elephants, giraffes, hippopotami, and rhinoceroses.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_monkey">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_314293</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9479</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9527</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>monkey</rdfs:label>
-    <craft:annotatable_text>monkey; monkeys</craft:annotatable_text>
-    <obo:IAO_0000115>A member of either the family Cercopithecidae (constituting the Old World monkeys) or the parvorder Playrrhini (constituting the New World monkeys).</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_carp">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_30727</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>carp</rdfs:label>
-    <craft:annotatable_text>carp; carps</craft:annotatable_text>
-    <obo:IAO_0000115>A fish of any one of numerous species of freshwater fish commonly referred to as carp from the suborder/superfamily Cyprinoidei, including species from the taxa Acrossocheilus, Barbodes, Carassius, Cyprinus, Gymnocypris, Hypselobarbus, Onychostoma, Probarbinae, Procypris, Psilorhychus, Tor, and Xenocypridinae.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_lamb">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9940</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>lamb</rdfs:label>
-    <craft:annotatable_text>lamb; lambs</craft:annotatable_text>
-    <obo:IAO_0000115>A young sheep, i.e., of the species Ovis aries.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_reptile">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_32561</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1294634</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_8459</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_8504</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>reptile</rdfs:label>
-    <craft:annotatable_text>reptile; reptiles; reptilian</craft:annotatable_text>
-    <obo:IAO_0000115>A member of one of the biological taxa Crocodylia (the crocodilians), Lepidosauria (the lizards, snakes, and tuatara), or Testudines (the turtles), all subtaxa of the clade Sauria (the diapsids).</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_chick">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_8782</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>chick</rdfs:label>
-    <craft:annotatable_text>chick; chicks</craft:annotatable_text>
-    <obo:IAO_0000115>A young bird.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_enterobian_or_strongyloidean_worm">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_6236</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_51027</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_6247</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>enterobian or strongyloidean worm</rdfs:label>
-    <craft:annotatable_text>pinworm; pinworms</craft:annotatable_text>
-    <obo:IAO_0000115>A nematode worm of the genus Enterobius or the genus Strongyloides, each of which has subtaxa which can be referred to as pinworms.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
-    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
-    <rdfs:label>annotatable text</rdfs:label>
-  </owl:AnnotationProperty>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_child">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9606</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>child</rdfs:label>
-    <craft:annotatable_text>child; children</craft:annotatable_text>
-    <obo:IAO_0000115>A person that has not reached adulthood.</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_ground_squirrel">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_337726</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1048899</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141636</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141637</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141640</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141641</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141643</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1141645</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_226848</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_337729</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_45485</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9996</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>ground squirrel</rdfs:label>
-    <craft:annotatable_text>ground squirrel; ground squirrels</craft:annotatable_text>
-    <obo:IAO_0000115>A member of any of the species commonly referred to as ground squirrels, within the Xerinae subfamily of squirrels and specifically from the subtaxa Ammospermophilus, Callospermophilus, Ictidomys, Notocitellus, Otospermophilus, Poliocitellus, Sciurotamias, Spermophilus, Urocitellus, Xerini, and Xerospermophilus. This extension class excludes the Xerinae subtaxa Marmota (members of which are typically referred to as marmots), Neotamias and Tamias (members of which are typically referred to as chipmunks), and Protoxerini (members of which are variously referred to as bush squirrels, giant squirrels, palm squirrels, pygmy squirrels, striped squirrels, or sun squirrels).</obo:IAO_0000115>
-  </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_woman">
-    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9606</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <rdfs:label>woman</rdfs:label>
-    <craft:annotatable_text>woman; women</craft:annotatable_text>
-    <obo:IAO_0000115>An adult female person.</obo:IAO_0000115>
   </owl:Class>
   <owl:Class rdf:about="http://craftcorpus.org/CRAFT_invertebrate">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>invertebrate</rdfs:label>
+    <obo:IAO_0000115>An animal that neither develops nor retains a vertebral column. The invertebrates include all animals excluding the chordate subphylum Vertebrata, i.e., the vertebrates. Well-known taxa of invertebrates include arthropods, mollusks, annelids, echinoderms, flatworms, cnidarians, and sponges.</obo:IAO_0000115>
     <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_33208</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_10197</craft:has_subsumed_NCBITaxon_class>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_10219</craft:has_subsumed_NCBITaxon_class>
@@ -249,59 +155,153 @@
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7586</craft:has_subsumed_NCBITaxon_class>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7712</craft:has_subsumed_NCBITaxon_class>
     <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7735</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>invertebrate</rdfs:label>
     <craft:annotatable_text>invertebrate; invertebrates</craft:annotatable_text>
-    <obo:IAO_0000115>An animal that neither develops nor retains a vertebral column. The invertebrates include all animals excluding the chordate subphylum Vertebrata, i.e., the vertebrates. Well-known taxa of invertebrates include arthropods, mollusks, annelids, echinoderms, flatworms, cnidarians, and sponges.</obo:IAO_0000115>
   </owl:Class>
-  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_absence_of_association_with_NCBITaxon_class">
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_woman">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>woman</rdfs:label>
+    <obo:IAO_0000115>An adult female person.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9606</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>woman; women</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_monkey">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>monkey</rdfs:label>
+    <obo:IAO_0000115>A member of either the family Cercopithecidae (constituting the Old World monkeys) or the parvorder Playrrhini (constituting the New World monkeys).</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_314293</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9479</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_9527</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>monkey; monkeys</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsumed_NCBITaxon_class">
     <rdfs:subPropertyOf>
       <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_NCBITaxon_class">
         <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_OBO_class"/>
       </owl:AnnotationProperty>
     </rdfs:subPropertyOf>
   </owl:AnnotationProperty>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fruit_fly">
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_carp">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_43741</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7211</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7215</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>fruit fly</rdfs:label>
-    <craft:annotatable_text>fruit fly; fruit flies</craft:annotatable_text>
-    <obo:IAO_0000115>A fly of either the genus Drosophila or of the family Tephritidae, each of which are referred to as fruit flies.</obo:IAO_0000115>
+    <rdfs:label>carp</rdfs:label>
+    <obo:IAO_0000115>A fish of any one of numerous species of freshwater fish commonly referred to as carp from the suborder/superfamily Cyprinoidei, including species from the taxa Acrossocheilus, Barbodes, Carassius, Cyprinus, Gymnocypris, Hypselobarbus, Onychostoma, Probarbinae, Procypris, Psilorhychus, Tor, and Xenocypridinae.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_30727</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>carp; carps</craft:annotatable_text>
   </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_coral">
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_pup">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_6101</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_6102</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_6132</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>coral</rdfs:label>
-    <craft:annotatable_text>coral; corals</craft:annotatable_text>
-    <obo:IAO_0000115>A colonial marine intervertebrate within the subphylum Anthozoa of the phylum Cnidaria, typically forming compact colonies of many identical individual polyps. Coral species include important reef builders that inhabit tropical oceans and secrete calcium carbonate to form a hard skeleton.</obo:IAO_0000115>
+    <rdfs:label>pup</rdfs:label>
+    <obo:IAO_0000115>A young animal of one of a number of categories of vertebrates, including bats, canids, rodents, seals, and sharks.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_7742</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>pup; pups</craft:annotatable_text>
   </owl:Class>
-  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_HSV">
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fish">
     <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
-    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_10294</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_10298</craft:has_subsumed_NCBITaxon_class>
-    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_10310</craft:has_subsumed_NCBITaxon_class>
-    <rdfs:label>HSV</rdfs:label>
-    <craft:annotatable_text>herpes simplex virus; herpes simplex viruses; HSV</craft:annotatable_text>
-    <obo:IAO_0000115>One of herpes simplex virus 1 or 2 (HSV-1/HSV-2), of the genus Simplexvirus, each a common and contagious virus that can infect humans.</obo:IAO_0000115>
+    <rdfs:label>fish</rdfs:label>
+    <obo:IAO_0000115>An aquatic, anamniotic, gill-bearing vertebrate animal with a tough cranium to protect the brain but lacking limbs with digits. Fish are now considered a paraphyletic group, with extant species in the taxa Actinopterygii, Chondrichthyes, Coelicanthimorpha, Dipnomorpha, Hyperoartia, and Myxini.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_7742</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_117565</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_117569</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_118072</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7777</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7878</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_7898</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>fish; fishes</craft:annotatable_text>
   </owl:Class>
-  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_reptile">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>reptile</rdfs:label>
+    <obo:IAO_0000115>A member of one of the biological taxa Crocodylia (the crocodilians), Lepidosauria (the lizards, snakes, and tuatara), or Testudines (the turtles), all subtaxa of the clade Sauria (the diapsids).</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_32561</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_1294634</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_8459</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_8504</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>reptile; reptiles; reptilian</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_child">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>child</rdfs:label>
+    <obo:IAO_0000115>A person that has not reached adulthood.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9606</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>child; children</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_bacteriophage">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>bacteriophage</rdfs:label>
+    <obo:IAO_0000115>A virus that can infect and replicate within bacteria.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_10239</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>bacteriophage; bacteriophages; phage; phages</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_absence_of_association_with_NCBITaxon_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_NCBITaxon_class"/>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_man">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>man</rdfs:label>
+    <obo:IAO_0000115>An adult male human.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9606</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>man; men</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_nonmammalian">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_40674</craft:has_entailed_absence_of_association_with_NCBITaxon_class>
+    <rdfs:label>attribute of being nonmammalian</rdfs:label>
+    <obo:IAO_0000115>An attribute of not being a mammal.</obo:IAO_0000115>
+    <craft:annotatable_text>nonmammalian; non-mammalian</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_girl">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>girl</rdfs:label>
+    <obo:IAO_0000115>A female child.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9606</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>girl; girls</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
+    <rdfs:label>annotatable text</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_HIV">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>HIV</rdfs:label>
+    <obo:IAO_0000115>One of several species of Lentivirus that infects humans, over time causing acquired immunodeficiency syndrome.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_11646</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_11676</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_11709</craft:has_subsumed_NCBITaxon_class>
+    <craft:has_subsumed_NCBITaxon_class>http://purl.obolibrary.org/obo/NCBITaxon_12721</craft:has_subsumed_NCBITaxon_class>
+    <craft:annotatable_text>HIV; human immunodeficiency virus</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_lamb">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>lamb</rdfs:label>
+    <obo:IAO_0000115>A young sheep, i.e., of the species Ovis aries.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_9940</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>lamb; lambs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_calf">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class"/>
+    <rdfs:label>calf</rdfs:label>
+    <obo:IAO_0000115>A young individual of any one of a number of types of mammals, including bovids, camels, cervids, cetaceans, elephants, giraffes, hippopotami, and rhinoceroses.</obo:IAO_0000115>
+    <craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>http://purl.obolibrary.org/obo/NCBITaxon_40674</craft:has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation>
+    <craft:annotatable_text>calf; calves</craft:annotatable_text>
+  </owl:Class>
   <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
     <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
     <rdfs:label>definition</rdfs:label>
   </owl:AnnotationProperty>
-  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsumed_NCBITaxon_class">
-    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_NCBITaxon_class"/>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsuming_NCBITaxon_class_with_organism_or_taxon_interpretation">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_NCBITaxon_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_entailed_NCBITaxon_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
   </owl:AnnotationProperty>
   <owl:Ontology rdf:about="http://craftcorpus.org/"/>
-  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_NCBITaxon_class">
-    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_NCBITaxon_class"/>
-  </owl:AnnotationProperty>
   <owl:Class rdf:about="http://craftcorpus.org/CRAFT_NCBITaxon_extension_class">
     <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
     <rdfs:label>NCBITaxon extension class</rdfs:label>
   </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_NCBITaxon_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_NCBITaxon_class"/>
+  </owl:AnnotationProperty>
   <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
 </rdf:RDF>

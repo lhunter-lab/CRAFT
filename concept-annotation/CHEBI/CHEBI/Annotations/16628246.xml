@@ -42,19 +42,19 @@
             <span end="2050" id="16628246-165300" start="2043">biology</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_219623">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_5386" label="globin" interpretation="GENE OR GENE PRODUCT"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_5386" label="globin" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="3105" id="16628246-165368" start="3099">globin</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_221731">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_5386" label="globin" interpretation="GENE OR GENE PRODUCT"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_5386" label="globin" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="3158" id="16628246-165374" start="3152">globin</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_221105">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_35143" label="hemoglobin" interpretation="GENE, GENE PRODUCT OR MACROMOLECULAR COMPLEX"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35143" label="hemoglobin" interpretation="GENE, TRANSCRIPT, PROTEIN OR MACROMOLECULAR COMPLEX"/>
             <span end="3181" id="16628246-19967" start="3170">haemoglobin</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_218517">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_35143" label="hemoglobin" interpretation="GENE, GENE PRODUCT OR MACROMOLECULAR COMPLEX"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35143" label="hemoglobin" interpretation="GENE, TRANSCRIPT, PROTEIN OR MACROMOLECULAR COMPLEX"/>
             <span end="3282" id="16628246-19971" start="3271">haemoglobin</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_220333">
@@ -94,7 +94,7 @@
             <span end="5258" id="16628246-20005" start="5251">protein</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_221845">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_5386" label="globin" interpretation="GENE OR GENE PRODUCT"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_5386" label="globin" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="5412" id="16628246-165575" start="5406">globin</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_220517">
@@ -126,15 +126,15 @@
             <span end="8306" id="16628246-20047" start="8299">protein</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_221863">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2\'-deoxyuridine"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
             <span end="9826" id="16628246-165998" start="9809">bromodeoxyuridine</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_217123">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2\'-deoxyuridine"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
             <span end="9832" id="16628246-166000" start="9828">BrdU</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_218033">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE OR GENE PRODUCT"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="10202" id="16628246-166044" start="10195">histone</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_218799">
@@ -178,7 +178,7 @@
             <span end="17728" id="16628246-20167" start="17724">dUTP</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_219019">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE OR GENE PRODUCT"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="18469" id="16628246-166777" start="18462">histone</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_222201">
@@ -246,7 +246,7 @@
             <span end="32563" id="16628246-168051" start="32558">basic</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_221989">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_5386" label="globin" interpretation="GENE OR GENE PRODUCT"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_5386" label="globin" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="34102" id="16628246-168177" start="34096">globin</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_218209">
@@ -342,7 +342,7 @@
             <span end="44882" id="16628246-169007" start="44875">phospho</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_219677">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE OR GENE PRODUCT"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="44898" id="16628246-169009" start="44891">histone</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_220239">
@@ -366,11 +366,11 @@
             <span end="46164" id="16628246-20401" start="46161">DNA</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_220597">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2\'-deoxyuridine"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
             <span end="46405" id="16628246-169113" start="46401">BrdU</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_217257">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2\'-deoxyuridine"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
             <span end="46516" id="16628246-169135" start="46512">BrdU</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_220525">
@@ -382,19 +382,19 @@
             <span end="46574" id="16628246-169139" start="46558">propidium iodide</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_219555">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2\'-deoxyuridine"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
             <span end="46650" id="16628246-169147" start="46646">BrdU</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_219249">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2\'-deoxyuridine"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
             <span end="46674" id="16628246-169153" start="46670">BrdU</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_221749">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2\'-deoxyuridine"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
             <span end="46711" id="16628246-169159" start="46707">BrdU</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_217697">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE OR GENE PRODUCT"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="47070" id="16628246-169201" start="47063">histone</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_220559">
@@ -446,11 +446,11 @@
             <span end="50758" id="16628246-20467" start="50747">nucleotides</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_220631">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2\'-deoxyuridine"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
             <span end="51261" id="16628246-169535" start="51257">BrdU</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_221189">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2\'-deoxyuridine"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
             <span end="51281" id="16628246-169537" start="51264">bromodeoxyuridine</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_218985">
@@ -534,7 +534,7 @@
             <span end="58543" id="16628246-170188" start="58539">DAPI</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_219415">
-            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE OR GENE PRODUCT"/>
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="58696" id="16628246-170206" start="58689">histone</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_219089">

@@ -1,0 +1,918 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15560850" text-file="15560850.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_104269">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5" id="15560850-89780" start="0">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104685">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="81" id="15560850-89784" start="76">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104859">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="138" id="15560850-6465" start="130">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104789">
+            <class id="http://craftcorpus.org/CRAFT_Hsc70" label="Hsc70"/>
+            <span end="145" id="15560850-89788" start="140">Hsc70</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104445">
+            <class id="http://craftcorpus.org/CRAFT_Hsp70" label="Hsp70"/>
+            <span end="151" id="15560850-89790" start="146">Hsp70</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104535">
+            <class id="http://purl.obolibrary.org/obo/PR_000002307" label="apoptosis regulator Bcl-2" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="209" id="15560850-89796" start="204">Bcl-2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104159">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="217" id="15560850-89798" start="214">Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105047">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="258" id="15560850-6469" start="251">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104927">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="317" id="15560850-89806" start="312">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104827">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="490" id="15560850-89818" start="485">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105209">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="608" id="15560850-89820" start="603">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104115">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="766" id="15560850-89832" start="761">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104263">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="784" id="15560850-89834" start="779">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104813">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="861" id="15560850-89842" start="856">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104243">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="874" id="15560850-89846" start="870">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104463">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="880" id="15560850-89848" start="875">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105195">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="914" id="15560850-89852" start="910">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104619">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="920" id="15560850-89854" start="915">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104277">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1006" id="15560850-89860" start="1001">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104347">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1043" id="15560850-89864" start="1038">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105241">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1132" id="15560850-89872" start="1127">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104805">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1150" id="15560850-89874" start="1146">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104265">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1156" id="15560850-89876" start="1151">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104015">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1252" id="15560850-89882" start="1247">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105285">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1307" id="15560850-89888" start="1302">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104675">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1329" id="15560850-89892" start="1324">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104759">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1514" id="15560850-89907" start="1509">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104947">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1623" id="15560850-89915" start="1618">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104473">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1674" id="15560850-89917" start="1671">Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105067">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1763" id="15560850-89921" start="1758">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104009">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="1792" id="15560850-6481" start="1785">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104831">
+            <class id="http://purl.obolibrary.org/obo/PR_000002307" label="apoptosis regulator Bcl-2" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1858" id="15560850-89929" start="1853">Bcl-2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104359">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="1874" id="15560850-6485" start="1867">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104635">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1915" id="15560850-89935" start="1910">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104761">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1975" id="15560850-89943" start="1970">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105051">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2017" id="15560850-89949" start="2012">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104187">
+            <class id="http://craftcorpus.org/CRAFT_Hsc70" label="Hsc70"/>
+            <span end="2057" id="15560850-89951" start="2052">Hsc70</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104487">
+            <class id="http://craftcorpus.org/CRAFT_Hsp70" label="Hsp70"/>
+            <span end="2067" id="15560850-89953" start="2062">Hsp70</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104623">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="2087" id="15560850-6491" start="2079">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104939">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="2132" id="15560850-6493" start="2124">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104321">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2221" id="15560850-89963" start="2216">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104195">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2328" id="15560850-89969" start="2323">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104593">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="2350" id="15560850-6497" start="2343">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104729">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2582" id="15560850-89998" start="2579">Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104879">
+            <class id="http://craftcorpus.org/CRAFT_ERK" label="ERK"/>
+            <span end="2595" id="15560850-6501" start="2592">ERK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104867">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2626" id="15560850-90006" start="2621">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105069">
+            <class id="http://purl.obolibrary.org/obo/PR_000004192" label="serine/threonine-protein kinase A-Raf" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2635" id="15560850-90008" start="2633">A-</span>
+            <span end="2645" id="15560850-90009" start="2642">Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104443">
+            <class id="http://purl.obolibrary.org/obo/PR_000004801" label="B-Raf proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2645" id="15560850-90011" start="2640">B-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104621">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2784" id="15560850-90019" start="2779">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105261">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2809" id="15560850-90023" start="2804">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105259">
+            <class id="http://purl.obolibrary.org/obo/PR_000004801" label="B-Raf proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2837" id="15560850-90025" start="2832">B-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104451">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2916" id="15560850-90031" start="2911">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104777">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="3089" id="15560850-90043" start="3084">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105013">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="3360" id="15560850-90051" start="3355">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105171">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="3557" id="15560850-90077" start="3552">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104375">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="3670" id="15560850-90083" start="3665">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104411">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="3846" id="15560850-90105" start="3841">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104565">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4179" id="15560850-90129" start="4174">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_103999">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4234" id="15560850-90133" start="4229">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104607">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4457" id="15560850-90151" start="4452">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105083">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4563" id="15560850-90155" start="4559">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104307">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4569" id="15560850-90157" start="4564">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104571">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4623" id="15560850-90167" start="4618">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105141">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4729" id="15560850-90169" start="4724">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104211">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4961" id="15560850-90189" start="4956">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104273">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="5033" id="15560850-6527" start="5026">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105275">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="5069" id="15560850-6529" start="5062">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104649">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="5099" id="15560850-6531" start="5092">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104911">
+            <class id="http://craftcorpus.org/CRAFT_glyceraldehyde_3_phosphate_dehydrogenase" label="glyceraldehyde-3-phosphate dehydrogenase"/>
+            <span end="5384" id="15560850-90213" start="5345">glyceraldehyde 3 phosphate dehydrogense</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105143">
+            <class id="http://purl.obolibrary.org/obo/PR_000026878" label="caspase-3 complex"/>
+            <span end="5793" id="15560850-90229" start="5774">activated caspase-3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104863">
+            <class id="http://craftcorpus.org/CRAFT_ERK" label="ERK"/>
+            <span end="5806" id="15560850-6537" start="5803">ERK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104393">
+            <class id="http://craftcorpus.org/CRAFT_ERK" label="ERK"/>
+            <span end="5845" id="15560850-6539" start="5808">extracellular signal-regulated kinase</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105253">
+            <class id="http://purl.obolibrary.org/obo/PR_000012421" label="proliferating cell nuclear antigen" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5852" id="15560850-90245" start="5848">PCNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104247">
+            <class id="http://purl.obolibrary.org/obo/PR_000012421" label="proliferating cell nuclear antigen" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5888" id="15560850-90249" start="5854">proliferating cell nuclear antigen</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104141">
+            <class id="http://purl.obolibrary.org/obo/PR_000012421" label="proliferating cell nuclear antigen" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5941" id="15560850-90257" start="5937">PCNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104967">
+            <class id="http://craftcorpus.org/CRAFT_ERK" label="ERK"/>
+            <span end="5951" id="15560850-6545" start="5948">ERK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104329">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6159" id="15560850-90269" start="6154">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104921">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6188" id="15560850-90271" start="6183">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104437">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6258" id="15560850-90273" start="6253">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104633">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6317" id="15560850-90279" start="6312">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104949">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6342" id="15560850-90281" start="6337">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104881">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6491" id="15560850-90297" start="6486">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104467">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="6651" id="15560850-6553" start="6644">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105127">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6669" id="15560850-90311" start="6664">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104555">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6725" id="15560850-90315" start="6720">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105063">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="6733" id="15560850-6555" start="6726">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105057">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6852" id="15560850-90331" start="6847">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104885">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6909" id="15560850-90337" start="6904">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105281">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7053" id="15560850-90349" start="7048">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104945">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7066" id="15560850-90353" start="7062">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104147">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7072" id="15560850-90355" start="7067">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104773">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7191" id="15560850-90363" start="7186">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104401">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7210" id="15560850-90365" start="7205">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104503">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7257" id="15560850-90367" start="7252">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104951">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7276" id="15560850-90369" start="7271">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104681">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7394" id="15560850-90375" start="7389">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104683">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7422" id="15560850-90385" start="7418">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104011">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7428" id="15560850-90387" start="7423">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104189">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7456" id="15560850-90389" start="7451">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104239">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7529" id="15560850-90397" start="7524">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104625">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7584" id="15560850-90403" start="7579">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104769">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7708" id="15560850-90407" start="7704">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105149">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7714" id="15560850-90409" start="7709">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104549">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7724" id="15560850-90411" start="7719">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105247">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7736" id="15560850-90417" start="7732">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105157">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7742" id="15560850-90419" start="7737">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104523">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7752" id="15560850-90421" start="7747">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105229">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8009" id="15560850-90443" start="8004">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104577">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8061" id="15560850-90447" start="8056">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104723">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8085" id="15560850-90449" start="8080">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104589">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8105" id="15560850-90453" start="8100">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105201">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8187" id="15560850-90457" start="8182">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105095">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="8195" id="15560850-6563" start="8188">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105101">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8231" id="15560850-90463" start="8226">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104609">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8268" id="15560850-90471" start="8263">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104291">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8356" id="15560850-90477" start="8351">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104909">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8448" id="15560850-90483" start="8443">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104507">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8477" id="15560850-90485" start="8473">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104529">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8492" id="15560850-90487" start="8487">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104891">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8504" id="15560850-90493" start="8500">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104745">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8519" id="15560850-90495" start="8514">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104525">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8552" id="15560850-90505" start="8547">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104475">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8660" id="15560850-90513" start="8655">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105175">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="8668" id="15560850-6569" start="8661">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105189">
+            <class id="http://purl.obolibrary.org/obo/PR_000026878" label="caspase-3 complex"/>
+            <span end="8812" id="15560850-90527" start="8793">activated caspase-3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104157">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8900" id="15560850-90533" start="8896">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104705">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8906" id="15560850-90535" start="8901">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104085">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8944" id="15560850-90539" start="8939">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104169">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9012" id="15560850-90545" start="9007">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104213">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9110" id="15560850-90559" start="9105">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105059">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9118" id="15560850-90565" start="9114">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104209">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9124" id="15560850-90567" start="9119">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104103">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9158" id="15560850-90571" start="9154">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105137">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9164" id="15560850-90573" start="9159">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104673">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9174" id="15560850-90575" start="9169">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104719">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9239" id="15560850-90581" start="9234">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104083">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9335" id="15560850-90589" start="9330">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104853">
+            <class id="http://purl.obolibrary.org/obo/PR_000026878" label="caspase-3 complex"/>
+            <span end="9402" id="15560850-90595" start="9383">activated caspase-3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105061">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9527" id="15560850-90605" start="9522">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104373">
+            <class id="http://craftcorpus.org/CRAFT_ERK" label="ERK"/>
+            <span end="9591" id="15560850-6579" start="9588">ERK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104229">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9626" id="15560850-90621" start="9621">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105197">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9716" id="15560850-90625" start="9711">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104069">
+            <class id="http://purl.obolibrary.org/obo/PR_000012421" label="proliferating cell nuclear antigen" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9851" id="15560850-90637" start="9821">proliferating cellular antigen</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104003">
+            <class id="http://purl.obolibrary.org/obo/PR_000012421" label="proliferating cell nuclear antigen" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9857" id="15560850-90643" start="9853">PCNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104421">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9969" id="15560850-90649" start="9965">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104219">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9975" id="15560850-90651" start="9970">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104033">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10023" id="15560850-90657" start="10018">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104397">
+            <class id="http://purl.obolibrary.org/obo/PR_000010425" label="proliferation marker protein Ki-67" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10097" id="15560850-90661" start="10092">Ki-67</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105231">
+            <class id="http://purl.obolibrary.org/obo/PR_000004770" label="Polycomb complex protein BMI-1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10137" id="15560850-90667" start="10132">Bmi-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105227">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="10169" id="15560850-6589" start="10162">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105037">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10225" id="15560850-90679" start="10220">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104605">
+            <class id="http://craftcorpus.org/CRAFT_ERK" label="ERK"/>
+            <span end="10315" id="15560850-6593" start="10312">ERK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104845">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10376" id="15560850-90687" start="10372">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105085">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10382" id="15560850-90689" start="10377">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105153">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10430" id="15560850-90695" start="10425">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104047">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10523" id="15560850-90702" start="10518">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104153">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10794" id="15560850-90716" start="10789">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104403">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="10807" id="15560850-6599" start="10800">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104261">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11138" id="15560850-90728" start="11133">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104767">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11288" id="15560850-90738" start="11283">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104383">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11309" id="15560850-90740" start="11304">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105257">
+            <class id="http://craftcorpus.org/CRAFT_Hsc70" label="Hsc70"/>
+            <span end="11318" id="15560850-90742" start="11313">Hsc70</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105073">
+            <class id="http://craftcorpus.org/CRAFT_Hsp70" label="Hsp70"/>
+            <span end="11324" id="15560850-90744" start="11319">Hsp70</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104045">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11434" id="15560850-90746" start="11429">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104425">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11478" id="15560850-90750" start="11473">BAG-1</span>
+        </annotation>
+        <annotation id="15560850-406983">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11520" id="15560850-406984" start="11515">BAG-1</span>
+        </annotation>
+        <annotation id="15560850-406977">
+            <class id="http://purl.obolibrary.org/obo/PR_000025855" label="BAG family molecular chaperone regulator 1 isoform BAG-1L" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11525" id="15560850-406978" start="11522">p50</span>
+        </annotation>
+        <annotation id="15560850-406979">
+            <class id="http://purl.obolibrary.org/obo/PR_000025856" label="BAG family molecular chaperone regulator 1 isoform BAG-1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11533" id="15560850-406980" start="11530">p32</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104597">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="11555" id="15560850-6607" start="11548">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105251">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11614" id="15560850-90766" start="11609">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104447">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11682" id="15560850-90774" start="11677">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104301">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11824" id="15560850-90782" start="11819">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105279">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11859" id="15560850-90784" start="11854">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104365">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11931" id="15560850-90790" start="11926">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104441">
+            <class id="http://purl.obolibrary.org/obo/PR_000002184" label="Bcl2-associated agonist of cell death" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11975" id="15560850-90794" start="11972">BAD</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105283">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12029" id="15560850-90798" start="12024">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104665">
+            <class id="http://craftcorpus.org/CRAFT_Hsp70" label="Hsp70"/>
+            <span end="12094" id="15560850-90804" start="12089">Hsp70</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_103995">
+            <class id="http://purl.obolibrary.org/obo/PR_000025350" label="HSPC protein" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12153" id="15560850-90810" start="12148">Hsp90</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104603">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12194" id="15560850-90812" start="12189">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104697">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12480" id="15560850-90820" start="12475">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104035">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12633" id="15560850-90828" start="12628">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104065">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12724" id="15560850-90838" start="12719">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105065">
+            <class id="http://craftcorpus.org/CRAFT_Hsc70" label="Hsc70"/>
+            <span end="12829" id="15560850-90854" start="12824">Hsc70</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104063">
+            <class id="http://craftcorpus.org/CRAFT_Hsp70" label="Hsp70"/>
+            <span end="12835" id="15560850-90856" start="12830">Hsp70</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105191">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12921" id="15560850-90858" start="12916">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104419">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="12967" id="15560850-6625" start="12959">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105031">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12992" id="15560850-90866" start="12987">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105205">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14075" id="15560850-90876" start="14070">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105221">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14108" id="15560850-90878" start="14103">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105271">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14162" id="15560850-90882" start="14158">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104409">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14168" id="15560850-90884" start="14163">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104111">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14184" id="15560850-90888" start="14179">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105219">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14204" id="15560850-90894" start="14199">Bag-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104583">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14242" id="15560850-90896" start="14237">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104837">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14640" id="15560850-90920" start="14636">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104877">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14646" id="15560850-90922" start="14641">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104381">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14685" id="15560850-90930" start="14680">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104713">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14710" id="15560850-90932" start="14705">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104299">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14771" id="15560850-90934" start="14766">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104349">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14802" id="15560850-90940" start="14798">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104725">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14808" id="15560850-90942" start="14803">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104333">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14891" id="15560850-90950" start="14886">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104493">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14924" id="15560850-90954" start="14920">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104055">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14930" id="15560850-90956" start="14925">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104095">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14999" id="15560850-90970" start="14994">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104889">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15059" id="15560850-90972" start="15054">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105001">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15081" id="15560850-90976" start="15076">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105049">
+            <class id="http://craftcorpus.org/CRAFT_glyceraldehyde_3_phosphate_dehydrogenase" label="glyceraldehyde-3-phosphate dehydrogenase"/>
+            <span end="15282" id="15560850-90994" start="15277">GAPDH</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104101">
+            <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
+            <span end="15305" id="15560850-6629" start="15298">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104091">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15350" id="15560850-90998" start="15345">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104757">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15373" id="15560850-91000" start="15369">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104801">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15379" id="15560850-91002" start="15374">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105111">
+            <class id="http://purl.obolibrary.org/obo/PR_000012421" label="proliferating cell nuclear antigen" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15473" id="15560850-91014" start="15469">PCNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104587">
+            <class id="http://craftcorpus.org/CRAFT_ERK" label="ERK"/>
+            <span end="15483" id="15560850-6631" start="15480">ERK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105045">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15506" id="15560850-91022" start="15502">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104785">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15532" id="15560850-91026" start="15527">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104971">
+            <class id="http://purl.obolibrary.org/obo/PR_000026878" label="caspase-3 complex"/>
+            <span end="15668" id="15560850-91034" start="15649">activated caspase-3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104385">
+            <class id="http://purl.obolibrary.org/obo/PR_000012421" label="proliferating cell nuclear antigen" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15678" id="15560850-91036" start="15674">PCNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104119">
+            <class id="http://craftcorpus.org/CRAFT_ERK" label="ERK"/>
+            <span end="15705" id="15560850-6635" start="15702">ERK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104861">
+            <class id="http://craftcorpus.org/CRAFT_ERK" label="ERK"/>
+            <span end="15712" id="15560850-6637" start="15709">ERK</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105235">
+            <class id="http://purl.obolibrary.org/obo/PR_000014774" label="surfactant protein C" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15755" id="15560850-91048" start="15751">SP-C</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105089">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15761" id="15560850-91050" start="15756">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104105">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15804" id="15560850-91056" start="15799">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_105053">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15976" id="15560850-91064" start="15971">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104379">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15986" id="15560850-91066" start="15981">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104221">
+            <class id="http://purl.obolibrary.org/obo/PR_000004619" label="BAG family molecular chaperone regulator 1" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16107" id="15560850-91068" start="16102">BAG-1</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104021">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16142" id="15560850-91070" start="16137">C-Raf</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_104871">
+            <class id="http://purl.obolibrary.org/obo/PR_000003244" label="RAF proto-oncogene serine/threonine-protein kinase" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16214" id="15560850-91076" start="16209">C-Raf</span>
+        </annotation>
+    </document>
+</knowtator-project>
