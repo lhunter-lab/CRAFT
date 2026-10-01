@@ -38,11 +38,11 @@
 
 **MOLECULAR ENTITY OR SUBSTITUENT GROUP:** Indicates that the annotation class can be interpreted as referring to either molecular entities (i.e., separately distinguishable chemical entities, e.g., an alanine molecule) or to corresponding substituent groups (e.g., alanyl group, alanine residue).
 
-- amino acid (`CHEBI_33709`) and its subclasses other than non-proteinogenic amino acid (`CHEBI_83820`) and its subclasses AND that are an object of an `is_substituent_group_from` assertion
-- nucleobase (`CHEBI_18282`) and its subclasses AND that are an object of an `is_substituent_group_from` assertion
-- nucleoside (`CHEBI_33838`) and its subclasses AND that are an object of an `is_substituent_group_from` assertion
-- nucleotide (`CHEBI_36976`) and its subclasses AND that are an object of an `is_substituent_group_from` assertion
-- polynucleotide (`CHEBI_15986`) and its subclasses AND that are an object of an `is_substituent_group_from` assertion
+- amino acid (`CHEBI_33709`) and its subclasses other than non-proteinogenic amino acid (`CHEBI_83820`) and its subclasses AND that are an object of an `is_substituent_group` from assertion
+- nucleobase (`CHEBI_18282`) and its subclasses AND that are an object of an `is_substituent_group` from assertion
+- nucleoside (`CHEBI_33838`) and its subclasses AND that are an object of an `is_substituent_group` from assertion
+- nucleotide (`CHEBI_36976`) and its subclasses AND that are an object of an `is_substituent_group` from assertion
+- polynucleotide (`CHEBI_15986`) and its subclasses AND that are an object of an `is_substituent_group` from assertion
 
 Excluded are:
 
@@ -82,6 +82,6 @@ But included are:
 - biophysical role (`CHEBI_52208`)
 - chemical role (`CHEBI_51086`)
 
-**ROLE-BEARING ENTITY:** Indicates that the annotation class is be interpreted as referring to the bearers of the specified roles rather than the functionalities possessed by these bearers.
+**ROLE-BEARING ENTITY:** Indicates that the annotation class is to be interpreted as referring to the bearers of the specified roles rather than the functionalities possessed by these bearers.
 
 - subclasses of application (`CHEBI_33232`), biological role (`CHEBI_24432`), and chemical role (`CHEBI_51086`) other than biochemical role (`CHEBI_52206`) and biophysical role (`CHEBI_52208`)
