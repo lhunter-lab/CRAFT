@@ -1,2 +1,3 @@
-ORGANISM OR TAXON: Indicates that the annotation class can be interpreted as referring to a biological taxon (e.g., the class Mammalia) or to the kind of organism that constitutes the taxon (e.g., mammal).
-	•	all subclasses of root (NCBITaxon_1)
+**ORGANISM OR TAXON**: Indicates that the annotation class can be interpreted as referring to a biological taxon (e.g., the class Mammalia) or to the kind of organism that constitutes the taxon (e.g., mammal).
+
+- all subclasses of root (NCBITaxon_1)
