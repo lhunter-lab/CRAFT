@@ -1,0 +1,630 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15061865" text-file="15061865.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_67693">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="21" id="15061865-236168" start="0">Dopamine D2 receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67249">
+            <class id="http://purl.obolibrary.org/obo/PR_000001107" label="D(1)-like dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="480" id="15061865-236202" start="473">D1-like</span>
+            <span end="501" id="15061865-236203" start="492">receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67101">
+            <class id="http://purl.obolibrary.org/obo/PR_000001108" label="D(2)-like dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="501" id="15061865-236205" start="484">D2-like receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67245">
+            <class id="http://purl.obolibrary.org/obo/PR_000001107" label="D(1)-like dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="540" id="15061865-236209" start="523">D1-like receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67025">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="641" id="15061865-236217" start="629">D2 receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68489">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="717" id="15061865-236223" start="697">dopamine D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67877">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="866" id="15061865-236236" start="845">dopamine D2 receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67829">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1185" id="15061865-236254" start="1165">dopamine D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67879">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1465" id="15061865-236274" start="1445">dopamine D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68031">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1732" id="15061865-236288" start="1712">dopamine D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67013">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="1972" id="15061865-236300" start="1951">dopamine D2 receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67503">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2130" id="15061865-236308" start="2110">dopamine D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67149">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="2351" id="15061865-236320" start="2331">dopamine D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68127">
+            <class id="http://craftcorpus.org/CRAFT_G_protein_coupled_receptor" label="G-protein coupled receptor"/>
+            <span end="4198" id="15061865-236389" start="4171">G-protein coupled receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68549">
+            <class id="http://purl.obolibrary.org/obo/PR_000001107" label="D(1)-like dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4231" id="15061865-236393" start="4223">D-1 like</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67741">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4237" id="15061865-236395" start="4233">D1aR</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67361">
+            <class id="http://purl.obolibrary.org/obo/PR_000001176" label="D(1B) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4240" id="15061865-236397" start="4239">D</span>
+            <span end="4245" id="15061865-236398" start="4243">5R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68163">
+            <class id="http://purl.obolibrary.org/obo/PR_000001176" label="D(1B) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4242" id="15061865-236400" start="4239">D1b</span>
+            <span end="4245" id="15061865-236401" start="4244">R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67723">
+            <class id="http://purl.obolibrary.org/obo/PR_000001108" label="D(2)-like dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4258" id="15061865-236403" start="4250">D-2 like</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67409">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4263" id="15061865-236405" start="4260">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68303">
+            <class id="http://purl.obolibrary.org/obo/PR_000001178" label="D(3) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4268" id="15061865-236407" start="4265">D3R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67299">
+            <class id="http://purl.obolibrary.org/obo/PR_000001179" label="D(4) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4273" id="15061865-236409" start="4270">D4R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67717">
+            <class id="http://purl.obolibrary.org/obo/PR_000001107" label="D(1)-like dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4412" id="15061865-236421" start="4405">D1-like</span>
+            <span end="4434" id="15061865-236422" start="4425">receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67137">
+            <class id="http://purl.obolibrary.org/obo/PR_000001108" label="D(2)-like dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4434" id="15061865-236424" start="4417">D2-like receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67721">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4656" id="15061865-236438" start="4643">dopamine D1Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66927">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="4892" id="15061865-236454" start="4889">D1R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67785">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5093" id="15061865-236464" start="5081">dopamine D1R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67331">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5207" id="15061865-236472" start="5204">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68073">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5318" id="15061865-236480" start="5315">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67265">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5733" id="15061865-236503" start="5720">dopamine D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68515">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="5942" id="15061865-236511" start="5939">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67761">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6104" id="15061865-236519" start="6093">D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67607">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6176" id="15061865-236527" start="6172">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67247">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6315" id="15061865-236536" start="6303">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67205">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6365" id="15061865-236542" start="6353">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67337">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6988" id="15061865-236568" start="6985">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67521">
+            <class id="http://purl.obolibrary.org/obo/PR_000001178" label="D(3) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="6992" id="15061865-236570" start="6989">D3R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68553">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7230" id="15061865-236586" start="7218">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67047">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7350" id="15061865-236592" start="7347">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67267">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7519" id="15061865-236600" start="7499">dopamine D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67595">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7707" id="15061865-236615" start="7686">dopamine D2 receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68511">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7712" id="15061865-236619" start="7709">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67537">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7746" id="15061865-236627" start="7743">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68419">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="7912" id="15061865-236641" start="7900">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67539">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8187" id="15061865-236657" start="8184">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66947">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8265" id="15061865-236667" start="8262">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67235">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8276" id="15061865-236673" start="8273">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68523">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="8982" id="15061865-236705" start="8979">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68573">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9108" id="15061865-236713" start="9105">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68305">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9254" id="15061865-236721" start="9251">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67689">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9537" id="15061865-236743" start="9516">dopamine D2 receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66969">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9650" id="15061865-236749" start="9647">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66915">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="9848" id="15061865-236759" start="9845">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68381">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10229" id="15061865-236773" start="10226">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67581">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10262" id="15061865-236781" start="10259">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68455">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10295" id="15061865-236789" start="10292">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67583">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10345" id="15061865-236797" start="10342">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67039">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10417" id="15061865-236805" start="10414">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67251">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10428" id="15061865-236811" start="10425">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67471">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10728" id="15061865-236823" start="10725">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68045">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="10756" id="15061865-236831" start="10753">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67169">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11154" id="15061865-236841" start="11151">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67413">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11349" id="15061865-236851" start="11346">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67153">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11387" id="15061865-236859" start="11384">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67365">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11459" id="15061865-236867" start="11456">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68435">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11761" id="15061865-236879" start="11741">dopamine D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68367">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="11844" id="15061865-236888" start="11841">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68313">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12133" id="15061865-236906" start="12130">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66945">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12251" id="15061865-236914" start="12248">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68315">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12395" id="15061865-236920" start="12392">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68197">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12528" id="15061865-236934" start="12515">dopamine D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68269">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12625" id="15061865-236942" start="12613">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67067">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="12897" id="15061865-236954" start="12894">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68565">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13132" id="15061865-236965" start="13128">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68011">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13244" id="15061865-236971" start="13241">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67615">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13306" id="15061865-236979" start="13302">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67719">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13528" id="15061865-236987" start="13515">dopamine D1Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67257">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13576" id="15061865-236991" start="13563">dopamine D1Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68545">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13617" id="15061865-236997" start="13613">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66941">
+            <class id="http://purl.obolibrary.org/obo/PR_000001178" label="D(3) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13734" id="15061865-237006" start="13724">dopamine D</span>
+            <span end="13737" id="15061865-237007" start="13736">3</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67305">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13735" id="15061865-237009" start="13724">dopamine D2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67749">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13948" id="15061865-237021" start="13945">D1R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67239">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="13955" id="15061865-237023" start="13952">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67419">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14165" id="15061865-237027" start="14162">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67019">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14247" id="15061865-237031" start="14244">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67933">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14390" id="15061865-237038" start="14387">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67447">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14502" id="15061865-237046" start="14499">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67711">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14744" id="15061865-237058" start="14731">dopamine D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68291">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="14828" id="15061865-237060" start="14824">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67473">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15149" id="15061865-237072" start="15145">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67545">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15328" id="15061865-237080" start="15325">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68179">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15485" id="15061865-237088" start="15481">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67551">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15611" id="15061865-237094" start="15608">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67483">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15904" id="15061865-237108" start="15900">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68581">
+            <class id="http://purl.obolibrary.org/obo/PR_000001178" label="D(3) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15910" id="15061865-237110" start="15906">D3Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67269">
+            <class id="http://purl.obolibrary.org/obo/PR_000001179" label="D(4) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="15920" id="15061865-237112" start="15916">D4Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67499">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16482" id="15061865-237130" start="16479">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67835">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16493" id="15061865-237136" start="16490">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66925">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16562" id="15061865-237144" start="16559">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68411">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16701" id="15061865-237150" start="16698">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68397">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16810" id="15061865-237158" start="16806">drd2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67223">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16866" id="15061865-237162" start="16863">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67417">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="16932" id="15061865-237170" start="16929">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67435">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17117" id="15061865-237186" start="17103">dopamine D2R's</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67547">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17376" id="15061865-237211" start="17372">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68039">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17632" id="15061865-237227" start="17629">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68547">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17712" id="15061865-237239" start="17700">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67715">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17830" id="15061865-237247" start="17827">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68105">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="17854" id="15061865-237255" start="17851">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66977">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18052" id="15061865-237265" start="18049">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67819">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18169" id="15061865-237277" start="18166">D1R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67983">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18204" id="15061865-237281" start="18201">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68041">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18283" id="15061865-237291" start="18270">dopamine D1Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68089">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18804" id="15061865-237301" start="18801">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67769">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="18996" id="15061865-237315" start="18984">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68205">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19681" id="15061865-237345" start="19678">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68309">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19777" id="15061865-237357" start="19765">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67459">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19942" id="15061865-237365" start="19929">dopamine D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67157">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="19952" id="15061865-237367" start="19949">D1R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68063">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20091" id="15061865-237371" start="20088">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67197">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20429" id="15061865-237397" start="20417">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67787">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20743" id="15061865-237411" start="20740">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67139">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="20879" id="15061865-237417" start="20876">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66971">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="21016" id="15061865-237429" start="21012">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68369">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="21236" id="15061865-237447" start="21223">dopamine D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67307">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="21378" id="15061865-237451" start="21374">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67961">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="21740" id="15061865-237465" start="21727">dopamine D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68207">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="22057" id="15061865-237483" start="22045">dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68383">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="22167" id="15061865-237489" start="22164">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67173">
+            <class id="http://purl.obolibrary.org/obo/PR_000001175" label="D(1A) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="22274" id="15061865-237499" start="22262">dopamine D1R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67939">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="22483" id="15061865-237507" start="22480">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67439">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="22575" id="15061865-237515" start="22571">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68507">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="23882" id="15061865-237552" start="23870">Dopamine D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67617">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="23893" id="15061865-237558" start="23890">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67995">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="26565" id="15061865-237634" start="26552">dopamine D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68071">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28493" id="15061865-237662" start="28472">dopamine D2 receptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67867">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="28750" id="15061865-237682" start="28747">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67831">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29153" id="15061865-237704" start="29133">Dopamine D2 receptor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68129">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29263" id="15061865-237714" start="29260">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68055">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29317" id="15061865-237722" start="29314">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67821">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29503" id="15061865-237730" start="29500">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67531">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29739" id="15061865-237744" start="29736">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67611">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29750" id="15061865-237750" start="29747">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67813">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29808" id="15061865-237760" start="29805">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67767">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29897" id="15061865-237768" start="29894">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67863">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="29955" id="15061865-237778" start="29952">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68201">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30039" id="15061865-237786" start="30036">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67475">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30110" id="15061865-237794" start="30107">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67739">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30259" id="15061865-237806" start="30255">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67109">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30404" id="15061865-237814" start="30400">D2Rs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_66937">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30524" id="15061865-237820" start="30521">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67405">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30645" id="15061865-237830" start="30642">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67753">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30683" id="15061865-237838" start="30680">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_67599">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30916" id="15061865-237852" start="30913">D2R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_68293">
+            <class id="http://purl.obolibrary.org/obo/PR_000001177" label="D(2) dopamine receptor" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30976" id="15061865-237858" start="30973">D2R</span>
+        </annotation>
+    </document>
+</knowtator-project>

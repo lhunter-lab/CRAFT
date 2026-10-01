@@ -1,0 +1,809 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15005800" text-file="15005800.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_58721">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15440" label="squalene"/>
+            <span end="127" id="15005800-170451" start="119">squalene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59135">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="139" id="15005800-170453" start="128">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60583">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_52206" label="biochemical role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="410" id="15005800-20588" start="399">biochemical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60531">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="616" id="15005800-170485" start="605">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59519">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="1377" id="15005800-170565" start="1367">surfactant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57487">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="1385" id="15005800-20594" start="1378">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57869">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33699" label="messenger RNA"/>
+            <span end="1396" id="15005800-20596" start="1391">mRNAs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58957">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="1457" id="15005800-170573" start="1446">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57745">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="1541" id="15005800-170579" start="1530">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57613">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="1855" id="15005800-170607" start="1844">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60455">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="2190" id="15005800-170633" start="2184">sterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60249">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="2371" id="15005800-170645" start="2360">Cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59309">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="2577" id="15005800-170665" start="2566">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60187">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="2590" id="15005800-170667" start="2583">sterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59081">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26125" label="phytosterols"/>
+            <span end="2604" id="15005800-170669" start="2592">phytosterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59371">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16933" label="ergosterol"/>
+            <span end="2616" id="15005800-170671" start="2606">ergosterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59091">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="2657" id="15005800-170673" start="2646">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59507">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="2687" id="15005800-170675" start="2680">sterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58175">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24432" label="biological role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="2701" id="15005800-170677" start="2691">biological</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57811">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="2886" id="15005800-170687" start="2875">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58597">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="2964" id="15005800-170689" start="2953">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57523">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="3007" id="15005800-170691" start="2996">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59467">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="3249" id="15005800-170703" start="3229">7-dehydrocholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58885">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="3304" id="15005800-170709" start="3293">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57547">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15440" label="squalene"/>
+            <span end="3402" id="15005800-170713" start="3394">squalene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58779">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="3414" id="15005800-170715" start="3403">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60869">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="3725" id="15005800-170737" start="3714">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58113">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="3776" id="15005800-170739" start="3765">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59685">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="3807" id="15005800-170741" start="3787">7-dehydrocholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60391">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="3813" id="15005800-170743" start="3809">7DHC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60609">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_52206" label="biochemical role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="4094" id="15005800-20610" start="4083">biochemical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60225">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_52206" label="biochemical role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="5240" id="15005800-20616" start="5229">biochemical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59873">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="5640" id="15005800-170875" start="5629">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59039">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="6356" id="15005800-170942" start="6345">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58203">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="6503" id="15005800-170958" start="6497">sterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60007">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="6738" id="15005800-170987" start="6727">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60211">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="7166" id="15005800-171023" start="7155">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58859">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_51686" label="haematoxylin"/>
+            <span end="13497" id="15005800-171457" start="13496">H</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59791">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="14963" id="15005800-171551" start="14952">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60263">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="15120" id="15005800-171572" start="15116">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58563">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="15154" id="15005800-171576" start="15150">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58313">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="15334" id="15005800-171586" start="15330">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57329">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="16205" id="15005800-171656" start="16201">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59099">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="16417" id="15005800-171672" start="16413">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57263">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="16541" id="15005800-171684" start="16537">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60687">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="16682" id="15005800-171704" start="16678">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57651">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="17332" id="15005800-171738" start="17326">Sterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60759">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="17409" id="15005800-171746" start="17404">7-DHC</span>
+        </annotation>
+        <annotation id="15005800-387230">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_89982" label="8-Dehydrocholesterol"/>
+            <span end="17415" id="15005800-387231" start="17410">8-DHC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60491">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="17451" id="15005800-171750" start="17440">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60939">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="17553" id="15005800-171760" start="17542">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59269">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="17644" id="15005800-171774" start="17637">sterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57999">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="17723" id="15005800-171778" start="17712">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59903">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="17824" id="15005800-171790" start="17813">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60659">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="17998" id="15005800-171802" start="17993">7-DHC</span>
+        </annotation>
+        <annotation id="15005800-387232">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_89982" label="8-Dehydrocholesterol"/>
+            <span end="18008" id="15005800-387234" start="18003">8-DHC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58169">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="18095" id="15005800-171806" start="18088">sterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58525">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="18230" id="15005800-171820" start="18224">Sterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59907">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="18266" id="15005800-171826" start="18260">Sterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58149">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="18298" id="15005800-171828" start="18287">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60957">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="18320" id="15005800-171830" start="18316">7DHC</span>
+        </annotation>
+        <annotation id="15005800-387235">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_89982" label="8-Dehydrocholesterol"/>
+            <span end="18325" id="15005800-387236" start="18321">8DHC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_61047">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="18527" id="15005800-171848" start="18520">sterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58335">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="18610" id="15005800-171852" start="18599">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59639">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="18705" id="15005800-171854" start="18698">sterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58265">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="18711" id="15005800-171856" start="18707">7DHC</span>
+        </annotation>
+        <annotation id="15005800-387237">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_89982" label="8-Dehydrocholesterol"/>
+            <span end="18716" id="15005800-387238" start="18712">8DHC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57579">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="18769" id="15005800-171860" start="18758">Cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60961">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26764" label="steroid hormone"/>
+            <span end="18812" id="15005800-171862" start="18797">steroid hormone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58639">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35341" label="steroid"/>
+            <span end="19012" id="15005800-171880" start="19004">Steroids</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59937">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_50858" label="corticosteroid"/>
+            <span end="19046" id="15005800-171882" start="19031">corticosteroids</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58857">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="19135" id="15005800-171890" start="19125">surfactant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60077">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16827" label="corticosterone"/>
+            <span end="19188" id="15005800-171894" start="19174">corticosterone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59319">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16827" label="corticosterone"/>
+            <span end="19265" id="15005800-171904" start="19251">corticosterone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58983">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16827" label="corticosterone"/>
+            <span end="19393" id="15005800-171914" start="19379">corticosterone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59299">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16827" label="corticosterone"/>
+            <span end="19606" id="15005800-171928" start="19592">corticosterone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59129">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16827" label="corticosterone"/>
+            <span end="19697" id="15005800-171932" start="19683">corticosterone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59461">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="19761" id="15005800-171938" start="19751">surfactant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57419">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="19769" id="15005800-20692" start="19762">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59415">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="19792" id="15005800-171944" start="19782">Surfactant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59503">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="19800" id="15005800-20694" start="19793">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60395">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="20123" id="15005800-171978" start="20113">surfactant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60385">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="20131" id="15005800-20696" start="20124">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57793">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="20201" id="15005800-171986" start="20191">Surfactant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57629">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="20209" id="15005800-20698" start="20202">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58081">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="20771" id="15005800-20700" start="20768">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57619">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="20958" id="15005800-172046" start="20948">surfactant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60539">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="20966" id="15005800-20702" start="20959">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60835">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33699" label="messenger RNA"/>
+            <span end="20972" id="15005800-20704" start="20967">mRNAs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60631">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="21262" id="15005800-172089" start="21252">surfactant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57995">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="21717" id="15005800-20710" start="21710">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58013">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_6495" label="lipoprotein"/>
+            <span end="21977" id="15005800-172139" start="21954">low density lipoprotein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59369">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="27668" id="15005800-172636" start="27657">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57389">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36357" label="polyatomic entity"/>
+            <span end="27677" id="15005800-172638" start="27669">molecule</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57695">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="27814" id="15005800-172648" start="27803">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59323">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16670" label="peptide"/>
+            <span end="28122" id="15005800-172680" start="28115">peptide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59133">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16670" label="peptide"/>
+            <span end="28925" id="15005800-172756" start="28918">peptide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60311">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="30637" id="15005800-20774" start="30629">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57979">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="30680" id="15005800-20778" start="30672">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60701">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="31344" id="15005800-20784" start="31337">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57965">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="31548" id="15005800-173014" start="31537">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57621">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="31911" id="15005800-20788" start="31904">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60079">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_18059" label="lipid"/>
+            <span end="32209" id="15005800-173074" start="32204">lipid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60199">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="32624" id="15005800-173112" start="32613">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59837">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="32850" id="15005800-20792" start="32843">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60787">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="33133" id="15005800-20796" start="33125">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59087">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="33480" id="15005800-20804" start="33472">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60047">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_18059" label="lipid"/>
+            <span end="33501" id="15005800-173198" start="33496">lipid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57645">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="33740" id="15005800-20806" start="33732">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60469">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="33902" id="15005800-173222" start="33891">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58901">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15440" label="squalene"/>
+            <span end="34134" id="15005800-173242" start="34126">squalene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58909">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="34155" id="15005800-173244" start="34144">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57615">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="34246" id="15005800-173250" start="34235">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57761">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="34296" id="15005800-173254" start="34285">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57959">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="35315" id="15005800-173344" start="35304">surfactants</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57269">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_35195" label="surfactant" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="36059" id="15005800-173418" start="36049">surfactant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58917">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="36068" id="15005800-20816" start="36060">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57193">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="36431" id="15005800-173453" start="36420">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57707">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="36492" id="15005800-173455" start="36487">7-DHC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58599">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="37348" id="15005800-173540" start="37337">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59663">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="37484" id="15005800-173553" start="37473">Cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59901">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="37616" id="15005800-173577" start="37609">sterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57399">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="37632" id="15005800-173579" start="37621">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59361">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="37730" id="15005800-173595" start="37726">7DHC</span>
+        </annotation>
+        <annotation id="15005800-387243">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_89982" label="8-Dehydrocholesterol"/>
+            <span end="37735" id="15005800-387244" start="37731">8DHC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60105">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="37785" id="15005800-173597" start="37774">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60219">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="37850" id="15005800-173601" start="37843">sterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60001">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="37904" id="15005800-173605" start="37893">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60615">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="38115" id="15005800-173619" start="38104">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60075">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="38148" id="15005800-173621" start="38137">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58157">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="38270" id="15005800-173629" start="38259">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60923">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="38325" id="15005800-173635" start="38314">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58683">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="38433" id="15005800-173645" start="38426">sterols</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_61029">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="38536" id="15005800-173647" start="38525">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60517">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17737" label="desmosterol"/>
+            <span end="38703" id="15005800-173669" start="38692">desmosterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58827">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="38747" id="15005800-173671" start="38736">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57245">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="38778" id="15005800-173673" start="38767">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59953">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="38871" id="15005800-173675" start="38860">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59571">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="39602" id="15005800-20828" start="39595">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60519">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="39874" id="15005800-173761" start="39863">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57227">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17759" label="cholesta-5,7-dien-3beta-ol"/>
+            <span end="39989" id="15005800-173777" start="39985">7DHC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59677">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="40076" id="15005800-173787" start="40070">sterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60253">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="40288" id="15005800-20834" start="40280">proteins</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57287">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="40366" id="15005800-20838" start="40359">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60371">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="40614" id="15005800-20840" start="40607">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58515">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_18059" label="lipid"/>
+            <span end="40839" id="15005800-173853" start="40834">lipid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57219">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_23456" label="cyclodextrin"/>
+            <span end="40898" id="15005800-173855" start="40886">cyclodextrin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58567">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="41142" id="15005800-173875" start="41136">sterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60633">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="41467" id="15005800-173899" start="41456">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59683">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="41613" id="15005800-173907" start="41602">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57429">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="41767" id="15005800-173915" start="41756">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60895">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="42030" id="15005800-173929" start="42019">Cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59479">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="42291" id="15005800-173946" start="42280">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60085">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="42365" id="15005800-173952" start="42354">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60555">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16113" label="cholesterol"/>
+            <span end="42646" id="15005800-173964" start="42635">cholesterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59423">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_52206" label="biochemical role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="43772" id="15005800-20848" start="43761">Biochemical</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60383">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="43800" id="15005800-174028" start="43794">sterol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59703">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16827" label="corticosterone"/>
+            <span end="43928" id="15005800-174032" start="43914">corticosterone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59077">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24621" label="hormone" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="44060" id="15005800-20850" start="44053">hormone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58555">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_50913" label="fixative" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="44222" id="15005800-174046" start="44214">fixative</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59923">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17790" label="methanol"/>
+            <span end="44232" id="15005800-174048" start="44224">methanol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57625">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15347" label="acetone"/>
+            <span end="44240" id="15005800-174050" start="44233">acetone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60843">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15366" label="acetic acid"/>
+            <span end="44252" id="15005800-174052" start="44241">acetic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58429">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15377" label="water"/>
+            <span end="44258" id="15005800-174054" start="44253">water</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_61015">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_31962" label="paraformaldehyde macromolecule" interpretation="MACROMOLECULE OR POLYMER"/>
+            <span end="44298" id="15005800-174056" start="44282">paraformaldehyde</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58485">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16236" label="ethanol"/>
+            <span end="44407" id="15005800-174060" start="44400">ethanol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59395">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17578" label="toluene"/>
+            <span end="44434" id="15005800-174062" start="44427">toluene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58091">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_27338" label="xylene"/>
+            <span end="44675" id="15005800-174064" start="44669">xylene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57873">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16236" label="ethanol"/>
+            <span end="44726" id="15005800-174066" start="44719">ethanol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60117">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_53258" label="sodium citrate"/>
+            <span end="44780" id="15005800-174068" start="44766">sodium citrate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58383">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_16240" label="hydrogen peroxide"/>
+            <span end="44920" id="15005800-174070" start="44903">hydrogen peroxide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57681">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33521" label="metal atom" interpretation="ATOM OR ELEMENTAL MOLECULAR ENTITY"/>
+            <span end="45683" id="15005800-20854" start="45678">Metal</span>
+        </annotation>
+        <annotation id="15005800-387247">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_90994" label="3,3'-diaminobenzidine"/>
+            <span end="45709" id="15005800-387248" start="45693">Diaminobenzidine</span>
+        </annotation>
+        <annotation id="15005800-387245">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_90994" label="3,3'-diaminobenzidine"/>
+            <span end="45714" id="15005800-387246" start="45711">DAB</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58893">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_59132" label="antigen" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="46451" id="15005800-174147" start="46444">antigen</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58337">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="46481" id="15005800-174151" start="46464">bromodeoxyuridine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59247">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="46487" id="15005800-174153" start="46483">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57923">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15358" label="histone" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="46529" id="15005800-174157" start="46522">histone</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58997">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="46650" id="15005800-174165" start="46646">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58029">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="46762" id="15005800-174175" start="46758">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59399">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_472552" label="5-bromo-2'-deoxyuridine"/>
+            <span end="46921" id="15005800-174183" start="46917">BrdU</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58287">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_52302" label="Cy2 dye"/>
+            <span end="47017" id="15005800-174187" start="47014">Cy2</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57551">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_17625" label="dUTP" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="47181" id="15005800-20866" start="47177">dUTP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57735">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9754" label="tris"/>
+            <span end="47567" id="15005800-174221" start="47563">Tris</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58037">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_26710" label="sodium chloride"/>
+            <span end="47586" id="15005800-174223" start="47582">NaCl</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57411">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_4735" label="ethylenediaminetetraacetic acid"/>
+            <span end="47597" id="15005800-20870" start="47593">EDTA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60589">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_9750" label="Triton X-100"/>
+            <span end="47614" id="15005800-174227" start="47602">Triton X-100</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59933">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_18320" label="1,4-dithiothreitol"/>
+            <span end="47626" id="15005800-174229" start="47623">DTT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59713">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_8102" label="phenylmethanesulfonyl fluoride"/>
+            <span end="47637" id="15005800-174231" start="47633">PMSF</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59223">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_6426" label="leupeptin"/>
+            <span end="47678" id="15005800-174233" start="47669">leupeptin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59047">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_7989" label="pepstatin A"/>
+            <span end="47694" id="15005800-174235" start="47683">pepstatin A</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60417">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="47949" id="15005800-20872" start="47942">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59649">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33893" label="reagent" interpretation="ROLE-BEARING ENTITY"/>
+            <span end="48070" id="15005800-174247" start="48063">reagent</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57343">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="48412" id="15005800-20876" start="48405">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60793">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="48458" id="15005800-20878" start="48451">Protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60515">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_36080" label="protein"/>
+            <span end="48509" id="15005800-20880" start="48502">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57497">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_8984" label="sodium dodecyl sulfate"/>
+            <span end="48618" id="15005800-174279" start="48615">SDS</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57907">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_53325" label="nitrocellulose"/>
+            <span end="48656" id="15005800-174283" start="48642">nitrocellulose</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_61007">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_33697" label="ribonucleic acid" interpretation="MOLECULAR ENTITY OR SUBSTITUENT GROUP"/>
+            <span end="49008" id="15005800-20884" start="49005">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57431">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_24432" label="biological role" interpretation="OCCURRENCE, ATTRIBUTE OR AREA OF STUDY"/>
+            <span end="49152" id="15005800-174311" start="49145">Biology</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59637">
+            <class id="http://purl.obolibrary.org/obo/CHEBI_15889" label="sterol"/>
+            <span end="49533" id="15005800-174335" start="49526">sterols</span>
+        </annotation>
+    </document>
+</knowtator-project>

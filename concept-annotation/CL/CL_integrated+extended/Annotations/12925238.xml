@@ -1,0 +1,809 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="12925238" text-file="12925238.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_34201">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="64" id="12925238-47240" start="55">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33675">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="84" id="12925238-47242" start="69">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34317">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="376" id="12925238-47274" start="364">erythrocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33327">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="511" id="12925238-47282" start="496">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33001">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="644" id="12925238-47290" start="629">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33697">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="674" id="12925238-47296" start="662">erythrocytes</span>
+        </annotation>
+        <annotation id="12925238-406189">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="928" id="12925238-406190" start="924">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35051">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="986" id="12925238-47316" start="971">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35041">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="1031" id="12925238-47324" start="1022">platelets</span>
+        </annotation>
+        <annotation id="12925238-406191">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="1047" id="12925238-406192" start="1042">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33703">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="1168" id="12925238-47328" start="1159">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33395">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="1290" id="12925238-47336" start="1275">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34255">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="1395" id="12925238-47348" start="1380">Red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406196">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="1474" id="12925238-406197" start="1466">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34433">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="1579" id="12925238-47364" start="1564">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34873">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="1630" id="12925238-47372" start="1621">platelets</span>
+        </annotation>
+        <annotation id="12925238-406198">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="1644" id="12925238-406199" start="1640">cell</span>
+        </annotation>
+        <annotation id="12925238-406042">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="1690" id="12925238-406043" start="1682">cellular</span>
+        </annotation>
+        <annotation id="12925238-406202">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="1827" id="12925238-406203" start="1823">cell</span>
+        </annotation>
+        <annotation id="12925238-406206">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3026" id="12925238-406207" start="3018">cellular</span>
+        </annotation>
+        <annotation id="12925238-406208">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5010" id="12925238-406209" start="5002">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34889">
+            <class id="http://purl.obolibrary.org/obo/CL_0000746" label="cardiac muscle cell"/>
+            <span end="5670" id="12925238-47718" start="5656">cardiomyocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33309">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="5773" id="12925238-47720" start="5758">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34649">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="5787" id="12925238-47726" start="5778">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32747">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="5838" id="12925238-47736" start="5823">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34729">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="5852" id="12925238-47742" start="5843">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35117">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="5978" id="12925238-47748" start="5963">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33787">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="6000" id="12925238-47754" start="5985">Red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33411">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="6294" id="12925238-47771" start="6280">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33201">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="6366" id="12925238-47777" start="6351">Red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33493">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="6439" id="12925238-47785" start="6425">red blood cell</span>
+        </annotation>
+        <annotation id="12925238-406214">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="6723" id="12925238-406215" start="6719">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33275">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="7077" id="12925238-47848" start="7063">red blood cell</span>
+        </annotation>
+        <annotation id="12925238-406216">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="7170" id="12925238-406217" start="7162">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34451">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="7231" id="12925238-47866" start="7216">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33835">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="7247" id="12925238-47872" start="7233">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32813">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="7284" id="12925238-47880" start="7275">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34313">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="7445" id="12925238-47891" start="7430">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33795">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="7662" id="12925238-47905" start="7647">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34555">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="7994" id="12925238-47929" start="7979">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32887">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="8018" id="12925238-47937" start="8009">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33321">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="8269" id="12925238-47953" start="8254">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33467">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="8283" id="12925238-47959" start="8274">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33591">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="8537" id="12925238-47973" start="8522">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32917">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="9213" id="12925238-48026" start="9199">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33821">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="9481" id="12925238-48046" start="9467">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32955">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="9742" id="12925238-48074" start="9727">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35171">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="10231" id="12925238-48122" start="10216">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34413">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="10348" id="12925238-48130" start="10333">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33205">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="10610" id="12925238-48146" start="10595">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34459">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="11058" id="12925238-48172" start="11049">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34483">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="11203" id="12925238-48184" start="11189">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34445">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="11258" id="12925238-48196" start="11243">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34029">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="11540" id="12925238-48210" start="11526">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34373">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="11622" id="12925238-48218" start="11608">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32927">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="11726" id="12925238-48236" start="11712">red blood cell</span>
+        </annotation>
+        <annotation id="12925238-406218">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="11832" id="12925238-406219" start="11827">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32983">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="11933" id="12925238-48252" start="11918">red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406222">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="11983" id="12925238-406223" start="11979">cell</span>
+        </annotation>
+        <annotation id="12925238-406224">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12234" id="12925238-406225" start="12230">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33957">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="12295" id="12925238-48264" start="12280">red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406226">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12362" id="12925238-406227" start="12354">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33925">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="12527" id="12925238-48284" start="12513">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33887">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="12917" id="12925238-48310" start="12903">red blood cell</span>
+        </annotation>
+        <annotation id="12925238-406228">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12998" id="12925238-406229" start="12990">cellular</span>
+        </annotation>
+        <annotation id="12925238-406230">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13089" id="12925238-406231" start="13084">cells</span>
+        </annotation>
+        <annotation id="12925238-406232">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13193" id="12925238-406233" start="13185">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33573">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="13267" id="12925238-48342" start="13252">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34027">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="13375" id="12925238-48348" start="13360">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33759">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="13474" id="12925238-48358" start="13459">red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406236">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13529" id="12925238-406237" start="13524">cells</span>
+        </annotation>
+        <annotation id="12925238-406240">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13578" id="12925238-406241" start="13573">cells</span>
+        </annotation>
+        <annotation id="12925238-406248">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13650" id="12925238-406249" start="13645">cells</span>
+        </annotation>
+        <annotation id="12925238-406252">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13758" id="12925238-406253" start="13753">cells</span>
+        </annotation>
+        <annotation id="12925238-406256">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13845" id="12925238-406257" start="13840">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34863">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="13965" id="12925238-48394" start="13951">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33967">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="14172" id="12925238-48404" start="14157">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32873">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="14561" id="12925238-48414" start="14546">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33361">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="14618" id="12925238-48420" start="14603">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33375">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="14791" id="12925238-48444" start="14777">red blood cell</span>
+        </annotation>
+        <annotation id="12925238-406258">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="14870" id="12925238-406259" start="14862">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34033">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="14968" id="12925238-48460" start="14954">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33915">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="15032" id="12925238-48468" start="15017">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34197">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="15194" id="12925238-48478" start="15179">red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406260">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15500" id="12925238-406261" start="15496">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34245">
+            <class id="http://purl.obolibrary.org/obo/CL_0000738" label="leukocyte"/>
+            <span end="15648" id="12925238-48506" start="15638">leukocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33475">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="15665" id="12925238-48508" start="15650">red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406262">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15714" id="12925238-406263" start="15706">cellular</span>
+        </annotation>
+        <annotation id="12925238-406264">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15736" id="12925238-406265" start="15728">cellular</span>
+        </annotation>
+        <annotation id="12925238-406267">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="15763" id="12925238-406268" start="15755">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32889">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="15800" id="12925238-48526" start="15791">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33687">
+            <class id="http://purl.obolibrary.org/obo/CL_0000775" label="neutrophil"/>
+            <span end="15814" id="12925238-48528" start="15802">neutrophiles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34971">
+            <class id="http://purl.obolibrary.org/obo/CL_0000542" label="lymphocyte"/>
+            <span end="15827" id="12925238-48530" start="15816">lymphocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35243">
+            <class id="http://purl.obolibrary.org/obo/CL_0000576" label="monocyte"/>
+            <span end="15838" id="12925238-48532" start="15829">monocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33747">
+            <class id="http://purl.obolibrary.org/obo/CL_0000771" label="eosinophil"/>
+            <span end="15852" id="12925238-48534" start="15840">eosinophiles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33975">
+            <class id="http://purl.obolibrary.org/obo/CL_0000767" label="basophil"/>
+            <span end="15867" id="12925238-48536" start="15857">basophiles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35049">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="15937" id="12925238-48540" start="15929">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35033">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="16027" id="12925238-48544" start="16019">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34549">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="16150" id="12925238-48558" start="16142">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33543">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="16274" id="12925238-48564" start="16266">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34041">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="16332" id="12925238-48568" start="16324">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32901">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="16575" id="12925238-48576" start="16567">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34397">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="16638" id="12925238-48578" start="16630">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33995">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="16660" id="12925238-48582" start="16652">Platelet</span>
+        </annotation>
+        <annotation id="12925238-406272">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="16769" id="12925238-406273" start="16764">cells</span>
+        </annotation>
+        <annotation id="12925238-406278">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="16881" id="12925238-406279" start="16876">cells</span>
+        </annotation>
+        <annotation id="12925238-406283">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="16925" id="12925238-406284" start="16920">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33563">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17047" id="12925238-48600" start="17039">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34173">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17204" id="12925238-48608" start="17196">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34999">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17304" id="12925238-48616" start="17295">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33805">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17411" id="12925238-48620" start="17402">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34349">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17640" id="12925238-48628" start="17631">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33731">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17662" id="12925238-48636" start="17653">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33581">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17706" id="12925238-48640" start="17697">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33443">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17779" id="12925238-48648" start="17770">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33701">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17822" id="12925238-48650" start="17814">Platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34009">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="17855" id="12925238-48654" start="17847">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34361">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="18080" id="12925238-48666" start="18072">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32855">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="18346" id="12925238-48670" start="18338">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34841">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="18651" id="12925238-48684" start="18642">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33285">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="18750" id="12925238-48692" start="18741">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35211">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="18795" id="12925238-48694" start="18787">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33819">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="18840" id="12925238-48698" start="18831">platelets</span>
+        </annotation>
+        <annotation id="12925238-406287">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19255" id="12925238-406288" start="19251">cell</span>
+        </annotation>
+        <annotation id="12925238-406292">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19320" id="12925238-406293" start="19315">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34517">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="19441" id="12925238-48738" start="19426">Red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34859">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="19661" id="12925238-48754" start="19646">red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406298">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19682" id="12925238-406299" start="19677">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34335">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="19794" id="12925238-48766" start="19779">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34239">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="19922" id="12925238-48780" start="19907">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33445">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="21116" id="12925238-48864" start="21102">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33999">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="21270" id="12925238-48879" start="21255">red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406303">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="21312" id="12925238-406304" start="21307">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34381">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="21753" id="12925238-48906" start="21739">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34689">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="21969" id="12925238-48922" start="21954">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35195">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="22326" id="12925238-48952" start="22311">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33019">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="22489" id="12925238-48968" start="22475">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34309">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="23162" id="12925238-49012" start="23147">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35021">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="23221" id="12925238-49018" start="23206">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34503">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="23553" id="12925238-49048" start="23539">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32781">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="23615" id="12925238-49056" start="23601">red blood cell</span>
+        </annotation>
+        <annotation id="12925238-406309">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="23794" id="12925238-406310" start="23790">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35089">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="23874" id="12925238-49080" start="23859">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34767">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="24329" id="12925238-49104" start="24315">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34473">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="24680" id="12925238-49130" start="24665">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34915">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="24995" id="12925238-49156" start="24981">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34557">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="25265" id="12925238-49180" start="25250">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34261">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="25425" id="12925238-49192" start="25417">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33903">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="25476" id="12925238-49198" start="25468">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33227">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="25584" id="12925238-49202" start="25575">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34759">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="25722" id="12925238-49210" start="25713">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34765">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="25888" id="12925238-49220" start="25879">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33473">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="26296" id="12925238-49232" start="26288">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35285">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="26325" id="12925238-49234" start="26317">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33301">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="26484" id="12925238-49244" start="26469">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34405">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="26869" id="12925238-49270" start="26854">red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406311">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="26904" id="12925238-406312" start="26900">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32773">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="26933" id="12925238-49286" start="26921">erythrocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33593">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="26999" id="12925238-49290" start="26988">erythrocyte</span>
+        </annotation>
+        <annotation id="12925238-406313">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="28294" id="12925238-406314" start="28290">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33193">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="28649" id="12925238-49388" start="28641">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33521">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="28799" id="12925238-49398" start="28784">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35135">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="28892" id="12925238-49410" start="28877">Red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34919">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="29439" id="12925238-49454" start="29425">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33547">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="30001" id="12925238-49478" start="29986">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33685">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="30018" id="12925238-49484" start="30003">Red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34909">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="30253" id="12925238-49508" start="30241">erythrocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33931">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="30378" id="12925238-49516" start="30363">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34003">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="30906" id="12925238-49542" start="30892">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34903">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="31350" id="12925238-49564" start="31336">red blood cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33799">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="31924" id="12925238-49594" start="31909">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_32763">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="32485" id="12925238-49614" start="32477">Platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34869">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="32663" id="12925238-49624" start="32655">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33713">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="32695" id="12925238-49628" start="32687">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34475">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="32988" id="12925238-49638" start="32979">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35155">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="33012" id="12925238-49640" start="33004">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33289">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="33143" id="12925238-49648" start="33134">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34965">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="33443" id="12925238-49660" start="33434">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34835">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="33906" id="12925238-49672" start="33898">platelet</span>
+        </annotation>
+        <annotation id="12925238-406318">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="34061" id="12925238-406319" start="34057">cell</span>
+        </annotation>
+        <annotation id="12925238-406322">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="34172" id="12925238-406323" start="34168">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34203">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="34225" id="12925238-49690" start="34210">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34563">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="34239" id="12925238-49696" start="34230">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33187">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="34357" id="12925238-49698" start="34342">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34651">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="34371" id="12925238-49704" start="34362">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34763">
+            <class id="http://purl.obolibrary.org/obo/CL_0000738" label="leukocyte"/>
+            <span end="34487" id="12925238-49706" start="34477">leucocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33441">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="34504" id="12925238-49708" start="34489">red blood cells</span>
+        </annotation>
+        <annotation id="12925238-406324">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="34545" id="12925238-406325" start="34537">cellular</span>
+        </annotation>
+        <annotation id="12925238-406326">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="34567" id="12925238-406327" start="34559">cellular</span>
+        </annotation>
+        <annotation id="12925238-406328">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="34594" id="12925238-406329" start="34586">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34805">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="34630" id="12925238-49726" start="34622">platelet</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34815">
+            <class id="http://purl.obolibrary.org/obo/CL_0000775" label="neutrophil"/>
+            <span end="34651" id="12925238-49728" start="34639">neutrophiles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34267">
+            <class id="http://purl.obolibrary.org/obo/CL_0000542" label="lymphocyte"/>
+            <span end="34664" id="12925238-49730" start="34653">lymphocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33173">
+            <class id="http://purl.obolibrary.org/obo/CL_0000576" label="monocyte"/>
+            <span end="34675" id="12925238-49732" start="34666">monocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34823">
+            <class id="http://purl.obolibrary.org/obo/CL_0000771" label="eosinophil"/>
+            <span end="34689" id="12925238-49734" start="34677">eosinophiles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33387">
+            <class id="http://purl.obolibrary.org/obo/CL_0000767" label="basophil"/>
+            <span end="34701" id="12925238-49736" start="34691">basophiles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34247">
+            <class id="http://purl.obolibrary.org/obo/CL_0000232" label="erythrocyte"/>
+            <span end="35722" id="12925238-49770" start="35707">red blood cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_34357">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="35736" id="12925238-49776" start="35727">platelets</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_33791">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="35827" id="12925238-49778" start="35818">platelets</span>
+        </annotation>
+        <annotation id="12925238-406334">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="35866" id="12925238-406335" start="35862">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_35023">
+            <class id="http://purl.obolibrary.org/obo/CL_0000233" label="platelet"/>
+            <span end="35967" id="12925238-49782" start="35959">platelet</span>
+        </annotation>
+    </document>
+</knowtator-project>

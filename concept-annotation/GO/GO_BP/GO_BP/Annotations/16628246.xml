@@ -1,0 +1,756 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16628246" text-file="16628246.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_221985">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="78" id="16628246-165132" start="64">X-Inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220199">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="226" id="16628246-165154" start="211">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217241">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="682" id="16628246-165186" start="673">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218055">
+            <class id="http://purl.obolibrary.org/obo/GO_0007369" label="gastrulation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="740" id="16628246-165198" start="729">gastrulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217295">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1240" id="16628246-165228" start="1216">imprinted X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222241">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1466" id="16628246-165240" start="1431">imprinted X chromosome inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220757">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1692" id="16628246-165264" start="1677">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219827">
+            <class id="http://purl.obolibrary.org/obo/GO_0071514" label="genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2814" id="16628246-165360" start="2804">imprinting</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222317">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3073" id="16628246-165366" start="3063">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222159">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3389" id="16628246-165396" start="3364">X-chromosome inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220341">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3562" id="16628246-165410" start="3548">X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217783">
+            <class id="http://purl.obolibrary.org/obo/GO_0008380" label="RNA splicing" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4091" id="16628246-165458" start="4084">spliced</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218699">
+            <class id="http://purl.obolibrary.org/obo/GO_0006338" label="chromatin remodeling" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4655" id="16628246-165515" start="4634">chromatin-remodelling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218413">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5030" id="16628246-20003" start="5019">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217333">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5089" id="16628246-165551" start="5074">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217133">
+            <class id="http://purl.obolibrary.org/obo/GO_0006338" label="chromatin remodeling" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5250" id="16628246-165563" start="5229">chromatin-remodelling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218851">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5820" id="16628246-165617" start="5810">expression</span>
+        </annotation>
+        <annotation id="16628246-392938">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6199" id="16628246-392939" start="6175">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221569">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6528" id="16628246-165710" start="6513">gene expression</span>
+        </annotation>
+        <annotation id="16628246-383352">
+            <class id="http://purl.obolibrary.org/obo/GO_0016049" label="cell growth" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6655" id="16628246-383353" start="6644">cell growth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217497">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7161" id="16628246-165758" start="7154">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220389">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7335" id="16628246-165780" start="7324">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218349">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7369" id="16628246-165784" start="7359">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218887">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8449" id="16628246-20051" start="8438">Methylation</span>
+        </annotation>
+        <annotation id="16628246-383354">
+            <class id="http://purl.obolibrary.org/obo/GO_0016049" label="cell growth" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8715" id="16628246-383355" start="8704">cell growth</span>
+        </annotation>
+        <annotation id="16628246-383356">
+            <class id="http://purl.obolibrary.org/obo/GO_0016049" label="cell growth" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9695" id="16628246-383357" start="9684">cell growth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218043">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9734" id="16628246-165990" start="9724">cell-cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219079">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9792" id="16628246-165996" start="9782">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221681">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9947" id="16628246-166018" start="9937">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220025">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10096" id="16628246-166036" start="10089">mitotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221709">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10186" id="16628246-166042" start="10172">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220577">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10235" id="16628246-166050" start="10228">mitosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220585">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10292" id="16628246-166054" start="10282">cell-cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220573">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10366" id="16628246-166056" start="10359">mitotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219665">
+            <class id="http://purl.obolibrary.org/obo/GO_0043065" label="positive regulation of apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10548" id="16628246-166078" start="10522">up-regulation of apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221619">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10636" id="16628246-166084" start="10627">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217777">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10803" id="16628246-166102" start="10793">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218841">
+            <class id="http://purl.obolibrary.org/obo/GO_0008219" label="cell death" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10848" id="16628246-166106" start="10838">cell death</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218017">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11351" id="16628246-20107" start="11340">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221539">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11593" id="16628246-20115" start="11582">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218257">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12568" id="16628246-20135" start="12558">methylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218083">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12612" id="16628246-20139" start="12601">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220993">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12805" id="16628246-20145" start="12794">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221131">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13799" id="16628246-166387" start="13790">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219273">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13909" id="16628246-166403" start="13899">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219807">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13985" id="16628246-166409" start="13972">embryogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221997">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14052" id="16628246-166413" start="14042">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219259">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14150" id="16628246-166422" start="14141">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219853">
+            <class id="http://purl.obolibrary.org/obo/GO_0006415" label="translational termination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14241" id="16628246-166433" start="14218">translation termination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219131">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14477" id="16628246-166463" start="14472">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219773">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14613" id="16628246-166497" start="14608">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217701">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15642" id="16628246-166567" start="15633">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218343">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15695" id="16628246-166573" start="15685">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218041">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15814" id="16628246-166579" start="15804">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217357">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15952" id="16628246-166589" start="15942">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218039">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16305" id="16628246-166617" start="16295">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220005">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17331" id="16628246-166677" start="17321">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218847">
+            <class id="http://purl.obolibrary.org/obo/GO_0007369" label="gastrulation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17546" id="16628246-166699" start="17535">gastrulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218817">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17648" id="16628246-166707" start="17639">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217535">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17792" id="16628246-166717" start="17783">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221103">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17898" id="16628246-166733" start="17889">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219655">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17993" id="16628246-166735" start="17984">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222187">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18047" id="16628246-166745" start="18038">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217955">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18204" id="16628246-166757" start="18195">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219235">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18431" id="16628246-166771" start="18424">mitosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219537">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18453" id="16628246-166775" start="18439">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219723">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18512" id="16628246-166781" start="18505">mitotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218229">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18575" id="16628246-166787" start="18568">mitotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221065">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18872" id="16628246-166805" start="18863">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218627">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18999" id="16628246-166823" start="18992">mitotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218617">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19143" id="16628246-166833" start="19136">mitotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218941">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20001" id="16628246-166889" start="19991">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219299">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20107" id="16628246-166911" start="20097">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221393">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20313" id="16628246-166936" start="20303">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220103">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20729" id="16628246-166968" start="20720">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220433">
+            <class id="http://purl.obolibrary.org/obo/GO_0007369" label="gastrulation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22209" id="16628246-167100" start="22197">gastrulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220595">
+            <class id="http://purl.obolibrary.org/obo/GO_0071514" label="genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22624" id="16628246-167118" start="22615">Imprinted</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219213">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22854" id="16628246-167154" start="22849">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217247">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23411" id="16628246-167216" start="23386">X chromosome inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220951">
+            <class id="http://purl.obolibrary.org/obo/GO_0071514" label="genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23445" id="16628246-167220" start="23435">imprinting</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218341">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23573" id="16628246-167228" start="23558">inactivation of</span>
+            <span end="23599" id="16628246-167229" start="23578">paternal X chromosome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222143">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23573" id="16628246-167231" start="23558">inactivation of</span>
+            <span end="23603" id="16628246-167232" start="23601">Xp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221609">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23723" id="16628246-167250" start="23709">X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219115">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23843" id="16628246-167262" start="23819">imprinted X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218321">
+            <class id="http://purl.obolibrary.org/obo/GO_0071514" label="genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24222" id="16628246-167304" start="24213">imprinted</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220917">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24912" id="16628246-167398" start="24902">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218293">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25358" id="16628246-167445" start="25344">X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219835">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25409" id="16628246-167451" start="25399">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220323">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25569" id="16628246-167463" start="25559">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221349">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25650" id="16628246-167474" start="25640">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217525">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25926" id="16628246-167494" start="25912">X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217311">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26058" id="16628246-167506" start="26034">imprinted X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219431">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26582" id="16628246-167550" start="26573">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218681">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26848" id="16628246-167576" start="26839">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221701">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27060" id="16628246-167596" start="27051">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219943">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27172" id="16628246-167612" start="27162">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219957">
+            <class id="http://purl.obolibrary.org/obo/GO_0042981" label="regulation of apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27432" id="16628246-167636" start="27409">regulation of apoptosis</span>
+        </annotation>
+        <annotation id="16628246-393287">
+            <class id="http://purl.obolibrary.org/obo/GO_0043065" label="positive regulation of apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27580" id="16628246-393288" start="27568">proapoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217399">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27672" id="16628246-167658" start="27663">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220545">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27798" id="16628246-167666" start="27789">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219979">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28122" id="16628246-167704" start="28115">mitotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217091">
+            <class id="http://purl.obolibrary.org/obo/GO_0046903" label="secretion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28888" id="16628246-167759" start="28879">secreting</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221491">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29398" id="16628246-167803" start="29393">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221513">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30007" id="16628246-167843" start="29996">transformed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217957">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30609" id="16628246-167887" start="30600">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217491">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31574" id="16628246-167955" start="31560">X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219277">
+            <class id="http://purl.obolibrary.org/obo/GO_0048866" label="stem cell fate specification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32023" id="16628246-167983" start="32007">specification of</span>
+            <span end="32046" id="16628246-167984" start="32036">stem cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222065">
+            <class id="http://purl.obolibrary.org/obo/GO_0072089" label="stem cell proliferation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32077" id="16628246-167999" start="32068">stem cell</span>
+            <span end="32107" id="16628246-168000" start="32094">proliferation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220637">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33513" id="16628246-168139" start="33503">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221133">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34000" id="16628246-168169" start="33990">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220885">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34207" id="16628246-168189" start="34198">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220291">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34321" id="16628246-168197" start="34297">Imprinted X-Inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221531">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34543" id="16628246-168217" start="34519">imprinted X-inactivation</span>
+        </annotation>
+        <annotation id="16628246-383358">
+            <class id="http://purl.obolibrary.org/obo/GO_0016049" label="cell growth" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35928" id="16628246-383359" start="35917">cell growth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220171">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36040" id="16628246-168363" start="36033">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219873">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36103" id="16628246-168369" start="36093">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219033">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36667" id="16628246-168419" start="36643">imprinted X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220189">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36740" id="16628246-168429" start="36730">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220027">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36974" id="16628246-168445" start="36950">imprinted X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218095">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37363" id="16628246-168465" start="37353">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217335">
+            <class id="http://purl.obolibrary.org/obo/GO_0071514" label="genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37882" id="16628246-168506" start="37873">imprinted</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218571">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37962" id="16628246-168516" start="37958">cell</span>
+            <span end="37988" id="16628246-168517" start="37973">differentiation</span>
+        </annotation>
+        <annotation id="16628246-383360">
+            <class id="http://purl.obolibrary.org/obo/GO_0016049" label="cell growth" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="37969" id="16628246-383361" start="37958">cell growth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221225">
+            <class id="http://purl.obolibrary.org/obo/GO_0071514" label="genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38092" id="16628246-168521" start="38082">imprinting</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222307">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38735" id="16628246-168550" start="38720">inactivation of</span>
+            <span end="38750" id="16628246-168551" start="38740">paternal X</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219099">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39097" id="16628246-168575" start="39082">inactivation of</span>
+            <span end="39122" id="16628246-168576" start="39109">Xp chromosome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217153">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39177" id="16628246-168586" start="39167">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220639">
+            <class id="http://purl.obolibrary.org/obo/GO_0006338" label="chromatin remodeling" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39339" id="16628246-168604" start="39318">chromatin remodelling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221823">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39409" id="16628246-168610" start="39394">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219349">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40151" id="16628246-168662" start="40116">imprinted X-chromosome inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220687">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41431" id="16628246-168779" start="41420">transfected</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221833">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41466" id="16628246-168783" start="41456">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219789">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41525" id="16628246-168789" start="41513">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219287">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42507" id="16628246-168845" start="42497">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220465">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42521" id="16628246-168847" start="42512">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219149">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42563" id="16628246-20367" start="42552">Methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219793">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="42755" id="16628246-20375" start="42744">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219323">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="43724" id="16628246-168947" start="43719">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219049">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45114" id="16628246-169015" start="45105">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222315">
+            <class id="http://purl.obolibrary.org/obo/GO_0008219" label="cell death" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45158" id="16628246-169023" start="45148">cell death</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222023">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45807" id="16628246-169075" start="45802">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221707">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46315" id="16628246-169103" start="46305">Cell Cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220647">
+            <class id="http://purl.obolibrary.org/obo/GO_0051318" label="G1 phase" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46637" id="16628246-169143" start="46635">G1</span>
+            <span end="46736" id="16628246-169144" start="46727">phases of</span>
+            <span end="46751" id="16628246-169145" start="46741">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222211">
+            <class id="http://purl.obolibrary.org/obo/GO_0051320" label="S phase" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46668" id="16628246-169149" start="46667">S</span>
+            <span end="46736" id="16628246-169150" start="46727">phases of</span>
+            <span end="46751" id="16628246-169151" start="46741">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218495">
+            <class id="http://purl.obolibrary.org/obo/GO_0044839" label="cell cycle G2/M phase transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46699" id="16628246-169155" start="46695">G2/M</span>
+            <span end="46736" id="16628246-169156" start="46727">phases of</span>
+            <span end="46751" id="16628246-169157" start="46741">cell cycle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220565">
+            <class id="http://purl.obolibrary.org/obo/GO_0051318" label="G1 phase" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46847" id="16628246-169165" start="46845">G1</span>
+            <span end="46878" id="16628246-169166" start="46861">cell-cycle phases</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220817">
+            <class id="http://purl.obolibrary.org/obo/GO_0051320" label="S phase" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46850" id="16628246-169168" start="46849">S</span>
+            <span end="46878" id="16628246-169169" start="46861">cell-cycle phases</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220701">
+            <class id="http://purl.obolibrary.org/obo/GO_0044839" label="cell cycle G2/M phase transition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46878" id="16628246-169171" start="46856">G2/M cell-cycle phases</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221051">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47032" id="16628246-169195" start="47025">mitosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219207">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47054" id="16628246-169199" start="47040">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222121">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47180" id="16628246-169209" start="47173">mitotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221043">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47402" id="16628246-169217" start="47393">Apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218411">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47656" id="16628246-169243" start="47647">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220295">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47701" id="16628246-169245" start="47692">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220329">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47869" id="16628246-20427" start="47858">Methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219635">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48086" id="16628246-20435" start="48075">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218489">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48132" id="16628246-20439" start="48121">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218541">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48407" id="16628246-20443" start="48396">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220651">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48524" id="16628246-20447" start="48513">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219977">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48730" id="16628246-20455" start="48719">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_222119">
+            <class id="http://purl.obolibrary.org/obo/GO_0071514" label="genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48887" id="16628246-169367" start="48878">Imprinted</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221955">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="49540" id="16628246-169443" start="49526">X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219247">
+            <class id="http://purl.obolibrary.org/obo/GO_0060818" label="inactivation of paternal X chromosome by genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="49802" id="16628246-169461" start="49778">imprinted X-inactivation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218503">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="49837" id="16628246-169467" start="49828">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218195">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="49928" id="16628246-169475" start="49918">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220381">
+            <class id="http://purl.obolibrary.org/obo/GO_0000380" label="alternative mRNA splicing, via spliceosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="51718" id="16628246-169585" start="51698">alternative splicing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220561">
+            <class id="http://purl.obolibrary.org/obo/GO_0008380" label="RNA splicing" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52128" id="16628246-169615" start="52122">splice</span>
+        </annotation>
+        <annotation id="16628246-392940">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="52722" id="16628246-392941" start="52698">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220337">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="54706" id="16628246-20527" start="54695">Methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217953">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="55509" id="16628246-20543" start="55498">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221785">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="55568" id="16628246-20547" start="55557">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221747">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="55924" id="16628246-20555" start="55914">methylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219471">
+            <class id="http://purl.obolibrary.org/obo/GO_0032259" label="methylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="56112" id="16628246-20559" start="56101">methylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217597">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="56406" id="16628246-169967" start="56396">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217881">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="58053" id="16628246-170128" start="58043">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219867">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="58297" id="16628246-170156" start="58288">Apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_218315">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="58309" id="16628246-170158" start="58302">Mitosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217355">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="58466" id="16628246-170176" start="58457">apoptotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217147">
+            <class id="http://purl.obolibrary.org/obo/GO_0140014" label="mitotic nuclear division" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="58658" id="16628246-170200" start="58651">mitosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221347">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="58680" id="16628246-170204" start="58666">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_220841">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="59698" id="16628246-170274" start="59688">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_221511">
+            <class id="http://purl.obolibrary.org/obo/GO_0071514" label="genomic imprinting" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="60516" id="16628246-170360" start="60507">Imprinted</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219469">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="61305" id="16628246-170430" start="61298">Matings</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_219761">
+            <class id="http://purl.obolibrary.org/obo/GO_0009048" label="dosage compensation by inactivation of X chromosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="61933" id="16628246-170440" start="61919">X-inactivation</span>
+        </annotation>
+    </document>
+</knowtator-project>

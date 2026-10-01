@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16216087" text-file="16216087.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_175999">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="15372" id="16216087-141811" start="15363">genotypes</span>
+        </annotation>
+        <annotation id="16216087-412809">
+            <class id="http://purl.obolibrary.org/obo/TAXRANK_0001001" label="strain" interpretation="TAXONOMIC RANK OR ORGANISM"/>
+            <span end="42222" id="16216087-412810" start="42215">strains</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_174631">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="55660" id="16216087-144396" start="55652">genotype</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_177915">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="59050" id="16216087-144580" start="59042">genotype</span>
+        </annotation>
+    </document>
+</knowtator-project>

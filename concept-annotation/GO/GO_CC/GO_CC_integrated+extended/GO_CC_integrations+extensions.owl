@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:craft="http://craftcorpus.org/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:obo="http://purl.obolibrary.org/obo/"
+>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_transmembrane_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of transmembrane association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) across a lipid-bilayer membrane.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0016020</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>transmembrane; trans-membrane; transmembranous; trans-membranous; TM</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_extrasynaptic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of extrasynaptic association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) external to a synapse.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0045202</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>extrasynaptic; extra-synaptic; extrasynaptically; extra-synaptically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_one_cell_nucleus">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of association with one cell nucleus</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., possessing, containing, involving) one cell nucleus.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005634</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>mononuclear; mono-nuclear; mononucleate; mono-nucleate; uninuclear; uni-nuclear; uninucleate; uni-nucleate</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_paracellular_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of paracellular association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) in an intercellular space.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005576</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>paracellular; paracellularly</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_intraperikaryal_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of intraperikaryal association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) within one or more perikaryons.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0043204</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>intraperikaryal; intra-perikaryal</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_telomere">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>telomere</rdfs:label>
+    <obo:IAO_0000115>An end of a linear chromosome, required for the integrity and maintenance of the end.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_0000781</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>telomere; telomeres; telomeric; telomeric chromosomal region; telomeric chromosomal regions; telomeric chromosomal segment; telomeric chromosomal segments; telomeric chromosome region; telomeric chromosome regions;  telomeric chromosome segment; telomeric chromosome segments; telomeric region; telomeric regions; telomeric region of chromosome; telomeric regions of chromosomes;  telomeric segment; telomeric segments; telomeric segment of chromosome; telomeric segments of chromosomes; telomerically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_cellular_submembranous_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of cellular submembranous association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) beneath a lipid-bilayer membrane.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0016020</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>submembrane; sub-membrane; submembranous; sub-membranous</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_association_with_any_synapse">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>absence of association with any synapse</rdfs:label>
+    <obo:IAO_0000115>An absence of any kind of association with (e.g., possessing, involving, being situated at) any synapse.</obo:IAO_0000115>
+    <craft:has_entailed_absence_of_association_with_GO_CC_class>http://purl.obolibrary.org/obo/GO_0045202</craft:has_entailed_absence_of_association_with_GO_CC_class>
+    <craft:annotatable_text>nonsynaptic; non-synaptic; non synaptic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_pericentriolar_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of pericentriolar association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) around or near a centriole.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005814</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>pericentriolar; peri-centriolar</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_cellular_subcortical_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of cellular subcortical association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) beneath a cell cortex.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005938</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>subcortical; sub-cortical</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_high_density_lipoprotein_particle">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>high-density lipoprotein particle</rdfs:label>
+    <obo:IAO_0000115>A lipoprotein particle with a high density (typically 1.063-1.21 g/ml) and a diameter of 5-10 nm that contains APOAs and may contain APOCs and APOE.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_0034364</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>HDL; HDLs; HDL lipoprotein; HDL lipoproteins; HDL particle; HDL paraticles; high-density lipoprotein; high-density lipoproteins; high density lipoprotein; high density lipoproteins; high-density lipoprotein particle; high-density lipoprotein particles; high density lipoprotein particle; high density lipoprotein particles</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_transcellular_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of transcellular association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) through or across a cell.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0110165</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>transcellular; trans-cellular; transcellularly; trans-cellularly</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_basal_body">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <craft:has_subsumed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0009425</craft:has_subsumed_GO_CC_class>
+    <craft:has_subsumed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0036064</craft:has_subsumed_GO_CC_class>
+    <rdfs:label>basal body</rdfs:label>
+    <obo:IAO_0000115>A ciliary or bacterial-type flagellum basal body.</obo:IAO_0000115>
+    <craft:annotatable_text>basal body; basal bodies</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_spectrin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <craft:has_subsumed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0008091</craft:has_subsumed_GO_CC_class>
+    <rdfs:label>spectrin chain or complex</rdfs:label>
+    <obo:IAO_0000115>A spectrin (alpha or beta) chain, or a complex of spectrin chains.</obo:IAO_0000115>
+    <craft:annotatable_text>spectrin; spectrins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_chromosome">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>chromosome</rdfs:label>
+    <obo:IAO_0000115>A structure composed of a very long molecule of DNA that carries hereditary information, with or without associated proteins (e.g., histones).</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005694</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>chr; chromosomal; chromosomally; chromosome; chromosomes</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_very_low_density_lipoprotein_particle">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>very-low-density lipoprotein particle</rdfs:label>
+    <obo:IAO_0000115>A lipoprotein of large size (30-80 nm), very-low-density (0.93-1.006 g/ml) particle with a core composed mainly of triglycerides and a surface monolayer of phospholipids and cholesterol into which are embedded the apolipoproteins B, E, and C. VLDLs facilitate the transport of endogenously made triglycerides to extrahepatic tissues.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_0034361</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>very-low-density lipoprotein; very-low-density lipoproteins; very-low-density lipoprotein particle; very-low-density lipoprotein particles; very low density lipoprotein; very low density lipoproteins; very low density lipoprotein particle; very low density lipoprotein particles; VLDL; VLDLs; VLDL lipoprotein; VLDL lipoproteins; VLDL particle; VLDL particles</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_nerve_ending_or_neuron_projection_terminus">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>nerve ending or neuron projection terminus</rdfs:label>
+    <obo:IAO_0000115>The terminal region of a neuron projection or nerve.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_0044306</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>end of nerve; ends of nerves; end of neuron; ends of neurons; ending of nerve; endings of nerves; ending of neuron; endings of neurons; nerve end; nerve ends; nerve ending; nerve endings; nerve terminal; nerve terminals; neuron end; neuron ends; neuron ending; neuron endings; neuron terminal; neuron terminals; terminal of nerve; terminals of nerves; terminal of neuron; terminals of neurons</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_basement_membrane">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>basement membrane</rdfs:label>
+    <obo:IAO_0000115>A collagen-containing extracellular matrix consisting of a thin layer of dense material found in various animal tissues interposed between the cells and the adjacent connective tissue.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005604</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>basal membrane; basal membranes; basement membrane; basement membranes</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_pericellular_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of pericellular association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) around or near one or more cells.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0110165</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>pericellular; peri-cellular; pericellularly; peri-cellularly</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_nucleocytoplasmic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of nucleocytoplasmic association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., involving, occurring in) the nucleus and cytoplasm of a cell.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005634</craft:has_deductively_entailed_GO_CC_class>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005737</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>nucleocytoplasmic; nucleo-cytoplasmic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_association_with_any_cell_nucleus">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>absence of association with any cell nucleus</rdfs:label>
+    <obo:IAO_0000115>An absence of any kind of association with (e.g., possessing, involving, being situated at) any cell nucleus.</obo:IAO_0000115>
+    <craft:has_entailed_absence_of_association_with_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005634</craft:has_entailed_absence_of_association_with_GO_CC_class>
+    <craft:annotatable_text>nonnuclear; non-nuclear; non nuclear</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of subcellular association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place, involving) with something that is a component of and/or smaller than a cell.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0110165</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>subcellular; subcellularly; sub-cellular; sub-cellularly</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_low_density_lipoprotein_particle">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>low-density lipoprotein particle</rdfs:label>
+    <obo:IAO_0000115>A low-density lipoprotein particle, a spherical particle containing non-covalently associated proteins and lipids.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_0034362</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>LDL; LDLs; LDL lipoprotein; LDL lipoproteins; LDL particle; LDL particles; low-density lipoprotein; low-density lipoproteins; low-density lipoprotein particle; low-density lipoprotein particles; low density lipoprotein; low density lipoproteins; low density lipoprotein particle; low density lipoprotein particles</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsumed_GO_CC_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_GO_CC_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_OBO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_GO_CC_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_CC_class"/>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_intracellular_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of intracellular association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) within a cell.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005622</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>intracellular; intra-cellular; intracellularly; intra-cellularly</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_lipoprotein_particle">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>lipoprotein particle</rdfs:label>
+    <obo:IAO_0000115>A lipoprotein particle.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_1990777</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>lipoprotein; lipoproteins; lipoprotein particle; lipoprotein particles; proteolipid; proteolipids</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_cellular_subnuclear_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of cellular subnuclear association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) within or as a smaller part of a cell nucleus.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005634</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>subnuclear; sub-nuclear</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_centromere">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>centromere</rdfs:label>
+    <obo:IAO_0000115>A region of a chromosome that includes the centromeric DNA and associated proteins.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_0000775</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>centric chromosomal region; centric chromosomal regions; centric chromosome region; centric chromosome regions; centromere; centromeres; centromeric; centromeric region; centromeric regions</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_juxtanuclear_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of juxtanuclear association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) near a cell nucleus.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005634</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>juxtanuclear; juxta-nuclear</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>chromosomal interval/location/part/portion/position/region/segment/site</rdfs:label>
+    <obo:IAO_0000115>An interval, location, part, position, portion, region, segment, or site of/on a chromosome.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_CC_class>http://purl.obolibrary.org/obo/GO_0098687</craft:has_substitutable_GO_CC_class>
+    <craft:annotatable_text>chromosomal domain; chromosomal domains; chromosomal location; chromosomal locations; chromosomal locus; chromosomal loci; chromosomal interval; chromosomal intervals; chromosomal part; chromosomal parts; chromosomal portion; chromosomal portions; chromosomal position; chromosomal positions; chromosomal region; chromosomal regions; chromosomal segment; chromosomal segments; chromosomal site; chromosoma sites; chromosomal stretch; chromosomal stretches; chromosome domain; chromosome domains; chromosome interval; chromosome intervals; chromosome location; chromosome locations; chromosome locus; chromosome loci; chromosome part; chromosome parts; chromosome portion; chromosome portions; chromosome position; chromosome positions; chromosome region; chromosome regions; chromosome segment; chromosome segments; chromosome site; chromosome sites; chromosome stretch; chromosome stretches; domain of chromosome; domains of chromosome; interval of chromosome; intervals of chromosome; locus of chromosome; loci of chromosome; part of chromosome; parts of chromosome; portion of chromosome; portions of chromosome; region of chromosome; regions of chromosome; segment of chromosome; segments of chromosome; site of chromosome; sites of chromosome; stretch of chromosome; stretches of chromosome; domain on chromosome; domains of chromosome; interval on chromosome; intervals of chromosome; location on chromosome; locations on chromosome; locus on chromosome; loci on chromosome; part on chromosome; parts on chromosome; portion on chromosome; portions on chromosome; position on chromosome; positions on chromosome; region on chromosome; regions on chromosome; segment on chromosome; segments on chromosome; site on chromosome; sites on chromosome; stretch on chromosome; stretches on chromosome</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_absence_of_association_with_GO_CC_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_CC_class"/>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+    <rdfs:label>definition</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_association_with_any_chiasma">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>absence of association with any chiasma</rdfs:label>
+    <obo:IAO_0000115>An absence of any kind of association with (e.g., possessing, involving, being situated at) any chiasma, i.e., a connection between chromatids visible during meiosis.</obo:IAO_0000115>
+    <craft:has_entailed_absence_of_association_with_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005712</craft:has_entailed_absence_of_association_with_GO_CC_class>
+    <craft:annotatable_text>achiasmate; achiasmatic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_interchromosomal_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of interchromosomal association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) between or among chromosomes.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://craftcorpus.org/CRAFT_chromosome</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>interchromosomal; inter-chromosomal; interchromosally; inter-chromosomally</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_four_cell_nuclei">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of association with four cell nuclei</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., possessing, containing, involving) four cell nuclei.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005634</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>tetranuclear; tetra-nuclear; tetranucleate; tetra-nucleate</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_hemoglobin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <craft:has_subsumed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005833</craft:has_subsumed_GO_CC_class>
+    <rdfs:label>hemoglobin</rdfs:label>
+    <obo:IAO_0000115>A hemoglobin gene or gene product, or a hemoglobin tetramer.</obo:IAO_0000115>
+    <craft:annotatable_text>haemoglobin; haemoglobins; hemoglobin; hemoglobins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_integrin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <craft:has_subsumed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0008305</craft:has_subsumed_GO_CC_class>
+    <rdfs:label>integrin</rdfs:label>
+    <obo:IAO_0000115>An integrin complex or subunit.</obo:IAO_0000115>
+    <craft:annotatable_text>integrin; integrins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_perinuclear_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of perinuclear association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) around or near a cell nucleus.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005634</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>perinuclear; peri-nuclear</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_association_with_any_centromere">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>absence of association with any centromere</rdfs:label>
+    <obo:IAO_0000115>An absence of any kind of association with (e.g., involving, possessing, being situated at) any centromere.</obo:IAO_0000115>
+    <craft:has_entailed_absence_of_association_with_GO_CC_class>http://purl.obolibrary.org/obo/GO_0000775</craft:has_entailed_absence_of_association_with_GO_CC_class>
+    <craft:annotatable_text>noncentromeric; non-centromeric</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_monosynaptic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of monosynaptic association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., of possessing, containing, involving) one synapse.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0045202</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>monosynaptic; mono-synaptic</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
+    <rdfs:label>annotatable text</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_multiple_cell_nuclei">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_CC_extension_class"/>
+    <rdfs:label>attribute of association with multiple cell nuclei</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., possessing, containing, involving) multiple cell nuclei.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_CC_class>http://purl.obolibrary.org/obo/GO_0005634</craft:has_deductively_entailed_GO_CC_class>
+    <craft:annotatable_text>multinuclear; multi-nuclear; multinucleate; multi-nucleate; multinucleated; multi-nucleated; polynuclear; poly-nuclear; polynucleate; poly-nucleate; polynucleated; poly-nucleated</craft:annotatable_text>
+  </owl:Class>
+  <owl:Ontology rdf:about="http://craftcorpus.org/"/>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_GO_CC_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_GO_CC_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_CC_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_GO_CC_extension_class">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label>GO_CC extension class</rdfs:label>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
+</rdf:RDF>

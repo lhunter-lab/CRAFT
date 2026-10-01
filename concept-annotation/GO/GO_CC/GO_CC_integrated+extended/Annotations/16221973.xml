@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16221973" text-file="16221973.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_180415">
+            <class id="http://purl.obolibrary.org/obo/GO_0005856" label="cytoskeleton"/>
+            <span end="1334" id="16221973-125229" start="1322">cytoskeletal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_180955">
+            <class id="http://purl.obolibrary.org/obo/GO_0005886" label="plasma membrane"/>
+            <span end="3219" id="16221973-125397" start="3204">plasma membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_181487">
+            <class id="http://purl.obolibrary.org/obo/GO_0032993" label="protein-DNA complex"/>
+            <span end="16694" id="16221973-126415" start="16675">protein–DNA complex</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_182481">
+            <class id="http://purl.obolibrary.org/obo/GO_0005856" label="cytoskeleton"/>
+            <span end="23467" id="16221973-127017" start="23455">cytoskeletal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_181609">
+            <class id="http://purl.obolibrary.org/obo/GO_0005886" label="plasma membrane"/>
+            <span end="24622" id="16221973-127135" start="24604">cellular membranes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_182571">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="24641" id="16221973-127137" start="24632">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_182591">
+            <class id="http://purl.obolibrary.org/obo/GO_0005783" label="endoplasmic reticulum"/>
+            <span end="28502" id="16221973-127489" start="28481">endoplasmic reticulum</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_182551">
+            <class id="http://purl.obolibrary.org/obo/GO_0005783" label="endoplasmic reticulum"/>
+            <span end="28560" id="16221973-127499" start="28558">ER</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_180979">
+            <class id="http://purl.obolibrary.org/obo/GO_0031941" label="filamentous actin"/>
+            <span end="31574" id="16221973-127797" start="31557">filamentous actin</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_182301">
+            <class id="http://purl.obolibrary.org/obo/GO_0005856" label="cytoskeleton"/>
+            <span end="31762" id="16221973-127813" start="31750">cytoskeletal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_180433">
+            <class id="http://purl.obolibrary.org/obo/GO_0015629" label="actin cytoskeleton"/>
+            <span end="31914" id="16221973-127828" start="31896">actin cytoskeleton</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_179075">
+            <class id="http://purl.obolibrary.org/obo/GO_0005874" label="microtubule"/>
+            <span end="32130" id="16221973-127848" start="32118">microtubules</span>
+        </annotation>
+        <annotation id="16221973-399371">
+            <class id="http://purl.obolibrary.org/obo/GO_0005856" label="cytoskeleton"/>
+            <span end="32206" id="16221973-399372" start="32194">cytoskeletal</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_179863">
+            <class id="http://purl.obolibrary.org/obo/GO_0005856" label="cytoskeleton"/>
+            <span end="32316" id="16221973-127862" start="32304">cytoskeleton</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_182803">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intracellular_association" label="attribute of intracellular association"/>
+            <span end="32769" id="16221973-127898" start="32756">intracellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_181999">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="32781" id="16221973-127902" start="32770">cytoplasmic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_181571">
+            <class id="http://purl.obolibrary.org/obo/GO_0005576" label="extracellular region"/>
+            <span end="32833" id="16221973-127908" start="32820">extracellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_180615">
+            <class id="http://purl.obolibrary.org/obo/GO_0031982" label="vesicle"/>
+            <span end="32847" id="16221973-127918" start="32838">vesicular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_181637">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="32880" id="16221973-127924" start="32871">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_181665">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intracellular_association" label="attribute of intracellular association"/>
+            <span end="33316" id="16221973-127960" start="33303">intracellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_182217">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="33328" id="16221973-127964" start="33317">cytoplasmic</span>
+        </annotation>
+        <annotation id="16221973-399355">
+            <class id="http://purl.obolibrary.org/obo/GO_0097708" label="intracellular vesicle"/>
+            <span end="33400" id="16221973-399356" start="33378">intracellular vesicles</span>
+        </annotation>
+        <annotation id="16221973-401696">
+            <class id="http://purl.obolibrary.org/obo/GO_0005665" label="RNA polymerase II, core complex"/>
+            <span end="33936" id="16221973-401697" start="33919">RNA polymerase II</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_181427">
+            <class id="http://purl.obolibrary.org/obo/GO_0032993" label="protein-DNA complex"/>
+            <span end="40114" id="16221973-128553" start="40095">protein–DNA complex</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_180029">
+            <class id="http://purl.obolibrary.org/obo/GO_0032993" label="protein-DNA complex"/>
+            <span end="41325" id="16221973-128719" start="41306">protein–DNA complex</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_182089">
+            <class id="http://purl.obolibrary.org/obo/GO_0032993" label="protein-DNA complex"/>
+            <span end="42501" id="16221973-128871" start="42482">protein–DNA complex</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_181475">
+            <class id="http://purl.obolibrary.org/obo/GO_0032993" label="protein-DNA complex"/>
+            <span end="43699" id="16221973-129025" start="43680">protein–DNA complex</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_179625">
+            <class id="http://purl.obolibrary.org/obo/GO_0032993" label="protein-DNA complex"/>
+            <span end="44859" id="16221973-129171" start="44840">protein–DNA complex</span>
+        </annotation>
+    </document>
+</knowtator-project>

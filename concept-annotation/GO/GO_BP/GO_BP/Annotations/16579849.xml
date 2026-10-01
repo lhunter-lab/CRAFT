@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16579849" text-file="16579849.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_215103">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="191" id="16579849-237878" start="181">metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214779">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="828" id="16579849-237908" start="821">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213579">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1301" id="16579849-237944" start="1292">metabolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214791">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1368" id="16579849-237952" start="1358">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214121">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2098" id="16579849-237988" start="2089">metabolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214595">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4056" id="16579849-238101" start="4041">phosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_212821">
+            <class id="http://purl.obolibrary.org/obo/GO_0016311" label="dephosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4093" id="16579849-238103" start="4076">dephosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213967">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4638" id="16579849-238127" start="4629">metabolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214101">
+            <class id="http://purl.obolibrary.org/obo/GO_0006520" label="amino acid metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4924" id="16579849-238133" start="4903">amino acid metabolism</span>
+        </annotation>
+        <annotation id="16579849-393151">
+            <class id="http://purl.obolibrary.org/obo/GO_0002683" label="negative regulation of immune system process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5259" id="16579849-393152" start="5242">immunosuppressant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213875">
+            <class id="http://purl.obolibrary.org/obo/GO_0008380" label="RNA splicing" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6311" id="16579849-238175" start="6305">splice</span>
+        </annotation>
+        <annotation id="16579849-392928">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6842" id="16579849-392929" start="6818">homologous recombination</span>
+        </annotation>
+        <annotation id="16579849-392202">
+            <class id="http://purl.obolibrary.org/obo/GO_1901326" label="response to tetracycline" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10453" id="16579849-392203" start="10430">tetracycline responsive</span>
+        </annotation>
+        <annotation id="16579849-392204">
+            <class id="http://purl.obolibrary.org/obo/GO_1901326" label="response to tetracycline" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10513" id="16579849-392205" start="10490">tetracycline responsive</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213851">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10685" id="16579849-238529" start="10675">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214589">
+            <class id="http://purl.obolibrary.org/obo/GO_0006412" label="translation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10769" id="16579849-238537" start="10758">translation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_212937">
+            <class id="http://purl.obolibrary.org/obo/GO_0006412" label="translation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11024" id="16579849-238565" start="11013">translation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214037">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11614" id="16579849-238611" start="11609">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214475">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17940" id="16579849-239053" start="17936">born</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215343">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18025" id="16579849-239067" start="18018">matings</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215077">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18280" id="16579849-239103" start="18259">embryonic development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213845">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18388" id="16579849-239113" start="18383">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213199">
+            <class id="http://purl.obolibrary.org/obo/GO_0001967" label="suckling behavior" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18510" id="16579849-239125" start="18504">suckle</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213299">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18747" id="16579849-239147" start="18742">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215031">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19116" id="16579849-239187" start="19110">mating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214963">
+            <class id="http://purl.obolibrary.org/obo/GO_0009081" label="branched-chain amino acid metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21022" id="16579849-239405" start="21004">metabolism of BCAA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213625">
+            <class id="http://purl.obolibrary.org/obo/GO_0006537" label="glutamate biosynthetic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21054" id="16579849-239409" start="21042">synthesis of</span>
+            <span end="21073" id="16579849-239410" start="21064">glutamate</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214239">
+            <class id="http://purl.obolibrary.org/obo/GO_0006542" label="glutamine biosynthetic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21054" id="16579849-239412" start="21042">synthesis of</span>
+            <span end="21088" id="16579849-239413" start="21079">glutamine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215183">
+            <class id="http://purl.obolibrary.org/obo/GO_0006523" label="alanine biosynthetic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21062" id="16579849-239415" start="21042">synthesis of alanine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215005">
+            <class id="http://purl.obolibrary.org/obo/GO_0009081" label="branched-chain amino acid metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21133" id="16579849-239423" start="21115">metabolism of BCAA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213453">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22302" id="16579849-239507" start="22297">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213707">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22554" id="16579849-239531" start="22545">metabolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215177">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22783" id="16579849-239545" start="22773">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213691">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23137" id="16579849-239569" start="23130">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213559">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23355" id="16579849-239597" start="23345">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214159">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23458" id="16579849-239607" start="23448">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213667">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23569" id="16579849-239617" start="23562">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214745">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23767" id="16579849-239635" start="23760">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_212973">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23857" id="16579849-239649" start="23850">express</span>
+        </annotation>
+        <annotation id="16579849-392198">
+            <class id="http://purl.obolibrary.org/obo/GO_1901326" label="response to tetracycline" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24000" id="16579849-392199" start="23979">tetracycline response</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214381">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29281" id="16579849-239993" start="29271">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213907">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29364" id="16579849-240003" start="29354">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214941">
+            <class id="http://purl.obolibrary.org/obo/GO_0006412" label="translation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29410" id="16579849-240007" start="29397">production of</span>
+            <span end="29427" id="16579849-240008" start="29420">protein</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214909">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30786" id="16579849-240116" start="30776">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213813">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30892" id="16579849-240128" start="30882">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213671">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31589" id="16579849-240158" start="31580">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_212921">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32473" id="16579849-240184" start="32469">born</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214521">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32528" id="16579849-240186" start="32523">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214867">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32551" id="16579849-240188" start="32546">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213231">
+            <class id="http://purl.obolibrary.org/obo/GO_0001967" label="suckling behavior" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32574" id="16579849-240190" start="32566">suckling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215345">
+            <class id="http://purl.obolibrary.org/obo/GO_0009081" label="branched-chain amino acid metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32753" id="16579849-240204" start="32735">metabolism of BCAA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214057">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33534" id="16579849-240256" start="33529">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215383">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34190" id="16579849-240284" start="34183">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214919">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34357" id="16579849-240306" start="34347">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214229">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35586" id="16579849-240376" start="35576">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213745">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="35885" id="16579849-240394" start="35875">expression</span>
+        </annotation>
+        <annotation id="16579849-392210">
+            <class id="http://purl.obolibrary.org/obo/GO_0010266" label="response to vitamin B1" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38089" id="16579849-392211" start="38071">thiamin-responsive</span>
+        </annotation>
+        <annotation id="16579849-392212">
+            <class id="http://purl.obolibrary.org/obo/GO_0010266" label="response to vitamin B1" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38345" id="16579849-392213" start="38327">thiamin-responsive</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_214923">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="38416" id="16579849-240492" start="38406">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213769">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39406" id="16579849-240528" start="39397">metabolic</span>
+        </annotation>
+        <annotation id="16579849-392200">
+            <class id="http://purl.obolibrary.org/obo/GO_1901326" label="response to tetracycline" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39698" id="16579849-392201" start="39675">tetracycline responsive</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_213725">
+            <class id="http://purl.obolibrary.org/obo/GO_0008152" label="metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40809" id="16579849-240576" start="40800">Metabolic</span>
+        </annotation>
+    </document>
+</knowtator-project>

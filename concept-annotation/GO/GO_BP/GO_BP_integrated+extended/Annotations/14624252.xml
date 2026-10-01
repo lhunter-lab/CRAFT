@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="14624252" text-file="14624252.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_40921">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="54" id="14624252-74474" start="20">PDGF Receptor β Signaling Pathways</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41887">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="97" id="14624252-74480" start="58">Vascular Smooth Muscle Cell Development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43681">
+            <class id="http://purl.obolibrary.org/obo/GO_0007169" label="cell surface receptor protein tyrosine kinase signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="294" id="14624252-74500" start="260">receptor tyrosine kinase signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44261">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="715" id="14624252-74538" start="706">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42225">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="814" id="14624252-74544" start="804">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42993">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1212" id="14624252-74568" start="1186">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41021">
+            <class id="http://purl.obolibrary.org/obo/GO_0007169" label="cell surface receptor protein tyrosine kinase signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1335" id="14624252-74580" start="1287">signal transduction by receptor tyrosine kinases</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41221">
+            <class id="http://purl.obolibrary.org/obo/GO_0007169" label="cell surface receptor protein tyrosine kinase signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2182" id="14624252-74614" start="2169">RTK signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43345">
+            <class id="http://purl.obolibrary.org/obo/GO_0007169" label="cell surface receptor protein tyrosine kinase signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2239" id="14624252-74616" start="2236">RTK</span>
+            <span end="2257" id="14624252-74617" start="2248">signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43137">
+            <class id="http://purl.obolibrary.org/obo/GO_0035790" label="platelet-derived growth factor receptor-alpha signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2785" id="14624252-74641" start="2744">platelet-derived growth factor receptor α</span>
+            <span end="2804" id="14624252-74642" start="2795">signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43759">
+            <class id="http://purl.obolibrary.org/obo/GO_0014003" label="oligodendrocyte development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2972" id="14624252-74671" start="2945">oligodendrocyte development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42915">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3275" id="14624252-74689" start="3260">physiologically</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44033">
+            <class id="http://purl.obolibrary.org/obo/GO_0046777" label="protein autophosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3407" id="14624252-74701" start="3389">autophosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41519">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3476" id="14624252-74709" start="3462">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42151">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3963" id="14624252-74743" start="3949">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41957">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="4289" id="14624252-3677" start="4276">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42003">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4849" id="14624252-74791" start="4827">signal transduction by</span>
+            <span end="4860" id="14624252-74792" start="4854">PDGFRβ</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42047">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4964" id="14624252-74804" start="4938">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42893">
+            <class id="http://purl.obolibrary.org/obo/GO_0048008" label="platelet-derived growth factor receptor signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5627" id="14624252-74865" start="5603">PDGF signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43869">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6143" id="14624252-74902" start="6128">physiologically</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41937">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6373" id="14624252-74920" start="6359">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42165">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6458" id="14624252-74935" start="6432">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43457">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6515" id="14624252-74939" start="6506">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42301">
+            <class id="http://purl.obolibrary.org/obo/GO_0007169" label="cell surface receptor protein tyrosine kinase signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6684" id="14624252-74954" start="6661">RTK signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42361">
+            <class id="http://purl.obolibrary.org/obo/GO_0048468" label="cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6732" id="14624252-74960" start="6712">cellular development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43101">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6863" id="14624252-74970" start="6862">v</span>
+            <span end="6877" id="14624252-74971" start="6866">development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43765">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting" label="occurrence/attribute/effect of translational frameshifting"/>
+            <span end="7585" id="14624252-75029" start="7575">frameshift</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41247">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting" label="occurrence/attribute/effect of translational frameshifting"/>
+            <span end="7856" id="14624252-75057" start="7846">frameshift</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43497">
+            <class id="http://purl.obolibrary.org/obo/GO_0071897" label="DNA biosynthetic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8472" id="14624252-75115" start="8459">DNA synthesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43833">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="8541" id="14624252-75123" start="8527">downregulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42375">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8869" id="14624252-75161" start="8868">v</span>
+            <span end="8883" id="14624252-75162" start="8872">development</span>
+        </annotation>
+        <annotation id="14624252-339424">
+            <class id="http://purl.obolibrary.org/obo/GO_0016049" label="cell growth" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9009" id="14624252-339425" start="8998">cell growth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41199">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9380" id="14624252-75222" start="9371">expresses</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41731">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="9445" id="14624252-75231" start="9431">differentiated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43029">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9857" id="14624252-75270" start="9831">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44175">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_gene_coexpression" label="occurrence/attribute of gene coexpression"/>
+            <span end="10640" id="14624252-75336" start="10629">coexpressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42159">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10842" id="14624252-75361" start="10816">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41297">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_gene_coexpression" label="occurrence/attribute of gene coexpression"/>
+            <span end="10904" id="14624252-75365" start="10893">coexpressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44077">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11188" id="14624252-75383" start="11181">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43415">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="11232" id="14624252-75387" start="11221">upregulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42243">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11317" id="14624252-75397" start="11308">expresses</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42477">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11490" id="14624252-75415" start="11480">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43063">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11738" id="14624252-75451" start="11728">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43033">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11830" id="14624252-75466" start="11820">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44221">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11950" id="14624252-75487" start="11940">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41287">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12232" id="14624252-75518" start="12225">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41739">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12315" id="14624252-75524" start="12306">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42395">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="12330" id="14624252-75526" start="12319">upregulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42667">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12480" id="14624252-75542" start="12479">V</span>
+            <span end="12494" id="14624252-75543" start="12483">Development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42719">
+            <class id="http://purl.obolibrary.org/obo/GO_0042592" label="homeostatic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14721" id="14624252-75703" start="14710">homeostasis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42571">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15392" id="14624252-75750" start="15391">v</span>
+            <span end="15408" id="14624252-75751" start="15395">developmental</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43119">
+            <class id="http://purl.obolibrary.org/obo/GO_0048468" label="cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16102" id="14624252-75806" start="16086">cell development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43795">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17068" id="14624252-75867" start="17052">PDGFRβ signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41897">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17302" id="14624252-75885" start="17276">PDGFB and PDGFRβ signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42861">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17676" id="14624252-75911" start="17650">PDGFRβ and PDGFB signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41481">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17986" id="14624252-75931" start="17981">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41961">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18237" id="14624252-75947" start="18221">PDGFRβ signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42489">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18950" id="14624252-76003" start="18924">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41667">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18964" id="14624252-76007" start="18963">v</span>
+            <span end="18978" id="14624252-76008" start="18967">development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43541">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19902" id="14624252-76085" start="19876">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41917">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20354" id="14624252-76117" start="20353">v</span>
+            <span end="20368" id="14624252-76118" start="20357">development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42405">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20529" id="14624252-76140" start="20528">v</span>
+            <span end="20543" id="14624252-76141" start="20532">development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43423">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21062" id="14624252-76171" start="21053">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42105">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="21207" id="14624252-76179" start="21194">downregulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42253">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21233" id="14624252-76185" start="21223">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41709">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21372" id="14624252-76191" start="21357">phosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42701">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21440" id="14624252-76197" start="21426">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43719">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21603" id="14624252-76207" start="21588">phosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41753">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21767" id="14624252-76219" start="21753">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42303">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="21874" id="14624252-76229" start="21860">downregulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42195">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22126" id="14624252-76245" start="22112">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41065">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22172" id="14624252-76249" start="22157">phosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42413">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22773" id="14624252-76282" start="22758">phosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42417">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22888" id="14624252-76294" start="22878">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41047">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23245" id="14624252-76318" start="23230">phosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41399">
+            <class id="http://purl.obolibrary.org/obo/GO_0007169" label="cell surface receptor protein tyrosine kinase signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23692" id="14624252-76346" start="23669">RTK signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41003">
+            <class id="http://purl.obolibrary.org/obo/GO_0048468" label="cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23822" id="14624252-76354" start="23802">cellular development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41909">
+            <class id="http://purl.obolibrary.org/obo/GO_0048468" label="cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24205" id="14624252-76376" start="24189">cell development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42111">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24499" id="14624252-76384" start="24490">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43977">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24842" id="14624252-76408" start="24816">PDGFRβ signal transmission</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41141">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25704" id="14624252-76456" start="25678">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42173">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25810" id="14624252-76468" start="25800">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42739">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25989" id="14624252-76474" start="25959">transmission of PDGFRβ signals</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41547">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26637" id="14624252-76524" start="26627">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42183">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="27287" id="14624252-76560" start="27273">downregulating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41883">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27466" id="14624252-76568" start="27440">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41025">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28297" id="14624252-76598" start="28282">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40881">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29061" id="14624252-76636" start="29051">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44197">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29625" id="14624252-76676" start="29609">PDGFRβ signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43523">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29750" id="14624252-76684" start="29734">PDGFRβ signaling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44253">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30213" id="14624252-76711" start="30199">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42433">
+            <class id="http://purl.obolibrary.org/obo/GO_0036120" label="cellular response to platelet-derived growth factor stimulus" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="30860" id="14624252-76753" start="30829">PDGF-induced cellular responses</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44173">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31205" id="14624252-76791" start="31190">phosphorylating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43971">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31463" id="14624252-76810" start="31454">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42199">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32050" id="14624252-76848" start="32024">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41559">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32601" id="14624252-76880" start="32575">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42601">
+            <class id="http://purl.obolibrary.org/obo/GO_0007169" label="cell surface receptor protein tyrosine kinase signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32683" id="14624252-76888" start="32660">RTK signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41049">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32754" id="14624252-76893" start="32753">v</span>
+            <span end="32773" id="14624252-76894" start="32757">cell development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40895">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32798" id="14624252-76903" start="32797">v</span>
+            <span end="32817" id="14624252-76904" start="32801">cell development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41725">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32861" id="14624252-76912" start="32835">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41967">
+            <class id="http://purl.obolibrary.org/obo/GO_0097084" label="vascular associated smooth muscle cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="32984" id="14624252-76919" start="32983">v</span>
+            <span end="33003" id="14624252-76920" start="32987">cell development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43463">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="33852" id="14624252-76987" start="33843">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42295">
+            <class id="http://purl.obolibrary.org/obo/GO_0046903" label="secretion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34133" id="14624252-77013" start="34126">secrete</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43771">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34745" id="14624252-77058" start="34736">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42697">
+            <class id="http://purl.obolibrary.org/obo/GO_0035791" label="platelet-derived growth factor receptor-beta signaling pathway" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="34921" id="14624252-77070" start="34895">PDGFRβ signal transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42367">
+            <class id="http://craftcorpus.org/CRAFT_DNA_recombinant_entity" label="DNA-recombinant entity"/>
+            <span end="35349" id="14624252-77103" start="35337">recombinants</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43025">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36128" id="14624252-77173" start="36117">transfected</span>
+        </annotation>
+        <annotation id="14624252-392808">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="36200" id="14624252-392809" start="36176">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43685">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting" label="occurrence/attribute/effect of translational frameshifting"/>
+            <span end="36248" id="14624252-77185" start="36238">frameshift</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43949">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="36526" id="14624252-77209" start="36513">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42989">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="39724" id="14624252-77367" start="39710">downregulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41251">
+            <class id="http://purl.obolibrary.org/obo/GO_0019835" label="cytolysis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="39865" id="14624252-77373" start="39860">lysed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41783">
+            <class id="http://purl.obolibrary.org/obo/GO_0009293" label="transduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="40379" id="14624252-77399" start="40367">Transduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42471">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="41568" id="14624252-77441" start="41563">Birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41309">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="42278" id="14624252-4005" start="42265">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44023">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting" label="occurrence/attribute/effect of translational frameshifting"/>
+            <span end="42821" id="14624252-77615" start="42811">frameshift</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44187">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting" label="occurrence/attribute/effect of translational frameshifting"/>
+            <span end="43468" id="14624252-77677" start="43458">frameshift</span>
+        </annotation>
+        <annotation id="14624252-392812">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="43696" id="14624252-392813" start="43672">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_40827">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45358" id="14624252-77844" start="45348">Expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_41775">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="45532" id="14624252-77864" start="45522">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_42241">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="46880" id="14624252-77984" start="46871">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_44161">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="47656" id="14624252-78024" start="47642">phosphorylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_43763">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="48014" id="14624252-78044" start="48000">phosphorylated</span>
+        </annotation>
+        <annotation id="14624252-392720">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_being_unphosphorylated" label="attribute of being unphosphorylated"/>
+            <span end="48121" id="14624252-392721" start="48105">unphosphorylated</span>
+        </annotation>
+    </document>
+</knowtator-project>

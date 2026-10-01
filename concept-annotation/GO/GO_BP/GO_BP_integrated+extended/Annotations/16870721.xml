@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16870721" text-file="16870721.txt">
+        <annotation id="16870721-392948">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="244" id="16870721-392949" start="220">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236231">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1276" id="16870721-214674" start="1264">transfection</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236331">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1299" id="16870721-214678" start="1289">expressing</span>
+        </annotation>
+        <annotation id="16870721-392952">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1513" id="16870721-392953" start="1489">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236585">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1661" id="16870721-214712" start="1652">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_234993">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1714" id="16870721-214716" start="1701">physiological</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235625">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1725" id="16870721-214718" start="1715">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235167">
+            <class id="http://purl.obolibrary.org/obo/GO_0009294" label="DNA-mediated transformation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1867" id="16870721-214724" start="1855">transfection</span>
+        </annotation>
+        <annotation id="16870721-392954">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2077" id="16870721-392955" start="2053">homologous recombination</span>
+        </annotation>
+        <annotation id="16870721-392956">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2195" id="16870721-392957" start="2171">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235909">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_breeding" label="occurrence/attribute of breeding"/>
+            <span end="2475" id="16870721-33380" start="2467">breeding</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236557">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3218" id="16870721-214788" start="3208">expression</span>
+        </annotation>
+        <annotation id="16870721-392958">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3296" id="16870721-392959" start="3272">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235083">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="3867" id="16870721-214834" start="3854">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235919">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="4386" id="16870721-214874" start="4373">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235305">
+            <class id="http://craftcorpus.org/CRAFT_DNA_recombinant_entity" label="DNA-recombinant entity"/>
+            <span end="4507" id="16870721-214882" start="4496">recombinant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_234977">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4565" id="16870721-214884" start="4555">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236297">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4865" id="16870721-214901" start="4855">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235889">
+            <class id="http://craftcorpus.org/CRAFT_DNA_recombinant_entity" label="DNA-recombinant entity"/>
+            <span end="4943" id="16870721-214905" start="4932">recombinant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_234959">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination" label="occurrence/attribute of DNA combination"/>
+            <span end="6680" id="16870721-215012" start="6671">recombine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_234983">
+            <class id="http://purl.obolibrary.org/obo/GO_0019835" label="cytolysis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12794" id="16870721-215415" start="12789">lysed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236221">
+            <class id="http://craftcorpus.org/CRAFT_DNA_recombinant_entity" label="DNA-recombinant entity"/>
+            <span end="14883" id="16870721-215535" start="14871">recombinants</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236629">
+            <class id="http://craftcorpus.org/CRAFT_DNA_recombinant_entity" label="DNA-recombinant entity"/>
+            <span end="15138" id="16870721-215549" start="15126">recombinants</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235939">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15405" id="16870721-215563" start="15398">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235665">
+            <class id="http://purl.obolibrary.org/obo/GO_0007565" label="female pregnancy" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15882" id="16870721-215603" start="15874">pregnant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236123">
+            <class id="http://purl.obolibrary.org/obo/GO_0007565" label="female pregnancy" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15944" id="16870721-215607" start="15933">pregnancies</span>
+        </annotation>
+        <annotation id="16870721-392251">
+            <class id="http://purl.obolibrary.org/obo/GO_0006974" label="DNA damage response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16144" id="16870721-392252" start="16124">DNA damage responses</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236149">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16261" id="16870721-215640" start="16248">embryogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236325">
+            <class id="http://purl.obolibrary.org/obo/GO_0007565" label="female pregnancy" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16329" id="16870721-215642" start="16318">pregnancies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236101">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16466" id="16870721-215654" start="16445">embryonic development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235845">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="16506" id="16870721-215658" start="16493">differentiate</span>
+        </annotation>
+        <annotation id="16870721-392249">
+            <class id="http://purl.obolibrary.org/obo/GO_0006974" label="DNA damage response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16827" id="16870721-392250" start="16807">DNA-damage responses</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_234973">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16934" id="16870721-215696" start="16913">embryonic development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236547">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17185" id="16870721-215716" start="17175">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235977">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17562" id="16870721-215760" start="17556">mating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235419">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18001" id="16870721-215788" start="17995">mating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235723">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18263" id="16870721-215816" start="18253">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236151">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18485" id="16870721-215840" start="18476">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236007">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18928" id="16870721-215866" start="18918">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235841">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19289" id="16870721-215880" start="19279">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235007">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19627" id="16870721-215898" start="19617">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236565">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19771" id="16870721-215914" start="19761">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236339">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19880" id="16870721-215920" start="19871">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235311">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20112" id="16870721-215938" start="20105">express</span>
+        </annotation>
+        <annotation id="16870721-392253">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20435" id="16870721-392254" start="20425">cell cycle</span>
+        </annotation>
+        <annotation id="16870721-392960">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22032" id="16870721-392961" start="22008">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236113">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_cotransfection_or_cotransformation" label="occurrence/attribute of cotransfection/cotransformation"/>
+            <span end="22388" id="16870721-216053" start="22373">co-transfecting</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236561">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22405" id="16870721-216055" start="22395">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235025">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_breeding" label="occurrence/attribute of breeding"/>
+            <span end="23021" id="16870721-33550" start="23013">breeding</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235769">
+            <class id="http://craftcorpus.org/CRAFT_DNA_recombinant_entity" label="DNA-recombinant entity"/>
+            <span end="24058" id="16870721-216187" start="24046">recombinants</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235323">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24542" id="16870721-216221" start="24532">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236529">
+            <class id="http://craftcorpus.org/CRAFT_DNA_recombinant_entity" label="DNA-recombinant entity"/>
+            <span end="24727" id="16870721-216231" start="24715">recombinants</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235185">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="24971" id="16870721-216239" start="24958">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236031">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination" label="occurrence/effect of DNA recombination"/>
+            <span end="25074" id="16870721-216243" start="25061">recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235151">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination" label="occurrence/attribute of DNA combination"/>
+            <span end="25277" id="16870721-216253" start="25266">Recombinant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235251">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25601" id="16870721-216281" start="25592">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235187">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26124" id="16870721-216317" start="26115">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236163">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26354" id="16870721-216335" start="26348">mating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_234987">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26740" id="16870721-216377" start="26735">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_235091">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27622" id="16870721-216449" start="27612">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_236381">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27967" id="16870721-216471" start="27957">expression</span>
+        </annotation>
+        <annotation id="16870721-392255">
+            <class id="http://purl.obolibrary.org/obo/GO_0007049" label="cell cycle" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28593" id="16870721-392256" start="28583">cell cycle</span>
+        </annotation>
+        <annotation id="16870721-392962">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29044" id="16870721-392963" start="29020">homologous recombination</span>
+        </annotation>
+        <annotation id="16870721-392964">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29303" id="16870721-392965" start="29279">homologous recombination</span>
+        </annotation>
+    </document>
+</knowtator-project>

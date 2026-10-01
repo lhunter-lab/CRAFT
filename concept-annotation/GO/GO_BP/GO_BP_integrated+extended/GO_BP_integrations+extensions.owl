@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:craft="http://craftcorpus.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:obo="http://purl.obolibrary.org/obo/"
+>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_hepatogenesis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of hepatogenesis</rdfs:label>
+    <obo:IAO_0000115>An occurrence of liver morphogenesis or development; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0001889</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0072576</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>hepatogenesis; hepatogenic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_sweet_taste_or_tasting_of_sweet_stimulus">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0050916</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>sweet taste or tasting of sweet stimulus</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a sensation produced by a tongue in response to sweet chemical stimuli; or, an attribute of having a capability to produce such a sensation.</obo:IAO_0000115>
+    <craft:annotatable_text>sweet taste; sweet-tasting</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_post_translational_modification">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/effect of post-translational modification</rdfs:label>
+    <obo:IAO_0000115>An occurrence of covalently altering one or more amino acids in a protein after the protein has been completely translated and released from the ribosome; or, the altered amino acid or chemical group that is a result of such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0043687</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>posttranslational modification; posttranslational modifications; post-translational modification; post-translational modifications; post translational modification; post translational modifications</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_translational_start_site_or_occurrence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006413</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>translational start site or occurrence</rdfs:label>
+    <obo:IAO_0000115>An occurrence of initiation of peptide translation; or, a site of a sequence where peptide translation can initiate.</obo:IAO_0000115>
+    <craft:annotatable_text>translation start; translational start</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_of_detection_or_sensing_of_light_stimulus">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence of detection or sensing of light stimulus</rdfs:label>
+    <obo:IAO_0000115>An occurrence of detection or sensing of a light stimulus; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0009583</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0050953</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>detection of light; light detection; light sensing; photosensory; sensing of light</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of negative regulation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of negative regulation of a biological process or quality; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0044092</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0048519</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>down regulate; down regulates; down regulated; down regulating; down regulation; down regulations; down regulatory; downregulate; downregulates; downregulated; downregulating;  downregulation; downregulations; downregulatory; down-regulate; down-regulates; down-regulated; down-regulating; down-regulation; down-regulations; down-regulatory; negatively regulate; negatively regulates; negatively regulated; negatively regulating; negative regulation; negative regulations; negatively regulatory</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_glial_cell_development_or_generation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of glial cell development/generation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of glial cell development or generation; or, an attribute of such an occurrence, of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0021782</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0042063</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>development of glial cell; development of glial cells; formation of glial cell; formation of glial cells; generation of glial cell; generation of glial cells; glial cell development; glial cell formation; glial cell generation; glial cell production; gliogenesis; gliogenic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_translational_stop_site_or_occurrence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006415</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>translational stop site or occurrence</rdfs:label>
+    <obo:IAO_0000115>An occurrence of termination of peptide translation; or, a site of a sequence where peptide translation can terminate.</obo:IAO_0000115>
+    <craft:annotatable_text>translation stop; translational stop</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_recombineering">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of DNA recombineering</rdfs:label>
+    <obo:IAO_0000115>An occurrence of DNA recombineering, in which DNA is engineered/modified using DNA recombination; or, an attribute of such an occurrence, e.g., of being, becoming, or having become engineered/modified as such.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006310</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>recombineer; recombineers; recombineered; recombineering</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_biological_process_occurrence_or_attribute_or_study">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0008150</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>biological process occurrence, attribute or study</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a biological process; or, an attribute of a biological process (e.g., an attribute of involving a biological process); or, the study of biological processes.</obo:IAO_0000115>
+    <craft:annotatable_text>physiology</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_behavioral_conditioning">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of behavioral conditioning</rdfs:label>
+    <obo:IAO_0000115>An occurrence of behavioral conditioning (classical/associative conditioning or operant conditioning); or, an attribute of such an occurrence, e.g, of being, becoming, or having become behaviorally conditioned.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0008306</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0035106</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>condition; conditions; conditioned; conditioning</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_negative_regulator">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>negative regulator</rdfs:label>
+    <obo:IAO_0000115>A negative regulator, i.e., something that has a capability of bringing about an occurrence of negative regulation.</obo:IAO_0000115>
+    <craft:annotatable_text>down regulator; down regulators; down-regulator; down-regulators; downregulator; downregulators; negative regulator; negative regulators</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transcriptional_stop_site_or_occurrence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>transcriptional stop site or occurrence</rdfs:label>
+    <obo:IAO_0000115>An occurrence of termination of RNA transcription; or, a site of a sequence where RNA transcription can terminate.</obo:IAO_0000115>
+    <craft:annotatable_text>transcription stop; transcriptional stop</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_somite_formation_or_development">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0061053</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>occurrence/attribute of somite formation or development</rdfs:label>
+    <obo:IAO_0000115>An occurrence of formation and/or development of a somite, i.e., a mesodermal cluster that is arranged segmentally along the anterior-posterior axis of an embryo; or, an attribute of such an occurrence, e.g., of involving or being involved in such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0001756</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>development of somite; development of somites; formation of somite; formation of somites; generation of somite; generation of somites; somite development; somite formation; somite generation; somitogenesis; somitogenic</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_trypsinization">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_subsuming_GO_BP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/GO_0006508</craft:has_subsuming_GO_BP_class_with_occurrence_or_attribute_interpretation>
+    <rdfs:label>occurrence/attribute of trypsinization</rdfs:label>
+    <obo:IAO_0000115>An occurrence of trypsinization, i.e., proteolysis using trypsin, often used to dissociate cells adhering to a vessel in which they have been cultured; or, an attribute of such an occurrence, e.g., of being, becoming, or having been broken apart or dissociated through such an occurrence.</obo:IAO_0000115>
+    <craft:annotatable_text>trypsinisation; trypsinisations; trypsinise; trypsinises; trypsinised; trypsinising; trypsinization; trypsinazations; trypsinize; trypsinizes; trypsinized; trypsinizing</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_postcoital_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>attribute of postcoital association</rdfs:label>
+    <obo:IAO_0000115>An attribute of having some kind of association (e.g., occurring, being contextually relevant or significant) with a time after copulation.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007620</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>postcoital; postcoitally; postcoitum; postcoitus; post-coital; post-coitally; post-coitum; post-coitus; post coital; post coitally; post coitum; post coitus</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of DNA combination</rdfs:label>
+    <obo:IAO_0000115>An occurrence of natural or laboratory genetic recombination; or, an attribute of such an occurrence, e.g., of being, becoming, or having become combined with different DNA in such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006310</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>recombine; recombines; recombined; recombining; recombinant</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_not_expressing_some_biological_sequence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0010467</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of not expressing some biological sequence</rdfs:label>
+    <obo:IAO_0000115>An attribute of not expressing some contextually relevant biological sequence entity.</obo:IAO_0000115>
+    <craft:annotatable_text>nonexpressing; non-expressing</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_not_being_associated_with_cognition">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0050890</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of not being associated with cognition</rdfs:label>
+    <obo:IAO_0000115>An attribute of not having some kind of association with (e.g., involving, being involved in) cognition.</obo:IAO_0000115>
+    <craft:annotatable_text>noncognitive; non-cognitive</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_unphagocytosed">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006909</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being unphagocytosed</rdfs:label>
+    <obo:IAO_0000115>An attribute of something not having been phagocytosed.</obo:IAO_0000115>
+    <craft:annotatable_text>nonphagocytosed; non-phagocytosed; unphagocytosed; un-phagocytosed</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_osteoblastogenesis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of osteoblastogenesis</rdfs:label>
+    <obo:IAO_0000115>An occurrence of osteoblast differentiation or development; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0001649</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0002076</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>osteoblastogenesis; osteoblastogenic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_prodifferentiative_activity">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of prodifferentiative activity</rdfs:label>
+    <obo:IAO_0000115>An occurrence of activating or increasing the frequency, rate, or extent of developmental differentiation; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>prodifferentiative; pro-differentiative; pro differentiative</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_glycosylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of glycosylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of glycosylation, i.e., the covalent attachment and further modification of carbohydrate residues to a substrate molecule; or, an attribute of such an occurrence, e.g., of being, becoming, or having become modified in such an occurrence.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_BP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/GO_0070085</craft:has_substitutable_GO_BP_class_with_occurrence_or_attribute_interpretation>
+    <craft:annotatable_text>glycosylate; glycosylates; glycosylated; glycosylating; glycosylation; glycosylations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_bitter_taste_or_tasting_of_bitter_stimulus">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0050913</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>bitter taste or tasting of bitter stimulus</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a sensation produced by a tongue in response to bitter chemical stimuli; or, an attribute of having a capability to produce such a sensation.</obo:IAO_0000115>
+    <craft:annotatable_text>bitter taste; bitter-tasting</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_postmeiotic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>attribute of postmeiotic association</rdfs:label>
+    <obo:IAO_0000115>An attribute of having some kind of association (e.g., occurring, being contextually relevant or significant) with a time after meiosis.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0140013</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>postmeiotic; postmeiotically; post-meiotic; post-meiotically; post meiotic; post meiotically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_material_innervation_or_occurrence_or_attribute_of_innervation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>material innervation or occurrence/attribute of innervation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a nerve invading a tissue and making functional synaptic connection within the tissue; or, an attribute of such an occurrence, e.g., of having a nerve invade and make such connections, or of invading and making such connections; or, the functional nerve(s) as a result of such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0060384</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>innervation</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0001171</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>reverse transcription or reverse transcriptase</rdfs:label>
+    <obo:IAO_0000115>An occurrence of reverse transcription, i.e., DNA synthesis process that uses RNA as the initial template for synthesis of DNA, but which also includes an RNase activity to remove the RNA strand of an RNA-DNA heteroduplex produced by the RNA-dependent synthesis step and use of the initial DNA strand as a template for DNA synthesis; or, a reverse transcriptase, i.e., an enzyme capable of catalyzing this process.</obo:IAO_0000115>
+    <craft:annotatable_text>RT</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_hemoglobin_biosynthesis_or_import">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of hemoglobin biosynthesis or import</rdfs:label>
+    <obo:IAO_0000115>An occurrence of hemoglobin biosynthesis and/or import; or, an attribute of such an occurrence, e.g., of being, becoming, or having become populated with hemoglobin molecules.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0020028</craft:has_subsumed_GO_BP_class>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0042541</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>haemoglobinisation; haemoglobinisations; haemoglobinise; haemoglobinises; haemoglobinised; haemoglobinising; hemoglobinization; hemoglobinizations; hemoglobinize; hemoglobinizes; hemoglobinized; hemoglobinizing</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_gene_coexpression">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of gene coexpression</rdfs:label>
+    <obo:IAO_0000115>An occurrence of two or more genes/gene products being expressed together; or, an attribute of such an occurrence, e.g., of being expressed together, or of expressing two or more genes/gene products together.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0010467</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>coexpress; coexpresses; coexpressed; coexpressing; coexpression; co-express; co-expresses; co-expressed; co-expressing; co-expression</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_midgestational_period">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>midgestational period</rdfs:label>
+    <obo:IAO_0000115>A middle portion of a pregnancy.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007565</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>midgestation; midgestion period; midgestational; midgestational period; midgestationally; midpregnancy; midpregnancy period; mid-gestation; mid-gestation period; mid-gestational; mid-gestational period; mid-gestationally; mid-pregnancy; mid-pregnancy period</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_untranslated">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006412</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being untranslated</rdfs:label>
+    <obo:IAO_0000115>An attribute of a biological sequence not having been translated into a peptide.</obo:IAO_0000115>
+    <craft:annotatable_text>untranslated; un-translated</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biogenesis_or_biosynthesis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of biogenesis or biosynthesis</rdfs:label>
+    <obo:IAO_0000115>An occurrence of biogenesis or biosynthesis, i.e., formation of a biological entity such as a biomolecule, cellular component, cell, or anatomical entity; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0009058</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0022607</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0048856</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>biogenesis; biosynthesis; biosynthetic; biosynthetic process; biosynthetic processes</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_postfertilization_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>attribute of postfertilization association</rdfs:label>
+    <obo:IAO_0000115>An attribute of having some kind of association (e.g., occurring, being contextually relevant or significant) with a time after fertilization, i.e., the union of gametes of opposite sexes during the process of sexual reproduction to form a zygote.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0009566</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>postfertilization; post-fertilization; post fertilization</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_unspliced">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0008380</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being unspliced</rdfs:label>
+    <obo:IAO_0000115>An attribute of being unspliced.</obo:IAO_0000115>
+    <craft:annotatable_text>unspliced; un-spliced</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_postmitotic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>attribute of postmitotic association</rdfs:label>
+    <obo:IAO_0000115>An attribute of having some kind of association (e.g., occurring, belng contextually relevant or significant) with a time after mitosis.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0140014</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>postmitotic; postmitotically; post-mitotic; post-mitotically; post mitotic; post mitotically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_a_peptide_being_unfolded">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006457</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of a peptide being unfolded</rdfs:label>
+    <obo:IAO_0000115>An attribute of a peptide of being unfolded.</obo:IAO_0000115>
+    <craft:annotatable_text>unfolded</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_positive_regulator">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>positive regulator</rdfs:label>
+    <obo:IAO_0000115>A positive regulator, i.e., something that has a capability of bringing about an occurrence of positive regulation.</obo:IAO_0000115>
+    <craft:annotatable_text>positive regulator; positive regulators; up regulator; up regulators; upregulator; upregulators; up-regulator; up-regulators</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of transcription</rdfs:label>
+    <obo:IAO_0000115>An occurrence of DNA-templated transcription, RNA-templated transcription, reverse transcription, or viral transcription; or, an attribute of such an occurrence, e.g., of being, becoming, or having been transcribed.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0001171</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0001172</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006351</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0019083</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>transcribe; transcribes; transcribed; transcribing; transcription; transcriptions; transcriptional; transcriptionally</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_GO_BP_class_with_occurrence_or_attribute_interpretation">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_GO_BP_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_BP_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_unphosphorylated">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0016310</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being unphosphorylated</rdfs:label>
+    <obo:IAO_0000115>An attribute of being unphosphorylated.</obo:IAO_0000115>
+    <craft:annotatable_text>nonphosphorylated; non-phosphorylated; unphosphorylated; un-phosphorylated</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_posttranscriptional_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>attribute of posttranscriptional association</rdfs:label>
+    <obo:IAO_0000115>An attribute of having some kind of association (e.g., occurring, being contextually relevant or significant) with a time after transcription.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>posttranscriptional; posttranscriptionally; post-transcriptional; post-transcriptionally; post transcriptional; post transcriptionally</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/effect of DNA recombination</rdfs:label>
+    <obo:IAO_0000115>An occurrence in which a new genotype is formed by reassortment of genes resulting in gene combinations different from those that were present in the parents; or, a sequence that is a result of such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006310</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>recombination; recombinations; recombinational; DNA recombination; DNA recombinations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_unmetabolized">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0008152</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being unmetabolized</rdfs:label>
+    <obo:IAO_0000115>An attribute of something being unmetabolized.</obo:IAO_0000115>
+    <craft:annotatable_text>nonmetabolised; nonmetabolized; non-metabolised; non-metabolized; non metabolised; non metabolized; unmetabolised; unmetabolized; un-metabolised; un-metabolized</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_dimethylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of dimethylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of the addition of two methyl groups to a chemical moiety; or, an attribute of such an occurrence, e.g., of being, becoming, or having become altered in such an occurrence, or of altering a chemical moiety in such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0032259</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>dimethylate; dimethylates; dimethylated; dimethylating; dimethylation; dimethylations; di-methylate; di-methylates; di-methylated; di-methylating; di-methylation; di-methylations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_premeiotic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0140013</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>attribute of premeiotic association</rdfs:label>
+    <obo:IAO_0000115>An attribute of having some kind of association (e.g., occurring, being contextually relevant or significant) with a time before meiosis.</obo:IAO_0000115>
+    <craft:annotatable_text>premeiotic; premeiotically; pre-meiotic; pre-meiotically; pre meiotic; pre meiotically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_nonrecombinant">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being nonrecombinant</rdfs:label>
+    <obo:IAO_0000115>An attribute of being nonrecombinant.</obo:IAO_0000115>
+    <craft:annotatable_text>nonrecombinant; non-recombinant</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of gene overexpression</rdfs:label>
+    <obo:IAO_0000115>An occurrence of an abnormally high level of expression of a gene/gene product; or, an attribute of such an occurrence, e.g., of being, becoming, or having become expressed at an abnormaly high level, or of expressing a gene/gene product at an abnormally high level.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0010628</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>overexpress; overexpresses; overexpressed; overexpressing; overexpression; overexpressions; over-express; over-expresses; over-expressed; over-expressing; over-expression; over-expressions</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_respiration">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of respiration</rdfs:label>
+    <obo:IAO_0000115>An occurrence or attribute of a physiological process that facilitates the transport of oxygen from the outside environment to bodily tissues and the removal of carbon dioxide using a respiratory system composed of organs and tissues for gas exchange.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007585</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>respiratory</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biological_reproduction">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of biological reproduction</rdfs:label>
+    <obo:IAO_0000115>An occurrence of sexual or asexual biological reproduction; or, an attribute of such an occurrence, e.g., of being, becoming, or having been generated from such an occurrence, or of generating one or more organisms through such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0019953</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0019954</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>reproduce; reproduces; reproduced; reproducing; reproduction; reproductive; reproductively</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_biological_pigmentation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute/effect of biological pigmentation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of an accumulation of pigment in an organism; or, an attribute of such an occurrence, e.g., of bearing an accumulation of pigment; or, the accumulation of pigment that is the effect of such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0043473</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>pigmentation; pigmentations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_unlearned">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007612</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being unlearned</rdfs:label>
+    <obo:IAO_0000115>An attribute of a contextually relevant skill or knowledge not having been learned by an organism.</obo:IAO_0000115>
+    <craft:annotatable_text>unlearned; un-learned</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of positive regulation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of positive regulation of a biological process or quality; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0044093</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0048518</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>positively regulate; positively regulates; positively regulated; positively regulating; positive regulation; positive regulations; up regulate; up regulates; up regulated; up regulating; up regulation; up regulations; upregulate; upregulates; upregulated; upregulating; upregulation; upregulations; up-regulate; up-regulates; up-regulated; up-regulating; up-regulation; up-regulations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_cotransfection_or_cotransformation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of cotransfection/cotransformation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a direct uptake and incorporation of two or more exogenous pieces of genetic material into a cell from its surroundings though the cell envelope; or, attribute of such an occurrence, e.g., of being, becoming, or having been uptaken and incorporated into a cell along with something else, or of having uptaken and incorporated two or more exogenous pieces of genetic material.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0009294</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>cotransfect; cotransfected; cotransfecting; cotransfects; cotransfection; cotransfections; co-transfect; co-transfected; co-transfecting; co-transfects; co-transfection; co-transfections; cotransform; cotransformed; cotransforming; cotransforms; cotransformation; co-transformations; co-transform; co-transformed; co-transforming; co-transforms; co-transformation; co-transformations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_hypersecretion">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of hypersecretion</rdfs:label>
+    <obo:IAO_0000115>An occurrence of hypersecretion, i.e., a greater-than-normal level of secretion; or, an attribute of such an occurrence, e.g., of being, becoming, or having become secreted at a greater-than-normal level, or of secreting something at a greater-than-normal level.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0051047</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>hypersecrete; hypersecretes; hypersecreted; hypersecreting; hypersecretion; hypersecretions; hyper-secrete; hyper-secretes; hyper-secreted; hyper-secreting; hyper-secretion; hyper-secretions</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_breeding">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of breeding</rdfs:label>
+    <obo:IAO_0000115>An occurrence of mating or of arranging the mating of specific animals; or, an attribute of such an occurrence, e.g., of undergoing or having undergone mating, or of being arranged to mate with specific animals.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007618</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>breed; breeds; breeding; bred</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_not_being_associated_with_synapsis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007129</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of not being associated with synapsis</rdfs:label>
+    <obo:IAO_0000115>An attribute of not having some kind of association with (e.g., of involving, of being involved in) chromosomal synapsis.</obo:IAO_0000115>
+    <craft:annotatable_text>asynapsed; asynaptic; unsynapsed</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_DNA_recombinant_entity">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>DNA-recombinant entity</rdfs:label>
+    <obo:IAO_0000115>A recombinant entity, i.e., one in which DNA recombination has occurred.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006310</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>recombinant; recombinants</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_umami_taste_or_tasting_of_umami_stimulus">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0050917</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>umami taste or tasting of umami stimulus</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a sensation produced by a tongue in response to umami chemical stimuli; or, an attribute of having a capability to produce such a sensation.</obo:IAO_0000115>
+    <craft:annotatable_text>umami taste; umami-tasting</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_relearning">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_subsuming_GO_BP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/GO_0007612</craft:has_subsuming_GO_BP_class_with_occurrence_or_attribute_interpretation>
+    <rdfs:label>occurrence/attribute of relearning</rdfs:label>
+    <obo:IAO_0000115>An occurrence of learning something again; or, an attribute of such an occurrence, e.g., of something being learned again.</obo:IAO_0000115>
+    <craft:annotatable_text>relearn; relearns; relearned; relearning; re-learn; re-learns; re-learned; re-learning</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_misexpression">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of misexpression</rdfs:label>
+    <obo:IAO_0000115>An occurrence of an abnormal expression of a gene/gene product; or, an attribute of such an occurrence, e.g., of being, becoming, or having become abnormally expressed, or of bringing about such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0010467</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>misexpress; misexpresses; misexpressed; misexpressing; misexpression; misexpressions; mis-express; mis-expresses; mis-expressed; mis-expressing; mis-expression; mis-expressions</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_taste_or_tasting">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0050909</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>taste or tasting</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a sensation produced by a tongue in response to certain chemical stimuli; or, an attribute of having a capability to produce such a sensation.</obo:IAO_0000115>
+    <craft:annotatable_text>taste</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsuming_GO_BP_class_with_occurrence_or_attribute_interpretation">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_GO_BP_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_entailed_GO_BP_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_hypomethylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of hypomethylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of an abnormally low level of methylation; or, an attribute of such an occurrence, e.g., of being, becoming, or having become methylated at an abnormally low level, or of bringing about such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0032259</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>hypomethylate; hypomethylates; hypomethylated; hypomethylating; hypomethylation; hypomethylations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_formation_or_development_of_muscle">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of muscle formation/development</rdfs:label>
+    <obo:IAO_0000115>An occurrence of muscle formation or development; or, an attribute of such an occurrence, e.g., of being, becoming, or having become muscularized.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0060537</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0061061</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>development of muscle; formation of muscle; muscle development; muscle formation; muscularisation; muscularise; muscularises; muscularised; muscularising; muscularization; muscularizes; muscularized; muscularizing; myogenesis; myogenic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_unglycosylated">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0070085</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being unglycosylated</rdfs:label>
+    <obo:IAO_0000115>An attribute of something being unglycosylated.</obo:IAO_0000115>
+    <craft:annotatable_text>nonglycosylated; non-glycosylated; unglycosylated; un-glycosylated</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_of_bone_development_or_ossification">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence of bone development or ossification</rdfs:label>
+    <obo:IAO_0000115>An occurrence of bone development or ossification.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0001503</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0060348</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>bone development; bone formation; bone generation; development of bone; formation of bone; generation of bone</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
+    <rdfs:label>annotatable text</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_not_being_associated_with_hemopoiesis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0030097</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of not being associated with hemopoiesis</rdfs:label>
+    <obo:IAO_0000115>An attribute of not having some kind of association with (e.g., involving, being involved in) hemopoiesis.</obo:IAO_0000115>
+    <craft:annotatable_text>nonhaematopoietic; non-haematopoietic; nonhematopoietic; non-hematopoietic; nonhaemopoietic; non-haemopoietic; nonhemopoietic; non-hemopoietic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_myelin_assembly_or_myelination">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of myelin assembly or myelination</rdfs:label>
+    <obo:IAO_0000115>An occurrence of myelin assembly or myelination; or, an attribute of such an occurrence, e.g., of being, becoming, or having become myelinated.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0032288</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0042552</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>assembly of myelin; formation of myelin; generation of myelin; production of myelin; myelin assembly; myelin formation; myelin generation; myelin production; myelinate; myelinates; myelinated; myelinating; myelination; myelinogenesis; myelogenic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_oversecretion">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of oversecretion</rdfs:label>
+    <obo:IAO_0000115>An occurrence of an abnormally high level of release of a substance by a cell or tissue; or, an attribute of such an occurrence, e.g., an attribute of such an occurrence, e.g., of being or having been released from a cell or tissue at an abnormally high level, or an attribute of releasing a substance at an abnormally high level.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0046903</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>oversecrete; oversecretes; oversecreted; oversecreting; oversecretion; oversecretions; over-secrete; over-secretes; over-secreted; over-secreting; over-secretion; over-secretions</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_DNA_gap_repair">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>DNA gap repair</rdfs:label>
+    <obo:IAO_0000115>An occurrence of DNA gap repair.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006287</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006297</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0061674</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>DNA gap repair; gap repair</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_behaviorally_unconditioned">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_behavioral_conditioning</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being behaviorally unconditioned</rdfs:label>
+    <obo:IAO_0000115>An attribute of an organism being behaviorally unconditioned in some respect.</obo:IAO_0000115>
+    <craft:annotatable_text>unconditioned</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_dysmorphogenesis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of dysmorphogenesis</rdfs:label>
+    <obo:IAO_0000115>An occurrence of abnormal morphogenesis; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0009653</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>dysmorphogenesis; dysmorphogenetic; dysmorphogenic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_not_being_associated_with_olfaction">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007608</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of not being associated with olfaction</rdfs:label>
+    <obo:IAO_0000115>An attribute of not having some kind of association with (e.g., of involving, being involved in) olfaction.</obo:IAO_0000115>
+    <craft:annotatable_text>nonolfactory; non-olfactory</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_gene_underexpression">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of gene underexpression</rdfs:label>
+    <obo:IAO_0000115>An occurrence of an abnormally low level of expression of a gene/gene product; or, an attribute of such an occurrence, e.g., of being, becoming, or having become expressed at an abnormaly low level, or of expressing a gene/gene product at an abnormally low level.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0010629</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>underexpress; underexpresses; underexpressed; underexpressing; underexpression; underexpressions; under-express; under-expresses; under-expressed; under-expressing; under-expression; under-expressions; under express; under expresses; under expressed; under expressing; under expression; under expressions</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of developmental differentiation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a developmental process in which a relatively unspecialized anatomical entity (e.g., cell, tissue, organ) acquires specialized structural and/or functional features; or, an attribute of such an occurrence, eg., of being, becoming, or having become specialized in such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0030154</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>differentiate; differentiated; differentiates; differentiating; differentiation; differentiative</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_interbreeding">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of interbreeding</rdfs:label>
+    <obo:IAO_0000115>An occurrence of breeding within a distinct or isolated community of organisms; or, an attribute of participating in or effecting such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007618</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>interbreed(v.)</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_posttransfection_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>attribute of posttransfection association</rdfs:label>
+    <obo:IAO_0000115>An attribute of having some kind of association (e.g., occurring, being contextually relevant or significant) with a time after some DNA-mediated transformation/transfection event.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0009294</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>posttransfection; post-transfection; post transfection; posttransformation; post-transformation; post transformation</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsumed_GO_BP_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_GO_BP_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_OBO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_associated_with_something_beyond_olfaction">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007608</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being associated with something beyond olfaction</rdfs:label>
+    <obo:IAO_0000115>An attribute of being associated with something beyond/apart from olfaction.</obo:IAO_0000115>
+    <craft:annotatable_text>extraolfactory; extra-olfactory</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_skeletogenesis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of skeletogenesis</rdfs:label>
+    <obo:IAO_0000115>An occurrence of skeletal system morphogenesis or development; or, an attribute of such an occurrence, e.g., of involving or being involved in such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0001501</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0048705</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>skeletal formation; skeletogenesis; skeletogenic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_not_having_incorporated_something_by_transfection_or_transformation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0009294</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of not having incorporated something by transfection/transformation</rdfs:label>
+    <obo:IAO_0000115>An attribute of not having incorporated something by transfection or transformation.</obo:IAO_0000115>
+    <craft:annotatable_text>nontransfected; non-transfected; nontransformed; non-transformed; untransfected; un-transfected; untransformed; un-transformed</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_polyadenylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of polyadenylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of addition of a sequence of adenylyl residues at the 3' end of an RNA molecule; or, an attribute of such an occurrence, e.g., of being or having been modified with the addition of such a sequence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0039698</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0097222</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0110104</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0140235</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0180011</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>polyadenylate; polyadenylates; polyadenylated; polyadenylating; polyadenylation; polyadenylations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_misfolding">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of misfolding</rdfs:label>
+    <obo:IAO_0000115>An occurrence of an abnormal folding of a peptide; or, an attribute of such an occurrence, e.g., being, becoming, or having become abnormally folded, or of bringing about such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006457</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>misfold; misfolds; misfolded; misfolding; mis-fold; mis-folds; mis-folded; mis-folding</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_of_detection_or_sensing_of_mechanical_stimulus">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence of detection or sensing of mechanical stimulus</rdfs:label>
+    <obo:IAO_0000115>An occurrence of detection or sensing of a mechanical stimulus; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0050954</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0050982</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>mechanosensation; mechanosensory</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_phosphate_group_or_occurrence_or_attribute_of_phosphorylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>phosphate group or occurrence/attribute of phosphorylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of phosphorylation of a molecule; or, an attribute of such an occurrence, e.g., of being, becoming, or having become phosphorylated; or, the added phosphate group that is the result of such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0016310</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>p</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+    <rdfs:label>definition</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute/effect of translational frameshifting</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a change in the parsing of three nucleotides per codon relative to an initiating AUG codon, resulting in a variant gene product; or, an attribute of such an occurrence, e.g., of undergoing or having undergone such a change; or, the variant sequence that is the result of such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006452</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>frameshift; frameshifts; frameshifted; frameshifting; frameshiftings; frame shift; frame shifts; frame shifted; frame shifting; frame shiftings; frame-shift; frame-shifts; frame-shifted; frame-shifting; frame-shiftings; reading frameshift; reading frameshifts; reading frame shift; reading frame shifts; reading frame-shift; reading frame-shifts</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_absence_of_association_with_GO_BP_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_BP_class"/>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_not_being_associated_with_inflammation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://purl.obolibrary.org/obo/GO_0006954</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of not being associated with inflammation</rdfs:label>
+    <obo:IAO_0000115>An attribute of not having some kind of association with (e.g., involving, being involved in) inflammation.</obo:IAO_0000115>
+    <craft:annotatable_text>noninflammatory; non-inflammatory</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_neuron_development_or_generation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of neuron development/generation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of neuron generation or development; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0048666</craft:has_subsumed_GO_BP_class>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0022008</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>development of neuron; development of neurons; formation of neuron; formation of neurons; generation of neuron; generation of neurons; production of neuron; production of neurons; neuron development; neuron formation; neuron generation; neuron production; neurotrophic; neurotrophy</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_trimethylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of trimethylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of the addition of three methyl groups to a chemical moiety; or, an attribute of such an occurrence, e.g., of being, becoming, or having become altered in such an occurrence, or of altering a chemical moiety in such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0032259</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>trimethylate; trimethylates; trimethylated; trimethylating; trimethylation; trimethylations; tri-methylate; tri-methylates; tri-methylated; tri-methylating; tri-methylation; tri-methylations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_synapsis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>absence of synapsis</rdfs:label>
+    <obo:IAO_0000115>An absence of chromosomal synapsis, i.e., homologous pairing at meiosis.</obo:IAO_0000115>
+    <craft:denotes_absence_of_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007129</craft:denotes_absence_of_GO_BP_class>
+    <craft:annotatable_text>asynapsis</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transcriptional_start_site_or_occurrence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_prototypically_entailed_GO_BP_class>http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription</craft:has_prototypically_entailed_GO_BP_class>
+    <rdfs:label>transcriptional start site or occurrence</rdfs:label>
+    <obo:IAO_0000115>An occurrence of initiation of RNA transcription; or, a site of a sequence where RNA transcription can initiate.</obo:IAO_0000115>
+    <craft:annotatable_text>transcription start; transcriptional start</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transfectant_or_transformant">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>transfectant/transformant</rdfs:label>
+    <obo:IAO_0000115>An entity (typically a cell) that has uptaken and incorporated exogenous genetic material.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0009294</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>transfectant; transfectants; transformant; transformants</craft:annotatable_text>
+  </owl:Class>
+  <owl:Ontology rdf:about="http://craftcorpus.org/"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_being_undifferentiated">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_GO_BP_class>http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation</craft:has_entailed_absence_of_association_with_GO_BP_class>
+    <rdfs:label>attribute of being undifferentiated</rdfs:label>
+    <obo:IAO_0000115>An attribute of being undifferentiated.</obo:IAO_0000115>
+    <craft:annotatable_text>nondifferentiated; non-differentiated; undifferentiated; un-differentiated</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_methylation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of methylation</rdfs:label>
+    <obo:IAO_0000115>An occurrence in which a methyl group becomes covalently attached to a molecule; or, an attribute of such an occurrence, e.g., of having or having had a methyl become attached, or of bringing about such an occurrence.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_BP_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/GO_0032259</craft:has_substitutable_GO_BP_class_with_occurrence_or_attribute_interpretation>
+    <craft:annotatable_text>methylate; methylates; methylated; methylting; methylation; methylations</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/denotes_absence_of_GO_BP_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_BP_class"/>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_nephrogenesis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/attribute of nephrogenesis</rdfs:label>
+    <obo:IAO_0000115>An occurrence of kidney development or morphogenesis; or, an attribute of such an occurrence, e.g., of involving or being involved with such an occurrence.</obo:IAO_0000115>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0001822</craft:has_subsumed_GO_BP_class>
+    <craft:has_subsumed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0060993</craft:has_subsumed_GO_BP_class>
+    <craft:annotatable_text>nephrogenesis; nephrogenic</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_prototypically_entailed_GO_BP_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_GO_BP_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_BP_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_trabeculation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>occurrence/effect of trabeculation</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a formation of a trabecula, i.e., a small tissue element in the form of a beam, strut, or rod that generally has a mechanical function; or, a structure that is the result of such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0060343</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>trabeculation; trabeculations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_postpartum_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_BP_extension_class"/>
+    <rdfs:label>attribute of postpartum association</rdfs:label>
+    <obo:IAO_0000115>An attribute of having some kind of association (e.g., occurring, being contextually relevant or significant) with a time after giving birth.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_GO_BP_class>http://purl.obolibrary.org/obo/GO_0007567</craft:has_deductively_entailed_GO_BP_class>
+    <craft:annotatable_text>postpartum; post-partum; post partum</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_GO_BP_extension_class">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label>GO_BP extension class</rdfs:label>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
+</rdf:RDF>

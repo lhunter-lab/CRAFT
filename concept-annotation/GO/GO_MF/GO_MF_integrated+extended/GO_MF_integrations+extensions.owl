@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:craft="http://craftcorpus.org/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:obo="http://purl.obolibrary.org/obo/"
+>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glyceraldehyde_3_phosphate_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0043891</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0120533</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>glyceraldehyde-3-phosphate dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of D-glyceraldehyde 3-phosphate to (2R)-3-phosphoglycerate or 3-phospho-D-glycerol phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>3-phosphoglyceraldehyde dehydrogenase; 3-phosphoglyceraldehyde dehydrogenases; G3PD; G3PDs; G3PDH; G3PDHs; GAPD; GAPDs; GAPDH; GAPDHs; glyceraldehyde-3-phosphate dehydrogenase; glyceraldehyde-3-phosphate dehydrogenases; glyceraldehyde-3-P dehydrogenase; glyceraldehyde-3-P dehydrogenases; NAD-dependent glyceraldehyde phosphate dehydrogenase; NAD-dependent glyceraldehyde phosphate dehydrogenases; NAD-dependent glyceraldehyde-3-phosphate dehydrogenase; NAD-dependent glyceraldehyde-3-phosphate dehydrogenases; NADH-glyceraldehyde phosphate dehydrogenase; NADH-glyceraldehyde phosphate dehydrogenases; phosphoglyceraldehyde dehydrogenase; NADH-glyceraldehyde phosphate dehydrogenases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_alpha1_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>alpha1-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of alpha1-adrenergic receptors; the activity involves transmitting the signal to the Gq alpha subunit of a heterotrimeric G protein.</obo:IAO_0000115>
+    <craft:annotatable_text>alpha-1 adrenergic; alpha-1 adrenergic receptor; alpha-1 adrenergic receptors; alpha-1 adrenoceptor; alpha-1 adrenoceptors; alpha1 adrenergic; alpha1-adrenergic; alpha1 adrenergic receptor; alpha1 adrenergic receptors; alpha1 adrenoceptor; alpha1 adrenoceptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004937</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_very_long_chain_acyl_CoA_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>very-long-chain acyl-CoA dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a very-long-chain 2,3-saturated fatty acyl-CoA + H+ + oxidized [electron-transfer flavoprotein] = a very-long-chain (2E)-enoyl-CoA + reduced [electron-transfer flavoprotein]. A very long-chain fatty acid has an aliphatic tail containing more than 22 carbons.</obo:IAO_0000115>
+    <craft:annotatable_text>ACADVL; very-long-chain acyl-CoA dehydrogenase; very-long-chain acyl-CoA dehydrogenases; very-long-chain acyl-coenzyme A dehydrogenase; very-long-chain acyl-coenzyme A dehydrogenases; VLCAD; VLCADs</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0017099</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_hydroxymethylglutaryl_CoA_reductase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004420</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0140643</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>hydroxymethylglutaryl-CoA reductase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of (R)-mevalonate to 3-hydroxy-3-methylglutaryl-CoA.</obo:IAO_0000115>
+    <craft:annotatable_text>3-hydroxy-3-methylglutaryl-CoA reductase; 3-hydroxy-3-methylglutaryl-CoA reductases; 3-hydroxy-3-methylglutaryl-coenzyme A reductase; 3-hydroxy-3-methylglutaryl-coenzyme A reductases; 3-hydroxy-3-methylglutaryl CoA reductase; 3-hydroxy-3-methylglutaryl CoA reductases; 3-hydroxy-3-methylglutaryl coenzyme A reductase; 3-hydroxy-3-methylglutaryl coenzyme A reductases; 3-hydroxy-3-methyl-glutaryl-CoA reductase; 3-hydroxy-3-methyl-glutaryl-CoA reductases; 3-hydroxy-3-methyl-glutaryl-coenzyme A reductase; 3-hydroxy-3-methyl-glutaryl-coenzyme A reductases; hydroxymethylglutaryl-CoA reductase; hydroxymethylglutaryl-CoA reductases; hydroxymethylglutaryl-coenzyme A reductase; hydroxymethylglutaryl-coenzyme A reductases; HMGCR; HMGCRs; HMG-CoA reductase; HMG-CoA reductases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_neomycin_or_neomycin_phosphotransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0008910</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>neomycin or neomycin phosphotransferase</rdfs:label>
+    <obo:IAO_0000115>Neomycin or neomycin/kanamycin transferase.</obo:IAO_0000115>
+    <craft:annotatable_text>neo</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_histone_deacetylase_inhibitor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>histone deacetylase inhibitor</rdfs:label>
+    <obo:IAO_0000115>An entity bearing a functionality of binding to and stopping, preventing, or reducing the activity of histone deacetylases, which themselves bear a functionality of catalyzing the removal of acetyl groups from histones.</obo:IAO_0000115>
+    <craft:annotatable_text>HDAC inhibitor; HDAC inhibitors; histone deacetylase inhibitor; histone deacetylase inhibitors; inhibitor of HDAC; inhibitors of HDACs; inhibitor of histone deacetylase; inhibitors of histone deacetylases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0046811</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_more_than_one_enzyme">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>attribute of association with more than one enzyme</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., possessing, containing, involving) more than one enzyme.</obo:IAO_0000115>
+    <craft:has_prototypically_entailed_GO_MF_class>http://purl.obolibrary.org/obo/GO_0003824</craft:has_prototypically_entailed_GO_MF_class>
+    <craft:annotatable_text>multienzyme; multi-enzyme</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_diacylglycerol_acyltransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>diacylglycerol acyltransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the endonucleolytic cleavage of DNA to 5'-phosphodinucleotide and 5'-phosphooligonucleotide end products.</obo:IAO_0000115>
+    <craft:annotatable_text>DAG acyltransferase; DAG acyltransferases; DGAT; DGATs; diacylglycerol acyltransferase; diacylglycerol acyltransferases; diacylglycerol O-acyltransferase; diacylglycerol O-acyltransferases; diglyceride acyltransferase; diglyceride acyltransferases; diglyceride O-acyltransferase; diglyceride O-acyltransferases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004144</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_beta3_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>beta3-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of beta3-adrenergic receptors.</obo:IAO_0000115>
+    <craft:annotatable_text>ADRB3; ADRB3R; ADRB3Rs; B3AR; B3ARs; beta3 adrenergic; beta3 adrenergic receptor; beta3 adrenergic receptors; beta3 adrenoceptor; beta3 adrenoceptors; beta3-adrenergic; beta3-adrenergic receptor; beta3-adrenergic receptors; beta3-adrenoceptor; beta3-adrenoceptors; beta-3 adrenergic; beta-3 adrenergic receptor; beta-3 adrenergic receptors; beta-3 adrenoceptor; beta-3 adrenoceptors; BETA3AR; BETA3ARs</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0015052</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_beta1_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>beta1-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionalilty of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of beta1-adrenergic receptors.</obo:IAO_0000115>
+    <craft:annotatable_text>ADRB1; ADRB1R; ADRB1Rs; B1AR; B1ARs; beta1-adrenergic; beta1-adrenergic receptor; beta1-adrenergic receptors; beta1-adrenoceptor; beta1-adrenoceptors; beta-1 adrenergic; beta-1 adrenergic receptor; beta-1 adrenergic receptors; beta-1 adrenoceptor; beta-1 adrenoceptors; beta1 adrenergic; beta1 adrenergic receptor; beta1 adrenergic receptors; beta1 adrenoceptor; beta1 adrenoceptors; BETA1AR; BETA1ARs</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004940</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_citrate_synthase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0003878</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0036440</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>citrate synthase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: acetyl-CoA + H2O + oxaloacetate = citrate + CoA.</obo:IAO_0000115>
+    <craft:annotatable_text>citrate synthase; citrate synthases; CS</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glucose_6_phosphatase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>glucose 6-phosphatase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: D-glucopyranose 6-phosphate + H2O = D-glucose + phosphate. D-glucopyranose is also known as D-glucose 6-phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>G-6-Pase; G-6-Pases; G6PC; G6PCs; glucose-6-phosphate phosphatase; glucose-6-phosphate phosphatases; glucose-6-phosphate phosphohydrolase; glucose-6-phosphate phosphohydrolases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004346</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_sodium_channel_blocker">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>sodium channel blocker</rdfs:label>
+    <obo:IAO_0000115>An entity bearing a functionality of binding to and stopping, preventing, or reducing the activity of a sodium channel.</obo:IAO_0000115>
+    <craft:annotatable_text>Na+ channel blocker; Na+ channel blockers; Na+ channel inhibitor; Na+ channel inhibitors; sodium channel blocker; sodium channel blockers; sodium channel inhibitor; sodium channel inhibitors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0019871</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transforming_growth_factor_beta_receptor_type_II">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>transforming growth factor beta receptor type II</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with transforming growth factor beta to initiate a change in cell activity; upon ligand binding, binds to and catalyzes the phosphorylation of a type I TGF-beta receptor.</obo:IAO_0000115>
+    <craft:annotatable_text>TGFBR2; TGF-beta receptor type-2; transforming growth factor beta receptor activity, type II; transforming growth factor beta receptor type 2; type 2 TGFbeta receptor; type 2 TGFbeta receptors; type 2 TGF-beta receptor; type 2 TGF-beta receptors; type 2 transforming growth factor beta receptor; type 2 transforming growth factor beta receptors; type II TGF-beta receptor; type II TGF-beta receptors; type II TGFbeta receptor; type II TGFbeta receptors; type II transforming growth factor beta receptor; type II transforming growth factor beta receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005026</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_platelet_derived_growth_factor_alpha_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>platelet-derived growth factor alpha receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with platelet-derived growth factor isoform PDGF-AA, PDGF-BB or PDGF-AB to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>alphaPDGF receptor; alphaPDGF receptors; alpha-type platelet-derived growth factor receptor; alpha-type platelet-derived growth factor receptors; PDGFRA; PDGFRAs; PDGFR alpha; PDGF alpha receptor; PDGF alpha receptors; PDGF-R alpha; platelet-derived growth factor alpha receptor; platelet-derived growth factor alpha receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005018</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_deoxyribonuclease_I">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>deoxyribonuclease I</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the endonucleolytic cleavage of DNA to 5'-phosphodinucleotide and 5'-phosphooligonucleotide end products.</obo:IAO_0000115>
+    <craft:annotatable_text>deoxyribonuclease I; DNase I; DNASE1</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004530</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_creatine_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>creatine kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: ATP + creatine = N-phosphocreatine + ADP + 2 H+.</obo:IAO_0000115>
+    <craft:annotatable_text>CK; CKs; CPK; CPKs; creatine kinase; creatine kinases; creatine N-phosphotransferase; creatine N-phosphotransferases; creatine phosphokinase; creatine phosphokinases; creatine phosphotransferase; creatine phosphotransferases; phosphocreatine kinase; phosphocreatine kinases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004111</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_methylenetetrahydrofolate_reductase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004489</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0033738</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>methylenetetrahydrofolate reductase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of 5-methyltetrahydrofolate to 5,10-methylenetetrahydrofolate.</obo:IAO_0000115>
+    <craft:annotatable_text>5,10-CH(2)-H(4)folate reductase; 5,10-CH(2)-H(4)folate reductases; 5,10-CH2-H4folate reductase; 5,10-CH2-H4folate reductases; 5,10-methylenetetrahydrofolate reductase; 5,10-methylenetetrahydrofolate reductases; 5,10-methylenetetrahydrofolic acid reductase; 5,10-methylenetetrahydrofolic acid reductases; 5,10-methylenetetrahydropteroylglutamate reductase; 5,10-methylenetetrahydropteroylglutamate reductases; 5-methyltetrahydrofolate:(acceptor) oxidoreductase; 5-methyltetrahydrofolate:(acceptor) oxidoreductases; methylenetetrahydrofolate reductase; methylenetetrahydrofolate reductases; methylenetetrahydrofolic acid reductase; methylenetetrahydrofolic acid reductases; MTHFR; MTHFRs; N5,10-methylenetetrahydrofolate reductase; N5,10-methylenetetrahydrofolate reductases; N5,N10-methylenetetrahydrofolate reductase; N5,N10-methylenetetrahydrofolate reductases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_phosphoprotein_phosphatase_inhibitor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>phosphoprotein phosphatase inhibitor</rdfs:label>
+    <obo:IAO_0000115>An entity bearing a functionality of binding to and stopping, preventing, or reducing the activity of a phosphatase.</obo:IAO_0000115>
+    <craft:annotatable_text>inhibitor of phosphoprotein phosphatase; inhibitors of phosphoprotein phosphatases; inhibitor of phosphoprotein phosphohydrolase; inhibitors of phosphoprotein phosphohydrolases; inhibitor of protein phosphatase; inhibitors of protein phosphatases; phosphoprotein phosphatase inhibitor; phosphoprotein phosphatase inhibitors; phosphoprotein phosphohydrolase inhibitor; phosphoprotein phosphohydrolase inhibitors; protein phospatase inhibitor; protein phospatase inhibitors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0019212</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_potassium_channel_blocker">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>potassium channel blocker</rdfs:label>
+    <obo:IAO_0000115>An entity bearing a functionality of binding to and stopping, preventing, or reducing the activity of a potassium channel.</obo:IAO_0000115>
+    <craft:annotatable_text>K+ channel blocker; K+ channel blockers; K+ channel inhibitor; K+ channel inhibitors; potassium channel blocker; potassium channel blockers; potassium channel inhibitor; potassium channel inhibitors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0019870</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_phospholipase_A2">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>phospholipase A2</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phospholipid + H2O = 1-acyl-sn-glycero-3-phospholipid + a fatty acid. This reaction removes the fatty acid attached to the sn2-position. Substrates include phosphatidylcholine, phosphatidylethanolamine, choline plasmalogen and phosphatides.</obo:IAO_0000115>
+    <craft:annotatable_text>lecithinase A; phosphatidolipase; phosphatidolipases; phosphatidylcholine 2-acylhydrolase; phosphatidylcholine 2-acylhydrolases; phospholipase A2; PLA2</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004623</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_alkaline_phosphatase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>alkaline phosphatase</rdfs:label>
+    <obo:IAO_0000115>Any of the E. coli K-12 phoA, S. pombe SPBC14F5.13c, D. melanogaster Alp4, E. coli K-12 iap, human ALPG, human ALPP, or human ALPL genes, any of their 1:1 orthologs, or any corresponding gene product of these.</obo:IAO_0000115>
+    <craft:annotatable_text>alkaline phenyl phosphatase; alkaline phenyl phosphatases; alkaline phosphatase; alkaline phosphatases; alkaline phosphohydrolase; alkaline phosphohydrolases; alkaline phosphomonoesterase; alkaline phosphomonoesterases; ALP; ALPs; AP; APs; APase; APases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004035</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_enzyme_inhibitor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>enzyme inhibitor</rdfs:label>
+    <obo:IAO_0000115>An entity that bears a functionality of binding to and stopping, preventing, or reducing the activity of an enzyme.</obo:IAO_0000115>
+    <craft:annotatable_text>enzyme inhibitor; enzyme inhibitors; inhibitor of enzyme; inhibitors of enzyme; inhibitors of enzymes</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004857</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_pancreatic_ribonuclease">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>pancreatic ribonuclease</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the endonucleolytic cleavage of RNA to 3'-phosphomononucleotides and 3'-phosphooligonucleotides ending in C-P or U-P with 2',3'-cyclic phosphate intermediates.</obo:IAO_0000115>
+    <craft:annotatable_text>alkaline ribonuclease; alkaline ribonucleases; alkaline RNase; alkaline ribonucleases; endoribonuclease I; pancreatic ribonuclease; pancreatic ribonucleases; pancreatic RNase; pancreatic RNases; ribonuclease A; ribonuclease I; ribonucleate 3'-pyrimidino-oligonucleotidohydrolase; ribonucleate 3'-pyrimidino-oligonucleotidohydrolases; ribonucleic phosphatase; ribonucleic phosphatases; RNase A; RNase I</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004522</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glutathione_disulfide_reductase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>glutathione-disulfide reductase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: 2 glutathione + NADP+ = glutathione disulfide + NADPH + H+.</obo:IAO_0000115>
+    <craft:annotatable_text>glutathione-disulfide reductase; glutathione-disulfide reductases; glutathione-disulphide reductase; glutathione-disulphide reductases;  glutathione:NADP+ oxidoreductase; glutathione:NADP+ oxidoreductases; glutathione reductase; glutathione reductases; glutathione S-reductase; glutathione S-reductases; GR; GRs; GSH reductase; GSH reductases; GSR; GSRs; GSSG reductase; GSSG reductases; NADPH-glutathione reductase; NADPH-glutathione reductases; NADPH-GSSG reductase; NADPH-GSSG reductases; NADPH:oxidized-glutathione oxidoreductase; NADPH:oxidized-glutathione oxidoreductases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004362</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>reverse transcription or reverse transcriptase</rdfs:label>
+    <obo:IAO_0000115>An occurrence of reverse transcription, i.e., DNA synthesis process that uses RNA as the initial template for synthesis of DNA, but which also includes an RNase activity to remove the RNA strand of an RNA-DNA heteroduplex produced by the RNA-dependent synthesis step and use of the initial DNA strand as a template for DNA synthesis; or, a reverse transcriptase, i.e., an enzyme capable of catalyzing this process.</obo:IAO_0000115>
+    <craft:has_prototypically_entailed_GO_MF_class>http://purl.obolibrary.org/obo/GO_0003964</craft:has_prototypically_entailed_GO_MF_class>
+    <craft:annotatable_text>RT</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glucose_6_phosphate_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004345</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0052749</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0103074</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>glucose-6-phosphate dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of beta-D-glucose 6-phosphate to 6-O-phosphono-D-glucono-1,5-lactone.</obo:IAO_0000115>
+    <craft:annotatable_text>G6PD; G6PDs; G6PDH; G6PDHs; glucose-6-phosphate dehydrogenase; glucose-6-phosphate dehydrogenases; 6-phosphoglucose dehydrogenase; 6-phosphoglucose dehydrogenases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_lipoprotein_lipase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>lipoprotein lipase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: triacylglycerol + H2O = diacylglycerol + a carboxylate, where the triacylglycerol is part of a lipoprotein. May also hydrolyze diacylglycerol and phospholipids present in lipoproteins.</obo:IAO_0000115>
+    <craft:annotatable_text>diacylglycerol hydrolase; diacylglycerol hydrolases; diacylglycerol lipase; diacylglycerol lipases; diglyceride lipase; diglyceride lipases; lipoprotein lipase; lipoprotein lipases; LPL; LPLs; postheparin esterase; postheparin esterases; postheparin lipase; postheparin lipases; triacylglycero-protein acylhydrolase; triacylglycero-protein acylhydrolases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004465</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_receptor_antagonist">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>receptor antagonist</rdfs:label>
+    <obo:IAO_0000115>A chemical antagonist that has the functionality of interacting with a receptor to decrease the ability of the receptor agonist to bind and activate the receptor.</obo:IAO_0000115>
+    <craft:annotatable_text>receptor antagonist; receptor antagonists</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0048019</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_antioxidant">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>antioxidant</rdfs:label>
+    <obo:IAO_0000115>An entity that bears a functionality of inhibiting the reactions brought about by dioxygen or peroxides.</obo:IAO_0000115>
+    <craft:annotatable_text>antioxidant; antioxidants</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0016209</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glucose_6_phosphate_isomerase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>glucose-6-phosphate isomerase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: alpha-D-glucose 6-phosphate = beta-D-fructose 6-phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>D-glucose-6-phosphate aldose-ketose-isomerase; D-glucose-6-phosphate aldose-ketose-isomerases; glucose-6-phosphate isomerase; glucose-6-phosphate isomerases; glucose phosphate isomerase; glucose phosphate isomerases; GPI; GPIs; hexose phosphate isomerase; hexose phosphate isomerases; PGI; PGIs; PHI; PHIs; phosphoglucoisomerase; phosphoglucoisomerases; phosphoglucose isomerase; phosphoglucoisomerases; phosphohexose isomerase; phosphohexose isomerases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004347</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_platelet_derived_growth_factor_beta_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>platelet-derived growth factor beta receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with platelet-derived growth factor isoform PDGF-BB or PDGF-AB to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>betaPDGF receptor; betaPDGF receptors; beta-type platelet-derived growth factor receptor; beta-type platelet-derived growth factor receptors; PDGF-R beta; PDGF beta receptor; PDGF beta receptors; PDGFRB; PDGFR beta; platelet-derived growth factor beta receptor; platelet-derived growth factor beta receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005019</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_polymerase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0034061</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0097747</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>polymerase</rdfs:label>
+    <obo:IAO_0000115>Catalysis of the reaction: 
+a 2'-deoxyribonucleoside 5'-triphosphate + DNA(n) = diphosphate + DNA(n+1)
+or of the reaction:
+nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1)</obo:IAO_0000115>
+    <craft:annotatable_text>Pol; polymerase; polymerases</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_absence_of_association_with_GO_MF_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_GO_MF_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_OBO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fMet_Leu_Phe_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>fMet-Leu-Phe receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with an N-formyl peptide to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>fMet-Leu-Phe receptor; fMet-Leu-Phe receptors; fMLP receptor; fMLP receptors; FPR; FPRs; N-formyl peptide receptor; N-formyl peptide receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004982</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_growth_hormone">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>growth hormone</rdfs:label>
+    <obo:IAO_0000115>An entity bearing a functionality of a growth hormone, a peptide that can be secreted and bind to membrane receptors in target tissues to stimulate body growth.</obo:IAO_0000115>
+    <craft:annotatable_text>GH; GHs; Gh; Ghs; growth hormone; growth hormones</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0070186</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_short_chain_acyl_CoA_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>short-chain acyl-CoA dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis</obo:IAO_0000115>
+    <craft:annotatable_text>ACADS; SCAD; SCADs; short-chain acyl-coenzyme A dehydrogenase; short-chain acyl-coenzyme A dehydrogenases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0016937</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_GO_MF_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_MF_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_leukemia_inhibitory_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>leukemia inhibitory factor receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with leukemia inhibitory factor (LIF) and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>leukemia inhibitory factor receptor; leukemia inhibitory factor receptors; LIFR; LIFRs; LIF-R; LIF-Rs; LIF receptor; LIF receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004923</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glutathione_synthase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>glutathione synthase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: L-gamma-glutamyl-L-cysteine + ATP + glycine = ADP + glutathione + 2 H+ + phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>glutathione synthase; glutathione synthases; glutathione synthetase; glutathione synthetases; GSH synthase; GSH synthases; GSH synthetase; GSH synthetases; GSH-S; GSS</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004363</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_MF_class"/>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_thymidine_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>thymidine kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: ATP + thymidine = ADP + thymidine 5'-phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>2'-deoxythymidine kinase; 2'-deoxythymidine kinases; ATP:thymidine 5'-phosphotransferase; ATP:thymidine 5'-phosphotransferases; TDK; TDKs; thymidine kinase; thymidine kinases; TK; TKs</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004797</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glutathione_S_transferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>glutathione S-transferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: R-X + glutathione = H-X + R-S-glutathione. R may be an aliphatic, aromatic or heterocyclic group; X may be a sulfate, nitrile or halide group.</obo:IAO_0000115>
+    <craft:annotatable_text>glutathione S-alkyltransferase; glutathione S-alkyltransferases; glutathione S-alkyl transferase; glutathione S-alkyl transferases; glutathione S-aryltransferase; glutathione S-aryltransferases; glutathione S-transferase; glutathione S-transferases; glutathione transferase; glutathione transferases;  GST; GSTs; RX:glutathione R-transferase; RX:glutathione R-transferases; S-(hydroxyalkyl)glutathione lyase; S-(hydroxyalkyl)glutathione lyases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004364</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_7_dehydrocholesterol_reductase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>7-dehydrocholesterol reductase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: cholesterol + NADP+ = 7-dehydrocholesterol + H+ + NADPH.</obo:IAO_0000115>
+    <craft:annotatable_text>7-dehydrocholesterol reductase; 7-dehydrocholesterol reductases; 7-DHC reductase; 7-DHC reductases; Dhcr7; sterol delta(7)-reductase; sterol delta(7)-reductases; sterol delta7-reductase; sterol delta7-reductases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0047598</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_phosphoglycerate_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004618</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0050191</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>phosphoglycerate kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of 3-phospho-D-glycerate to 3-phospho-D-glyceroyl phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>PGK; PGKs; phosphoglycerate kinase; phosphoglycerate kinases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_protein_disulfide_isomerase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>protein disulfide isomerase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the rearrangement of both intrachain and interchain disulfide bonds in proteins.</obo:IAO_0000115>
+    <craft:annotatable_text>PDI; PDIs; protein disulfide isomerase; protein disulfide isomerases; protein disulphide isomerase; protein disulphide isomerases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0003756</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_ligase_inhibitor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>ligase inhibitor</rdfs:label>
+    <obo:IAO_0000115>A biological or chemical entity bearing a role/function of binding to and stopping, preventing, or reducing the activity of a ligase.</obo:IAO_0000115>
+    <craft:annotatable_text>inhibitor of ligase; inhibitors of ligases; inhibitor of synthase; inhibitors of synthases; ligase inhibitor; ligase inhibitors; synthetase inhibitor; synthetase inhibitors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0055104</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_DNA_nucleotidylexotransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>DNA nucleotidylexotransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1); template-independent extension of the 3'-end of a DNA strand by one nucleotide at a time.</obo:IAO_0000115>
+    <craft:annotatable_text>addase; addases; deoxynucleotidyl terminal transferase; deoxynucleotidyl terminal transferases; deoxyribonucleic acid nucleotidyltransferase; deoxyribonucleic acid nucleotidyltransferases; deoxyribonucleic nucleotidyltransferase; deoxyribonucleic nucleotidyltransferases; DNTT; DNTTs; TDT; TDTs; terminal addition enzyme; terminal addition enzymes; terminal deoxynucleotide transferase; terminal deoxynucleotide transferases; terminal deoxynucleotidyl transferase; terminal deoxynucleotidyl transferases; terminal deoxynucleotidyltransferase; terminal deoxynucleotidyltransferases; terminal deoxyribonucleotidyltransferase; terminal deoxyribonucleotidyltransferases; terminal transferase; terminal transferases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0003912</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_uracil_DNA_glycosylase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>uracil-DNA glycosylase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the cleavage of the N-C1' glycosidic bond between the damaged DNA base and the deoxyribose sugar, releasing a free base and leaving an apyrimidinic (AP) site.</obo:IAO_0000115>
+    <craft:annotatable_text>UDG; UDGs; UNG; UNGs; uracil-DNA glycosylase; uracil-DNA glycosylases; uracil-DNA N-glycosylase; uracil-DNA N-glycosylases; uracil DNA glycosylase; uracil DNA glycosylases; uracil DNA N-glycosylase; uracil DNA N-glycosylases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004844</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_galactose_1_phosphate_uridylyltransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>galactose-1-phosphate uridylyltransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: alpha-D-galactose 1-phosphate + UDP-D-glucose = alpha-D-glucose 1-phosphate + UDP-D-galactose.</obo:IAO_0000115>
+    <craft:annotatable_text>galactose-1-phosphate uridylyltransferase; galactose-1-phosphate uridylyltransferases; GALT; GALTs; gal-1-P uridylyltransferase; gal-1-P uridylyltransferases; hexose-1-phosphate uridyltransferase; hexose-1-phosphate uridyltransferases; hexose-1-phosphate uridylyltransferase; hexose-1-phosphate uridylyltransferases; UDP-glucose--hexose-1-phosphate uridylyltransferase; UDP-glucose--hexose-1-phosphate uridylyltransferases; UDP-glucose-hexose-1-phosphate uridylyltransferase; UDP-glucose-hexose-1-phosphate uridylyltransferases; UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase; UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferases; UDPglucose-hexose-1-phosphate uridylyltransferase; UDPglucose-hexose-1-phosphate uridylyltransferases; UDPglucose:alpha-D-galactose-1-phosphate uridylyltransferase; UDPglucose:alpha-D-galactose-1-phosphate uridylyltransferases; uridyltransferase; uridyltransferases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0008108</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_hormone">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>hormone</rdfs:label>
+    <obo:IAO_0000115>An entity bearing a functionality of a hormone, a substance formed in very small amounts in one specialized organ or group of cells and carried (sometimes in the bloodstream) to another organ or group of cells in the same organism, upon which it has a specific regulatory action.</obo:IAO_0000115>
+    <craft:annotatable_text>hormonal; hormonally; hormone; hormones</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005179</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_epidermal_growth_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>epidermal growth factor receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with an epidermal growth factor receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>EGF receptor; EGF receptors; EGFR; EGFRs; epidermal growth factor receptor; epidermal growth factor receptors; TGF-alpha receptor; TGF-alpha receptors; transforming growth factor-alpha receptor; transforming growth factor-alpha receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005006</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_branched_chain_amino_acid_aminotransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>branched-chain-amino-acid aminotransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a branched-chain amino acid (L-leucine, L-isoleucine and L-valine) + 2-oxoglutarate = L-glutamate + a 2-oxocarboxylate derived from the branched-chain amino acid.</obo:IAO_0000115>
+    <craft:annotatable_text>BCAT; BCATs; branched-chain amino acid aminotransferase; branched-chain amino acid aminotransferases; branched-chain amino acid-glutamate transaminase; branched-chain amino acid-glutamate transaminases; branched-chain-amino-acid transaminase; branched-chain-amino-acid transaminases; branched-chain-amino-acid:2-oxoglutarate aminotransferase; branched-chain-amino-acid:2-oxoglutarate aminotransferases; glutamate-branched-chain amino acid transaminase; glutamate-branched-chain amino acid transaminases; L-branched chain amino acid aminotransferase; L-branched chain amino acid aminotransferases; transaminase B</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004084</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_MAP_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>MAP kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: protein + ATP = protein phosphate + ADP.</obo:IAO_0000115>
+    <craft:annotatable_text>MAPK; MAPKs; MAP kinase; MAP kinases; mitogen-activated kinase; mitogen-activated kinases; mitogen-activated protein kinase; mitogen-activated protein kinases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004707</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_prototypically_entailed_GO_MF_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_GO_MF_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_GO_MF_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_proteinase_activated_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>proteinase-activated receptor</rdfs:label>
+    <obo:IAO_0000115>A G protein-coupled receptor that is activated by cleavage by a serine protease, exposing a tethered ligand corresponding to the new N-terminus, which binds to the receptor and activates it.</obo:IAO_0000115>
+    <craft:annotatable_text>PAR; PARs; proteinase-activated receptor; proteinase-activated receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0001648</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_long_chain_acyl_CoA_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>long-chain acyl-CoA dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a long-chain 2,3-saturated fatty acyl-CoA + H+ + oxidized [electron-transfer flavoprotein] = a long-chain (2E)-enoyl-CoA + reduced [electron-transfer flavoprotein]. A long-chain fatty acid has an aliphatic tail containing 13 to 22 carbons.</obo:IAO_0000115>
+    <craft:annotatable_text>ACADL; ACADLs; LCAD; LCADs; long-chain-acyl-CoA:acceptor 2,3-oxidoreductase; long-chain-acyl-CoA:acceptor 2,3-oxidoreductases; long-chain acyl-CoA dehydrogenase; long-chain acyl-CoA dehydrogenases; long-chain acyl-coenzyme A dehydrogenase; long-chain acyl-coenzyme A dehydrogenases; palmitoyl-CoA dehydrogenase; palmitoyl-CoA dehydrogenases; palmitoyl-coenzyme A dehydrogenase; palmitoyl-coenzyme A dehydrogenases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004466</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_reannealing_activity">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>reannealing activity</rdfs:label>
+    <obo:IAO_0000115>An occurrence of a nucleic acid annealing/hybridization following a previous one; or, an attribute of such an occurrence, e.g., of annealing/hybridizing with another nucleic acid after a previous occurrence.</obo:IAO_0000115>
+    <craft:has_subsuming_GO_MF_class_with_occurrence_or_attribute_interpretation>http://purl.obolibrary.org/obo/GO_0140666</craft:has_subsuming_GO_MF_class_with_occurrence_or_attribute_interpretation>
+    <craft:annotatable_text>rehybridisation; rehybridisations; rehybridise; rehybridised; rehybridises; rehybridising; rehybridization; rehybridizations; rehybridize; rehybridized; rehybridizes; rehybridizing; re-hybridisation; re-hybridisations; re-hybridise; re-hybridised; re-hybridises; re-hybridising; re-hybridization; re-hybridizations; re-hybridize; re-hybridized; re-hybridizes; re-hybridizing</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_guanylate_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>guanylate kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: ATP + GMP = ADP + GDP.</obo:IAO_0000115>
+    <craft:annotatable_text>5'-GMP kinase; 5'-GMP kinases; ATP:(d)GMP phosphotransferase; ATP:(d)GMP phosphotransferases; ATP:GMP phosphotransferase; ATP:GMP phosphotransferases; deoxyguanylate kinase; GK; GMP kinase; GMP kinases; guanosine monophosphate kinase; guanosine monophosphate kinases; guanylate kinase; guanylate kinases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004385</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_cyclin_dependent_kinase_inhibitor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>cyclin-dependent kinase inhibitor</rdfs:label>
+    <obo:IAO_0000115>A chemical entity that stops, prevents, or reduces the activity of cyclin-dependent kinase.</obo:IAO_0000115>
+    <craft:annotatable_text>CDK inhibitor; CDK inhibitors; cyclin-dependent kinase inhibitor; cyclin-dependent kinase inhibitors; cyclin-dependent protein kinase inhibitor; cyclin-dependent protein kinase inhibitors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004861</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_occurrence_before_annealing">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>attribute of occurrence before annealing</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of occurrence (e.g., existing, inhering, taking place) before some nucleic acid annealing.</obo:IAO_0000115>
+    <craft:has_prototypically_entailed_GO_MF_class>http://purl.obolibrary.org/obo/GO_0140666</craft:has_prototypically_entailed_GO_MF_class>
+    <craft:annotatable_text>prehybridisation; pre-hybridisation; prehybridised; pre-hybridised;  prehybridization; pre-hybridization; prehybridized; pre-hybridized</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_catalase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>catalase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: 2 hydrogen peroxide = O2 + 2 H2O.</obo:IAO_0000115>
+    <craft:annotatable_text>caperase; caperases; CAT; catalase; catalases; catalase peroxidase; catalase peroxidases; equilase; equilases; optidase; optidases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004096</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_dihydrolipoyllysine_residue_2_methylpropanoyl_transferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>dihydrolipoyllysine-residue (2-methylpropanoyl)transferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: 2-methylpropanoyl-CoA + enzyme N6-(dihydrolipoyl)lysine = CoA + enzyme N6-(S-[2-methylpropanoyl]dihydrolipoyl)lysine.</obo:IAO_0000115>
+    <craft:annotatable_text>2-methylpropanoyl-CoA:enzyme-6-N-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferase; 2-methylpropanoyl-CoA:enzyme-6-N-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferases; 
+2-methylpropanoyl-CoA:enzyme-N6-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferase; 
+2-methylpropanoyl-CoA:enzyme-N6-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferases; dihydrolipoamide acetyltransferase; dihydrolipoamide acetyltransferases; dihydrolipoamide branched chain transacylase; dihydrolipoamide branched chain transacylases; dihydrolipoyl acyltransferase; dihydrolipoyl acyltransferases; dihydrolipoyl transacylase; dihydrolipoyl transacylases; enzyme-dihydrolipoyllysine:2-methylpropanoyl-CoA S-(2-methylpropanoyl)transferase; enzyme-dihydrolipoyllysine:2-methylpropanoyl-CoA S-(2-methylpropanoyl)transferases; dihydrolipoamide acetyltransferase; dihydrolipoamide acetyltransferases; dihydrolipoyllysine-residue (2-methylpropanoyl)transferase; dihydrolipoyllysine-residue (2-methylpropanoyl)transferases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0043754</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_methylmalonyl_CoA_mutase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>methylmalonyl-CoA mutase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: (R)-methylmalonyl-CoA = succinyl-CoA.</obo:IAO_0000115>
+    <craft:annotatable_text>MCM; MCMs; methylmalonyl-CoA CoA-carbonyl mutase; methylmalonyl-CoA CoA-carbonyl mutases; methylmalonyl-CoA isomerase; methylmalonyl-CoA isomerases; methylmalonyl-CoA mutase; methylmalonyl-CoA mutases; methylmalonyl coenzyme A carbonylmutase; methylmalonyl coenzyme A carbonylmutases; methylmalonyl coenzyme A mutase; methylmalonyl coenzyme A mutases; (R)-2-methyl-3-oxopropanoyl-CoA CoA carbonylmutase; (R)-2-methyl-3-oxopropanoyl-CoA CoA carbonylmutases; (R)-methylmalonyl-CoA; (S)-methylmalonyl-CoA mutase; (S)-methylmalonyl-CoA mutases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004494</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_nucleotide_exchange_factor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0000774</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005085</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>nucleotide exchange factor</rdfs:label>
+    <obo:IAO_0000115>An adenyl- or guanyl-nucleotide exchange factor.</obo:IAO_0000115>
+    <craft:annotatable_text>NEF; NEFs; nucleotide exchange factor; nucleotide exchange factors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_occurrence_after_annealing">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_deductively_entailed_GO_MF_class>http://purl.obolibrary.org/obo/GO_0140666</craft:has_deductively_entailed_GO_MF_class>
+    <rdfs:label>attribute of occurrence after annealing</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of occurrence (e.g., existing, inhering, taking place) after some nucleic acid annealing.</obo:IAO_0000115>
+    <craft:annotatable_text>posthybridisation; post-hybridisation; posthybridised; post-hybridised;  posthybridization; post-hybridization; posthybridized; post-hybridized</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_diacylglycerol_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004143</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0141035</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>diacylglycerol kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a 1,2-diacyl-sn-glycerol + (CTP or ATP) = a 1,2-diacyl-sn-glycero-3-phosphate + (CDP or ADP) + H+.</obo:IAO_0000115>
+    <craft:annotatable_text>DAG kinase; DAG kinases; DAGK; DAGKs; DGK; DGKs; diacylglycerol kinase; diacylglycerol kinases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_cholesterol_7_alpha_hydroxylase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>cholesterol 7 alpha-hydroxylase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: cholesterol + O2 + reduced [NADPH--hemoprotein reductase] = 7alpha-hydroxycholesterol + H+ + H2O + oxidized [NADPH--hemoprotein reductase].</obo:IAO_0000115>
+    <craft:annotatable_text>cholesterol 7alpha-hydroxylase; cholesterol 7alpha-hydroxylases; cholesterol 7alpha-monooxygenase; cholesterol 7alpha-monooxygenases; cholesterol 7-alpha-hydroxylase; cholesterol 7-alpha-hydroxylases; cholesterol 7-alpha-monooxygenase; cholesterol 7-alpha-monooxygenases; cholesterol 7 alpha-hydroxylase; cholesterol 7 alpha-hydroxylases; cholesterol 7 alpha-monooxygenase; cholesterol 7 alpha-monooxygenases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0008123</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_metalloprotease">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>metalloprotease</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the hydrolysis of peptide bonds by a mechanism in which water acts as a nucleophile, one or two metal ions hold the water molecule in place, and charged amino acid side chains are ligands for the metal ions.</obo:IAO_0000115>
+    <craft:has_subsuming_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0008237</craft:has_subsuming_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:annotatable_text>metalloprotease; metalloproteases; metalloproteinase; metalloproteinases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_G_protein_coupled_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>G-protein coupled receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with an extracellular signal and transmitting the signal across the membrane by activating an associated G-protein; promotes the exchange of GDP for GTP on the alpha subunit of a heterotrimeric G-protein complex.</obo:IAO_0000115>
+    <craft:annotatable_text>G protein coupled receptor; G protein coupled receptors; G protein-coupled receptor ; G protein-coupled receptors; G-protein coupled receptor; G-protein coupled receptors; GPCR; GPCRs; GPLR; GPLRs; G protein linked receptor; G protein linked receptors; G protein-linked receptor; G protein-linked receptors; G-protein linked receptor; G-protein linked receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004930</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_hypoxanthine_guanine_phosphoribosyltransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>hypoxanthine guanine phosphoribosyltransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: IMP + diphosphate = hypoxanthine + 5-phospho-alpha-D-ribose 1-diphosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>HGPRT; HGPRTs; HGPRTase; HGPRTases; HPRT; HPRTs; hypoxanthine-guanine phosphoribosyltransferase; hypoxanthine-guanine phosphoribosyltransferases; IMP-GMP pyrophosphorylase; IMP-GMP pyrophosphorylases; IMP:diphosphate phospho-D-ribosyltransferase; IMP:diphosphate phospho-D-ribosyltransferases; IMP diphosphorylase; IMP diphosphorylases; IMP pyrophosphorylase; IMP pyrophosphorylases; inosinate pyrophosphorylase; inosinate pyrophosphorylases; inosine 5'-phosphate pyrophosphorylase; inosine 5'-phosphate pyrophosphorylases; inosinic pyrophosphorylase; inosinic pyrophosphorylases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004422</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glycerol_3_phosphate_O_acyltransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004366</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0090447</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>glycerol-3-phosphate O-acyltransferase</rdfs:label>
+    <obo:IAO_0000115>Something that catalyzes the reaction: acyl-CoA + sn-glycerol-3-phosphate = acyl-sn-glycero-3-phosphate + CoA.</obo:IAO_0000115>
+    <craft:annotatable_text>glycerol-3-phosphate acyltransferase; glycerol-3-phosphate acyltransferases; glycerol-3-phosphate O-acyltransferase; glycerol-3-phosphate O-acyltransferases; GPAT; GPATs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_recombinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0000150</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0009009</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>recombinase</rdfs:label>
+    <obo:IAO_0000115>A homologous or site-specific recombinase.</obo:IAO_0000115>
+    <craft:annotatable_text>recombinase; recombinases</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
+    <rdfs:label>annotatable text</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsuming_GO_MF_class_with_function_bearing_entity_interpretation">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_GO_MF_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_entailed_GO_MF_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_hepatocyte_growth_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>HGF receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with hepatocyte growth factor receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>hepatocyte growth factor-activated receptor; hepatocyte growth factor-activated receptors; hepatocyte growth factor/scatter factor receptor; hepatocyte growth factor/scatter factor receptors; hepatocyte growth factor receptor; hepatocyte growth factor receptors; HGFR; HGFRs; HGF-activated receptor; HGF-activated receptors; HGF/SF receptor; HGF/SF receptors; HGF receptor; HGF receptors; MET; scatter factor-activated receptor; scatter factor-activated receptors; scatter factor receptor; scatter factor receptors; SF-activated receptor; SF-activated receptors; SF receptor; SF receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005008</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_topoisomerase_activity">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0003916</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0140226</craft:has_subsumed_GO_MF_class_with_function_bearing_entity_interpretation>
+    <rdfs:label>topoisomerase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the transient cleavage and passage of individual DNA or RNA strands or double helices through one another, resulting a topological transformation in DNA or RNA.</obo:IAO_0000115>
+    <craft:annotatable_text>topoisomerase; topoisomerases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_leptin_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>leptin receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with the fat-cell specific hormone leptin and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>leptin receptor; leptin receptors; LEPR; LEP-R</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0038021</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_beta_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>beta-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of beta-adrenergic receptors; the activity involves transmitting the signal to the Gs alpha subunit of a heterotrimeric G protein.</obo:IAO_0000115>
+    <craft:annotatable_text>beta-adrenergic; beta-adrenergic receptor; beta-adrenergic receptors; beta-adrenoceptor; beta-adrenoceptors; beta adrenergic; beta adrenergic receptor; beta adrenergic receptors; beta adrenoceptor; beta adrenoceptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004939</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glucokinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>glucokinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: ATP + D-glucose = ADP + D-glucose-6-phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>ATP:D-glucose 6-phosphotransferase; ATP:D-glucose 6-phosphotransferases; ATP:D-hexose 6-phosphotransferase; ATP:D-hexose 6-phosphotransferases; GCK; GCKs; GK; GKs; GLKl GLKs; glucokinase; glucokinases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004340</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_choline_O_acetyltransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>choline O-acetyltransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: acetyl-CoA + choline = acetylcholine + CoA.</obo:IAO_0000115>
+    <craft:annotatable_text>CHAT; CHATs; CHOACTase; CHOACTases; choline acetylase; choline acetylases; choline acetyltransferase; choline acetyltransferases; choline O-acetyltransferase; choline O-acetyltransferases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004102</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_argininosuccinate_lyase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>argininosuccinate lyase</rdfs:label>
+    <obo:IAO_0000115>Any of the human ASL, chicken ASL2, or S. pombe 972h- arg7 genes, any 1:1 ortholog of these, or any corresponding gene product of any of these.</obo:IAO_0000115>
+    <craft:annotatable_text>arginine-succinate lyase; arginine-succinate lyases; argininosuccinase; argininosuccinases; argininosuccinate lyase; argininosuccinate lyases; argininosuccinic acid lyase; argininosuccinic acid lyases; ASL; ASLs; N-(L-argininosuccinate) arginine-lyase; N-(L-argininosuccinate) arginine-lyases; omega-N-(L-arginino)succinate arginine-lyase; omega-N-(L-arginino)succinate arginine-lyases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004056</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_beta2_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>beta2-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of beta2-adrenergic receptors.</obo:IAO_0000115>
+    <craft:annotatable_text>ADRB2; ADRB2R; ADRB2Rs; B2AR; B2ARs; beta2 adrenergic receptor; beta2 adrenergic receptors; beta2 adrenoceptor; beta2 adrenoceptors; beta2-adrenergic; beta2-adrenergic receptor; beta2-adrenergic receptors; beta2-adrenoceptor; beta2-adrenoceptors; beta-2 adrenergic; beta-2 adrenergic receptor; beta-2 adrenergic receptors; beta-2 adrenoceptor; beta-2 adrenoceptors; BETA2AR; BETA2ARs</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004941</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fibroblast_growth_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>fibroblast growth factor receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a fibroblast growth factor receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>FGF-activated receptor; FGF-activated receptors; FGF receptor; FGF receptors; FGFR; FGFRs; fibroblast growth-activated receptor; fibroblast growth-activated receptors; fibroblast growth factor receptor; fibroblast growth factor receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005007</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_metal_chelation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>occurrence/attribute of metal chelation</rdfs:label>
+    <obo:IAO_0000115>The formation of bonds from two or more atoms within the same ligand to a metal atom in complexes in which the metal is part of a ring; or, an attribute of such an occurrence, e.g., of participating in such an interaction.</obo:IAO_0000115>
+    <craft:has_substitutable_GO_MF_class>http://purl.obolibrary.org/obo/GO_0046911</craft:has_substitutable_GO_MF_class>
+    <craft:annotatable_text>chelate; chelated; chelates; chelating; chelation; metal chelating; metal-chelating; metal chelation</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_enzyme">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>enzyme</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of a biochemical reaction at physiological temperatures.</obo:IAO_0000115>
+    <craft:annotatable_text>enzymatic; enzymatically</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0003824</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_not_being_or_becoming_annealed">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>attribute of not being or becoming annealed</rdfs:label>
+    <obo:IAO_0000115>An attribute of not being or becoming annealed.</obo:IAO_0000115>
+    <craft:has_entailed_absence_of_association_with_GO_MF_class>http://purl.obolibrary.org/obo/GO_0140666</craft:has_entailed_absence_of_association_with_GO_MF_class>
+    <craft:annotatable_text>nonhybridised; nonhybridising; nonhybridized; nonhybridizing; non-hybridised; non-hybridising; non-hybridized; non-hybridizing; unhybridised; unhybridized; un-hybridised; un-hybridized</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fatty_acid_synthase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>fatty acid synthase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: acetyl-CoA + n malonyl-CoA + 2n NADPH + 2n H+ = long-chain fatty acid + n+1 CoA + n CO2 + 2n NADP+.</obo:IAO_0000115>
+    <craft:annotatable_text>FAS; FASs; FASN; FASNs; fatty acid synthases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004312</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_interleukin_1_receptor_type_I">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>interleukin-1 receptor type I</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with interleukin-1 to initiate a change in cell activity via signaling pathways and mediated by adaptor proteins.</obo:IAO_0000115>
+    <craft:annotatable_text>IL1R; IL1R1; IL1RA; IL-1RT1; IL-1RT-1; IL-1R-1; IL-1R-alpha; IL-1 type 1 activating receptor; IL-1 type 1 activating receptors; IL-1 type 1 receptor; IL-1 type 1 receptors; IL-1 type I activating receptor; IL-1 type I activating receptors; IL-1 type I receptor; IL-1 type I receptors; interleukin-1 activating receptor; interleukin-1 activating receptors; interleukin-1 receptor alpha; interleukin-1 receptor type 1; interleukin-1 receptor type I; interleukin-1 type 1 receptor; interleukin-1 type 1 receptors; interleukin-1 type I receptor; interleukin-1 type I receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004909</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_platelet_activating_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>platelet-activating factor receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with platelet activating factor to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>PAFR; PAFRs; PAF-R; PAF-Rs; PAF receptor; PAF receptors; platelet-activating factor receptor; platelet-activating factor receptors; PTAFR; PTAFRs</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004992</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_phosphoenolpyruvate_carboxykinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>phosphoenolpyruvate carboxykinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: phosphate + oxaloacetate = phosphoenolpyruvate + CO2 + other reaction products.</obo:IAO_0000115>
+    <craft:annotatable_text>PEPCK; PEP carboxykinase; PEP carboxykinases; phosphoenolpyruvate carboxykinase; phosphoenolpyruvate carboxykinases; phosphopyruvate carboxylase; phosphopyruvate carboxylases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004611</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_acetylcholinesterase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>acetylcholinesterase</rdfs:label>
+    <obo:IAO_0000115>Either of the human ACHE or D. melanogaster Ace genes, any 1:1 ortholog of these, or any corresponding transcript or protein.</obo:IAO_0000115>
+    <craft:annotatable_text>acetylcholinesterase; acetylcholinesterases; acetylcholine acetylhydrolase; acetylcholine acetylhydrolases; acetylcholine hydrolase; acetylcholine hydrolases; acetylthiocholinesterase; acetylthiocholinesterases; ACHE; ACHEs; choline esterase I</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0003990</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_growth_hormone_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>growth hormone receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a growth hormone and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>GH receptor; GH receptors; growth hormone receptor; growth hormone receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004903</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_dihydrolipoamide_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>dihydrolipoamide dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: protein N6-(dihydrolipoyl)lysine + NAD+ = protein N6-(lipoyl)lysine + NADH + H+.</obo:IAO_0000115>
+    <craft:annotatable_text>dihydrolipoamide dehydrogenase; dihydrolipoamide dehydrogenases; dehydrolipoate dehydrogenase; dehydrolipoate dehydrogenases; diaphorase; diaphorases; dihydrolipoamide:NAD+ oxidoreductase; dihydrolipoamide:NAD+ oxidoreductases; dihydrolipoic dehydrogenase; dihydrolipoic dehydrogenases; dihydrolipoyl dehydrogenase; dihydrolipoyl dehydrogenases; DLD; DLDs; DLDH; DLDHs; LAD; LADs; lipoamide reductase; lipoamide reductases; lipoate dehydrogenase; lipoate dehydrogenases; lipoic acid dehydrogenase; lipoic acid dehydrogenases; lipoyl dehydrogenase; lipoyl dehydrogenases; protein-6-N-(dihydrolipoyl)lysine:NAD+ oxidoreductase; protein-6-N-(dihydrolipoyl)lysine:NAD+ oxidoreductases; protein-N6-(dihydrolipoyl)lysine:NAD+ oxidoreductase; protein-N6-(dihydrolipoyl)lysine:NAD+ oxidoreductases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004148</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_calcium_channel_blocker">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>calcium channel blocker</rdfs:label>
+    <obo:IAO_0000115>An entity that bears a functionality of binding to and stopping, preventing, or reducing the activity of a calcium channel.</obo:IAO_0000115>
+    <craft:annotatable_text>Ca2+ channel blocker; Ca2+ channel blockers; Ca2+ channel inhibitor; Ca2+ channel inhibitors; calcium channel blocker; calcium channel blockers; calcium channel inhibitor; calcium channel inhibitors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0019855</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+    <rdfs:label>definition</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_stearoyl_CoA_desaturase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>stearoyl-CoA desaturase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: 2 Fe(II)-[cytochrome b5] + 2 H+ + O2 + octadecanoyl-CoA = (9Z)-octadecenoyl-CoA + 2 Fe(III)-[cytochrome b5] + 2 H2O.</obo:IAO_0000115>
+    <craft:annotatable_text>delta9-desaturase; delta9-desaturases; delta(9)-desaturase; delta(9)-desaturases; fatty acid desaturase; fatty acid desaturases; SCD; SCDs; stearoyl-CoA 9-desaturase; stearoyl-CoA 9-desaturases; stearoyl-CoA desaturase; stearoyl-CoA desaturases; stearoyl-CoA ferrocytochrome-b5:oxygen oxidoreductase (9,10-dehydrogenating); stearoyl-CoA, hydrogen-donor:oxygen oxidoreductase; stearoyl-CoA, hydrogen-donor:oxygen oxidoreductases; stearoyl-coenzyme A desaturase; stearoyl-coenzyme A desaturases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004768</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_peptidase_or_protease_or_proteinase_inhibitor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>peptidase/protease/proteinase inhibitor</rdfs:label>
+    <obo:IAO_0000115>An entity bearing a functionality of binding to and stopping, preventing, or reducing the activity of a peptidase/protease/proteinase, an enzyme that can catalyze the hydrolysis of peptide bonds.</obo:IAO_0000115>
+    <craft:annotatable_text>inhibitor of peptidase; inhibitors of peptidases; inhibitor of protease; inhibitors of proteases; inhibitor of proteinase; inhibitors of proteinases; peptidase inhibitor; peptidase inhibitors; protease inhibitor; protease inhibitors; proteinase inhibitor; proteinase inhibitors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0030414</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_low_density_lipoprotein_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>low-density lipoprotein receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a low-density lipoprotein particle and delivering the low-density lipoprotein particle into the cell via endocytosis.</obo:IAO_0000115>
+    <craft:annotatable_text>LDLR; LDLRs; LDL receptor; LDL receptors; low density lipoprotein receptor; low density lipoprotein receptors; low-density lipoprotein receptor; low-density lipoprotein receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005041</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_chemokine_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>chemokine receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a chemokine, and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>chemokine receptor; chemokine receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004950</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_ephrin_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>ephrin receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with an ephrin receptor ligand to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>Eph; Eph receptor; Eph receptors; Eph receptor tyrosine kinase; Eph receptor tyrosine kinases; Eph RTK; Eph RTKs; ephrin receptor; ephrin receptors; erythropoietin-producing human hepatocellular receptor; erythropoietin-producing human hepatocellular receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005003</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Ontology rdf:about="http://craftcorpus.org/"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_monophenol_monooxygenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>monophenol monooxygenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: L-tyrosine + O2 = L-DOPAquinone + H2O. This reaction can use both monophenols (such as tyrosine) and catechols (o-diphenols) as substrates.</obo:IAO_0000115>
+    <craft:annotatable_text>L-tyrosine monooxygenase; L-tyrosine monooxygenases; monophenol dihydroxyphenylalanine:oxygen oxidoreductase; monophenol dihydroxyphenylalanine:oxygen oxidoreductases; monophenol monooxidase; monophenol monooxidases; monophenol monooxygenase; monophenol monooxygenases; monophenol oxygenase; monophenol oxygenases; monophenolase; monophenolases; N-acetyl-6-hydroxyltryptophan oxidase; N-acetyl-6-hydroxyltryptophan oxidases; polyaromatic oxidase; polyaromatic oxidases; polyphenolase; polyphenolases; TYR; tyrosinase; tyrosinases; tyrosine-dopa oxidase; tyrosine-dopa oxidases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0004503</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_medium_chain_acyl_CoA_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>medium-chain acyl-CoA dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a medium-chain 2,3-saturated fatty acyl-CoA + H+ + oxidized [electron-transfer flavoprotein] = a medium-chain trans-(2E)-enoyl-CoA + reduced [electron-transfer flavoprotein]. A medium-chain fatty acid has an aliphatic tail containing 6 to 12 carbons.</obo:IAO_0000115>
+    <craft:annotatable_text>ACADM; ACADMs; MCAD; MCADs; medium-chain acyl-CoA dehydrogenase; medium-chain acyl-CoA dehydrogenases; medium-chain acyl-coenzyme A dehydrogenase; medium-chain acyl-coenzyme A dehydrogenases; medium-chain specific acyl-CoA dehydrogenase; medium-chain specific acyl-CoA dehydrogenases</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0070991</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transforming_growth_factor_beta_receptor_type_I">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>transforming growth factor beta receptor type I</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a complex of transforming growth factor beta and a type II TGF-beta receptor to initiate a change in cell activity; upon binding, acts as a downstream transducer of TGF-beta signals.</obo:IAO_0000115>
+    <craft:annotatable_text>TGFBR1; TGF-beta receptor type-1; transforming growth factor beta receptor activity, type I; transforming growth factor beta receptor type 1; type 1 TGF-beta receptor; type 1 TGF-beta receptors; type 1 TGFbeta receptor; type 1 TGFbeta receptors; type 1 transforming growth factor beta receptor; type 1 transforming growth factor beta receptors; type I TGFbeta receptor; type I TGFbeta receptors; type I TGF-beta receptor; type I TGF-beta receptors; type I transforming growth factor beta receptor; type I transforming growth factor beta receptors</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005025</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_insulin_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_GO_MF_extension_class"/>
+    <rdfs:label>insulin receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with insulin receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>INSR; INSRs; insulin receptor; insulin receptors; IR; IRs</craft:annotatable_text>
+    <craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>http://purl.obolibrary.org/obo/GO_0005009</craft:has_substitutable_GO_MF_class_with_function_bearing_entity_interpretation>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsuming_GO_MF_class_with_occurrence_or_attribute_interpretation">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_deductively_entailed_GO_MF_class"/>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_GO_MF_extension_class">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label>GO_MF extension class</rdfs:label>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
+</rdf:RDF>

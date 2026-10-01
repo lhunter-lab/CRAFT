@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15630473" text-file="15630473.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_115291">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="138" id="15630473-6863" start="133">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113451">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="351" id="15630473-92943" start="338">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113135">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="494" id="15630473-6867" start="489">cells</span>
+        </annotation>
+        <annotation id="15630473-392271">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intercellular_association" label="attribute of intercellular association"/>
+            <span end="804" id="15630473-392272" start="791">intercellular</span>
+        </annotation>
+        <annotation id="15630473-399182">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="952" id="15630473-399183" start="948">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115765">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="957" id="15630473-6882" start="953">cell</span>
+        </annotation>
+        <annotation id="15630473-389166">
+            <class id="http://purl.obolibrary.org/obo/CL_0000048" label="multi fate stem cell"/>
+            <span end="1086" id="15630473-389167" start="1069">multipotent cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114563">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="1557" id="15630473-6890" start="1552">cells</span>
+        </annotation>
+        <annotation id="15630473-389168">
+            <class id="http://purl.obolibrary.org/obo/CL_0000048" label="multi fate stem cell"/>
+            <span end="1712" id="15630473-389169" start="1701">multipotent</span>
+            <span end="1739" id="15630473-389170" start="1734">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116921">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="1739" id="15630473-93059" start="1723">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113693">
+            <class id="http://purl.obolibrary.org/obo/CL_0000057" label="fibroblast"/>
+            <span end="2208" id="15630473-93105" start="2198">fibroblast</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116439">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="2258" id="15630473-6896" start="2254">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112829">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="2833" id="15630473-6900" start="2829">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112487">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="2959" id="15630473-6902" start="2954">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116497">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3108" id="15630473-6904" start="3103">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115907">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3302" id="15630473-6908" start="3298">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113905">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="3398" id="15630473-6910" start="3394">cell</span>
+        </annotation>
+        <annotation id="15630473-389171">
+            <class id="http://purl.obolibrary.org/obo/CL_0000048" label="multi fate stem cell"/>
+            <span end="3582" id="15630473-389172" start="3571">multipotent</span>
+            <span end="3599" id="15630473-389173" start="3594">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116955">
+            <class id="http://purl.obolibrary.org/obo/CL_0000221" label="ectodermal cell"/>
+            <span end="3599" id="15630473-93188" start="3583">ectodermal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113305">
+            <class id="http://purl.obolibrary.org/obo/CL_0008019" label="mesenchymal cell"/>
+            <span end="3650" id="15630473-93194" start="3633">mesenchymal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114507">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="3839" id="15630473-93209" start="3823">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112325">
+            <class id="http://purl.obolibrary.org/obo/CL_0008019" label="mesenchymal cell"/>
+            <span end="3903" id="15630473-93220" start="3886">mesenchymal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113459">
+            <class id="http://craftcorpus.org/CRAFT_lymphoid_entity" label="lymphoid entity"/>
+            <span end="4409" id="15630473-93252" start="4401">lymphoid</span>
+        </annotation>
+        <annotation id="15630473-392273">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intercellular_association" label="attribute of intercellular association"/>
+            <span end="4751" id="15630473-392274" start="4738">intercellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113769">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5111" id="15630473-6932" start="5107">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116359">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="5116" id="15630473-6934" start="5112">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113487">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="6377" id="15630473-93432" start="6361">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112185">
+            <class id="http://purl.obolibrary.org/obo/CL_0000219" label="motile cell"/>
+            <span end="6389" id="15630473-93436" start="6383">motile</span>
+            <span end="6407" id="15630473-93437" start="6402">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112343">
+            <class id="http://purl.obolibrary.org/obo/CL_0008019" label="mesenchymal cell"/>
+            <span end="6407" id="15630473-93441" start="6390">mesenchymal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114749">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="7614" id="15630473-93523" start="7601">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112891">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="8082" id="15630473-6962" start="8078">cell</span>
+        </annotation>
+        <annotation id="15630473-392275">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intercellular_association" label="attribute of intercellular association"/>
+            <span end="8492" id="15630473-392276" start="8479">intercellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115649">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="8845" id="15630473-93617" start="8832">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114609">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="10488" id="15630473-93734" start="10475">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115829">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="10553" id="15630473-93736" start="10540">keratinocytes</span>
+        </annotation>
+        <annotation id="15630473-389174">
+            <class id="http://purl.obolibrary.org/obo/CL_0000048" label="multi fate stem cell"/>
+            <span end="11183" id="15630473-389175" start="11166">multipotent cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112765">
+            <class id="http://purl.obolibrary.org/obo/CL_0000221" label="ectodermal cell"/>
+            <span end="11186" id="15630473-93779" start="11178">cells of</span>
+            <span end="11209" id="15630473-93780" start="11201">ectoderm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115393">
+            <class id="http://purl.obolibrary.org/obo/CL_0002559" label="hair follicle cell"/>
+            <span end="11224" id="15630473-93786" start="11215">hair cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116867">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="11576" id="15630473-93811" start="11563">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114697">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="11870" id="15630473-7008" start="11865">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115013">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12660" id="15630473-7016" start="12655">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113659">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="12686" id="15630473-7018" start="12681">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113477">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="13662" id="15630473-7026" start="13658">cell</span>
+        </annotation>
+        <annotation id="15630473-388364">
+            <class id="http://purl.obolibrary.org/obo/CL_0000039" label="germ line cell"/>
+            <span end="13856" id="15630473-388365" start="13848">germline</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114843">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="14541" id="15630473-7032" start="14536">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112899">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="14610" id="15630473-7034" start="14605">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115045">
+            <class id="http://purl.obolibrary.org/obo/CL_0002187" label="basal cell of epidermis"/>
+            <span end="16052" id="15630473-94134" start="16031">basal epidermal cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116585">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="17290" id="15630473-7048" start="17286">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116065">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="17295" id="15630473-7050" start="17291">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116775">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="18212" id="15630473-94300" start="18199">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113791">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="18274" id="15630473-94304" start="18261">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112181">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18354" id="15630473-7056" start="18350">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112551">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18359" id="15630473-7058" start="18355">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113497">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18437" id="15630473-7060" start="18433">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113231">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18442" id="15630473-7062" start="18438">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114811">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18511" id="15630473-7066" start="18507">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113137">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="18516" id="15630473-7068" start="18512">cell</span>
+        </annotation>
+        <annotation id="15630473-392277">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intercellular_association" label="attribute of intercellular association"/>
+            <span end="18947" id="15630473-392278" start="18934">intercellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113869">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19180" id="15630473-7078" start="19176">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115897">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19185" id="15630473-7080" start="19181">cell</span>
+        </annotation>
+        <annotation id="15630473-392279">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intercellular_association" label="attribute of intercellular association"/>
+            <span end="19229" id="15630473-392280" start="19216">intercellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114941">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="19718" id="15630473-94430" start="19705">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114985">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="19810" id="15630473-7086" start="19805">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116455">
+            <class id="http://purl.obolibrary.org/obo/CL_0000084" label="T cell"/>
+            <span end="20291" id="15630473-94476" start="20285">T cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113955">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="22074" id="15630473-94646" start="22062">keratinocyte</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114073">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="22215" id="15630473-94656" start="22202">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116865">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="22257" id="15630473-94660" start="22244">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116789">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="22488" id="15630473-7106" start="22483">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115355">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="22790" id="15630473-94704" start="22777">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112043">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="23811" id="15630473-7114" start="23807">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112797">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="24033" id="15630473-94793" start="24020">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116187">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="24195" id="15630473-7116" start="24191">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115501">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="24297" id="15630473-94815" start="24284">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112125">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="24818" id="15630473-94853" start="24805">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113391">
+            <class id="http://purl.obolibrary.org/obo/CL_0000182" label="hepatocyte"/>
+            <span end="24888" id="15630473-94859" start="24877">hepatocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116567">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="24925" id="15630473-94863" start="24912">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115261">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="24964" id="15630473-94867" start="24952">keratinocyte</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114035">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="25339" id="15630473-94895" start="25326">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114137">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="25411" id="15630473-7120" start="25407">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115443">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="25473" id="15630473-7124" start="25468">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112803">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="25494" id="15630473-94906" start="25481">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114701">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="25602" id="15630473-94912" start="25586">epithelial cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113539">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="25670" id="15630473-94918" start="25657">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112277">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="26589" id="15630473-94970" start="26576">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114367">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="26919" id="15630473-95003" start="26906">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115775">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="27396" id="15630473-95023" start="27383">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114121">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="27834" id="15630473-95057" start="27821">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114673">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="28101" id="15630473-95081" start="28088">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113521">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="30464" id="15630473-95263" start="30452">keratinocyte</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114063">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="32179" id="15630473-7178" start="32174">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114357">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="32489" id="15630473-7180" start="32484">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114883">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="32574" id="15630473-7182" start="32566">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114329">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="34234" id="15630473-95527" start="34221">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112265">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="34248" id="15630473-7194" start="34244">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113977">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="35151" id="15630473-95598" start="35138">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115565">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="35694" id="15630473-7202" start="35690">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116943">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="35787" id="15630473-95624" start="35774">keratinocytes</span>
+        </annotation>
+        <annotation id="15630473-389109">
+            <class id="http://purl.obolibrary.org/obo/CL_0011026" label="progenitor cell"/>
+            <span end="37479" id="15630473-389110" start="37463">progenitor cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116659">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="38314" id="15630473-7214" start="38309">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115049">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="38724" id="15630473-95859" start="38711">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113729">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="38839" id="15630473-95863" start="38826">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116647">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="40151" id="15630473-7226" start="40146">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112067">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="40513" id="15630473-96004" start="40500">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115287">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="40692" id="15630473-96022" start="40679">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115951">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="40784" id="15630473-96032" start="40771">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115215">
+            <class id="http://purl.obolibrary.org/obo/CL_0000066" label="epithelial cell"/>
+            <span end="41019" id="15630473-96048" start="41009">epithelial</span>
+            <span end="41067" id="15630473-96049" start="41063">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116289">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="41109" id="15630473-7236" start="41105">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115949">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="41438" id="15630473-7238" start="41434">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115813">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="41611" id="15630473-7240" start="41607">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116813">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="42222" id="15630473-7246" start="42218">cell</span>
+        </annotation>
+        <annotation id="15630473-392281">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intercellular_association" label="attribute of intercellular association"/>
+            <span end="42318" id="15630473-392282" start="42305">intercellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112753">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="43154" id="15630473-7252" start="43150">Cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113067">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="44930" id="15630473-96263" start="44917">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116243">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="44968" id="15630473-7260" start="44963">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114443">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="45507" id="15630473-7266" start="45503">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114015">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="46361" id="15630473-7274" start="46357">Cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115065">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="46392" id="15630473-96343" start="46379">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114445">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="46916" id="15630473-7278" start="46911">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114901">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="47187" id="15630473-96373" start="47174">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115831">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="47243" id="15630473-7280" start="47238">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113753">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="47301" id="15630473-7282" start="47296">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112051">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="50305" id="15630473-96534" start="50292">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116235">
+            <class id="http://purl.obolibrary.org/obo/CL_0000057" label="fibroblast"/>
+            <span end="51662" id="15630473-96610" start="51652">fibroblast</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114865">
+            <class id="http://craftcorpus.org/CRAFT_lymphoid_entity" label="lymphoid entity"/>
+            <span end="51808" id="15630473-96640" start="51800">lymphoid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113131">
+            <class id="http://purl.obolibrary.org/obo/CL_0000084" label="T cell"/>
+            <span end="52162" id="15630473-96684" start="52156">T cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114511">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="52971" id="15630473-96766" start="52958">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113571">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="53482" id="15630473-7324" start="53477">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116731">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="53632" id="15630473-7326" start="53627">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112569">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="53688" id="15630473-7328" start="53683">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116097">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="53972" id="15630473-7332" start="53967">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112491">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="54172" id="15630473-7336" start="54167">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114947">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="54356" id="15630473-7338" start="54351">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116981">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="54642" id="15630473-7340" start="54638">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114897">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="54647" id="15630473-7342" start="54643">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116979">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="56566" id="15630473-7346" start="56561">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115083">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="56632" id="15630473-7348" start="56627">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114651">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="56678" id="15630473-7350" start="56673">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112623">
+            <class id="http://purl.obolibrary.org/obo/CL_0000649" label="prickle cell"/>
+            <span end="57261" id="15630473-97126" start="57242">spinous layer cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115505">
+            <class id="http://purl.obolibrary.org/obo/CL_0000649" label="prickle cell"/>
+            <span end="57355" id="15630473-97147" start="57348">spinous</span>
+            <span end="57380" id="15630473-97148" start="57369">layer cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114149">
+            <class id="http://purl.obolibrary.org/obo/CL_0000712" label="stratum granulosum cell"/>
+            <span end="57380" id="15630473-97152" start="57360">granular layer cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112619">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="57668" id="15630473-7364" start="57663">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112885">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="59694" id="15630473-7384" start="59689">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114277">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="60344" id="15630473-97401" start="60331">Keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116873">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="60500" id="15630473-7390" start="60495">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115349">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="60606" id="15630473-7396" start="60601">Cells</span>
+        </annotation>
+        <annotation id="15630473-392283">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intercellular_association" label="attribute of intercellular association"/>
+            <span end="60706" id="15630473-392284" start="60693">intercellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112649">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="60755" id="15630473-97439" start="60743">keratinocyte</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114597">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="60794" id="15630473-7400" start="60790">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116831">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="60846" id="15630473-97447" start="60833">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112861">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="60908" id="15630473-97453" start="60895">Keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112339">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="61009" id="15630473-7402" start="61004">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_112935">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="61051" id="15630473-7404" start="61047">cell</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115899">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="61982" id="15630473-97553" start="61969">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114887">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="62069" id="15630473-97561" start="62056">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116513">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="62718" id="15630473-97626" start="62705">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116605">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="62747" id="15630473-97630" start="62734">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115815">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="63026" id="15630473-7416" start="63018">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_115561">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="63124" id="15630473-97658" start="63111">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114635">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="63265" id="15630473-97676" start="63252">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116597">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="63376" id="15630473-7424" start="63368">cellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_114017">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="63774" id="15630473-97710" start="63761">keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_113597">
+            <class id="http://purl.obolibrary.org/obo/CL_0000312" label="keratinocyte"/>
+            <span end="64138" id="15630473-97746" start="64125">Keratinocytes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_116271">
+            <class id="http://purl.obolibrary.org/obo/CL_0000000" label="cell"/>
+            <span end="64347" id="15630473-7438" start="64342">cells</span>
+        </annotation>
+    </document>
+</knowtator-project>

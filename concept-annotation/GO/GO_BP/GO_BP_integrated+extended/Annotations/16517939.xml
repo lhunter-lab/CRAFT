@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16517939" text-file="16517939.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_207117">
+            <class id="http://purl.obolibrary.org/obo/GO_0000380" label="alternative mRNA splicing, via spliceosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="85" id="16517939-56450" start="65">Alternative splicing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208207">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="104" id="16517939-56452" start="94">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208119">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="216" id="16517939-219" start="203">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207747">
+            <class id="http://purl.obolibrary.org/obo/GO_0000380" label="alternative mRNA splicing, via spliceosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="295" id="16517939-56466" start="274">alternatively spliced</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208261">
+            <class id="http://purl.obolibrary.org/obo/GO_0008380" label="RNA splicing" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="338" id="16517939-56474" start="332">splice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207721">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_gene_coexpression" label="occurrence/attribute of gene coexpression"/>
+            <span end="470" id="16517939-56492" start="458">co-expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206701">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="582" id="16517939-56506" start="573">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207271">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="741" id="16517939-56522" start="731">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206557">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="953" id="16517939-56534" start="938">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207221">
+            <class id="http://purl.obolibrary.org/obo/GO_0042592" label="homeostatic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1016" id="16517939-56542" start="1005">homeostasis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207927">
+            <class id="http://purl.obolibrary.org/obo/GO_0000380" label="alternative mRNA splicing, via spliceosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1062" id="16517939-56544" start="1033">Alternative pre-mRNA splicing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207779">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1245" id="16517939-56564" start="1238">express</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207891">
+            <class id="http://purl.obolibrary.org/obo/GO_0000380" label="alternative mRNA splicing, via spliceosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1264" id="16517939-56566" start="1246">alternative splice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207091">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="1532" id="16517939-56584" start="1518">over-expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207093">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="1969" id="16517939-245" start="1954">transcriptional</span>
+        </annotation>
+        <annotation id="16517939-383350">
+            <class id="http://purl.obolibrary.org/obo/GO_0016049" label="cell growth" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2047" id="16517939-383351" start="2036">cell growth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208393">
+            <class id="http://purl.obolibrary.org/obo/GO_0006915" label="apoptotic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2107" id="16517939-56636" start="2098">apoptosis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208521">
+            <class id="http://purl.obolibrary.org/obo/GO_0007283" label="spermatogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2238" id="16517939-56646" start="2223">spermatogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206855">
+            <class id="http://purl.obolibrary.org/obo/GO_0016310" label="phosphorylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2347" id="16517939-56660" start="2332">phosphorylation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207437">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2592" id="16517939-56690" start="2582">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207445">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2855" id="16517939-56720" start="2845">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208219">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
+            <span end="3237" id="16517939-56746" start="3222">over-expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207061">
+            <class id="http://purl.obolibrary.org/obo/GO_0042592" label="homeostatic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3303" id="16517939-56752" start="3292">homeostasis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206395">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="4807" id="16517939-56888" start="4805">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207665">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="5038" id="16517939-56908" start="5036">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208015">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="5081" id="16517939-56910" start="5079">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208265">
+            <class id="http://purl.obolibrary.org/obo/GO_0001171" label="reverse transcription" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5125" id="16517939-56912" start="5104">reverse transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208171">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="5219" id="16517939-56920" start="5217">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207463">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="5654" id="16517939-56956" start="5652">RT</span>
+        </annotation>
+        <annotation id="16517939-392920">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6299" id="16517939-392921" start="6275">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208211">
+            <class id="http://craftcorpus.org/CRAFT_transcriptional_stop_site_or_occurrence" label="transcriptional stop site or occurrence"/>
+            <span end="6869" id="16517939-57038" start="6849">transcriptional stop</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207083">
+            <class id="http://purl.obolibrary.org/obo/GO_0042756" label="drinking behavior" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8463" id="16517939-57131" start="8455">drinking</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208365">
+            <class id="http://purl.obolibrary.org/obo/GO_0042756" label="drinking behavior" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8544" id="16517939-57137" start="8536">drinking</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207535">
+            <class id="http://purl.obolibrary.org/obo/GO_0006954" label="inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8927" id="16517939-57153" start="8915">Inflammation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208517">
+            <class id="http://purl.obolibrary.org/obo/GO_0045123" label="cellular extravasation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9009" id="16517939-57157" start="8987">leukocyte infiltration</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206757">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="10279" id="16517939-57225" start="10277">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207069">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10326" id="16517939-57229" start="10317">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207089">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_gene_coexpression" label="occurrence/attribute of gene coexpression"/>
+            <span end="10374" id="16517939-57235" start="10362">co-expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206659">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10567" id="16517939-57251" start="10558">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206843">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="10874" id="16517939-57273" start="10872">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208263">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11044" id="16517939-57291" start="11034">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207875">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="11143" id="16517939-339" start="11130">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208523">
+            <class id="http://purl.obolibrary.org/obo/GO_0008380" label="RNA splicing" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11240" id="16517939-57307" start="11233">spliced</span>
+        </annotation>
+        <annotation id="16517939-392778">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_being_untranslated" label="attribute of being untranslated"/>
+            <span end="11403" id="16517939-392779" start="11391">untranslated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207139">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11535" id="16517939-57337" start="11525">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207577">
+            <class id="http://purl.obolibrary.org/obo/GO_0006277" label="DNA amplification" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13406" id="16517939-57485" start="13389">DNA amplification</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206341">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13633" id="16517939-57509" start="13623">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206665">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13688" id="16517939-57515" start="13681">express</span>
+        </annotation>
+        <annotation id="16517939-392922">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13772" id="16517939-392923" start="13748">homologous recombination</span>
+        </annotation>
+        <annotation id="16517939-392924">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13939" id="16517939-392925" start="13915">Homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207301">
+            <class id="http://craftcorpus.org/CRAFT_DNA_recombinant_entity" label="DNA-recombinant entity"/>
+            <span end="14038" id="16517939-57543" start="14026">recombinants</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208335">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination" label="occurrence/attribute of DNA combination"/>
+            <span end="14281" id="16517939-57549" start="14270">recombinant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207121">
+            <class id="http://purl.obolibrary.org/obo/GO_0007281" label="germ cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14931" id="16517939-57571" start="14910">germ cell development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207673">
+            <class id="http://purl.obolibrary.org/obo/GO_0000380" label="alternative mRNA splicing, via spliceosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14992" id="16517939-57575" start="14972">Alternative splicing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208463">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination" label="occurrence/attribute of DNA combination"/>
+            <span end="15027" id="16517939-57581" start="15016">recombinant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206339">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15097" id="16517939-57591" start="15087">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207777">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination" label="occurrence/attribute of DNA combination"/>
+            <span end="15244" id="16517939-57603" start="15233">recombinant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208337">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15300" id="16517939-57613" start="15291">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206337">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="15304" id="16517939-57615" start="15302">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208043">
+            <class id="http://purl.obolibrary.org/obo/GO_0008380" label="RNA splicing" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15535" id="16517939-57645" start="15528">spliced</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206729">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15995" id="16517939-57685" start="15985">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208387">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16090" id="16517939-57693" start="16081">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207589">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16659" id="16517939-57721" start="16649">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208359">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16835" id="16517939-57737" start="16825">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207207">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="17904" id="16517939-57799" start="17902">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208147">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17997" id="16517939-57805" start="17988">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208509">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18091" id="16517939-57809" start="18081">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206673">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18232" id="16517939-57821" start="18222">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206587">
+            <class id="http://purl.obolibrary.org/obo/GO_0006954" label="inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18709" id="16517939-57861" start="18697">inflammation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208117">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19817" id="16517939-57920" start="19807">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206779">
+            <class id="http://purl.obolibrary.org/obo/GO_0008380" label="RNA splicing" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19987" id="16517939-57928" start="19981">splice</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207369">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="20151" id="16517939-403" start="20136">transcriptional</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206505">
+            <class id="http://purl.obolibrary.org/obo/GO_0000380" label="alternative mRNA splicing, via spliceosome" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20414" id="16517939-57964" start="20393">alternatively spliced</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208373">
+            <class id="http://purl.obolibrary.org/obo/GO_0008380" label="RNA splicing" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20548" id="16517939-57972" start="20540">splicing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206877">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20730" id="16517939-57988" start="20720">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207133">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21289" id="16517939-58022" start="21280">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208375">
+            <class id="http://purl.obolibrary.org/obo/GO_0006954" label="inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21625" id="16517939-58038" start="21613">inflammatory</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207849">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21704" id="16517939-58046" start="21694">expressing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208091">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21857" id="16517939-58052" start="21847">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206455">
+            <class id="http://purl.obolibrary.org/obo/GO_0007281" label="germ cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22482" id="16517939-58098" start="22461">germ cell development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208433">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22531" id="16517939-58104" start="22518">embryogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208319">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22692" id="16517939-58114" start="22682">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207987">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23063" id="16517939-58151" start="23042">embryonic development</span>
+        </annotation>
+        <annotation id="16517939-392780">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_being_untranslated" label="attribute of being untranslated"/>
+            <span end="24599" id="16517939-392781" start="24587">untranslated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206519">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="24798" id="16517939-58215" start="24796">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208471">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24830" id="16517939-58217" start="24820">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206387">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="24926" id="16517939-58229" start="24924">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206719">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24999" id="16517939-58241" start="24989">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208499">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25385" id="16517939-58287" start="25376">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207687">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25451" id="16517939-58299" start="25442">expressed</span>
+        </annotation>
+        <annotation id="16517939-392782">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_being_untranslated" label="attribute of being untranslated"/>
+            <span end="25728" id="16517939-392783" start="25716">untranslated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206953">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting" label="occurrence/attribute/effect of translational frameshifting"/>
+            <span end="25740" id="16517939-58333" start="25730">frameshift</span>
+        </annotation>
+        <annotation id="16517939-392926">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26711" id="16517939-392927" start="26687">homologous recombination</span>
+        </annotation>
+        <annotation id="16517939-392784">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_being_untranslated" label="attribute of being untranslated"/>
+            <span end="26964" id="16517939-392785" start="26952">untranslated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207719">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="27336" id="16517939-58480" start="27334">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207553">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination" label="occurrence/attribute of DNA combination"/>
+            <span end="27413" id="16517939-58486" start="27402">recombinant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208027">
+            <class id="http://purl.obolibrary.org/obo/GO_0001171" label="reverse transcription" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27465" id="16517939-58496" start="27446">reverse-transcribed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208241">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="27523" id="16517939-58502" start="27521">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_208063">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27561" id="16517939-58504" start="27552">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206681">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="27587" id="16517939-467" start="27574">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206573">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="27734" id="16517939-58518" start="27732">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207915">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_DNA_combination" label="occurrence/attribute of DNA combination"/>
+            <span end="27968" id="16517939-58530" start="27957">recombinant</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_206499">
+            <class id="http://purl.obolibrary.org/obo/GO_0008380" label="RNA splicing" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28032" id="16517939-58538" start="28024">splicing</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207749">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting" label="occurrence/attribute/effect of translational frameshifting"/>
+            <span end="28114" id="16517939-58550" start="28104">frameshift</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207501">
+            <class id="http://craftcorpus.org/CRAFT_reverse_transcription_or_reverse_transcriptase" label="reverse transcription or reverse transcriptase"/>
+            <span end="28984" id="16517939-58599" start="28982">RT</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207509">
+            <class id="http://purl.obolibrary.org/obo/GO_0006954" label="inflammatory response" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29291" id="16517939-58625" start="29279">inflammation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_207405">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29313" id="16517939-58627" start="29303">expression</span>
+        </annotation>
+    </document>
+</knowtator-project>

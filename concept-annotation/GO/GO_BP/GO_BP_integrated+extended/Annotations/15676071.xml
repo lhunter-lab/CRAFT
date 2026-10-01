@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15676071" text-file="15676071.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_119297">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14" id="15676071-204513" start="0">Synaptogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117847">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="215" id="15676071-204527" start="210">birth</span>
+        </annotation>
+        <annotation id="15676071-393397">
+            <class id="http://purl.obolibrary.org/obo/GO_0003407" label="neural retina development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="266" id="15676071-393398" start="252">development of</span>
+            <span end="284" id="15676071-393399" start="271">neural retina</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118717">
+            <class id="http://purl.obolibrary.org/obo/GO_0042461" label="photoreceptor cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="332" id="15676071-204538" start="321">development</span>
+            <span end="371" id="15676071-204539" start="349">of photoreceptor cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119585">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="491" id="15676071-32719" start="478">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117509">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="761" id="15676071-204573" start="748">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118209">
+            <class id="http://purl.obolibrary.org/obo/GO_0007602" label="phototransduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="870" id="15676071-204575" start="853">phototransduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118023">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1049" id="15676071-204591" start="1035">synaptogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118205">
+            <class id="http://purl.obolibrary.org/obo/GO_0042461" label="photoreceptor cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1187" id="15676071-204599" start="1162">photoreceptor development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117781">
+            <class id="http://purl.obolibrary.org/obo/GO_0007601" label="visual perception" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1310" id="15676071-204605" start="1304">vision</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119231">
+            <class id="http://craftcorpus.org/CRAFT_biological_process_occurrence_or_attribute_or_study" label="biological process occurrence, attribute or study"/>
+            <span end="1702" id="15676071-204627" start="1692">physiology</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117439">
+            <class id="http://purl.obolibrary.org/obo/GO_0007602" label="phototransduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1723" id="15676071-204629" start="1706">phototransduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117469">
+            <class id="http://purl.obolibrary.org/obo/GO_0042461" label="photoreceptor cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1756" id="15676071-204631" start="1742">development of</span>
+            <span end="1782" id="15676071-204632" start="1768">photoreceptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117327">
+            <class id="http://purl.obolibrary.org/obo/GO_0042461" label="photoreceptor cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1928" id="15676071-204644" start="1903">photoreceptor development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117217">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2034" id="15676071-204658" start="2025">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119189">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2152" id="15676071-204668" start="2137">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119609">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2249" id="15676071-204672" start="2240">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119055">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2414" id="15676071-204688" start="2404">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118261">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2867" id="15676071-204724" start="2852">differentiation</span>
+            <span end="2887" id="15676071-204725" start="2885">of</span>
+            <span end="2907" id="15676071-204726" start="2902">cells</span>
+        </annotation>
+        <annotation id="15676071-393400">
+            <class id="http://purl.obolibrary.org/obo/GO_0045494" label="photoreceptor cell maintenance" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2907" id="15676071-393401" start="2872">maintainance of photoreceptor cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117049">
+            <class id="http://purl.obolibrary.org/obo/GO_0007601" label="visual perception" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3074" id="15676071-204736" start="3068">vision</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119527">
+            <class id="http://purl.obolibrary.org/obo/GO_0007567" label="parturition" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3085" id="15676071-204738" start="3080">birth</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118029">
+            <class id="http://purl.obolibrary.org/obo/GO_0042461" label="photoreceptor cell development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4382" id="15676071-204804" start="4357">photoreceptor development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118003">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="4539" id="15676071-204812" start="4524">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117125">
+            <class id="http://purl.obolibrary.org/obo/GO_0007602" label="phototransduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4710" id="15676071-204828" start="4685">phototransduction cascade</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118275">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5412" id="15676071-204908" start="5400">formation of</span>
+            <span end="5439" id="15676071-204909" start="5431">synapses</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119593">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="5578" id="15676071-32759" start="5563">transcriptional</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118071">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="5766" id="15676071-204939" start="5751">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119181">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5793" id="15676071-204943" start="5776">synapse formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117891">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="5963" id="15676071-204945" start="5948">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118483">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6310" id="15676071-204977" start="6296">synaptogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118735">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6398" id="15676071-204981" start="6381">synapse formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119035">
+            <class id="http://purl.obolibrary.org/obo/GO_0008594" label="photoreceptor cell morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6758" id="15676071-205017" start="6731">photoreceptor morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118883">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_developmental_differentiation" label="occurrence/attribute of developmental differentiation"/>
+            <span end="7288" id="15676071-205075" start="7273">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118805">
+            <class id="http://purl.obolibrary.org/obo/GO_0019835" label="cytolysis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7412" id="15676071-205081" start="7407">lysis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118077">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8749" id="15676071-205205" start="8737">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117663">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9128" id="15676071-205249" start="9116">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118045">
+            <class id="http://purl.obolibrary.org/obo/GO_0030263" label="apoptotic chromosome condensation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="9442" id="15676071-205278" start="9434">pyknotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117593">
+            <class id="http://purl.obolibrary.org/obo/GO_0030263" label="apoptotic chromosome condensation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10473" id="15676071-205346" start="10465">pyknotic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118009">
+            <class id="http://purl.obolibrary.org/obo/GO_0008594" label="photoreceptor cell morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11024" id="15676071-205366" start="11008">morphogenesis of</span>
+            <span end="11046" id="15676071-205367" start="11032">photoreceptors</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118745">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12797" id="15676071-205507" start="12784">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118373">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14269" id="15676071-205678" start="14259">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118241">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_negative_regulation" label="occurrence/attribute of negative regulation"/>
+            <span end="14300" id="15676071-205680" start="14287">downregulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118783">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15002" id="15676071-205748" start="14992">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117197">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19245" id="15676071-206076" start="19232">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117247">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19411" id="15676071-206090" start="19394">synapse formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118101">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19465" id="15676071-206092" start="19451">synaptogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118893">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19566" id="15676071-206106" start="19553">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118225">
+            <class id="http://purl.obolibrary.org/obo/GO_0008594" label="photoreceptor cell morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19874" id="15676071-206146" start="19847">photoreceptor morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117521">
+            <class id="http://purl.obolibrary.org/obo/GO_0030397" label="membrane disassembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="20116" id="15676071-206170" start="20104">breakdown of</span>
+            <span end="20140" id="15676071-206171" start="20131">membranes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117939">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="21109" id="15676071-32801" start="21096">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119047">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21357" id="15676071-206255" start="21342">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117169">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21447" id="15676071-206259" start="21437">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117657">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21504" id="15676071-206271" start="21494">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117109">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21652" id="15676071-206289" start="21642">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117911">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21769" id="15676071-206299" start="21759">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118599">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21818" id="15676071-206303" start="21808">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117915">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21927" id="15676071-206313" start="21918">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118725">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22253" id="15676071-206347" start="22243">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117065">
+            <class id="http://purl.obolibrary.org/obo/GO_0042052" label="rhabdomere development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22283" id="15676071-206351" start="22261">rhabdomere development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119389">
+            <class id="http://craftcorpus.org/CRAFT_biological_process_occurrence_or_attribute_or_study" label="biological process occurrence, attribute or study"/>
+            <span end="22607" id="15676071-206377" start="22597">physiology</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118163">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22628" id="15676071-206379" start="22618">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117173">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22728" id="15676071-206385" start="22718">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119293">
+            <class id="http://purl.obolibrary.org/obo/GO_0061541" label="rhabdomere morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22825" id="15676071-206389" start="22801">rhabdomere morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118019">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="23101" id="15676071-206403" start="23088">up-regulation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117407">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23187" id="15676071-206413" start="23174">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119449">
+            <class id="http://purl.obolibrary.org/obo/GO_0008594" label="photoreceptor cell morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23467" id="15676071-206435" start="23440">photoreceptor morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118925">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23587" id="15676071-206441" start="23578">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119173">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23749" id="15676071-206457" start="23739">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117815">
+            <class id="http://purl.obolibrary.org/obo/GO_0006629" label="lipid metabolic process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23815" id="15676071-206463" start="23799">lipid metabolism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117261">
+            <class id="http://purl.obolibrary.org/obo/GO_0006457" label="protein folding" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="23832" id="15676071-206467" start="23817">protein folding</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118441">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_biogenesis_or_biosynthesis" label="occurrence/attribute of biogenesis or biosynthesis"/>
+            <span end="24275" id="15676071-206495" start="24265">biogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118367">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24369" id="15676071-206499" start="24357">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118617">
+            <class id="http://purl.obolibrary.org/obo/GO_0060271" label="cilium assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24456" id="15676071-206509" start="24444">ciliogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117581">
+            <class id="http://purl.obolibrary.org/obo/GO_0008594" label="photoreceptor cell morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24574" id="15676071-206521" start="24547">photoreceptor morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117833">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24785" id="15676071-206535" start="24771">synaptogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119535">
+            <class id="http://purl.obolibrary.org/obo/GO_0060041" label="retina development in camera-type eye" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24951" id="15676071-206545" start="24932">retinal development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118653">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="24968" id="15676071-206547" start="24954">Synaptogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119461">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25487" id="15676071-206613" start="25473">synaptogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118405">
+            <class id="http://purl.obolibrary.org/obo/GO_0007602" label="phototransduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25698" id="15676071-206625" start="25681">phototransduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117257">
+            <class id="http://purl.obolibrary.org/obo/GO_0007602" label="phototransduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26012" id="15676071-206639" start="25995">phototransduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118135">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26034" id="15676071-206643" start="26017">synapse formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118263">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26316" id="15676071-206665" start="26299">synapse formation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118889">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26452" id="15676071-206671" start="26442">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118451">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26890" id="15676071-206705" start="26881">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117735">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="26955" id="15676071-206709" start="26945">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117527">
+            <class id="http://purl.obolibrary.org/obo/GO_0008594" label="photoreceptor cell morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27064" id="15676071-206721" start="27037">photoreceptor morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119229">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27111" id="15676071-206729" start="27102">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118845">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_positive_regulation" label="occurrence/attribute of positive regulation"/>
+            <span end="27576" id="15676071-206773" start="27565">upregulated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117885">
+            <class id="http://purl.obolibrary.org/obo/GO_0060041" label="retina development in camera-type eye" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28198" id="15676071-206817" start="28179">retinal development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117965">
+            <class id="http://purl.obolibrary.org/obo/GO_0008594" label="photoreceptor cell morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28918" id="15676071-206870" start="28891">photoreceptor morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118363">
+            <class id="http://purl.obolibrary.org/obo/GO_0007601" label="visual perception" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29440" id="15676071-206918" start="29434">vision</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117187">
+            <class id="http://purl.obolibrary.org/obo/GO_0007601" label="visual perception" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29537" id="15676071-206924" start="29531">vision</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118479">
+            <class id="http://purl.obolibrary.org/obo/GO_0007601" label="visual perception" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29644" id="15676071-206930" start="29638">vision</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117143">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29745" id="15676071-206942" start="29736">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_119363">
+            <class id="http://purl.obolibrary.org/obo/GO_0007602" label="phototransduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="29898" id="15676071-206950" start="29881">phototransduction</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118289">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_transcription" label="occurrence/attribute of transcription"/>
+            <span end="30149" id="15676071-32847" start="30136">transcription</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_118659">
+            <class id="http://purl.obolibrary.org/obo/GO_0009653" label="anatomical structure morphogenesis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31504" id="15676071-207041" start="31491">morphogenesis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_117473">
+            <class id="http://purl.obolibrary.org/obo/GO_0007416" label="synapse assembly" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31520" id="15676071-207043" start="31506">synaptogenesis</span>
+        </annotation>
+    </document>
+</knowtator-project>

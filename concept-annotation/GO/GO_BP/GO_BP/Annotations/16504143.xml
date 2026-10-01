@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16504143" text-file="16504143.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_202357">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28" id="16504143-105048" start="20">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201895">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="166" id="16504143-105060" start="157">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202571">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="351" id="16504143-105076" start="338">physiological</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201467">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="628" id="16504143-105096" start="619">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202843">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="712" id="16504143-105108" start="704">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202131">
+            <class id="http://purl.obolibrary.org/obo/GO_0007601" label="visual perception" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="725" id="16504143-105110" start="719">visual</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201815">
+            <class id="http://purl.obolibrary.org/obo/GO_0007601" label="visual perception" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="847" id="16504143-105116" start="841">visual</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202429">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1053" id="16504143-105130" start="1049">cell</span>
+            <span end="1083" id="16504143-105131" start="1068">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202337">
+            <class id="http://purl.obolibrary.org/obo/GO_0016477" label="cell migration" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1063" id="16504143-105135" start="1049">cell migration</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202269">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1124" id="16504143-105137" start="1116">learning</span>
+        </annotation>
+        <annotation id="16504143-392727">
+            <class id="http://purl.obolibrary.org/obo/GO_0007155" label="cell adhesion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1234" id="16504143-392728" start="1221">cell adhesion</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203011">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="1783" id="16504143-105193" start="1770">physiological</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203049">
+            <class id="http://purl.obolibrary.org/obo/GO_0009790" label="embryo development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2042" id="16504143-105211" start="2029">embryogenesis</span>
+        </annotation>
+        <annotation id="16504143-392733">
+            <class id="http://purl.obolibrary.org/obo/GO_0033627" label="cell adhesion mediated by integrin" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2282" id="16504143-392734" start="2251">integrin-mediated cell adhesion</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202163">
+            <class id="http://purl.obolibrary.org/obo/GO_0016477" label="cell migration" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2380" id="16504143-105231" start="2366">cell migration</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202835">
+            <class id="http://purl.obolibrary.org/obo/GO_0016477" label="cell migration" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2557" id="16504143-105255" start="2543">cell migration</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201469">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2605" id="16504143-105257" start="2592">physiological</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203199">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="2988" id="16504143-105293" start="2978">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202659">
+            <class id="http://purl.obolibrary.org/obo/GO_0030154" label="cell differentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3209" id="16504143-105311" start="3205">cell</span>
+            <span end="3236" id="16504143-105312" start="3221">differentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201521">
+            <class id="http://purl.obolibrary.org/obo/GO_0016477" label="cell migration" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3219" id="16504143-105314" start="3205">cell migration</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202459">
+            <class id="http://purl.obolibrary.org/obo/GO_0035556" label="intracellular signal transduction" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="3347" id="16504143-105332" start="3323">intracellular signalling</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201567">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4016" id="16504143-105392" start="4006">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202917">
+            <class id="http://purl.obolibrary.org/obo/GO_0016477" label="cell migration" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4099" id="16504143-105398" start="4085">cell migration</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203283">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4237" id="16504143-105408" start="4228">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203203">
+            <class id="http://purl.obolibrary.org/obo/GO_0008150" label="biological_process" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4473" id="16504143-105426" start="4460">physiological</span>
+        </annotation>
+        <annotation id="16504143-392900">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="4692" id="16504143-392901" start="4668">homologous recombination</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202797">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="5572" id="16504143-105510" start="5566">Mating</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202013">
+            <class id="http://purl.obolibrary.org/obo/GO_0040011" label="locomotion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6274" id="16504143-105560" start="6265">locomotor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202901">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6694" id="16504143-105622" start="6685">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201715">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6817" id="16504143-105634" start="6809">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201731">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="6929" id="16504143-105644" start="6921">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201853">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7435" id="16504143-105704" start="7430">learn</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203297">
+            <class id="http://purl.obolibrary.org/obo/GO_0036268" label="swimming" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="7777" id="16504143-105724" start="7773">swim</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202295">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8098" id="16504143-105754" start="8090">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202481">
+            <class id="http://purl.obolibrary.org/obo/GO_0036268" label="swimming" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8137" id="16504143-105762" start="8129">swimming</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201583">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="8498" id="16504143-105800" start="8493">learn</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203351">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10428" id="16504143-105942" start="10419">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203117">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10702" id="16504143-105964" start="10692">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202529">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="10832" id="16504143-105974" start="10822">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203173">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11244" id="16504143-106000" start="11236">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202947">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11391" id="16504143-106010" start="11383">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201925">
+            <class id="http://purl.obolibrary.org/obo/GO_0007601" label="visual perception" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11819" id="16504143-106022" start="11813">visual</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201911">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="11963" id="16504143-106034" start="11955">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201551">
+            <class id="http://purl.obolibrary.org/obo/GO_0007601" label="visual perception" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12793" id="16504143-106078" start="12787">visual</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203257">
+            <class id="http://purl.obolibrary.org/obo/GO_0036268" label="swimming" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12861" id="16504143-106084" start="12853">swimming</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201921">
+            <class id="http://purl.obolibrary.org/obo/GO_0036268" label="swimming" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="12999" id="16504143-106092" start="12991">swimming</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201805">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13133" id="16504143-106096" start="13125">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202615">
+            <class id="http://purl.obolibrary.org/obo/GO_0061743" label="motor learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13184" id="16504143-106100" start="13170">motor learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202767">
+            <class id="http://purl.obolibrary.org/obo/GO_0061743" label="motor learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13581" id="16504143-106124" start="13567">motor learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202909">
+            <class id="http://purl.obolibrary.org/obo/GO_0061743" label="motor learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13709" id="16504143-106130" start="13695">motor learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202027">
+            <class id="http://purl.obolibrary.org/obo/GO_0061743" label="motor learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13789" id="16504143-106132" start="13775">motor learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202061">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13913" id="16504143-106138" start="13908">learn</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202239">
+            <class id="http://purl.obolibrary.org/obo/GO_0061743" label="motor learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="13950" id="16504143-106140" start="13936">motor learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203189">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14050" id="16504143-106148" start="14042">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203165">
+            <class id="http://purl.obolibrary.org/obo/GO_0008306" label="associative learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14077" id="16504143-106150" start="14068">classical</span>
+            <span end="14097" id="16504143-106151" start="14085">conditioning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202287">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14585" id="16504143-106173" start="14577">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202229">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14715" id="16504143-106187" start="14700">gene expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202869">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="14959" id="16504143-106214" start="14951">learning</span>
+        </annotation>
+        <annotation id="16504143-392737">
+            <class id="http://purl.obolibrary.org/obo/GO_0007155" label="cell adhesion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15408" id="16504143-392738" start="15395">cell adhesion</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201523">
+            <class id="http://purl.obolibrary.org/obo/GO_0007399" label="nervous system development" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15504" id="16504143-106258" start="15478">nervous system development</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201487">
+            <class id="http://purl.obolibrary.org/obo/GO_0060291" label="long-term synaptic potentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15778" id="16504143-106270" start="15756">long-term potentiation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202119">
+            <class id="http://purl.obolibrary.org/obo/GO_0060291" label="long-term synaptic potentiation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15783" id="16504143-106272" start="15780">LTP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202025">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15865" id="16504143-106276" start="15857">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202471">
+            <class id="http://purl.obolibrary.org/obo/GO_0007613" label="memory" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="15876" id="16504143-106278" start="15870">memory</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203323">
+            <class id="http://purl.obolibrary.org/obo/GO_0099536" label="synaptic signaling" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16203" id="16504143-106303" start="16182">synaptic transmission</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201745">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="16587" id="16504143-106327" start="16579">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202995">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="17620" id="16504143-106401" start="17612">learning</span>
+        </annotation>
+        <annotation id="16504143-393536">
+            <class id="http://purl.obolibrary.org/obo/GO_0035825" label="homologous recombination" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="18897" id="16504143-393537" start="18876">Homologous recombined</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202753">
+            <class id="http://purl.obolibrary.org/obo/GO_0009566" label="fertilization" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19066" id="16504143-106519" start="19056">fertilised</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202837">
+            <class id="http://purl.obolibrary.org/obo/GO_0007618" label="mating" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19145" id="16504143-106531" start="19140">mated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201513">
+            <class id="http://purl.obolibrary.org/obo/GO_0019835" label="cytolysis" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19805" id="16504143-106601" start="19795">cell lysis</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201663">
+            <class id="http://purl.obolibrary.org/obo/GO_0070085" label="glycosylation" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="19975" id="16504143-8324" start="19963">glycosylated</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202755">
+            <class id="http://purl.obolibrary.org/obo/GO_0040011" label="locomotion" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21093" id="16504143-106673" start="21084">Locomotor</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202127">
+            <class id="http://purl.obolibrary.org/obo/GO_0007612" label="learning" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21361" id="16504143-106693" start="21353">learning</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202825">
+            <class id="http://purl.obolibrary.org/obo/GO_0036268" label="swimming" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="21812" id="16504143-106705" start="21808">swim</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_201807">
+            <class id="http://purl.obolibrary.org/obo/GO_0036268" label="swimming" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22464" id="16504143-106715" start="22460">swim</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203105">
+            <class id="http://purl.obolibrary.org/obo/GO_0036268" label="swimming" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22481" id="16504143-106717" start="22477">Swim</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202535">
+            <class id="http://purl.obolibrary.org/obo/GO_0036268" label="swimming" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="22763" id="16504143-106723" start="22759">swim</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202137">
+            <class id="http://purl.obolibrary.org/obo/GO_0002377" label="immunoglobulin production" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="25598" id="16504143-106813" start="25579">antibody production</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_203285">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27208" id="16504143-106933" start="27198">expression</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202669">
+            <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="27416" id="16504143-106963" start="27407">expressed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_202677">
+            <class id="http://purl.obolibrary.org/obo/GO_0036268" label="swimming" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="28167" id="16504143-106997" start="28159">Swimming</span>
+        </annotation>
+    </document>
+</knowtator-project>

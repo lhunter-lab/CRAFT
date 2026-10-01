@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:craft="http://craftcorpus.org/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:obo="http://purl.obolibrary.org/obo/"
+>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_beta_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001121</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>beta-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of beta-adrenergic receptors; the activity involves transmitting the signal to the Gs alpha subunit of a heterotrimeric G protein.</obo:IAO_0000115>
+    <craft:annotatable_text>beta-adrenergic; beta-adrenergic receptor; beta-adrenergic receptors; beta-adrenoceptor; beta-adrenoceptors; beta adrenergic; beta adrenergic receptor; beta adrenergic receptors; beta adrenoceptor; beta adrenoceptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_JNK">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000002206</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000010151</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000010163</craft:has_subsumed_PR_class>
+    <rdfs:label>JNK</rdfs:label>
+    <obo:IAO_0000115>Any of the c-Jun N-terminal kinases, in either gene or gene product form, i.e., JNK1 (MAPK8), JNK2 (MAPK9), or JNK3 (MAPK10).</obo:IAO_0000115>
+    <craft:annotatable_text>c-Jun N-terminal kinase; c-Jun N-terminal kinases; JNK; JNKs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_TIF1">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016649</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016652</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016655</craft:has_subsumed_PR_class>
+    <rdfs:label>TIF1</rdfs:label>
+    <obo:IAO_0000115>Any of the members of the TIF1 family, including TRIM24 (TIF1alpha), TRIM28 (TIF1beta), and TRIM33 (TIF1gamma), in the form of DNA, RNA, or peptide.</obo:IAO_0000115>
+    <craft:annotatable_text>TIF-1; TIF 1; TIF1; transcription intermediary factor 1; transcriptional intermediary factor 1</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_amyloid_beta_42">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <rdfs:label>amyloid beta 42</rdfs:label>
+    <obo:IAO_0000115>An amyloid beta 42, a 42-amino acid peptide that is a component of amyloid plaques found in the brains of people with Alzheimer's disease.</obo:IAO_0000115>
+    <craft:has_substitutable_PR_class>http://purl.obolibrary.org/obo/PR_000025583</craft:has_substitutable_PR_class>
+    <craft:annotatable_text>Abeta(1-42); Abeta42; APP-42; amyloid beta 42; beta-amyloid 42; beta-amyloid peptide 42; beta-amyloid protein 42' beta-APP42</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_PR_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_PR_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_creatine_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000029971</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P00564</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P00565</craft:has_subsumed_PR_class>
+    <rdfs:label>creatine kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: ATP + creatine = N-phosphocreatine + ADP + 2 H+.</obo:IAO_0000115>
+    <craft:annotatable_text>CK; CKs; CPK; CPKs; creatine kinase; creatine kinases; creatine N-phosphotransferase; creatine N-phosphotransferases; creatine phosphokinase; creatine phosphokinases; creatine phosphotransferase; creatine phosphotransferases; phosphocreatine kinase; phosphocreatine kinases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_insulin_like_growth_factor_1">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000009182</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>insulin-like growth factor 1</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of insulin-like growth factor 1, a hormone similar in molecular structure to insulin that plays an important role in childhood growth and has anabolic effects in adults.</obo:IAO_0000115>
+    <craft:annotatable_text>IGF1; IGF-1; IGF-I; insulin-like growth factor 1; insulin-like growth factor I; somatomedin C</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_trypsinization">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <rdfs:label>occurrence/attribute of trypsinization</rdfs:label>
+    <obo:IAO_0000115>An occurrence of trypsinization, i.e., proteolysis using trypsin, often used to dissociate cells adhering to a vessel in which they have been cultured; or, an attribute of such an occurrence, e.g., of being, becoming, or having been broken apart or dissociated through such an occurrence.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_PR_class>http://purl.obolibrary.org/obo/PR_000027795</craft:has_deductively_entailed_PR_class>
+    <craft:annotatable_text>trypsinisation; trypsinisations; trypsinise; trypsinises; trypsinised; trypsinising; trypsinization; trypsinazations; trypsinize; trypsinizes; trypsinized; trypsinizing</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glucose_6_phosphatase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000007746</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000007747</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000007748</craft:has_subsumed_PR_class>
+    <rdfs:label>glucose 6-phosphatase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: D-glucopyranose 6-phosphate + H2O = D-glucose + phosphate. D-glucopyranose is also known as D-glucose 6-phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>G-6-Pase; G-6-Pases; G6PC; G6PCs; glucose-6-phosphate phosphatase; glucose-6-phosphate phosphatases; glucose-6-phosphate phosphohydrolase; glucose-6-phosphate phosphohydrolases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_phosphoenolpyruvate_carboxykinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000012416</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000012417</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000023498</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_B5X574</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P20007</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q869Z4</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9T074</craft:has_subsumed_PR_class>
+    <rdfs:label>phosphoenolpyruvate carboxykinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: phosphate + oxaloacetate = phosphoenolpyruvate + CO2 + other reaction products.</obo:IAO_0000115>
+    <craft:annotatable_text>PEPCK; PEP carboxykinase; PEP carboxykinases; phosphoenolpyruvate carboxykinase; phosphoenolpyruvate carboxykinases; phosphopyruvate carboxylase; phosphopyruvate carboxylases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_beta3_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001194</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>beta3-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of beta3-adrenergic receptors.</obo:IAO_0000115>
+    <craft:annotatable_text>ADRB3; ADRB3R; ADRB3Rs; B3AR; B3ARs; beta3 adrenergic; beta3 adrenergic receptor; beta3 adrenergic receptors; beta3 adrenoceptor; beta3 adrenoceptors; beta3-adrenergic; beta3-adrenergic receptor; beta3-adrenergic receptors; beta3-adrenoceptor; beta3-adrenoceptors; beta-3 adrenergic; beta-3 adrenergic receptor; beta-3 adrenergic receptors; beta-3 adrenoceptor; beta-3 adrenoceptors; BETA3AR; BETA3ARs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_gastrin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000007856</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>gastrin</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of gastrin, a hormone that bears a functionality of stimulating secretion of gastric acid by the parietal cells of the stomach and of aiding in gastric motility.</obo:IAO_0000115>
+    <craft:annotatable_text>GAS; GAST; gastrin</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_deoxyribonuclease_I">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000006592</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>deoxyribonuclease I</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the endonucleolytic cleavage of DNA to 5'-phosphodinucleotide and 5'-phosphooligonucleotide end products.</obo:IAO_0000115>
+    <craft:annotatable_text>deoxyribonuclease I; DNase I; DNASE1</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_sterolin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003572</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003573</craft:has_subsumed_PR_class>
+    <rdfs:label>sterolin</rdfs:label>
+    <obo:IAO_0000115>Either of sterolin-1 or sterolin-2, in gene, transcript, or protein form.</obo:IAO_0000115>
+    <craft:annotatable_text>sterolin; sterolins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_CREB">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000004400</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005854</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005855</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005859</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005860</craft:has_subsumed_PR_class>
+    <rdfs:label>CREB</rdfs:label>
+    <obo:IAO_0000115>Any of the transcription factors, in gene or gene product form, often referred to as CREBs (cAMP-response-element-binding proteins); these are encoded by the CREB1, ATF4 (previously named CREB2), CREB3, CREB3L4 (also referred to as CREB4), and CREB5 genes.</obo:IAO_0000115>
+    <craft:annotatable_text>cAMP response element binding protein; cAMP response element binding proteins; cAMP-responsive element-binding protein; cAMP-responsive element-binding proteins; CREB; CREBs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_carbonic_anhydrase_2">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000004918</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000034449</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_F4IHR4</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P42737</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9C6B3</craft:has_subsumed_PR_class>
+    <rdfs:label>carbonic anhydrase 2</rdfs:label>
+    <obo:IAO_0000115>An enzyme that catalyzes the interconversion between carbon dioxide and water and the dissociated ions of carbonic acid (bicarbonate and hydrogen ion). Such enzymes maintain acid-base balance and help transport carbon dioxide.</obo:IAO_0000115>
+    <craft:annotatable_text>CA2; CAII; Car2; carbonic anhydrase II; carbonic anhydrase 2; CA-II</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_thioredoxin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016853</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000024129</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000024131</craft:has_subsumed_PR_class>
+    <rdfs:label>thioredoxin</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of thioredoxin, a redox agent known to present in all organisms that plays a role in many important biological processes, including redox signaling.</obo:IAO_0000115>
+    <craft:annotatable_text>thioredoxin; TRDX; TRX; TXN</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_hydroxymethylglutaryl_CoA_reductase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000008636</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P09610</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P12683</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P12684</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P14891</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P16237</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P34135</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P34136</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P43256</craft:has_subsumed_PR_class>
+    <craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000000001</craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>hydroxymethylglutaryl-CoA reductase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of (R)-mevalonate to 3-hydroxy-3-methylglutaryl-CoA.</obo:IAO_0000115>
+    <craft:annotatable_text>3-hydroxy-3-methylglutaryl-CoA reductase; 3-hydroxy-3-methylglutaryl-CoA reductases; 3-hydroxy-3-methylglutaryl-coenzyme A reductase; 3-hydroxy-3-methylglutaryl-coenzyme A reductases; 3-hydroxy-3-methylglutaryl CoA reductase; 3-hydroxy-3-methylglutaryl CoA reductases; 3-hydroxy-3-methylglutaryl coenzyme A reductase; 3-hydroxy-3-methylglutaryl coenzyme A reductases; 3-hydroxy-3-methyl-glutaryl-CoA reductase; 3-hydroxy-3-methyl-glutaryl-CoA reductases; 3-hydroxy-3-methyl-glutaryl-coenzyme A reductase; 3-hydroxy-3-methyl-glutaryl-coenzyme A reductases; hydroxymethylglutaryl-CoA reductase; hydroxymethylglutaryl-CoA reductases; hydroxymethylglutaryl-coenzyme A reductase; hydroxymethylglutaryl-coenzyme A reductases; HMGCR; HMGCRs; HMG-CoA reductase; HMG-CoA reductases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_thromboplastin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000001940</craft:has_subsumed_PR_class>
+    <rdfs:label>thromboplastin</rdfs:label>
+    <obo:IAO_0000115>A mixture of phospholipid and tissue factor derived from cell membranes that acts on and accelerates the activity of Factor Xa, also known as thrombokinase, aiding blood coagulation through the catalysis of the conversion of prothrombin to thrombin; or, tissue factor in its gene or gene product forms.</obo:IAO_0000115>
+    <craft:annotatable_text>thromboplastin</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_ubiquitin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000035716</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000035720</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000035722</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000035726</craft:has_subsumed_PR_class>
+    <rdfs:label>ubiquitin</rdfs:label>
+    <obo:IAO_0000115>Any ubiquitin, i.e., RPS27A, UBA52, UBB or UBC, in DNA, RNA, or peptide form.</obo:IAO_0000115>
+    <craft:annotatable_text>ubiquitin; ubiquitins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_chemokine_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001128</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>chemokine receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a chemokine, and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>chemokine receptor; chemokine receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_alkaline_phosphatase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003968</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003969</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003970</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000023540</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_O60109</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q24238</craft:has_subsumed_PR_class>
+    <rdfs:label>alkaline phosphatase</rdfs:label>
+    <obo:IAO_0000115>Any of the E. coli K-12 phoA, S. pombe SPBC14F5.13c, D. melanogaster Alp4, E. coli K-12 iap, human ALPG, human ALPP, or human ALPL genes, any of their 1:1 orthologs, or any corresponding gene product of these.</obo:IAO_0000115>
+    <craft:annotatable_text>alkaline phenyl phosphatase; alkaline phenyl phosphatases; alkaline phosphatase; alkaline phosphatases; alkaline phosphohydrolase; alkaline phosphohydrolases; alkaline phosphomonoesterase; alkaline phosphomonoesterases; ALP; ALPs; AP; APs; APase; APases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_beta_tubulin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016815</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016816</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016817</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016818</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016819</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016820</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016821</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016822</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000029780</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_A6NNZ2</craft:has_subsumed_PR_class>
+    <craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000028799</craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>beta-tubulin</rdfs:label>
+    <obo:IAO_0000115>Any member of the beta-tubulin subfamily of the tubulin superfamily.</obo:IAO_0000115>
+    <craft:annotatable_text>beta-tubulin; beta-tubulins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_adiponectin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000003777</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>adiponectin</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of adiponectin, a hormone and adipokine that is involved in regulating glucose levels and fatty acid breakdown.</obo:IAO_0000115>
+    <craft:annotatable_text>ACDC; ACRP30; adiponectin; adipocyte complement-related 30 kDa protein; adipocyte, C1q and collagen-domain-containing protein; adipocyte-specific protein AdipoQ; AdipoQ; adipose most abundant gene transcript 1 protein; apM-1; APM1; GBP28; gelatin-binding protein</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_argininosuccinate_lyase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000004373</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P05083</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P40369</craft:has_subsumed_PR_class>
+    <rdfs:label>argininosuccinate lyase</rdfs:label>
+    <obo:IAO_0000115>Any of the human ASL, chicken ASL2, or S. pombe 972h- arg7 genes, any 1:1 ortholog of these, or any corresponding gene product of any of these.</obo:IAO_0000115>
+    <craft:annotatable_text>arginine-succinate lyase; arginine-succinate lyases; argininosuccinase; argininosuccinases; argininosuccinate lyase; argininosuccinate lyases; argininosuccinic acid lyase; argininosuccinic acid lyases; ASL; ASLs; N-(L-argininosuccinate) arginine-lyase; N-(L-argininosuccinate) arginine-lyases; omega-N-(L-arginino)succinate arginine-lyase; omega-N-(L-arginino)succinate arginine-lyases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fibroblast_growth_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000001349</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q90Z00</craft:has_subsumed_PR_class>
+    <rdfs:label>fibroblast growth factor receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a fibroblast growth factor receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>FGF-activated receptor; FGF-activated receptors; FGF receptor; FGF receptors; FGFR; FGFRs; fibroblast growth-activated receptor; fibroblast growth-activated receptors; fibroblast growth factor receptor; fibroblast growth factor receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_spectrin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003165</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000015590</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000015591</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000015595</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q00963</craft:has_subsumed_PR_class>
+    <rdfs:label>spectrin chain or complex</rdfs:label>
+    <obo:IAO_0000115>A spectrin (alpha or beta) chain, or a complex of spectrin chains.</obo:IAO_0000115>
+    <craft:annotatable_text>spectrin; spectrins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_Pygo">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000013523</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000013524</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9V9W8</craft:has_subsumed_PR_class>
+    <rdfs:label>Pygo</rdfs:label>
+    <obo:IAO_0000115>Any one of Drosophila pygopus (PYGO) or either of its homologs, pygopus homolog 1 (PYGO1) or pygopus homolog 2 (PYGO2), in either gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>Pygo</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_protein">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <rdfs:label>protein</rdfs:label>
+    <obo:IAO_0000115>A biological macromolecule minimally consisting of one polypeptide chain.</obo:IAO_0000115>
+    <craft:has_substitutable_PR_class>http://purl.obolibrary.org/obo/PR_000000001</craft:has_substitutable_PR_class>
+    <craft:annotatable_text>PROT; protein; proteins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_thymidine_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016367</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016368</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000024045</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P13159</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P68563</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9S750</craft:has_subsumed_PR_class>
+    <rdfs:label>thymidine kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: ATP + thymidine = ADP + thymidine 5'-phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>2'-deoxythymidine kinase; 2'-deoxythymidine kinases; ATP:thymidine 5'-phosphotransferase; ATP:thymidine 5'-phosphotransferases; TDK; TDKs; thymidine kinase; thymidine kinases; TK; TKs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_leukemia_inhibitory_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001876</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>leukemia inhibitory factor receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with leukemia inhibitory factor (LIF) and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>leukemia inhibitory factor receptor; leukemia inhibitory factor receptors; LIFR; LIFRs; LIF-R; LIF-Rs; LIF receptor; LIF receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_branched_chain_amino_acid_aminotransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000023005</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P38891</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P47176</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q93Y32</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9FYA6</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9LPM9</craft:has_subsumed_PR_class>
+    <rdfs:label>branched-chain-amino-acid aminotransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a branched-chain amino acid (L-leucine, L-isoleucine and L-valine) + 2-oxoglutarate = L-glutamate + a 2-oxocarboxylate derived from the branched-chain amino acid.</obo:IAO_0000115>
+    <craft:annotatable_text>BCAT; BCATs; branched-chain amino acid aminotransferase; branched-chain amino acid aminotransferases; branched-chain amino acid-glutamate transaminase; branched-chain amino acid-glutamate transaminases; branched-chain-amino-acid transaminase; branched-chain-amino-acid transaminases; branched-chain-amino-acid:2-oxoglutarate aminotransferase; branched-chain-amino-acid:2-oxoglutarate aminotransferases; glutamate-branched-chain amino acid transaminase; glutamate-branched-chain amino acid transaminases; L-branched chain amino acid aminotransferase; L-branched chain amino acid aminotransferases; transaminase B</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_jagged">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000001921</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000009194</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q90Y57</craft:has_subsumed_PR_class>
+    <rdfs:label>jagged</rdfs:label>
+    <obo:IAO_0000115>Any one of jagged-1, jagged-1a, or jagged-2, either in gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>JAG; jagged</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_protein_disulfide_isomerase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000012199</craft:has_subsumed_PR_class>
+    <rdfs:label>protein disulfide isomerase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the rearrangement of both intrachain and interchain disulfide bonds in proteins.</obo:IAO_0000115>
+    <craft:annotatable_text>PDI; PDIs; protein disulfide isomerase; protein disulfide isomerases; protein disulphide isomerase; protein disulphide isomerases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_alpha_tubulin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016807</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016808</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016809</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016810</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016811</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016812</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016813</craft:has_subsumed_PR_class>
+    <craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000028799</craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>alpha-tubulin</rdfs:label>
+    <obo:IAO_0000115>Any member of the alpha-tubulin subfamily of the tubulin superfamily.</obo:IAO_0000115>
+    <craft:annotatable_text>alpha-tubulin; alpha-tubulins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_short_chain_acyl_CoA_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000003602</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>short-chain acyl-CoA dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis</obo:IAO_0000115>
+    <craft:annotatable_text>ACADS; SCAD; SCADs; short-chain acyl-coenzyme A dehydrogenase; short-chain acyl-coenzyme A dehydrogenases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_vascular_endothelial_growth_factor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003096</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000007520</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000017284</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000017285</craft:has_subsumed_PR_class>
+    <rdfs:label>vascular endothelial growth factor</rdfs:label>
+    <obo:IAO_0000115>Any of the vascular endothelial growth factors VEGFA, VEGFB, VEGFC, or VEGFD, in DNA, RNA, or peptide form.</obo:IAO_0000115>
+    <craft:annotatable_text>vascular endothelial growth factor; vascular endothelial growth factors; VEGF; VEGFs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_dihydrolipoamide_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000006506</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000023109</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_A8MS68</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_F4JLP5</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9M5K2</craft:has_subsumed_PR_class>
+    <rdfs:label>dihydrolipoamide dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: protein N6-(dihydrolipoyl)lysine + NAD+ = protein N6-(lipoyl)lysine + NADH + H+.</obo:IAO_0000115>
+    <craft:annotatable_text>dihydrolipoamide dehydrogenase; dihydrolipoamide dehydrogenases; dehydrolipoate dehydrogenase; dehydrolipoate dehydrogenases; diaphorase; diaphorases; dihydrolipoamide:NAD+ oxidoreductase; dihydrolipoamide:NAD+ oxidoreductases; dihydrolipoic dehydrogenase; dihydrolipoic dehydrogenases; dihydrolipoyl dehydrogenase; dihydrolipoyl dehydrogenases; DLD; DLDs; DLDH; DLDHs; LAD; LADs; lipoamide reductase; lipoamide reductases; lipoate dehydrogenase; lipoate dehydrogenases; lipoic acid dehydrogenase; lipoic acid dehydrogenases; lipoyl dehydrogenase; lipoyl dehydrogenases; protein-6-N-(dihydrolipoyl)lysine:NAD+ oxidoreductase; protein-6-N-(dihydrolipoyl)lysine:NAD+ oxidoreductases; protein-N6-(dihydrolipoyl)lysine:NAD+ oxidoreductase; protein-N6-(dihydrolipoyl)lysine:NAD+ oxidoreductases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_Hsp70">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003425</craft:has_subsumed_PR_class>
+    <rdfs:label>Hsp70</rdfs:label>
+    <obo:IAO_0000115>Any one of a family of conserved ubiquitously expressed Hsp70 heat shock proteins. Intracellularly localized Hsp70s are an important part of a cell's machinery for protein folding, performing chaperoning functions, and helping to protect cells from the adverse effects of physiological stresses.</obo:IAO_0000115>
+    <craft:annotatable_text>Hsp70</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_MAP_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000000019</craft:has_subsumed_PR_class>
+    <rdfs:label>MAP kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: protein + ATP = protein phosphate + ADP.</obo:IAO_0000115>
+    <craft:annotatable_text>MAPK; MAPKs; MAP kinase; MAP kinases; mitogen-activated kinase; mitogen-activated kinases; mitogen-activated protein kinase; mitogen-activated protein kinases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glucose_6_phosphate_isomerase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000008175</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_A5I705</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q2FZU0</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q8H103</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9N1E2</craft:has_subsumed_PR_class>
+    <rdfs:label>glucose-6-phosphate isomerase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: alpha-D-glucose 6-phosphate = beta-D-fructose 6-phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>D-glucose-6-phosphate aldose-ketose-isomerase; D-glucose-6-phosphate aldose-ketose-isomerases; glucose-6-phosphate isomerase; glucose-6-phosphate isomerases; glucose phosphate isomerase; glucose phosphate isomerases; GPI; GPIs; hexose phosphate isomerase; hexose phosphate isomerases; PGI; PGIs; PHI; PHIs; phosphoglucoisomerase; phosphoglucoisomerases; phosphoglucose isomerase; phosphoglucoisomerases; phosphohexose isomerase; phosphohexose isomerases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_clathrin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005612</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005613</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005614</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000030907</craft:has_subsumed_PR_class>
+    <rdfs:label>clathrin</rdfs:label>
+    <obo:IAO_0000115>Any heavy- or light-chain clathrin, either as a gene or gene product, which is involved in the formation of coated vesicles.</obo:IAO_0000115>
+    <craft:annotatable_text>clathrin; clathrins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_factor_X">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000007294</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>Factor X</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of Factor X (also called coagulation factor X or Stuart factor), a serine endopeptidase enzyme involved in the coagulation cascade.</obo:IAO_0000115>
+    <craft:annotatable_text>coagulation factor X; F10; Factor X; FX; Stuart factor; Stuart-Prower factor</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_long_chain_acyl_CoA_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000003600</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>long-chain acyl-CoA dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a long-chain 2,3-saturated fatty acyl-CoA + H+ + oxidized [electron-transfer flavoprotein] = a long-chain (2E)-enoyl-CoA + reduced [electron-transfer flavoprotein]. A long-chain fatty acid has an aliphatic tail containing 13 to 22 carbons.</obo:IAO_0000115>
+    <craft:annotatable_text>ACADL; ACADLs; LCAD; LCADs; long-chain-acyl-CoA:acceptor 2,3-oxidoreductase; long-chain-acyl-CoA:acceptor 2,3-oxidoreductases; long-chain acyl-CoA dehydrogenase; long-chain acyl-CoA dehydrogenases; long-chain acyl-coenzyme A dehydrogenase; long-chain acyl-coenzyme A dehydrogenases; palmitoyl-CoA dehydrogenase; palmitoyl-CoA dehydrogenases; palmitoyl-coenzyme A dehydrogenase; palmitoyl-coenzyme A dehydrogenases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_carnitine_palmitoyltransferase_1">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005835</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005836</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005837</craft:has_subsumed_PR_class>
+    <craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000000001</craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>carnitine palmitoyltransferase 1</rdfs:label>
+    <obo:IAO_0000115>Any of the three isoforms of carnitine palmitoyltranferase 1, i.e.: CPT1A, CPT1B, or CPT1C.</obo:IAO_0000115>
+    <craft:annotatable_text>carnitine palmitoyltransferase 1; Cpt1</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_guanylate_kinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000008356</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P93757</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9M682</craft:has_subsumed_PR_class>
+    <rdfs:label>guanylate kinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: ATP + GMP = ADP + GDP.</obo:IAO_0000115>
+    <craft:annotatable_text>5'-GMP kinase; 5'-GMP kinases; ATP:(d)GMP phosphotransferase; ATP:(d)GMP phosphotransferases; ATP:GMP phosphotransferase; ATP:GMP phosphotransferases; deoxyguanylate kinase; GK; GMP kinase; GMP kinases; guanosine monophosphate kinase; guanosine monophosphate kinases; guanylate kinase; guanylate kinases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transforming_growth_factor_beta_receptor_type_II">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000000005</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>transforming growth factor beta receptor type II</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with transforming growth factor beta to initiate a change in cell activity; upon ligand binding, binds to and catalyzes the phosphorylation of a type I TGF-beta receptor.</obo:IAO_0000115>
+    <craft:annotatable_text>TGFBR2; TGF-beta receptor type-2; transforming growth factor beta receptor activity, type II; transforming growth factor beta receptor type 2; type 2 TGFbeta receptor; type 2 TGFbeta receptors; type 2 TGF-beta receptor; type 2 TGF-beta receptors; type 2 transforming growth factor beta receptor; type 2 transforming growth factor beta receptors; type II TGF-beta receptor; type II TGF-beta receptors; type II TGFbeta receptor; type II TGFbeta receptors; type II transforming growth factor beta receptor; type II transforming growth factor beta receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_CEBP">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005307</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005308</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005309</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005310</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005311</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005312</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q02637</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q18909</craft:has_subsumed_PR_class>
+    <rdfs:label>CEBP</rdfs:label>
+    <obo:IAO_0000115>Any of the CCAAT/enhancer-binding proteins, a family of transcription factors, which promote the expression of certain genes through interaction with their promoters.</obo:IAO_0000115>
+    <craft:annotatable_text>CCAAT-enhancer-binding protein; CCAAT-enhancer-binding proteins; CCAAT/enhancer-binding protein; CCAAT/enhancer-binding protein; CEBP; CEBPs; C/EBP; C/EBPs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glucose_6_phosphate_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000050060</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>glucose-6-phosphate dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of beta-D-glucose 6-phosphate to 6-O-phosphono-D-glucono-1,5-lactone.</obo:IAO_0000115>
+    <craft:annotatable_text>G6PD; G6PDs; G6PDH; G6PDHs; glucose-6-phosphate dehydrogenase; glucose-6-phosphate dehydrogenases; 6-phosphoglucose dehydrogenase; 6-phosphoglucose dehydrogenases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_syndecan">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000001935</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000001936</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000014552</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000014553</craft:has_subsumed_PR_class>
+    <rdfs:label>syndecan</rdfs:label>
+    <obo:IAO_0000115>Any of the syndecans, i.e., syndecan (Sdc), syndecan-1 (SDC1), syndecan-2 (SDC2), syndecan-2 (SDC3), or syndecan-4 (SDC4), in the form of DNA, RNA, or peptide.</obo:IAO_0000115>
+    <craft:annotatable_text>syndecan; syndecans</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_cyclin_dependent_kinase_inhibitor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000000014</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003090</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005274</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005275</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005280</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P21268</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P40380</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q02606</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q0WNX9</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q22197</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q67Y93</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q8GYJ3</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q90YX4</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q94CL9</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9FKB5</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9LRY0</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9SCR2</craft:has_subsumed_PR_class>
+    <rdfs:label>cyclin-dependent kinase inhibitor</rdfs:label>
+    <obo:IAO_0000115>A chemical entity that stops, prevents, or reduces the activity of cyclin-dependent kinase.</obo:IAO_0000115>
+    <craft:annotatable_text>CDK inhibitor; CDK inhibitors; cyclin-dependent kinase inhibitor; cyclin-dependent kinase inhibitors; cyclin-dependent protein kinase inhibitor; cyclin-dependent protein kinase inhibitors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_somatostatin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000015665</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>somatostatin</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of somatostatin, a hormone that regulates the endocrine system and affects neurotransmission and cell proliferation via interaction with G-protein-coupled somatostatin receptors and inhibition of the release of numerous secondary hormones.</obo:IAO_0000115>
+    <craft:annotatable_text>GHIH; GHRIH; growth hormone release-inhibiting factor; release-inhibiting hormone; growth hormone-inhibiting hormone; SMST; somatostatin; somatotropin release-inhibiting factor; somatotropin release-inhibiting hormone; SRIF; SRIH; SST</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_uracil_DNA_glycosylase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000017104</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P12887</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q2G0J7</craft:has_subsumed_PR_class>
+    <rdfs:label>uracil-DNA glycosylase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the cleavage of the N-C1' glycosidic bond between the damaged DNA base and the deoxyribose sugar, releasing a free base and leaving an apyrimidinic (AP) site.</obo:IAO_0000115>
+    <craft:annotatable_text>UDG; UDGs; UNG; UNGs; uracil-DNA glycosylase; uracil-DNA glycosylases; uracil-DNA N-glycosylase; uracil-DNA N-glycosylases; uracil DNA glycosylase; uracil DNA glycosylases; uracil DNA N-glycosylase; uracil DNA N-glycosylases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_dihydrolipoyllysine_residue_2_methylpropanoyl_transferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000006300</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>dihydrolipoyllysine-residue (2-methylpropanoyl)transferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: 2-methylpropanoyl-CoA + enzyme N6-(dihydrolipoyl)lysine = CoA + enzyme N6-(S-[2-methylpropanoyl]dihydrolipoyl)lysine.</obo:IAO_0000115>
+    <craft:annotatable_text>2-methylpropanoyl-CoA:enzyme-6-N-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferase; 2-methylpropanoyl-CoA:enzyme-6-N-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferases; 
+2-methylpropanoyl-CoA:enzyme-N6-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferase; 
+2-methylpropanoyl-CoA:enzyme-N6-(dihydrolipoyl)lysine:S-(2-methylpropanoyl)transferases; dihydrolipoamide acetyltransferase; dihydrolipoamide acetyltransferases; dihydrolipoamide branched chain transacylase; dihydrolipoamide branched chain transacylases; dihydrolipoyl acyltransferase; dihydrolipoyl acyltransferases; dihydrolipoyl transacylase; dihydrolipoyl transacylases; enzyme-dihydrolipoyllysine:2-methylpropanoyl-CoA S-(2-methylpropanoyl)transferase; enzyme-dihydrolipoyllysine:2-methylpropanoyl-CoA S-(2-methylpropanoyl)transferases; dihydrolipoamide acetyltransferase; dihydrolipoamide acetyltransferases; dihydrolipoyllysine-residue (2-methylpropanoyl)transferase; dihydrolipoyllysine-residue (2-methylpropanoyl)transferases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_methylmalonyl_CoA_mutase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000010782</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000023912</craft:has_subsumed_PR_class>
+    <rdfs:label>methylmalonyl-CoA mutase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: (R)-methylmalonyl-CoA = succinyl-CoA.</obo:IAO_0000115>
+    <craft:annotatable_text>MCM; MCMs; methylmalonyl-CoA CoA-carbonyl mutase; methylmalonyl-CoA CoA-carbonyl mutases; methylmalonyl-CoA isomerase; methylmalonyl-CoA isomerases; methylmalonyl-CoA mutase; methylmalonyl-CoA mutases; methylmalonyl coenzyme A carbonylmutase; methylmalonyl coenzyme A carbonylmutases; methylmalonyl coenzyme A mutase; methylmalonyl coenzyme A mutases; (R)-2-methyl-3-oxopropanoyl-CoA CoA carbonylmutase; (R)-2-methyl-3-oxopropanoyl-CoA CoA carbonylmutases; (R)-methylmalonyl-CoA; (S)-methylmalonyl-CoA mutase; (S)-methylmalonyl-CoA mutases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_stearoyl_CoA_desaturase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000014497</craft:has_subsumed_PR_class>
+    <rdfs:label>stearoyl-CoA desaturase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: 2 Fe(II)-[cytochrome b5] + 2 H+ + O2 + octadecanoyl-CoA = (9Z)-octadecenoyl-CoA + 2 Fe(III)-[cytochrome b5] + 2 H2O.</obo:IAO_0000115>
+    <craft:annotatable_text>delta9-desaturase; delta9-desaturases; delta(9)-desaturase; delta(9)-desaturases; fatty acid desaturase; fatty acid desaturases; SCD; SCDs; stearoyl-CoA 9-desaturase; stearoyl-CoA 9-desaturases; stearoyl-CoA desaturase; stearoyl-CoA desaturases; stearoyl-CoA ferrocytochrome-b5:oxygen oxidoreductase (9,10-dehydrogenating); stearoyl-CoA, hydrogen-donor:oxygen oxidoreductase; stearoyl-CoA, hydrogen-donor:oxygen oxidoreductases; stearoyl-coenzyme A desaturase; stearoyl-coenzyme A desaturases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_catalase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005061</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000023042</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_O61235</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P25819</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q42547</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q96528</craft:has_subsumed_PR_class>
+    <rdfs:label>catalase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: 2 hydrogen peroxide = O2 + 2 H2O.</obo:IAO_0000115>
+    <craft:annotatable_text>caperase; caperases; CAT; catalase; catalases; catalase peroxidase; catalase peroxidases; equilase; equilases; optidase; optidases</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
+    <rdfs:label>annotatable text</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_annexin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000050012</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_E1C8K3</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P22464</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P22465</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P24639</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q94CK4</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9C9X3</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9LX07</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9LX08</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9SE45</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9SYT0</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9XEE2</craft:has_subsumed_PR_class>
+    <rdfs:label>annexin</rdfs:label>
+    <obo:IAO_0000115>Any annexin gene or gene product.</obo:IAO_0000115>
+    <craft:annotatable_text>annexin; annexins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_leptin_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001875</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>leptin receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with the fat-cell specific hormone leptin and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>leptin receptor; leptin receptors; LEPR; LEP-R</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_methylenetetrahydrofolate_reductase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000010725</craft:has_subsumed_PR_class>
+    <rdfs:label>methylenetetrahydrofolate reductase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of 5-methyltetrahydrofolate to 5,10-methylenetetrahydrofolate.</obo:IAO_0000115>
+    <craft:annotatable_text>5,10-CH(2)-H(4)folate reductase; 5,10-CH(2)-H(4)folate reductases; 5,10-CH2-H4folate reductase; 5,10-CH2-H4folate reductases; 5,10-methylenetetrahydrofolate reductase; 5,10-methylenetetrahydrofolate reductases; 5,10-methylenetetrahydrofolic acid reductase; 5,10-methylenetetrahydrofolic acid reductases; 5,10-methylenetetrahydropteroylglutamate reductase; 5,10-methylenetetrahydropteroylglutamate reductases; 5-methyltetrahydrofolate:(acceptor) oxidoreductase; 5-methyltetrahydrofolate:(acceptor) oxidoreductases; methylenetetrahydrofolate reductase; methylenetetrahydrofolate reductases; methylenetetrahydrofolic acid reductase; methylenetetrahydrofolic acid reductases; MTHFR; MTHFRs; N5,10-methylenetetrahydrofolate reductase; N5,10-methylenetetrahydrofolate reductases; N5,N10-methylenetetrahydrofolate reductase; N5,N10-methylenetetrahydrofolate reductases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_diacylglycerol_acyltransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000006432</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000006433</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q08650</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9ASU1</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9C5W0</craft:has_subsumed_PR_class>
+    <rdfs:label>diacylglycerol acyltransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the endonucleolytic cleavage of DNA to 5'-phosphodinucleotide and 5'-phosphooligonucleotide end products.</obo:IAO_0000115>
+    <craft:annotatable_text>DAG acyltransferase; DAG acyltransferases; DGAT; DGATs; diacylglycerol acyltransferase; diacylglycerol acyltransferases; diacylglycerol O-acyltransferase; diacylglycerol O-acyltransferases; diglyceride acyltransferase; diglyceride acyltransferases; diglyceride O-acyltransferase; diglyceride O-acyltransferases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glutathione_disulfide_reductase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000008292</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000022829</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P42770</craft:has_subsumed_PR_class>
+    <rdfs:label>glutathione-disulfide reductase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: 2 glutathione + NADP+ = glutathione disulfide + NADPH + H+.</obo:IAO_0000115>
+    <craft:annotatable_text>glutathione-disulfide reductase; glutathione-disulfide reductases; glutathione-disulphide reductase; glutathione-disulphide reductases;  glutathione:NADP+ oxidoreductase; glutathione:NADP+ oxidoreductases; glutathione reductase; glutathione reductases; glutathione S-reductase; glutathione S-reductases; GR; GRs; GSH reductase; GSH reductases; GSR; GSRs; GSSG reductase; GSSG reductases; NADPH-glutathione reductase; NADPH-glutathione reductases; NADPH-GSSG reductase; NADPH-GSSG reductases; NADPH:oxidized-glutathione oxidoreductase; NADPH:oxidized-glutathione oxidoreductases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_SOXB1">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000015417</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000015426</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000015428</craft:has_subsumed_PR_class>
+    <rdfs:label>SOXB1</rdfs:label>
+    <obo:IAO_0000115>Any of the SOXB1 family members, i.e., SOX1, SOX2, or SOX3, in either gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>SOXB1</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glucokinase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000007895</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>glucokinase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: ATP + D-glucose = ADP + D-glucose-6-phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>ATP:D-glucose 6-phosphotransferase; ATP:D-glucose 6-phosphotransferases; ATP:D-hexose 6-phosphotransferase; ATP:D-hexose 6-phosphotransferases; GCK; GCKs; GK; GKs; GLKl GLKs; glucokinase; glucokinases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_choline_O_acetyltransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000005404</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>choline O-acetyltransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: acetyl-CoA + choline = acetylcholine + CoA.</obo:IAO_0000115>
+    <craft:annotatable_text>CHAT; CHATs; CHOACTase; CHOACTases; choline acetylase; choline acetylases; choline acetyltransferase; choline acetyltransferases; choline O-acetyltransferase; choline O-acetyltransferases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_alpha_crystallin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005907</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005908</craft:has_subsumed_PR_class>
+    <rdfs:label>alpha-crystallin</rdfs:label>
+    <obo:IAO_0000115>Alpha-crystallin A or B as a gene or gene product.</obo:IAO_0000115>
+    <craft:annotatable_text>alpha-crystallin; alpha-crystallins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_pancreatic_ribonuclease">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000014042</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P61823</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q8VD88</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q8VD89</craft:has_subsumed_PR_class>
+    <rdfs:label>pancreatic ribonuclease</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the endonucleolytic cleavage of RNA to 3'-phosphomononucleotides and 3'-phosphooligonucleotides ending in C-P or U-P with 2',3'-cyclic phosphate intermediates.</obo:IAO_0000115>
+    <craft:annotatable_text>alkaline ribonuclease; alkaline ribonucleases; alkaline RNase; alkaline ribonucleases; endoribonuclease I; pancreatic ribonuclease; pancreatic ribonucleases; pancreatic RNase; pancreatic RNases; ribonuclease A; ribonuclease I; ribonucleate 3'-pyrimidino-oligonucleotidohydrolase; ribonucleate 3'-pyrimidino-oligonucleotidohydrolases; ribonucleic phosphatase; ribonucleic phosphatases; RNase A; RNase I</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_platelet_derived_growth_factor_beta_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000002035</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>platelet-derived growth factor beta receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with platelet-derived growth factor isoform PDGF-BB or PDGF-AB to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>betaPDGF receptor; betaPDGF receptors; beta-type platelet-derived growth factor receptor; beta-type platelet-derived growth factor receptors; PDGF-R beta; PDGF beta receptor; PDGF beta receptors; PDGFRB; PDGFR beta; platelet-derived growth factor beta receptor; platelet-derived growth factor beta receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_liver_X_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000011394</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000011395</craft:has_subsumed_PR_class>
+    <rdfs:label>liver X receptor</rdfs:label>
+    <obo:IAO_0000115>Either of the oxysterols receptors LXR-alpha or LXR-beta, in either gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>liver X receptor; liver X receptors; LXR; LXRs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glyceraldehyde_3_phosphate_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000007840</craft:has_subsumed_PR_class>
+    <rdfs:label>glyceraldehyde-3-phosphate dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of D-glyceraldehyde 3-phosphate to (2R)-3-phosphoglycerate or 3-phospho-D-glycerol phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>3-phosphoglyceraldehyde dehydrogenase; 3-phosphoglyceraldehyde dehydrogenases; G3PD; G3PDs; G3PDH; G3PDHs; GAPD; GAPDs; GAPDH; GAPDHs; glyceraldehyde-3-phosphate dehydrogenase; glyceraldehyde-3-phosphate dehydrogenases; glyceraldehyde-3-P dehydrogenase; glyceraldehyde-3-P dehydrogenases; NAD-dependent glyceraldehyde phosphate dehydrogenase; NAD-dependent glyceraldehyde phosphate dehydrogenases; NAD-dependent glyceraldehyde-3-phosphate dehydrogenase; NAD-dependent glyceraldehyde-3-phosphate dehydrogenases; NADH-glyceraldehyde phosphate dehydrogenase; NADH-glyceraldehyde phosphate dehydrogenases; phosphoglyceraldehyde dehydrogenase; NADH-glyceraldehyde phosphate dehydrogenases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fatty_acid_synthase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000007348</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P07149</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P19097</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q10289</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9UUG0</craft:has_subsumed_PR_class>
+    <rdfs:label>fatty acid synthase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: acetyl-CoA + n malonyl-CoA + 2n NADPH + 2n H+ = long-chain fatty acid + n+1 CoA + n CO2 + 2n NADP+.</obo:IAO_0000115>
+    <craft:annotatable_text>FAS; FASs; FASN; FASNs; fatty acid synthases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_myoglobin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000010213</craft:has_subsumed_PR_class>
+    <rdfs:label>myoglobin</rdfs:label>
+    <obo:IAO_0000115>A myoglobin gene or gene product.</obo:IAO_0000115>
+    <craft:annotatable_text>MB; myoglobin; myoglobins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_hypoxanthine_guanine_phosphoribosyltransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000008735</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_O13917</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q04178</craft:has_subsumed_PR_class>
+    <craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000000001</craft:has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>hypoxanthine guanine phosphoribosyltransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: IMP + diphosphate = hypoxanthine + 5-phospho-alpha-D-ribose 1-diphosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>HGPRT; HGPRTs; HGPRTase; HGPRTases; HPRT; HPRTs; hypoxanthine-guanine phosphoribosyltransferase; hypoxanthine-guanine phosphoribosyltransferases; IMP-GMP pyrophosphorylase; IMP-GMP pyrophosphorylases; IMP:diphosphate phospho-D-ribosyltransferase; IMP:diphosphate phospho-D-ribosyltransferases; IMP diphosphorylase; IMP diphosphorylases; IMP pyrophosphorylase; IMP pyrophosphorylases; inosinate pyrophosphorylase; inosinate pyrophosphorylases; inosine 5'-phosphate pyrophosphorylase; inosine 5'-phosphate pyrophosphorylases; inosinic pyrophosphorylase; inosinic pyrophosphorylases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_amyloid_beta">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <rdfs:label>amyloid beta</rdfs:label>
+    <obo:IAO_0000115>An amyloid beta, one of several peptides of 36-43 amino acids that are the main component of amyloid plaques found in the brains of people with Alzheimer's disease.</obo:IAO_0000115>
+    <craft:has_substitutable_PR_class>http://purl.obolibrary.org/obo/PR_000036193</craft:has_substitutable_PR_class>
+    <craft:annotatable_text>Abeta; amyloidbeta; amyloid beta; amyloid-beta; beta amyloid; beta-amyloid; beta-APP</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_integrin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000001861</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000025796</craft:has_subsumed_PR_class>
+    <rdfs:label>integrin</rdfs:label>
+    <obo:IAO_0000115>An integrin complex or subunit.</obo:IAO_0000115>
+    <craft:annotatable_text>integrin; integrins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_citrate_synthase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005924</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000022803</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P00890</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P08679</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P20115</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P43635</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q86AV6</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q8MQU6</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9LXS6</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9LXS7</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q9SJH7</craft:has_subsumed_PR_class>
+    <rdfs:label>citrate synthase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: acetyl-CoA + H2O + oxaloacetate = citrate + CoA.</obo:IAO_0000115>
+    <craft:annotatable_text>citrate synthase; citrate synthases; CS</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_RAD23">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000013669</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000013670</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P32628</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q54LV1</craft:has_subsumed_PR_class>
+    <rdfs:label>RAD23</rdfs:label>
+    <obo:IAO_0000115>Any of RAD23 (of yeast) or one of its homologs (e.g., RAD23A, RAD23B, rcbA), in either gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>RAD23</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_cytoplasmic_polyadenylation_element_binding_protein">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005805</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005806</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005807</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005808</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_O01835</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q03571</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q18317</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q7SXN4</craft:has_subsumed_PR_class>
+    <rdfs:label>cytoplasmic polyadenylation element-binding protein</rdfs:label>
+    <obo:IAO_0000115>Any of the members of the cytoplasmic polyadenylation-element-binding protein family.</obo:IAO_0000115>
+    <craft:annotatable_text>CPE-binding protein; CPE-binding proteins; CPE-BP; CPEB; CPEBs; cytoplasmic polyadenylation element-binding protein; cytoplasmic polyadenylation element-binding proteins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_keratin_6">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000009482</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000009483</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000009484</craft:has_subsumed_PR_class>
+    <rdfs:label>keratin 6</rdfs:label>
+    <obo:IAO_0000115>Any one of keratin 6A, 6B, or 6C, in either gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>keratin-6; keratin 6; KRT6; K6</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_carnitine_O_palmitoyltransferase_1">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005835</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005836</craft:has_subsumed_PR_class>
+    <rdfs:label>carnitine O-palmitoyltransferase 1</rdfs:label>
+    <obo:IAO_0000115>Either of the isoforms (as genes or gene products) of carnitine O-palmitoyltransferase 1.</obo:IAO_0000115>
+    <craft:annotatable_text>carnitine O-palmitoyltransferase 1; carnitine palmitoyltranferase 1; CPT1; CPT-1; CPT 1; CPT I</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsuming_PR_class_with_gene_or_transcript_or_protein_interpretation">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_PR_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_entailed_PR_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+    <rdfs:label>definition</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_insulin_like_growth_factor_2">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000008942</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>insulin-like growth factor 2</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of insulin-like growth factor 2, a hormone sharing structural similarity to insulin that is secreted by the liver into the blood and has growth-regulating, insulin-like, and mitogenic activities.</obo:IAO_0000115>
+    <craft:annotatable_text>IGF-2; IGF-II; insulin-like growth factor 2; insulin-like growth factor II; somatomedin A</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_7_dehydrocholesterol_reductase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000006454</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>7-dehydrocholesterol reductase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: cholesterol + NADP+ = 7-dehydrocholesterol + H+ + NADPH.</obo:IAO_0000115>
+    <craft:annotatable_text>7-dehydrocholesterol reductase; 7-dehydrocholesterol reductases; 7-DHC reductase; 7-DHC reductases; Dhcr7; sterol delta(7)-reductase; sterol delta(7)-reductases; sterol delta7-reductase; sterol delta7-reductases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_leptin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000009758</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>leptin</rdfs:label>
+    <obo:IAO_0000115>A leptin gene or gene product.</obo:IAO_0000115>
+    <craft:annotatable_text>LEP; leptin; OB; obese protein; obesity factor; OBS</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glutathione_synthase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000008293</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000034387</craft:has_subsumed_PR_class>
+    <rdfs:label>glutathione synthase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: L-gamma-glutamyl-L-cysteine + ATP + glycine = ADP + glutathione + 2 H+ + phosphate.</obo:IAO_0000115>
+    <craft:annotatable_text>glutathione synthase; glutathione synthases; glutathione synthetase; glutathione synthetases; GSH synthase; GSH synthases; GSH synthetase; GSH synthetases; GSH-S; GSS</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_cytochrome_c_oxidase_subunit_4">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005776</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000005777</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P04037</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P30815</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P79010</craft:has_subsumed_PR_class>
+    <rdfs:label>cytochrome c oxidase subunit 4</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product form of cytochrome c oxidase subunit 4.</obo:IAO_0000115>
+    <craft:annotatable_text>COX IV; COX4; cytochrome c oxidase IV; cytochrome c oxidase subunit IV</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_TFDP">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016269</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000016270</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000032577</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q22703</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q24318</craft:has_subsumed_PR_class>
+    <rdfs:label>TFDP</rdfs:label>
+    <obo:IAO_0000115>Any of the DP transcription factors, including TFDP1 and TFDP2, in the form of DNA, RNA, or peptide.</obo:IAO_0000115>
+    <craft:annotatable_text>TFDP; TFDPs; transcription factor Dp; Dp transcription factor; Dp transcription factors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_low_density_lipoprotein_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000009744</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>low-density lipoprotein receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a low-density lipoprotein particle and delivering the low-density lipoprotein particle into the cell via endocytosis.</obo:IAO_0000115>
+    <craft:annotatable_text>LDLR; LDLRs; LDL receptor; LDL receptors; low density lipoprotein receptor; low density lipoprotein receptors; low-density lipoprotein receptor; low-density lipoprotein receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_prolactin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000013246</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>prolactin</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of prolactin, which has a role in enabling mammals to produce milk as well as metabolism, regulation of the immune system, and pancreatic development.</obo:IAO_0000115>
+    <craft:annotatable_text>luteotropic hormone; luteotropin; PRL; prolactin</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_platelet_activating_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000050017</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>platelet-activating factor receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with platelet activating factor to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>PAFR; PAFRs; PAF-R; PAF-Rs; PAF receptor; PAF receptors; platelet-activating factor receptor; platelet-activating factor receptors; PTAFR; PTAFRs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_galactose_1_phosphate_uridylyltransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000007834</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>galactose-1-phosphate uridylyltransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: alpha-D-galactose 1-phosphate + UDP-D-glucose = alpha-D-glucose 1-phosphate + UDP-D-galactose.</obo:IAO_0000115>
+    <craft:annotatable_text>galactose-1-phosphate uridylyltransferase; galactose-1-phosphate uridylyltransferases; GALT; GALTs; gal-1-P uridylyltransferase; gal-1-P uridylyltransferases; hexose-1-phosphate uridyltransferase; hexose-1-phosphate uridyltransferases; hexose-1-phosphate uridylyltransferase; hexose-1-phosphate uridylyltransferases; UDP-glucose--hexose-1-phosphate uridylyltransferase; UDP-glucose--hexose-1-phosphate uridylyltransferases; UDP-glucose-hexose-1-phosphate uridylyltransferase; UDP-glucose-hexose-1-phosphate uridylyltransferases; UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase; UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferases; UDPglucose-hexose-1-phosphate uridylyltransferase; UDPglucose-hexose-1-phosphate uridylyltransferases; UDPglucose:alpha-D-galactose-1-phosphate uridylyltransferase; UDPglucose:alpha-D-galactose-1-phosphate uridylyltransferases; uridyltransferase; uridyltransferases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_cholesterol_7_alpha_hydroxylase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000006148</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>cholesterol 7 alpha-hydroxylase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: cholesterol + O2 + reduced [NADPH--hemoprotein reductase] = 7alpha-hydroxycholesterol + H+ + H2O + oxidized [NADPH--hemoprotein reductase].</obo:IAO_0000115>
+    <craft:annotatable_text>cholesterol 7alpha-hydroxylase; cholesterol 7alpha-hydroxylases; cholesterol 7alpha-monooxygenase; cholesterol 7alpha-monooxygenases; cholesterol 7-alpha-hydroxylase; cholesterol 7-alpha-hydroxylases; cholesterol 7-alpha-monooxygenase; cholesterol 7-alpha-monooxygenases; cholesterol 7 alpha-hydroxylase; cholesterol 7 alpha-hydroxylases; cholesterol 7 alpha-monooxygenase; cholesterol 7 alpha-monooxygenases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_medium_chain_acyl_CoA_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000003601</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>medium-chain acyl-CoA dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a medium-chain 2,3-saturated fatty acyl-CoA + H+ + oxidized [electron-transfer flavoprotein] = a medium-chain trans-(2E)-enoyl-CoA + reduced [electron-transfer flavoprotein]. A medium-chain fatty acid has an aliphatic tail containing 6 to 12 carbons.</obo:IAO_0000115>
+    <craft:annotatable_text>ACADM; ACADMs; MCAD; MCADs; medium-chain acyl-CoA dehydrogenase; medium-chain acyl-CoA dehydrogenases; medium-chain acyl-coenzyme A dehydrogenase; medium-chain acyl-coenzyme A dehydrogenases; medium-chain specific acyl-CoA dehydrogenase; medium-chain specific acyl-CoA dehydrogenases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_PPAR">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000013056</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000013057</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000013058</craft:has_subsumed_PR_class>
+    <rdfs:label>PPAR</rdfs:label>
+    <obo:IAO_0000115>Any one of peroxisome proliferator-activated receptor (PPAR) alpha, delta, or gamma, in either gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>peroxisome proliferator-activated receptor; peroxisome proliferator-activated receptors; PPAR; PPARs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_Hsc70">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000008812</craft:has_subsumed_PR_class>
+    <rdfs:label>Hsc70</rdfs:label>
+    <obo:IAO_0000115>An Hsc70 heat shock protein.</obo:IAO_0000115>
+    <craft:annotatable_text>Hsc70</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_DNA_nucleotidylexotransferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000006611</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>DNA nucleotidylexotransferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1); template-independent extension of the 3'-end of a DNA strand by one nucleotide at a time.</obo:IAO_0000115>
+    <craft:annotatable_text>addase; addases; deoxynucleotidyl terminal transferase; deoxynucleotidyl terminal transferases; deoxyribonucleic acid nucleotidyltransferase; deoxyribonucleic acid nucleotidyltransferases; deoxyribonucleic nucleotidyltransferase; deoxyribonucleic nucleotidyltransferases; DNTT; DNTTs; TDT; TDTs; terminal addition enzyme; terminal addition enzymes; terminal deoxynucleotide transferase; terminal deoxynucleotide transferases; terminal deoxynucleotidyl transferase; terminal deoxynucleotidyl transferases; terminal deoxynucleotidyltransferase; terminal deoxynucleotidyltransferases; terminal deoxyribonucleotidyltransferase; terminal deoxyribonucleotidyltransferases; terminal transferase; terminal transferases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_BMP_type_1_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000000035</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000000036</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000000067</craft:has_subsumed_PR_class>
+    <rdfs:label>BMP type I receptor</rdfs:label>
+    <obo:IAO_0000115>Any of the single-pass transmembrane bone morphogenetic protein (BMP) type I receptors, i.e., activin receptor type I, BMP receptor type 1A, BMP receptor type 1B, in the form of either a gene or gene product.</obo:IAO_0000115>
+    <craft:annotatable_text>BMP receptor type 1; BMP receptor type I; BMP type 1 receptor; BMP type 1 receptors; BMP type I receptor; BMP type I receptors; 
+bone morphogenetic protein receptor type 1; bone morphogenetic protein receptor type I; bone morphogenetic protein type 1 receptor; bone morphogenetic protein type 1 receptors; bone morphogenetic protein type I receptor; bone morphogenetic protein type I receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_epidermal_growth_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000006933</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P04412</craft:has_subsumed_PR_class>
+    <rdfs:label>epidermal growth factor receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with an epidermal growth factor receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>EGF receptor; EGF receptors; EGFR; EGFRs; epidermal growth factor receptor; epidermal growth factor receptors; TGF-alpha receptor; TGF-alpha receptors; transforming growth factor-alpha receptor; transforming growth factor-alpha receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glutathione_S_transferase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000029945</craft:has_subsumed_PR_class>
+    <rdfs:label>glutathione S-transferase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: R-X + glutathione = H-X + R-S-glutathione. R may be an aliphatic, aromatic or heterocyclic group; X may be a sulfate, nitrile or halide group.</obo:IAO_0000115>
+    <craft:annotatable_text>glutathione S-alkyltransferase; glutathione S-alkyltransferases; glutathione S-alkyl transferase; glutathione S-alkyl transferases; glutathione S-aryltransferase; glutathione S-aryltransferases; glutathione S-transferase; glutathione S-transferases; glutathione transferase; glutathione transferases;  GST; GSTs; RX:glutathione R-transferase; RX:glutathione R-transferases; S-(hydroxyalkyl)glutathione lyase; S-(hydroxyalkyl)glutathione lyases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_CD3_complex">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <rdfs:label>CD3 complex</rdfs:label>
+    <obo:IAO_0000115>A protein complex and T cell coreceptor involved in activating both cytotoxic T cells and T helper cells. The T cell receptor and the CD3 complex together constitute the T cell receptor complex.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_PR_class>http://purl.obolibrary.org/obo/PR_000001018</craft:has_deductively_entailed_PR_class>
+    <craft:annotatable_text>CD3</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_more_than_one_protein">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <rdfs:label>attribute of association with more than one protein</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., possessing, containing, involving) more than one protein.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_PR_class>http://purl.obolibrary.org/obo/PR_000000001</craft:has_deductively_entailed_PR_class>
+    <craft:annotatable_text>multiprotein; multi-protein</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_ephrin_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000025845</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_O73875</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_O73878</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_Q07497</craft:has_subsumed_PR_class>
+    <rdfs:label>ephrin receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with an ephrin receptor ligand to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>Eph; Eph receptor; Eph receptors; Eph receptor tyrosine kinase; Eph receptor tyrosine kinases; Eph RTK; Eph RTKs; ephrin receptor; ephrin receptors; erythropoietin-producing human hepatocellular receptor; erythropoietin-producing human hepatocellular receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_alpha1_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001115</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>alpha1-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of alpha1-adrenergic receptors; the activity involves transmitting the signal to the Gq alpha subunit of a heterotrimeric G protein.</obo:IAO_0000115>
+    <craft:annotatable_text>alpha-1 adrenergic; alpha-1 adrenergic receptor; alpha-1 adrenergic receptors; alpha-1 adrenoceptor; alpha-1 adrenoceptors; alpha1 adrenergic; alpha1-adrenergic; alpha1 adrenergic receptor; alpha1 adrenergic receptors; alpha1 adrenoceptor; alpha1 adrenoceptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_lipoprotein_lipase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000009897</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>lipoprotein lipase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: triacylglycerol + H2O = diacylglycerol + a carboxylate, where the triacylglycerol is part of a lipoprotein. May also hydrolyze diacylglycerol and phospholipids present in lipoproteins.</obo:IAO_0000115>
+    <craft:annotatable_text>diacylglycerol hydrolase; diacylglycerol hydrolases; diacylglycerol lipase; diacylglycerol lipases; diglyceride lipase; diglyceride lipases; lipoprotein lipase; lipoprotein lipases; LPL; LPLs; postheparin esterase; postheparin esterases; postheparin lipase; postheparin lipases; triacylglycero-protein acylhydrolase; triacylglycero-protein acylhydrolases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_calcitonin_gene_related_peptide">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000004969</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000027222</craft:has_subsumed_PR_class>
+    <rdfs:label>calcitonin gene-related peptide</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of a calcitonin gene-related peptide, a neuropeptide belonging to the calcitonin family.</obo:IAO_0000115>
+    <craft:annotatable_text>calcitonin gene-related peptide; calcitonin gene-related peptides; calcitonin gene-related polypeptide; calcitonin gene-related polypeptides; calcitonin-related peptide; calcitonin-related peptides; calcitonin-related polypeptide; calcitonin-related polypeptides; CGRP</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_platelet_derived_growth_factor_alpha_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000002030</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>platelet-derived growth factor alpha receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with platelet-derived growth factor isoform PDGF-AA, PDGF-BB or PDGF-AB to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>alphaPDGF receptor; alphaPDGF receptors; alpha-type platelet-derived growth factor receptor; alpha-type platelet-derived growth factor receptors; PDGFRA; PDGFRAs; PDGFR alpha; PDGF alpha receptor; PDGF alpha receptors; PDGF-R alpha; platelet-derived growth factor alpha receptor; platelet-derived growth factor alpha receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_myosin_VII">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000010869</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000010870</craft:has_subsumed_PR_class>
+    <rdfs:label>myosin VII</rdfs:label>
+    <obo:IAO_0000115>Either of myosin VIIa or VIIb, in either gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>MYO7; myosin-7; myosin 7; myosin-VII; myosin VII</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_ERK">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000000103</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000000104</craft:has_subsumed_PR_class>
+    <rdfs:label>ERK</rdfs:label>
+    <obo:IAO_0000115>Any extracellular-signal-regulated kinase (ERK), also known as a classical MAP kinase, in either gene or gene product form.  These are widely expressed protein kinase intracellular signaling molecules that are involved in functions including the regulation of meiosis, mitosis, and postmitotic functions in differentiated cells.</obo:IAO_0000115>
+    <craft:annotatable_text>ERK; ERKs; extracellular signal-regulated kinase; extracellular signal-regulated kinases; extracellular-signal-regulated kinase; extracellular-signal-regulated kinases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_arrestin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000004318</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000004319</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000004320</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000014434</craft:has_subsumed_PR_class>
+    <rdfs:label>arrestin</rdfs:label>
+    <obo:IAO_0000115>Any of the arrestins (arrestin-1, arrestin-2, arrestin-3, or arrestin-4), in the form of gene or gene product.</obo:IAO_0000115>
+    <craft:annotatable_text>arrestin; arrestins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_arginine_vasopressin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000004523</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>arginine vasopressin</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of arginine vasopressin, a hormone produced in neurons of the hypothalamus and released from vesicles into the circulation in response to extracellular fluid hypertonicity. It primarily functions to increase the amount of solute-free water reabsorbed back into the circulation from the filtrate in the kidney tubules of nephrons and to constrict artertioles, which increases peripheral vascular resistance and raises arterial blood pressure.</obo:IAO_0000115>
+    <craft:annotatable_text>8-arginine-vasopressin; 8-L-arginine vasopressin; [Arg8]-vasopressin; arginine vasopressin; argipressin; AVP; AVP-NPII</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_growth_hormone_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000007970</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>growth hormone receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a growth hormone and transmitting the signal from one side of the membrane to the other to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>GH receptor; GH receptors; growth hormone receptor; growth hormone receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glucagon">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000007891</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>glucagon</rdfs:label>
+    <obo:IAO_0000115>A glucagon peptide, a hormone produced by pancreatic alpha cells that bears a functionality of raising the concentration of glucose and fatty acids in the bloodstream and of serving as the main catabolic hormone of the body.</obo:IAO_0000115>
+    <craft:annotatable_text>GCG; glucagon</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_peripherin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000013289</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000013290</craft:has_subsumed_PR_class>
+    <rdfs:label>peripherin</rdfs:label>
+    <obo:IAO_0000115>Either of peripherin (PRPH) or peripherin-2 (PRPH-2), in either gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>peripherin; peripherins; PRPH</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_monophenol_monooxygenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000016877</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>monophenol monooxygenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: L-tyrosine + O2 = L-DOPAquinone + H2O. This reaction can use both monophenols (such as tyrosine) and catechols (o-diphenols) as substrates.</obo:IAO_0000115>
+    <craft:annotatable_text>L-tyrosine monooxygenase; L-tyrosine monooxygenases; monophenol dihydroxyphenylalanine:oxygen oxidoreductase; monophenol dihydroxyphenylalanine:oxygen oxidoreductases; monophenol monooxidase; monophenol monooxidases; monophenol monooxygenase; monophenol monooxygenases; monophenol oxygenase; monophenol oxygenases; monophenolase; monophenolases; N-acetyl-6-hydroxyltryptophan oxidase; N-acetyl-6-hydroxyltryptophan oxidases; polyaromatic oxidase; polyaromatic oxidases; polyphenolase; polyphenolases; TYR; tyrosinase; tyrosinases; tyrosine-dopa oxidase; tyrosine-dopa oxidases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_angiotensin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <rdfs:label>angiotensin</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of angiotensin, a hormone that causes vasoconstriction and increase in blood pressure.</obo:IAO_0000115>
+    <craft:has_substitutable_PR_class>http://purl.obolibrary.org/obo/PR_000018931</craft:has_substitutable_PR_class>
+    <craft:annotatable_text>angiotensin</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_collagen">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003262</craft:has_subsumed_PR_class>
+    <rdfs:label>collagen</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of a collagen, the main structural protein in the extracellular matrix of the connective tissue of many animals.</obo:IAO_0000115>
+    <craft:annotatable_text>Col; collagen; collagens</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transforming_growth_factor_beta_receptor_type_I">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000000006</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>transforming growth factor beta receptor type I</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with a complex of transforming growth factor beta and a type II TGF-beta receptor to initiate a change in cell activity; upon binding, acts as a downstream transducer of TGF-beta signals.</obo:IAO_0000115>
+    <craft:annotatable_text>TGFBR1; TGF-beta receptor type-1; transforming growth factor beta receptor activity, type I; transforming growth factor beta receptor type 1; type 1 TGF-beta receptor; type 1 TGF-beta receptors; type 1 TGFbeta receptor; type 1 TGFbeta receptors; type 1 transforming growth factor beta receptor; type 1 transforming growth factor beta receptors; type I TGFbeta receptor; type I TGFbeta receptors; type I TGF-beta receptor; type I TGF-beta receptors; type I transforming growth factor beta receptor; type I transforming growth factor beta receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_insulin_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000009064</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>insulin receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with insulin receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>INSR; INSRs; insulin receptor; insulin receptors; IR; IRs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_hepatocyte_growth_factor_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000010335</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>HGF receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with hepatocyte growth factor receptor ligand and transmitting the signal across the plasma membrane to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>hepatocyte growth factor-activated receptor; hepatocyte growth factor-activated receptors; hepatocyte growth factor/scatter factor receptor; hepatocyte growth factor/scatter factor receptors; hepatocyte growth factor receptor; hepatocyte growth factor receptors; HGFR; HGFRs; HGF-activated receptor; HGF-activated receptors; HGF/SF receptor; HGF/SF receptors; HGF receptor; HGF receptors; MET; scatter factor-activated receptor; scatter factor-activated receptors; scatter factor receptor; scatter factor receptors; SF-activated receptor; SF-activated receptors; SF receptor; SF receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_beta2_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001193</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>beta2-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of beta2-adrenergic receptors.</obo:IAO_0000115>
+    <craft:annotatable_text>ADRB2; ADRB2R; ADRB2Rs; B2AR; B2ARs; beta2 adrenergic receptor; beta2 adrenergic receptors; beta2 adrenoceptor; beta2 adrenoceptors; beta2-adrenergic; beta2-adrenergic receptor; beta2-adrenergic receptors; beta2-adrenoceptor; beta2-adrenoceptors; beta-2 adrenergic; beta-2 adrenergic receptor; beta-2 adrenergic receptors; beta-2 adrenoceptor; beta-2 adrenoceptors; BETA2AR; BETA2ARs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_hedgehog">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000006459</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000008974</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000014841</craft:has_subsumed_PR_class>
+    <rdfs:label>hedgehog</rdfs:label>
+    <obo:IAO_0000115>Any of the three mammalian hedgehog homologues, in gene or gene product form, i.e., desert hedgehog (DHH), indian hedgehog (IHH), or sonic hedgehog (SHH).</obo:IAO_0000115>
+    <craft:annotatable_text>hedgehog; Hh; Hhs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_selectin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000001313</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000001318</craft:has_subsumed_PR_class>
+    <rdfs:label>selectin</rdfs:label>
+    <obo:IAO_0000115>Any one of E-selectin (SELE), L-selectin (SELL), or P-selectin (SELP), in either gene or gene product form.</obo:IAO_0000115>
+    <craft:annotatable_text>selectin; selectins</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_phospholipase_A2">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000012798</craft:has_subsumed_PR_class>
+    <rdfs:label>phospholipase A2</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a 1,2-diacyl-sn-glycero-3-phospholipid + H2O = 1-acyl-sn-glycero-3-phospholipid + a fatty acid. This reaction removes the fatty acid attached to the sn2-position. Substrates include phosphatidylcholine, phosphatidylethanolamine, choline plasmalogen and phosphatides.</obo:IAO_0000115>
+    <craft:annotatable_text>lecithinase A; phosphatidolipase; phosphatidolipases; phosphatidylcholine 2-acylhydrolase; phosphatidylcholine 2-acylhydrolases; phospholipase A2; PLA2</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_acetylcholinesterase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_000003626</craft:has_subsumed_PR_class>
+    <craft:has_subsumed_PR_class>http://purl.obolibrary.org/obo/PR_P07140</craft:has_subsumed_PR_class>
+    <rdfs:label>acetylcholinesterase</rdfs:label>
+    <obo:IAO_0000115>Either of the human ACHE or D. melanogaster Ace genes, any 1:1 ortholog of these, or any corresponding transcript or protein.</obo:IAO_0000115>
+    <craft:annotatable_text>acetylcholinesterase; acetylcholinesterases; acetylcholine acetylhydrolase; acetylcholine acetylhydrolases; acetylcholine hydrolase; acetylcholine hydrolases; acetylthiocholinesterase; acetylthiocholinesterases; ACHE; ACHEs; choline esterase I</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_amyloid_beta_40">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <rdfs:label>amyloid beta 40</rdfs:label>
+    <obo:IAO_0000115>An amyloid beta 40, a 40-amino acid peptide that is a component of amyloid plaques found in the brains of people with Alzheimer's disease.</obo:IAO_0000115>
+    <craft:has_substitutable_PR_class>http://purl.obolibrary.org/obo/PR_000025584</craft:has_substitutable_PR_class>
+    <craft:annotatable_text>Abeta(1-40); Abeta40; APP-40; amyloid beta 40; beta-amyloid 40; beta-amyloid; peptide 40; beta-APP40</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fMet_Leu_Phe_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001580</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>fMet-Leu-Phe receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with an N-formyl peptide to initiate a change in cell activity.</obo:IAO_0000115>
+    <craft:annotatable_text>fMet-Leu-Phe receptor; fMet-Leu-Phe receptors; fMLP receptor; fMLP receptors; FPR; FPRs; N-formyl peptide receptor; N-formyl peptide receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsumed_PR_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_PR_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_OBO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_growth_hormone">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000007968</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>growth hormone</rdfs:label>
+    <obo:IAO_0000115>An entity bearing a functionality of a growth hormone, a peptide that can be secreted and bind to membrane receptors in target tissues to stimulate body growth.</obo:IAO_0000115>
+    <craft:annotatable_text>GH; GHs; Gh; Ghs; growth hormone; growth hormones</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_vasopressin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000004523</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>vasopressin</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of vasopressin, a hormone synthesized in the hypothalamus and converted to AVP.</obo:IAO_0000115>
+    <craft:annotatable_text>ADH; antidiuretic hormone; vasopressin; vasopressin-neurophysin 2-copeptin</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_prothrombin">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000007299</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>prothrombin</rdfs:label>
+    <obo:IAO_0000115>A gene, transcript, or peptide form of prothrombin, which is proteolytically cleaved during the clotting process by the prothrombinase enzyme complex to form thrombin.</obo:IAO_0000115>
+    <craft:annotatable_text>blood coagulation factor II; Cf2; coagulation factor II; F2; prothrombin</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_very_long_chain_acyl_CoA_dehydrogenase">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000003604</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>very-long-chain acyl-CoA dehydrogenase</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of the reaction: a very-long-chain 2,3-saturated fatty acyl-CoA + H+ + oxidized [electron-transfer flavoprotein] = a very-long-chain (2E)-enoyl-CoA + reduced [electron-transfer flavoprotein]. A very long-chain fatty acid has an aliphatic tail containing more than 22 carbons.</obo:IAO_0000115>
+    <craft:annotatable_text>ACADVL; very-long-chain acyl-CoA dehydrogenase; very-long-chain acyl-CoA dehydrogenases; very-long-chain acyl-coenzyme A dehydrogenase; very-long-chain acyl-coenzyme A dehydrogenases; VLCAD; VLCADs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_interleukin_1_receptor_type_I">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001363</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>interleukin-1 receptor type I</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with interleukin-1 to initiate a change in cell activity via signaling pathways and mediated by adaptor proteins.</obo:IAO_0000115>
+    <craft:annotatable_text>IL1R; IL1R1; IL1RA; IL-1RT1; IL-1RT-1; IL-1R-1; IL-1R-alpha; IL-1 type 1 activating receptor; IL-1 type 1 activating receptors; IL-1 type 1 receptor; IL-1 type 1 receptors; IL-1 type I activating receptor; IL-1 type I activating receptors; IL-1 type I receptor; IL-1 type I receptors; interleukin-1 activating receptor; interleukin-1 activating receptors; interleukin-1 receptor alpha; interleukin-1 receptor type 1; interleukin-1 receptor type I; interleukin-1 type 1 receptor; interleukin-1 type 1 receptors; interleukin-1 type I receptor; interleukin-1 type I receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_beta1_adrenergic_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000001192</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>beta1-adrenergic receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionalilty of combining with epinephrine or norepinephrine to initiate a change in cell activity via activation of a G protein, with pharmacological characteristics of beta1-adrenergic receptors.</obo:IAO_0000115>
+    <craft:annotatable_text>ADRB1; ADRB1R; ADRB1Rs; B1AR; B1ARs; beta1-adrenergic; beta1-adrenergic receptor; beta1-adrenergic receptors; beta1-adrenoceptor; beta1-adrenoceptors; beta-1 adrenergic; beta-1 adrenergic receptor; beta-1 adrenergic receptors; beta-1 adrenoceptor; beta-1 adrenoceptors; beta1 adrenergic; beta1 adrenergic receptor; beta1 adrenergic receptors; beta1 adrenoceptor; beta1 adrenoceptors; BETA1AR; BETA1ARs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_G_protein_coupled_receptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_PR_extension_class"/>
+    <craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>http://purl.obolibrary.org/obo/PR_000030035</craft:has_substitutable_PR_class_with_gene_or_transcript_or_protein_interpretation>
+    <rdfs:label>G-protein coupled receptor</rdfs:label>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of combining with an extracellular signal and transmitting the signal across the membrane by activating an associated G-protein; promotes the exchange of GDP for GTP on the alpha subunit of a heterotrimeric G-protein complex.</obo:IAO_0000115>
+    <craft:annotatable_text>G protein coupled receptor; G protein coupled receptors; G protein-coupled receptor ; G protein-coupled receptors; G-protein coupled receptor; G-protein coupled receptors; GPCR; GPCRs; GPLR; GPLRs; G protein linked receptor; G protein linked receptors; G protein-linked receptor; G protein-linked receptors; G-protein linked receptor; G-protein linked receptors</craft:annotatable_text>
+  </owl:Class>
+  <owl:Ontology rdf:about="http://craftcorpus.org/"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_PR_extension_class">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label>PR extension class</rdfs:label>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_PR_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_PR_class"/>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
+</rdf:RDF>

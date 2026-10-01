@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:craft="http://craftcorpus.org/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:obo="http://purl.obolibrary.org/obo/"
+>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_interstrain_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_TAXRANK_extension_class"/>
+    <rdfs:label>attribute of interstrain association</rdfs:label>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., occurring, being situated, having involvement) between or among organismal taxonomic strains.</obo:IAO_0000115>
+    <craft:has_deductively_entailed_TAXRANK_class>http://purl.obolibrary.org/obo/TAXRANK_0001001</craft:has_deductively_entailed_TAXRANK_class>
+    <craft:annotatable_text>interstrain; inter-strain</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
+    <rdfs:label>annotatable text</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_TAXRANK_extension_class"/>
+    <rdfs:label>genotype sequence entity or bearer</rdfs:label>
+    <obo:IAO_0000115>The complete set of genomic material of a biological bearer (e.g., organism, cell), or the allele(s) or variant(s) such a bearer carries in a particular gene or genomic location; or, a biological bearer of any such kind of genotypic sequence entity.</obo:IAO_0000115>
+    <craft:has_subsumed_TAXRANK_class>http://purl.obolibrary.org/obo/TAXRANK_0001007</craft:has_subsumed_TAXRANK_class>
+    <craft:annotatable_text>genotype; genotypes; genotypic; genotypically</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+    <rdfs:label>definition</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_TAXRANK_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_TAXRANK_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_TAXRANK_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+  <owl:Ontology rdf:about="http://craftcorpus.org/"/>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsumed_TAXRANK_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_TAXRANK_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_OBO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_TAXRANK_extension_class">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label>TAXRANK extension class</rdfs:label>
+  </owl:Class>
+</rdf:RDF>

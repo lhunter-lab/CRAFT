@@ -1,0 +1,3 @@
+**TAXONOMIC RANK OR ORGANISM**: Indicates that the annotation class can be interpreted as referring to a biological taxonomic rank (e.g., the taxonomic rank of strain) or to the kind(s) of organism(s) that constitute(s) the taxonomic rank (e.g., instances of organisms constituting the given mentioned strain).
+
+- all subclasses of taxonomic rank (`TAXRANK_0000000`)

@@ -1,0 +1,958 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15819996" text-file="15819996.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_129811">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="7" id="15819996-271754" start="0">Nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128017">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="732" id="15819996-271816" start="721">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130811">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="760" id="15819996-271822" start="751">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129571">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="771" id="15819996-271824" start="764">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129657">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="819" id="15819996-271830" start="808">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130385">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="944" id="15819996-271840" start="937">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129715">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="1050" id="15819996-271850" start="1043">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128377">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="1288" id="15819996-271868" start="1281">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130783">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="1370" id="15819996-271880" start="1363">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128637">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="1466" id="15819996-271894" start="1455">cytoplasmic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130127">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="1478" id="15819996-271896" start="1471">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129205">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="1512" id="15819996-271898" start="1505">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129233">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="1570" id="15819996-271902" start="1559">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128153">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="1591" id="15819996-271904" start="1585">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129683">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="1724" id="15819996-271918" start="1709">nuclei of cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129865">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="1802" id="15819996-271930" start="1793">nuclei of</span>
+            <span end="1817" id="15819996-271931" start="1812">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129737">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="1874" id="15819996-271941" start="1865">nuclei of</span>
+            <span end="1916" id="15819996-271942" start="1911">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128911">
+            <class id="http://purl.obolibrary.org/obo/GO_0042583" label="chromaffin granule"/>
+            <span end="2774" id="15819996-271996" start="2755">chromaffin granules</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129069">
+            <class id="http://purl.obolibrary.org/obo/GO_0016020" label="membrane"/>
+            <span end="2798" id="15819996-272000" start="2789">membranes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130329">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="2983" id="15819996-272014" start="2976">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128875">
+            <class id="http://purl.obolibrary.org/obo/GO_0016020" label="membrane"/>
+            <span end="3020" id="15819996-272016" start="3010">membranous</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128707">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="3076" id="15819996-272018" start="3066">nucleus of</span>
+            <span end="3101" id="15819996-272019" start="3096">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130183">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="3596" id="15819996-272069" start="3585">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130111">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="3741" id="15819996-272087" start="3734">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130745">
+            <class id="http://purl.obolibrary.org/obo/GO_0016020" label="membrane"/>
+            <span end="3754" id="15819996-272089" start="3746">membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128655">
+            <class id="http://purl.obolibrary.org/obo/GO_0016020" label="membrane"/>
+            <span end="3836" id="15819996-272095" start="3828">membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129659">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="6209" id="15819996-272307" start="6201">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128161">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="6972" id="15819996-272349" start="6961">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130527">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="7047" id="15819996-272355" start="7040">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130305">
+            <class id="http://purl.obolibrary.org/obo/GO_0071735" label="IgG immunoglobulin complex"/>
+            <span end="7481" id="15819996-272392" start="7478">IgG</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129211">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="7634" id="15819996-272408" start="7628">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129165">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="7720" id="15819996-272414" start="7712">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128473">
+            <class id="http://purl.obolibrary.org/obo/GO_0071735" label="IgG immunoglobulin complex"/>
+            <span end="7988" id="15819996-272434" start="7985">IgG</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128129">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="8213" id="15819996-272452" start="8206">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130761">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="8277" id="15819996-272456" start="8270">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130573">
+            <class id="http://purl.obolibrary.org/obo/GO_0071735" label="IgG immunoglobulin complex"/>
+            <span end="8460" id="15819996-272468" start="8457">IgG</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130447">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="8527" id="15819996-272472" start="8519">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129143">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="8581" id="15819996-272476" start="8570">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128549">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="8671" id="15819996-272488" start="8660">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129707">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="9039" id="15819996-272512" start="9032">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128431">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="9179" id="15819996-272518" start="9172">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129857">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="9246" id="15819996-272520" start="9239">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130551">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="9560" id="15819996-272548" start="9553">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128899">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="9647" id="15819996-272554" start="9640">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130425">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="9699" id="15819996-272556" start="9692">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128419">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="9723" id="15819996-272558" start="9712">Subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130629">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="9933" id="15819996-272578" start="9925">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130459">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="10250" id="15819996-272590" start="10243">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129257">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="10352" id="15819996-272596" start="10345">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128125">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="10382" id="15819996-272598" start="10375">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130691">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="10950" id="15819996-272625" start="10943">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130451">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="11139" id="15819996-272641" start="11132">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130333">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="11246" id="15819996-272649" start="11235">cytoplasmic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129189">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="11258" id="15819996-272651" start="11251">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128267">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="11407" id="15819996-272667" start="11401">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129287">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="11649" id="15819996-272683" start="11642">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128685">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="11860" id="15819996-272697" start="11851">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130517">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="11973" id="15819996-272705" start="11966">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130771">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="11985" id="15819996-272707" start="11978">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128659">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="12146" id="15819996-272715" start="12139">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129933">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="12807" id="15819996-272756" start="12799">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130121">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="13091" id="15819996-272772" start="13084">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129221">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="13174" id="15819996-272776" start="13168">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129379">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="13261" id="15819996-272780" start="13252">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128821">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="13272" id="15819996-272782" start="13266">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128117">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="13463" id="15819996-272796" start="13456">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128971">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="13619" id="15819996-272808" start="13611">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128677">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="13642" id="15819996-272810" start="13635">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130103">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="13785" id="15819996-272822" start="13777">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128953">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="13893" id="15819996-272826" start="13885">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128983">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="13961" id="15819996-272830" start="13953">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130787">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="14220" id="15819996-272846" start="14213">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128903">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="14281" id="15819996-272852" start="14274">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130685">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="14299" id="15819996-272854" start="14290">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130827">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="14463" id="15819996-272864" start="14457">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129885">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="14496" id="15819996-272866" start="14486">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130461">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="14566" id="15819996-272868" start="14559">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128743">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="14646" id="15819996-272870" start="14638">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128563">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="14887" id="15819996-272892" start="14879">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129549">
+            <class id="http://craftcorpus.org/CRAFT_basement_membrane" label="basement membrane"/>
+            <span end="15084" id="15819996-272912" start="15070">basal membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129397">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="15179" id="15819996-272918" start="15171">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130007">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="15264" id="15819996-272924" start="15258">Nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129035">
+            <class id="http://purl.obolibrary.org/obo/GO_0043025" label="neuronal cell body"/>
+            <span end="15414" id="15819996-272930" start="15392">cell bodies of neurons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130645">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="15470" id="15819996-272934" start="15464">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129841">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="15540" id="15819996-272942" start="15534">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128293">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="15554" id="15819996-272944" start="15545">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128241">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="15865" id="15819996-272956" start="15859">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128387">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="15892" id="15819996-272958" start="15883">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128777">
+            <class id="http://purl.obolibrary.org/obo/GO_0005886" label="plasma membrane"/>
+            <span end="15919" id="15819996-272960" start="15904">plasma membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128243">
+            <class id="http://purl.obolibrary.org/obo/GO_0030425" label="dendrite"/>
+            <span end="15978" id="15819996-272966" start="15969">dendrites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129495">
+            <class id="http://purl.obolibrary.org/obo/GO_0030424" label="axon"/>
+            <span end="16191" id="15819996-272986" start="16186">axons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128349">
+            <class id="http://purl.obolibrary.org/obo/GO_0030424" label="axon"/>
+            <span end="16288" id="15819996-272994" start="16283">axons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130417">
+            <class id="http://purl.obolibrary.org/obo/GO_0044301" label="climbing fiber"/>
+            <span end="16440" id="15819996-273008" start="16425">climbing fibers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130209">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="16905" id="15819996-273044" start="16897">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128859">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="17295" id="15819996-273059" start="17289">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129071">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="17361" id="15819996-273063" start="17354">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128629">
+            <class id="http://purl.obolibrary.org/obo/GO_0044297" label="cell body"/>
+            <span end="17376" id="15819996-273067" start="17367">cell body</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130379">
+            <class id="http://purl.obolibrary.org/obo/GO_0030425" label="dendrite"/>
+            <span end="17423" id="15819996-273071" start="17414">dendrites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129261">
+            <class id="http://purl.obolibrary.org/obo/GO_0030424" label="axon"/>
+            <span end="17533" id="15819996-273087" start="17528">axons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130205">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="17928" id="15819996-273119" start="17919">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128879">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="17939" id="15819996-273121" start="17932">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130119">
+            <class id="http://purl.obolibrary.org/obo/GO_0005886" label="plasma membrane"/>
+            <span end="18100" id="15819996-273131" start="18085">plasma membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130295">
+            <class id="http://purl.obolibrary.org/obo/GO_0043204" label="perikaryon"/>
+            <span end="18120" id="15819996-273133" start="18110">perikaryon</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129823">
+            <class id="http://purl.obolibrary.org/obo/GO_0097440" label="apical dendrite"/>
+            <span end="18154" id="15819996-273135" start="18139">apical dendrite</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130085">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="18226" id="15819996-273141" start="18220">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128155">
+            <class id="http://purl.obolibrary.org/obo/GO_0097440" label="apical dendrite"/>
+            <span end="18244" id="15819996-273143" start="18228">Apical dendrites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130437">
+            <class id="http://purl.obolibrary.org/obo/GO_0097440" label="apical dendrite"/>
+            <span end="18556" id="15819996-273163" start="18540">apical dendrites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128749">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="18610" id="15819996-273167" start="18602">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129745">
+            <class id="http://purl.obolibrary.org/obo/GO_0030425" label="dendrite"/>
+            <span end="18675" id="15819996-273175" start="18666">dendritic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128355">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="18845" id="15819996-273183" start="18834">cytoplasmic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129661">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="18883" id="15819996-273187" start="18876">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130229">
+            <class id="http://purl.obolibrary.org/obo/GO_0005886" label="plasma membrane"/>
+            <span end="18974" id="15819996-273193" start="18961">cell membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129595">
+            <class id="http://purl.obolibrary.org/obo/GO_0043204" label="perikaryon"/>
+            <span end="18992" id="15819996-273195" start="18982">perikaryon</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129809">
+            <class id="http://purl.obolibrary.org/obo/GO_0097440" label="apical dendrite"/>
+            <span end="19029" id="15819996-273197" start="19014">apical dendrite</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129573">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="19094" id="15819996-273199" start="19086">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128417">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="19295" id="15819996-273207" start="19289">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128947">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="19343" id="15819996-273216" start="19336">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128357">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="19557" id="15819996-273236" start="19549">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130769">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="19617" id="15819996-273238" start="19607">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128447">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="20014" id="15819996-273258" start="20006">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130859">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="20222" id="15819996-273266" start="20216">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128389">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="20274" id="15819996-273270" start="20268">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129705">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="20387" id="15819996-273276" start="20376">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130219">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="20414" id="15819996-273278" start="20403">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128641">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="20439" id="15819996-273280" start="20433">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129159">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="20467" id="15819996-273282" start="20456">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128741">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="20621" id="15819996-273288" start="20610">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130275">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="20769" id="15819996-273300" start="20758">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129291">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="20808" id="15819996-273304" start="20798">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129441">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="20883" id="15819996-273312" start="20872">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128235">
+            <class id="http://purl.obolibrary.org/obo/GO_0016020" label="membrane"/>
+            <span end="20921" id="15819996-273318" start="20913">membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128345">
+            <class id="http://purl.obolibrary.org/obo/GO_0031965" label="nuclear membrane"/>
+            <span end="21018" id="15819996-273326" start="21001">nuclear membranes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129265">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="21050" id="15819996-273332" start="21041">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130353">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="21166" id="15819996-273347" start="21159">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128975">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="21414" id="15819996-273357" start="21407">Nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130583">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="21483" id="15819996-273365" start="21477">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128109">
+            <class id="http://purl.obolibrary.org/obo/GO_0031965" label="nuclear membrane"/>
+            <span end="21642" id="15819996-273379" start="21625">nuclear membranes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128173">
+            <class id="http://purl.obolibrary.org/obo/GO_0031965" label="nuclear membrane"/>
+            <span end="21645" id="15819996-273381" start="21644">m</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129581">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="21662" id="15819996-273383" start="21651">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130365">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="21665" id="15819996-273385" start="21664">p</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128141">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="21779" id="15819996-273395" start="21769">nucleus of</span>
+            <span end="21799" id="15819996-273396" start="21794">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130453">
+            <class id="http://purl.obolibrary.org/obo/GO_0016020" label="membrane"/>
+            <span end="21898" id="15819996-273404" start="21890">membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129753">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="21995" id="15819996-273418" start="21984">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128073">
+            <class id="http://purl.obolibrary.org/obo/GO_0031965" label="nuclear membrane"/>
+            <span end="22022" id="15819996-273422" start="22005">nuclear membranes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129935">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="22050" id="15819996-273426" start="22041">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130479">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="22097" id="15819996-273430" start="22086">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129747">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="22882" id="15819996-273476" start="22875">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129331">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="22952" id="15819996-273489" start="22941">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129091">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="23052" id="15819996-273499" start="23041">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129663">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="23247" id="15819996-273515" start="23240">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130595">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="23359" id="15819996-273519" start="23343">nucleus of cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129641">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="24136" id="15819996-273573" start="24125">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128077">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="24261" id="15819996-273587" start="24254">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129543">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="24346" id="15819996-273597" start="24337">cytosolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128037">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="24367" id="15819996-273599" start="24360">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128147">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="24480" id="15819996-273612" start="24471">cytosolic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128785">
+            <class id="http://purl.obolibrary.org/obo/GO_0030425" label="dendrite"/>
+            <span end="24551" id="15819996-273616" start="24542">dendrites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128197">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="24778" id="15819996-273632" start="24769">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130735">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="24789" id="15819996-273634" start="24783">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129505">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="25462" id="15819996-273676" start="25455">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128813">
+            <class id="http://purl.obolibrary.org/obo/GO_0030425" label="dendrite"/>
+            <span end="25579" id="15819996-273682" start="25570">dendrites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128089">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="26090" id="15819996-273719" start="26081">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129971">
+            <class id="http://purl.obolibrary.org/obo/GO_0005886" label="plasma membrane"/>
+            <span end="26112" id="15819996-273723" start="26094">cellular membranes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130053">
+            <class id="http://purl.obolibrary.org/obo/GO_0005886" label="plasma membrane"/>
+            <span end="26277" id="15819996-273737" start="26260">cellular membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129897">
+            <class id="http://purl.obolibrary.org/obo/GO_0016020" label="membrane"/>
+            <span end="26322" id="15819996-273741" start="26314">membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128581">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="26466" id="15819996-273751" start="26459">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128765">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="26622" id="15819996-273771" start="26615">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128233">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="28013" id="15819996-273869" start="28002">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129719">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="28166" id="15819996-273884" start="28159">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129297">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="28243" id="15819996-273890" start="28237">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129889">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="28348" id="15819996-273902" start="28341">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130187">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="28363" id="15819996-273904" start="28356">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129557">
+            <class id="http://purl.obolibrary.org/obo/GO_0016020" label="membrane"/>
+            <span end="28560" id="15819996-273921" start="28551">membranes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128571">
+            <class id="http://purl.obolibrary.org/obo/GO_0005886" label="plasma membrane"/>
+            <span end="28779" id="15819996-273929" start="28764">plasma membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128277">
+            <class id="http://purl.obolibrary.org/obo/GO_0005737" label="cytoplasm"/>
+            <span end="28797" id="15819996-273931" start="28788">cytoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130637">
+            <class id="http://purl.obolibrary.org/obo/GO_0005856" label="cytoskeleton"/>
+            <span end="28837" id="15819996-273933" start="28825">cytoskeleton</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130355">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="28940" id="15819996-273951" start="28933">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129113">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="29063" id="15819996-273967" start="29056">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128523">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="29107" id="15819996-273969" start="29100">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129055">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intracellular_association" label="attribute of intracellular association"/>
+            <span end="29135" id="15819996-273971" start="29122">intracellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129109">
+            <class id="http://purl.obolibrary.org/obo/GO_0031965" label="nuclear membrane"/>
+            <span end="29200" id="15819996-273979" start="29184">nuclear membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128339">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="29279" id="15819996-273983" start="29273">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130231">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_intracellular_association" label="attribute of intracellular association"/>
+            <span end="29403" id="15819996-273991" start="29390">intracellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129575">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="29510" id="15819996-274001" start="29499">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129305">
+            <class id="http://purl.obolibrary.org/obo/GO_0031965" label="nuclear membrane"/>
+            <span end="29534" id="15819996-274003" start="29518">nuclear membrane</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128299">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="29589" id="15819996-274005" start="29582">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128113">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="29640" id="15819996-274011" start="29633">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129721">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="29715" id="15819996-274017" start="29708">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130097">
+            <class id="http://purl.obolibrary.org/obo/GO_0005635" label="nuclear envelope"/>
+            <span end="29941" id="15819996-274035" start="29925">nuclear envelope</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129743">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="29956" id="15819996-274037" start="29949">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128055">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="30045" id="15819996-274039" start="30038">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128135">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_nucleocytoplasmic_association" label="attribute of nucleocytoplasmic association"/>
+            <span end="30131" id="15819996-274045" start="30114">nucleocytoplasmic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128295">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="30268" id="15819996-274061" start="30261">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129161">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="30361" id="15819996-274071" start="30354">nucleus</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128395">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="30589" id="15819996-274085" start="30582">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128877">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="30869" id="15819996-274103" start="30862">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130509">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="30955" id="15819996-274113" start="30948">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130153">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="31052" id="15819996-274120" start="31043">nuclei of</span>
+            <span end="31074" id="15819996-274121" start="31069">cells</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128261">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="31169" id="15819996-274137" start="31163">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129597">
+            <class id="http://purl.obolibrary.org/obo/GO_0005829" label="cytosol"/>
+            <span end="31295" id="15819996-274155" start="31288">cytosol</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130673">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="31313" id="15819996-274157" start="31307">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130777">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_subcellular_association" label="attribute of subcellular association"/>
+            <span end="31336" id="15819996-274159" start="31325">subcellular</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129117">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="31477" id="15819996-274171" start="31471">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128717">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="31596" id="15819996-274175" start="31590">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129783">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="33227" id="15819996-274252" start="33217">Antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130039">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="33239" id="15819996-274254" start="33229">Antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128867">
+            <class id="http://purl.obolibrary.org/obo/GO_0071735" label="IgG immunoglobulin complex"/>
+            <span end="33346" id="15819996-274264" start="33343">IgG</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129105">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="33455" id="15819996-274270" start="33447">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128951">
+            <class id="http://purl.obolibrary.org/obo/GO_0005882" label="intermediate filament"/>
+            <span end="33577" id="15819996-274280" start="33556">intermediate filament</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128325">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="33870" id="15819996-274298" start="33862">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130785">
+            <class id="http://purl.obolibrary.org/obo/GO_0071735" label="IgG immunoglobulin complex"/>
+            <span end="33924" id="15819996-274308" start="33921">IgG</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130193">
+            <class id="http://purl.obolibrary.org/obo/GO_0071735" label="IgG immunoglobulin complex"/>
+            <span end="34004" id="15819996-274322" start="34001">IgG</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129325">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="34032" id="15819996-274324" start="34022">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128963">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="34069" id="15819996-274328" start="34061">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128463">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="34092" id="15819996-274332" start="34084">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129403">
+            <class id="http://purl.obolibrary.org/obo/GO_0071735" label="IgG immunoglobulin complex"/>
+            <span end="34159" id="15819996-274342" start="34156">IgG</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129679">
+            <class id="http://purl.obolibrary.org/obo/GO_0071735" label="IgG immunoglobulin complex"/>
+            <span end="34249" id="15819996-274354" start="34246">IgG</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128593">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="34270" id="15819996-274356" start="34260">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130609">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="34334" id="15819996-274362" start="34324">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129539">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="34572" id="15819996-274372" start="34564">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130605">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="35064" id="15819996-274402" start="35054">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129699">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="35240" id="15819996-274404" start="35232">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129041">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="35440" id="15819996-274410" start="35432">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130779">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="35802" id="15819996-274426" start="35794">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129087">
+            <class id="http://purl.obolibrary.org/obo/GO_0071735" label="IgG immunoglobulin complex"/>
+            <span end="35960" id="15819996-274439" start="35957">IgG</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129027">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="35981" id="15819996-274441" start="35971">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129501">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="36050" id="15819996-274443" start="36042">antibody</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129413">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="36627" id="15819996-274467" start="36620">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128645">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="37223" id="15819996-274501" start="37217">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129825">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="37266" id="15819996-274503" start="37255">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_130587">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="37292" id="15819996-274505" start="37286">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129693">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="37431" id="15819996-274523" start="37425">nuclei</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128221">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="37882" id="15819996-274553" start="37871">nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_128823">
+            <class id="http://purl.obolibrary.org/obo/GO_0005654" label="nucleoplasm"/>
+            <span end="37968" id="15819996-274555" start="37957">Nucleoplasm</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129911">
+            <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
+            <span end="37980" id="15819996-274557" start="37973">nuclear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129149">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="38272" id="15819996-274577" start="38262">antibodies</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_129735">
+            <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
+            <span end="39215" id="15819996-274631" start="39205">antibodies</span>
+        </annotation>
+    </document>
+</knowtator-project>
