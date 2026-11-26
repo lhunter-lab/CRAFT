@@ -1,0 +1,871 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15921521" text-file="15921521.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_148239">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="17" id="15921521-91081" start="10">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149707">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="105" id="15921521-6644" start="94">chromosomes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148753">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation" label="occurrence/effect of sequence mutation"/>
+            <span end="189" id="15921521-91091" start="180">mutations</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149315">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="260" id="15921521-91103" start="256">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148233">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="347" id="15921521-91105" start="342">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149889">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="603" id="15921521-91123" start="596">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149269">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="797" id="15921521-91137" start="788">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148257">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="932" id="15921521-91143" start="925">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149447">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="1270" id="15921521-91165" start="1265">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149491">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="1615" id="15921521-91179" start="1609">genome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149947">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="1631" id="15921521-91181" start="1625">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148331">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="1734" id="15921521-6648" start="1730">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149567">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="1775" id="15921521-6650" start="1771">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149393">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="1820" id="15921521-6652" start="1816">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148243">
+            <class id="http://craftcorpus.org/CRAFT_sequence_polymorphism" label="sequence polymorphism"/>
+            <span end="2046" id="15921521-91203" start="2033">polymorphisms</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148685">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="2064" id="15921521-91205" start="2059">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149629">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="2136" id="15921521-91207" start="2129">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149809">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation" label="occurrence/effect of sequence mutation"/>
+            <span end="2235" id="15921521-91211" start="2226">mutations</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149363">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="2306" id="15921521-91223" start="2302">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149057">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation" label="occurrence/effect of sequence mutation"/>
+            <span end="2331" id="15921521-91225" start="2322">mutations</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149633">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation" label="occurrence/effect of sequence mutation"/>
+            <span end="2603" id="15921521-91248" start="2594">mutations</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148703">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation" label="occurrence/effect of sequence mutation"/>
+            <span end="2848" id="15921521-91269" start="2839">mutations</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149895">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="2930" id="15921521-91275" start="2925">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149791">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation" label="occurrence/effect of sequence mutation"/>
+            <span end="3998" id="15921521-91325" start="3989">mutations</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148927">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4015" id="15921521-91329" start="4011">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148803">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4081" id="15921521-91331" start="4074">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148407">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4141" id="15921521-91335" start="4130">genetically</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148623">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4189" id="15921521-91341" start="4184">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149729">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4300" id="15921521-91345" start="4293">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148259">
+            <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
+            <span end="4325" id="15921521-91347" start="4316">region on</span>
+            <span end="4342" id="15921521-91348" start="4332">chromosome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148339">
+            <class id="http://purl.obolibrary.org/obo/SO_0001024" label="haplotype" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4524" id="15921521-91366" start="4514">haplotypes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149025">
+            <class id="http://purl.obolibrary.org/obo/SO_0005858" label="syntenic_region" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4547" id="15921521-91368" start="4532">syntenic region</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148901">
+            <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
+            <span end="4550" id="15921521-91370" start="4541">region of</span>
+            <span end="4567" id="15921521-91371" start="4557">chromosome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149239">
+            <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
+            <span end="4674" id="15921521-91375" start="4665">region on</span>
+            <span end="4685" id="15921521-91376" start="4681">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149143">
+            <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
+            <span end="4849" id="15921521-91396" start="4837">loci on chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148695">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5330" id="15921521-91412" start="5324">Genome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149007">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5342" id="15921521-91414" start="5336">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149695">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5489" id="15921521-91418" start="5484">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149641">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="5804" id="15921521-91440" start="5795">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149511">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="5952" id="15921521-91448" start="5943">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148859">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="6184" id="15921521-91462" start="6175">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149713">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="6399" id="15921521-91468" start="6390">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148967">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6444" id="15921521-91472" start="6437">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149041">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="6757" id="15921521-91484" start="6748">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148323">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="6792" id="15921521-91488" start="6783">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148355">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="6840" id="15921521-91492" start="6831">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149623">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="6877" id="15921521-91496" start="6868">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149001">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7148" id="15921521-91514" start="7141">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149299">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7208" id="15921521-91522" start="7203">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149871">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7265" id="15921521-91526" start="7261">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149635">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7311" id="15921521-91532" start="7306">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148461">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="7337" id="15921521-91534" start="7328">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149103">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7374" id="15921521-91538" start="7367">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149343">
+            <class id="http://craftcorpus.org/CRAFT_leucine_molecular_entity_or_group" label="leucine molecular entity or group"/>
+            <span end="7533" id="15921521-6676" start="7526">Leucine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148389">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7679" id="15921521-91584" start="7675">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148409">
+            <class id="http://craftcorpus.org/CRAFT_leucine_molecular_entity_or_group" label="leucine molecular entity or group"/>
+            <span end="7704" id="15921521-6678" start="7697">leucine</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148691">
+            <class id="http://purl.obolibrary.org/obo/SO_0000673" label="transcript" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7909" id="15921521-91616" start="7899">transcript</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149019">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8094" id="15921521-91644" start="8090">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148875">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8255" id="15921521-91668" start="8251">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149805">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="8655" id="15921521-91704" start="8646">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148183">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="8763" id="15921521-91710" start="8754">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149039">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="8905" id="15921521-91720" start="8896">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149205">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="8971" id="15921521-91722" start="8962">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148533">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="9016" id="15921521-6692" start="9012">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149253">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="9136" id="15921521-91730" start="9127">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149059">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="9262" id="15921521-91736" start="9253">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149305">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="9332" id="15921521-91738" start="9323">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148361">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="9570" id="15921521-91750" start="9561">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148913">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="9665" id="15921521-91756" start="9656">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149625">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="9765" id="15921521-91760" start="9756">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148255">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9805" id="15921521-91762" start="9798">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149367">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9837" id="15921521-91766" start="9833">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149829">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="9881" id="15921521-6694" start="9878">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148625">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9959" id="15921521-91780" start="9955">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149223">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9976" id="15921521-91782" start="9969">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149835">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="10019" id="15921521-6696" start="10015">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148829">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="10058" id="15921521-91788" start="10049">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149003">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="10113" id="15921521-91792" start="10104">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149573">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10314" id="15921521-91794" start="10309">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149747">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="10335" id="15921521-91796" start="10326">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149373">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="10356" id="15921521-91800" start="10347">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149125">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="10422" id="15921521-91804" start="10413">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149563">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10501" id="15921521-91806" start="10497">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148755">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10562" id="15921521-91810" start="10558">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149611">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="11202" id="15921521-91850" start="11193">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148191">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="11255" id="15921521-91854" start="11248">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148627">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="11517" id="15921521-91868" start="11508">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148907">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="11582" id="15921521-91876" start="11575">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148335">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="12486" id="15921521-91932" start="12477">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149575">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="12523" id="15921521-91936" start="12516">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149381">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="12684" id="15921521-91942" start="12675">Wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148205">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="12749" id="15921521-91944" start="12740">Wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149911">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="12832" id="15921521-91946" start="12823">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149813">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="13137" id="15921521-91966" start="13128">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148359">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13496" id="15921521-91980" start="13489">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148179">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13695" id="15921521-91988" start="13691">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148421">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="13752" id="15921521-6710" start="13748">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148683">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13804" id="15921521-92004" start="13800">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148585">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="13824" id="15921521-92008" start="13815">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148727">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="14030" id="15921521-6714" start="14026">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149335">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="14206" id="15921521-6716" start="14202">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149093">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14411" id="15921521-92040" start="14407">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149479">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="14541" id="15921521-92048" start="14537">null</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149063">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="14815" id="15921521-92058" start="14806">genotypes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148877">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="15162" id="15921521-92072" start="15153">genotypes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149089">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="15442" id="15921521-92084" start="15433">genotypes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149733">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="15484" id="15921521-92088" start="15475">genotypes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148157">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="15762" id="15921521-92100" start="15753">genotypes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149593">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="16261" id="15921521-92130" start="16252">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148181">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="16542" id="15921521-92146" start="16535">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148889">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="16977" id="15921521-92172" start="16968">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148453">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="17143" id="15921521-92182" start="17134">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148779">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="17254" id="15921521-92184" start="17247">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148201">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="17275" id="15921521-92186" start="17268">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148617">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="17340" id="15921521-6724" start="17337">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148235">
+            <class id="http://craftcorpus.org/CRAFT_sequence_polymorphism" label="sequence polymorphism"/>
+            <span end="17389" id="15921521-92194" start="17376">polymorphisms</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148729">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="17642" id="15921521-92204" start="17635">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148655">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="17678" id="15921521-92208" start="17671">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149137">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="17704" id="15921521-6726" start="17700">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148959">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="17771" id="15921521-6728" start="17761">chromosome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149501">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="17827" id="15921521-92220" start="17823">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148351">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="17844" id="15921521-6730" start="17840">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149971">
+            <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
+            <span end="18070" id="15921521-92230" start="18051">chromosomal regions</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148731">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="18235" id="15921521-6732" start="18231">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149435">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="18285" id="15921521-92240" start="18278">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149483">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="18292" id="15921521-6734" start="18288">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149863">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="18332" id="15921521-92246" start="18325">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148693">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="18343" id="15921521-6736" start="18339">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148881">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="18389" id="15921521-92252" start="18382">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149909">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="18408" id="15921521-92254" start="18402">Genome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149769">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="18518" id="15921521-92258" start="18511">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148615">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="18547" id="15921521-92262" start="18540">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149209">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="18700" id="15921521-92266" start="18693">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149963">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="18944" id="15921521-92276" start="18939">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149941">
+            <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
+            <span end="19181" id="15921521-92288" start="19171">regions of</span>
+            <span end="19203" id="15921521-92289" start="19192">chromosomes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148249">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="19283" id="15921521-92295" start="19278">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149403">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="19384" id="15921521-6740" start="19380">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148473">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="19409" id="15921521-6742" start="19405">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149065">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="19433" id="15921521-6744" start="19429">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148439">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="19459" id="15921521-6746" start="19455">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149265">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="19479" id="15921521-92317" start="19475">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148719">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="19511" id="15921521-92321" start="19505">Genome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148831">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="19689" id="15921521-92327" start="19684">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148895">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="19837" id="15921521-6748" start="19833">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149441">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="19921" id="15921521-92349" start="19916">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149327">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="19945" id="15921521-6754" start="19941">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148789">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20128" id="15921521-6760" start="20124">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149753">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="20169" id="15921521-92383" start="20165">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149855">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20180" id="15921521-6762" start="20176">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148735">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="20294" id="15921521-92403" start="20289">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148467">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20328" id="15921521-6766" start="20324">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149667">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20354" id="15921521-6768" start="20350">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149083">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20380" id="15921521-6770" start="20376">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148975">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20426" id="15921521-6772" start="20422">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149839">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20447" id="15921521-6774" start="20443">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149013">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20504" id="15921521-6776" start="20500">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149647">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20590" id="15921521-6780" start="20586">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149525">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20682" id="15921521-6782" start="20678">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149591">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20794" id="15921521-6788" start="20790">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148835">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20866" id="15921521-6790" start="20862">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148591">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="20960" id="15921521-6796" start="20956">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148931">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="21063" id="15921521-6798" start="21059">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148643">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="21165" id="15921521-92508" start="21160">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148457">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="21171" id="15921521-6800" start="21167">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149849">
+            <class id="http://purl.obolibrary.org/obo/SO_0000771" label="QTL" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="21308" id="15921521-92520" start="21305">QTL</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149969">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="21373" id="15921521-6804" start="21369">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149877">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="21406" id="15921521-6806" start="21402">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148821">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="21444" id="15921521-6808" start="21440">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148893">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="21485" id="15921521-6810" start="21481">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148411">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="21524" id="15921521-6812" start="21520">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148739">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="21567" id="15921521-6814" start="21563">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148267">
+            <class id="http://craftcorpus.org/CRAFT_chromosome" label="chromosome"/>
+            <span end="21627" id="15921521-6816" start="21623">chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149193">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="21672" id="15921521-92556" start="21667">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148363">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="21869" id="15921521-92572" start="21864">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149429">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="21932" id="15921521-92578" start="21928">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149897">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="22957" id="15921521-92665" start="22950">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149837">
+            <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
+            <span end="23008" id="15921521-92667" start="22993">regions on chr.</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148945">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="23209" id="15921521-92683" start="23204">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149731">
+            <class id="http://craftcorpus.org/CRAFT_sequence_polymorphism" label="sequence polymorphism"/>
+            <span end="23462" id="15921521-92696" start="23449">polymorphisms</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148565">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="23503" id="15921521-92700" start="23498">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149411">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="23583" id="15921521-92706" start="23574">Wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149637">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="23597" id="15921521-92710" start="23593">null</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149531">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="23627" id="15921521-92714" start="23620">genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148371">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation" label="occurrence/effect of sequence mutation"/>
+            <span end="23961" id="15921521-92720" start="23953">mutation</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149533">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="23981" id="15921521-92724" start="23977">gene</span>
+        </annotation>
+        <annotation id="15921521-391549">
+            <class id="http://craftcorpus.org/CRAFT_plus_minus_diploid_genotype" label="+/- diploid genotype"/>
+            <span end="24087" id="15921521-391550" start="24084">+/-</span>
+        </annotation>
+        <annotation id="15921521-391551">
+            <class id="http://craftcorpus.org/CRAFT_plus_minus_diploid_genotype" label="+/- diploid genotype"/>
+            <span end="24145" id="15921521-391552" start="24142">+/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148325">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="24191" id="15921521-92744" start="24185">genome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148649">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="24319" id="15921521-92754" start="24310">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149229">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="24344" id="15921521-92758" start="24337">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148743">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="24381" id="15921521-92762" start="24372">wild type</span>
+        </annotation>
+        <annotation id="15921521-391426">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="24391" id="15921521-391427" start="24388">+/+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148603">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="24417" id="15921521-92772" start="24413">null</span>
+        </annotation>
+        <annotation id="15921521-392206">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="24427" id="15921521-392207" start="24424">-/-</span>
+        </annotation>
+        <annotation id="15921521-413651">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_genotyping" label="occurrence/attribute of genotyping"/>
+            <span end="24451" id="15921521-413652" start="24442">genotyped</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148851">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="24694" id="15921521-92788" start="24685">Wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148631">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25179" id="15921521-92812" start="25172">Genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149033">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25216" id="15921521-92814" start="25210">Genome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148151">
+            <class id="http://purl.obolibrary.org/obo/SO_0000207" label="simple_sequence_length_variation" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25466" id="15921521-92824" start="25431">simple sequence length polymorphism</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148887">
+            <class id="http://purl.obolibrary.org/obo/SO_0000207" label="simple_sequence_length_variation" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25472" id="15921521-92826" start="25468">SSLP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148405">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25508" id="15921521-92828" start="25501">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148897">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25547" id="15921521-92830" start="25540">alleles</span>
+        </annotation>
+        <annotation id="15921521-414284">
+            <class id="http://purl.obolibrary.org/obo/SO_0000207" label="simple_sequence_length_variation" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25558" id="15921521-414285" start="25554">SSLP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149807">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25739" id="15921521-92838" start="25735">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148713">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="25761" id="15921521-6852" start="25758">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149383">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25917" id="15921521-92850" start="25912">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148919">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="25956" id="15921521-92852" start="25949">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149967">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="25999" id="15921521-6854" start="25995">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148577">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="26040" id="15921521-92860" start="26036">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148823">
+            <class id="http://purl.obolibrary.org/obo/SO_0000121" label="forward_primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="26177" id="15921521-92872" start="26170">forward</span>
+            <span end="26267" id="15921521-92873" start="26260">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148299">
+            <class id="http://purl.obolibrary.org/obo/SO_0000132" label="reverse_primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="26224" id="15921521-92875" start="26217">reverse</span>
+            <span end="26267" id="15921521-92876" start="26260">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_149535">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="26614" id="15921521-92892" start="26610">Gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_148949">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="26844" id="15921521-92898" start="26835">genotypes</span>
+        </annotation>
+        <annotation id="15921521-391553">
+            <class id="http://craftcorpus.org/CRAFT_plus_minus_diploid_genotype" label="+/- diploid genotype"/>
+            <span end="26896" id="15921521-391554" start="26893">+/-</span>
+        </annotation>
+        <annotation id="15921521-413653">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_genotyping" label="occurrence/attribute of genotyping"/>
+            <span end="27401" id="15921521-413654" start="27391">genotyping</span>
+        </annotation>
+    </document>
+</knowtator-project>

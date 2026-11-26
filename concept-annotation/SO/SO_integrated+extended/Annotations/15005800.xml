@@ -1,0 +1,761 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="15005800" text-file="15005800.txt">
+        <annotation id="15005800-389541">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="745" id="15005800-389542" start="742">-/-</span>
+        </annotation>
+        <annotation id="15005800-389545">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="867" id="15005800-389546" start="864">-/-</span>
+        </annotation>
+        <annotation id="15005800-389549">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="959" id="15005800-389550" start="956">-/-</span>
+        </annotation>
+        <annotation id="15005800-389555">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="1050" id="15005800-389556" start="1047">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57869">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="1396" id="15005800-20596" start="1391">mRNAs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60653">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="1725" id="15005800-170587" start="1716">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389559">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="1797" id="15005800-389560" start="1794">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60723">
+            <class id="http://craftcorpus.org/CRAFT_bearer_of_null_variation" label="bearer of null variation"/>
+            <span end="1887" id="15005800-170611" start="1883">null</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58535">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation" label="occurrence/effect of sequence mutation"/>
+            <span end="3194" id="15005800-170697" start="3185">mutations</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59141">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3581" id="15005800-170721" start="3574">Genetic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59405">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3685" id="15005800-170735" start="3681">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57209">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4019" id="15005800-170759" start="4014">exons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60005">
+            <class id="http://purl.obolibrary.org/obo/SO_0000852" label="exon_region" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4041" id="15005800-170761" start="4029">part of exon</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58469">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4068" id="15005800-170767" start="4064">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57189">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="4314" id="15005800-170783" start="4310">null</span>
+        </annotation>
+        <annotation id="15005800-389563">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="4432" id="15005800-389564" start="4429">-/-</span>
+        </annotation>
+        <annotation id="15005800-389567">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="6673" id="15005800-389568" start="6670">-/-</span>
+        </annotation>
+        <annotation id="15005800-389573">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="7524" id="15005800-389574" start="7521">-/-</span>
+        </annotation>
+        <annotation id="15005800-389577">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="7716" id="15005800-389578" start="7713">-/-</span>
+        </annotation>
+        <annotation id="15005800-389581">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="7734" id="15005800-389582" start="7731">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58851">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="7935" id="15005800-171093" start="7926">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389585">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="8143" id="15005800-389586" start="8140">-/-</span>
+        </annotation>
+        <annotation id="15005800-389589">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="8225" id="15005800-389590" start="8222">-/-</span>
+        </annotation>
+        <annotation id="15005800-389594">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="8575" id="15005800-389595" start="8572">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58923">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="8743" id="15005800-171137" start="8734">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389599">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="9063" id="15005800-389600" start="9060">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60503">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="9226" id="15005800-171165" start="9217">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389604">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="9489" id="15005800-389605" start="9486">-/-</span>
+        </annotation>
+        <annotation id="15005800-389608">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="9589" id="15005800-389609" start="9586">-/-</span>
+        </annotation>
+        <annotation id="15005800-389614">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="9682" id="15005800-389615" start="9679">-/-</span>
+        </annotation>
+        <annotation id="15005800-389619">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="9777" id="15005800-389620" start="9774">-/-</span>
+        </annotation>
+        <annotation id="15005800-389625">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="9903" id="15005800-389626" start="9900">-/-</span>
+        </annotation>
+        <annotation id="15005800-389629">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="10085" id="15005800-389630" start="10082">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58741">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="10125" id="15005800-171225" start="10116">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389637">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="10419" id="15005800-389638" start="10416">+/+</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60153">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="10604" id="15005800-171261" start="10595">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389643">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="10609" id="15005800-389644" start="10606">+/+</span>
+        </annotation>
+        <annotation id="15005800-389648">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="10623" id="15005800-389649" start="10620">-/-</span>
+        </annotation>
+        <annotation id="15005800-389652">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="10628" id="15005800-389653" start="10625">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59453">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="10827" id="15005800-171283" start="10818">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389656">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="11456" id="15005800-389657" start="11453">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58751">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="11686" id="15005800-171353" start="11677">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389660">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="12295" id="15005800-389661" start="12292">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60107">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="12309" id="15005800-171381" start="12300">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58259">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="12597" id="15005800-171393" start="12588">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389664">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="13127" id="15005800-389665" start="13124">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58985">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="13153" id="15005800-171427" start="13144">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389668">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="13364" id="15005800-389669" start="13361">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57281">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="13740" id="15005800-171463" start="13731">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389675">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="13745" id="15005800-389676" start="13742">+/+</span>
+        </annotation>
+        <annotation id="15005800-389679">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="13807" id="15005800-389680" start="13804">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59915">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="14050" id="15005800-171479" start="14041">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60313">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="14219" id="15005800-171489" start="14210">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389684">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="14920" id="15005800-389685" start="14917">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57839">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="15176" id="15005800-171578" start="15167">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59615">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="15884" id="15005800-171619" start="15875">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57599">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="16560" id="15005800-171686" start="16551">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389688">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="16565" id="15005800-389689" start="16562">+/+</span>
+        </annotation>
+        <annotation id="15005800-389693">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="16584" id="15005800-389694" start="16581">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57489">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="16750" id="15005800-171708" start="16741">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58691">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="16960" id="15005800-171720" start="16951">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57507">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="17031" id="15005800-171722" start="17022">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58191">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="17089" id="15005800-171728" start="17080">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389698">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="17500" id="15005800-389699" start="17497">-/-</span>
+        </annotation>
+        <annotation id="15005800-389703">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="17589" id="15005800-389704" start="17586">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60607">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="17749" id="15005800-171782" start="17740">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58475">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="17859" id="15005800-171796" start="17855">null</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57403">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="18144" id="15005800-171814" start="18140">null</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58919">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="18393" id="15005800-171834" start="18384">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389707">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="18398" id="15005800-389708" start="18395">+/+</span>
+        </annotation>
+        <annotation id="15005800-389712">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="18417" id="15005800-389713" start="18414">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58471">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="19238" id="15005800-171900" start="19229">Wild type</span>
+        </annotation>
+        <annotation id="15005800-389721">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="19359" id="15005800-389722" start="19356">-/-</span>
+        </annotation>
+        <annotation id="15005800-389717">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="19412" id="15005800-389718" start="19409">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57931">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="19872" id="15005800-171952" start="19863">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57465">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="19886" id="15005800-171956" start="19882">null</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58305">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="20059" id="15005800-171970" start="20050">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57421">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="20074" id="15005800-171974" start="20070">null</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58341">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="20324" id="15005800-171998" start="20315">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389725">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="20329" id="15005800-389726" start="20326">+/+</span>
+        </annotation>
+        <annotation id="15005800-389730">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="20348" id="15005800-389731" start="20345">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59737">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="20449" id="15005800-172012" start="20440">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58081">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="20771" id="15005800-20700" start="20768">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57299">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="20786" id="15005800-172030" start="20777">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60835">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="20972" id="15005800-20704" start="20967">mRNAs</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57595">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="21035" id="15005800-172052" start="21026">genotypes</span>
+        </annotation>
+        <annotation id="15005800-389735">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="21046" id="15005800-389736" start="21043">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60577">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="21167" id="15005800-172078" start="21158">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58161">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="21998" id="15005800-172145" start="21994">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57631">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="22186" id="15005800-172172" start="22177">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58785">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="22614" id="15005800-172206" start="22605">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389739">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="22619" id="15005800-389740" start="22616">+/+</span>
+        </annotation>
+        <annotation id="15005800-389743">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="22743" id="15005800-389744" start="22740">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60999">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="23059" id="15005800-172260" start="23050">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58823">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="23394" id="15005800-172294" start="23385">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58309">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="23557" id="15005800-172306" start="23548">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389745">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="23862" id="15005800-389746" start="23859">-/-</span>
+        </annotation>
+        <annotation id="15005800-389749">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="24184" id="15005800-389750" start="24181">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59191">
+            <class id="http://purl.obolibrary.org/obo/SO_0001060" label="sequence_variant" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="24444" id="15005800-172380" start="24437">isoform</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58277">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="24568" id="15005800-172400" start="24559">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389753">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="24581" id="15005800-389754" start="24578">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57199">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="25030" id="15005800-172443" start="25021">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389757">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="25043" id="15005800-389758" start="25040">-/-</span>
+        </annotation>
+        <annotation id="15005800-389761">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="25494" id="15005800-389762" start="25491">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59109">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="26374" id="15005800-172535" start="26365">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389765">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="26379" id="15005800-389766" start="26376">+/+</span>
+        </annotation>
+        <annotation id="15005800-389770">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="26398" id="15005800-389771" start="26395">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_61017">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="26785" id="15005800-172567" start="26776">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59733">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="26898" id="15005800-172575" start="26889">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389775">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="27558" id="15005800-389776" start="27555">-/-</span>
+        </annotation>
+        <annotation id="15005800-389779">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="27993" id="15005800-389780" start="27990">-/-</span>
+        </annotation>
+        <annotation id="15005800-389783">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="28045" id="15005800-389784" start="28042">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58711">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="28059" id="15005800-172672" start="28050">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59323">
+            <class id="http://craftcorpus.org/CRAFT_peptide_molecular_entity_or_group" label="peptide molecular entity or group"/>
+            <span end="28122" id="15005800-172680" start="28115">peptide</span>
+        </annotation>
+        <annotation id="15005800-389787">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="28423" id="15005800-389788" start="28420">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59073">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="28596" id="15005800-172718" start="28587">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389791">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="28821" id="15005800-389792" start="28818">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57683">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="28835" id="15005800-172744" start="28826">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59133">
+            <class id="http://craftcorpus.org/CRAFT_peptide_molecular_entity_or_group" label="peptide molecular entity or group"/>
+            <span end="28925" id="15005800-172756" start="28918">peptide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58981">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="29089" id="15005800-172760" start="29080">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389795">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="29094" id="15005800-389796" start="29091">+/+</span>
+        </annotation>
+        <annotation id="15005800-389800">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="29113" id="15005800-389801" start="29110">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57825">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="29876" id="15005800-172836" start="29867">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58193">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="30402" id="15005800-172882" start="30393">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58367">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="30711" id="15005800-172918" start="30707">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57395">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="30915" id="15005800-172936" start="30906">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60277">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="31254" id="15005800-172964" start="31245">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389805">
+            <class id="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype" label="+/+ diploid genotype"/>
+            <span end="31259" id="15005800-389806" start="31256">+/+</span>
+        </annotation>
+        <annotation id="15005800-389810">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="31278" id="15005800-389811" start="31275">-/-</span>
+        </annotation>
+        <annotation id="15005800-389815">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="31367" id="15005800-389816" start="31364">-/-</span>
+        </annotation>
+        <annotation id="15005800-389819">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="31480" id="15005800-389820" start="31477">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59895">
+            <class id="http://purl.obolibrary.org/obo/SO_0000756" label="cDNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="31659" id="15005800-173030" start="31655">cDNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58993">
+            <class id="http://purl.obolibrary.org/obo/SO_0000756" label="cDNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="31720" id="15005800-173036" start="31716">cDNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58619">
+            <class id="http://purl.obolibrary.org/obo/SO_0000756" label="cDNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="31861" id="15005800-173046" start="31857">cDNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60973">
+            <class id="http://purl.obolibrary.org/obo/SO_0000756" label="cDNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="32079" id="15005800-173066" start="32075">cDNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57639">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="32290" id="15005800-173080" start="32281">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389823">
+            <class id="http://craftcorpus.org/CRAFT_plus_minus_diploid_genotype" label="+/- diploid genotype"/>
+            <span end="32300" id="15005800-389824" start="32297">+/-</span>
+        </annotation>
+        <annotation id="15005800-389825">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="32313" id="15005800-389826" start="32310">-/-</span>
+        </annotation>
+        <annotation id="15005800-389831">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="32497" id="15005800-389832" start="32494">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59623">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="32515" id="15005800-173104" start="32506">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57717">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="32926" id="15005800-173138" start="32917">wild-type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60781">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation" label="occurrence/effect of sequence mutation"/>
+            <span end="34081" id="15005800-173234" start="34072">mutations</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57305">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="34090" id="15005800-173236" start="34085">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57509">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="34192" id="15005800-173248" start="34185">genetic</span>
+        </annotation>
+        <annotation id="15005800-389836">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="34439" id="15005800-389837" start="34436">-/-</span>
+        </annotation>
+        <annotation id="15005800-387411">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="34602" id="15005800-387412" start="34599">-/-</span>
+        </annotation>
+        <annotation id="15005800-389840">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="34637" id="15005800-389841" start="34634">-/-</span>
+        </annotation>
+        <annotation id="15005800-389844">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="35051" id="15005800-389845" start="35048">-/-</span>
+        </annotation>
+        <annotation id="15005800-389848">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="35617" id="15005800-389849" start="35614">-/-</span>
+        </annotation>
+        <annotation id="15005800-389852">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="35845" id="15005800-389853" start="35842">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58681">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="36024" id="15005800-173414" start="36020">gene</span>
+        </annotation>
+        <annotation id="15005800-389856">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="36805" id="15005800-389857" start="36802">-/-</span>
+        </annotation>
+        <annotation id="15005800-389860">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="36986" id="15005800-389861" start="36983">-/-</span>
+        </annotation>
+        <annotation id="15005800-387415">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="37058" id="15005800-387416" start="37055">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58433">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="37088" id="15005800-173511" start="37079">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389864">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="37206" id="15005800-389865" start="37203">-/-</span>
+        </annotation>
+        <annotation id="15005800-389868">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="37507" id="15005800-389869" start="37504">-/-</span>
+        </annotation>
+        <annotation id="15005800-389872">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="37536" id="15005800-389873" start="37533">-/-</span>
+        </annotation>
+        <annotation id="15005800-389876">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="37568" id="15005800-389877" start="37565">-/-</span>
+        </annotation>
+        <annotation id="15005800-389880">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="37644" id="15005800-389881" start="37641">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58407">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="38218" id="15005800-173625" start="38214">null</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59943">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="38348" id="15005800-173639" start="38344">null</span>
+        </annotation>
+        <annotation id="15005800-389893">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="38613" id="15005800-389894" start="38610">-/-</span>
+        </annotation>
+        <annotation id="15005800-389885">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="38658" id="15005800-389886" start="38655">-/-</span>
+        </annotation>
+        <annotation id="15005800-389897">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="39525" id="15005800-389898" start="39522">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57503">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="39681" id="15005800-173747" start="39672">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389889">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="39694" id="15005800-389890" start="39691">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58257">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="39831" id="15005800-173759" start="39822">genotypes</span>
+        </annotation>
+        <annotation id="15005800-389901">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="39924" id="15005800-389902" start="39921">-/-</span>
+        </annotation>
+        <annotation id="15005800-389905">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="40013" id="15005800-389906" start="40010">-/-</span>
+        </annotation>
+        <annotation id="15005800-389909">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="40446" id="15005800-389910" start="40443">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58235">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="40680" id="15005800-173829" start="40671">wild-type</span>
+        </annotation>
+        <annotation id="15005800-389913">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="40815" id="15005800-389914" start="40812">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58247">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="41031" id="15005800-173865" start="41027">gene</span>
+        </annotation>
+        <annotation id="15005800-389917">
+            <class id="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype" label="-/- diploid genotype"/>
+            <span end="41286" id="15005800-389918" start="41283">-/-</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57627">
+            <class id="http://craftcorpus.org/CRAFT_sequence_nullness" label="sequence nullness"/>
+            <span end="41999" id="15005800-173925" start="41995">null</span>
+        </annotation>
+        <annotation id="15005800-413539">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_genotyping" label="occurrence/attribute of genotyping"/>
+            <span end="43615" id="15005800-413540" start="43605">Genotyping</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59805">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="43758" id="15005800-174022" start="43750">genotype</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59067">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="46291" id="15005800-174122" start="46283">genotype</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_60883">
+            <class id="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer" label="genotype sequence entity or bearer"/>
+            <span end="47505" id="15005800-174215" start="47497">genotype</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59305">
+            <class id="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_post_translational_modification" label="occurrence/effect of post-translational modification"/>
+            <span end="48231" id="15005800-174261" start="48199">post-translational modifications</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_61007">
+            <class id="http://craftcorpus.org/CRAFT_RNA" label="RNA"/>
+            <span end="49008" id="15005800-20884" start="49005">RNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57337">
+            <class id="http://purl.obolibrary.org/obo/SO_0000756" label="cDNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="49045" id="15005800-174299" start="49041">cDNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_58275">
+            <class id="http://purl.obolibrary.org/obo/SO_0000756" label="cDNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="49226" id="15005800-174315" start="49222">cDNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59531">
+            <class id="http://purl.obolibrary.org/obo/SO_0000756" label="cDNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="49289" id="15005800-174327" start="49285">cDNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59441">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="49306" id="15005800-174329" start="49299">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_61001">
+            <class id="http://purl.obolibrary.org/obo/SO_0000077" label="antisense"/>
+            <span end="49354" id="15005800-174331" start="49345">antisense</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_57641">
+            <class id="http://purl.obolibrary.org/obo/SO_0000756" label="cDNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="49783" id="15005800-174339" start="49779">cDNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_59727">
+            <class id="http://purl.obolibrary.org/obo/SO_0000155" label="plasmid" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="49865" id="15005800-174355" start="49857">plasmids</span>
+        </annotation>
+    </document>
+</knowtator-project>

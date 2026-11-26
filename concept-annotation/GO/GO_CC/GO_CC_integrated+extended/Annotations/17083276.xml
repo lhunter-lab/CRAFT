@@ -431,9 +431,17 @@
             <class id="http://purl.obolibrary.org/obo/GO_0000792" label="heterochromatin"/>
             <span end="12814" id="17083276-151475" start="12799">heterochromatin</span>
         </annotation>
+        <annotation id="17083276-414318">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="12959" id="17083276-414319" start="12948">pericentric</span>
+        </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_261181">
             <class id="http://craftcorpus.org/CRAFT_centromere" label="centromere"/>
             <span end="12991" id="17083276-151481" start="12964">centric chromosomal regions</span>
+        </annotation>
+        <annotation id="17083276-414320">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="13112" id="17083276-414321" start="13101">Pericentric</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_260015">
             <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
@@ -444,9 +452,21 @@
             <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
             <span end="13265" id="17083276-151494" start="13258">nucleus</span>
         </annotation>
+        <annotation id="17083276-414322">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="13315" id="17083276-414323" start="13304">pericentric</span>
+        </annotation>
+        <annotation id="17083276-414338">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_with_a_centromeric_sequence" label="attribute of association with a centromeric sequence"/>
+            <span end="13331" id="17083276-414339" start="13324">centric</span>
+        </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_261459">
             <class id="http://purl.obolibrary.org/obo/GO_0005721" label="pericentric heterochromatin"/>
             <span end="13467" id="17083276-151502" start="13440">pericentric heterochromatin</span>
+        </annotation>
+        <annotation id="17083276-414258">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="13569" id="17083276-414259" start="13558">pericentric</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_262937">
             <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
@@ -464,6 +484,10 @@
         <annotation id="CRAFT_aggregate_ontology_Instance_260439">
             <class id="http://purl.obolibrary.org/obo/GO_0005721" label="pericentric heterochromatin"/>
             <span end="14186" id="17083276-151529" start="14159">pericentric heterochromatin</span>
+        </annotation>
+        <annotation id="17083276-414340">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_with_a_centromeric_sequence" label="attribute of association with a centromeric sequence"/>
+            <span end="14216" id="17083276-414341" start="14209">centric</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_262349">
             <class id="http://purl.obolibrary.org/obo/GO_0005721" label="pericentric heterochromatin"/>
@@ -484,6 +508,10 @@
         <annotation id="CRAFT_aggregate_ontology_Instance_261883">
             <class id="http://purl.obolibrary.org/obo/GO_0000785" label="chromatin"/>
             <span end="14929" id="17083276-151566" start="14920">chromatin</span>
+        </annotation>
+        <annotation id="17083276-414264">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="14947" id="17083276-414265" start="14936">pericentric</span>
         </annotation>
         <annotation id="17083276-399132">
             <class id="http://purl.obolibrary.org/obo/GO_0000785" label="chromatin"/>
@@ -517,6 +545,10 @@
             <class id="http://purl.obolibrary.org/obo/GO_0005721" label="pericentric heterochromatin"/>
             <span end="15840" id="17083276-151636" start="15813">pericentric heterochromatin</span>
         </annotation>
+        <annotation id="17083276-414270">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="16213" id="17083276-414271" start="16202">pericentric</span>
+        </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_261125">
             <class id="http://purl.obolibrary.org/obo/GO_0000792" label="heterochromatin"/>
             <span end="16280" id="17083276-151672" start="16265">heterochromatin</span>
@@ -525,6 +557,10 @@
             <class id="http://purl.obolibrary.org/obo/GO_0000792" label="heterochromatin"/>
             <span end="16452" id="17083276-151690" start="16437">heterochromatin</span>
         </annotation>
+        <annotation id="17083276-414272">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="16527" id="17083276-414273" start="16516">pericentric</span>
+        </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_260691">
             <class id="http://purl.obolibrary.org/obo/GO_0000785" label="chromatin"/>
             <span end="16621" id="17083276-151706" start="16612">chromatin</span>
@@ -532,6 +568,10 @@
         <annotation id="CRAFT_aggregate_ontology_Instance_262875">
             <class id="http://purl.obolibrary.org/obo/GO_0000785" label="chromatin"/>
             <span end="16683" id="17083276-151708" start="16674">chromatin</span>
+        </annotation>
+        <annotation id="17083276-414274">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="16715" id="17083276-414275" start="16704">pericentric</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_260785">
             <class id="http://purl.obolibrary.org/obo/GO_0042571" label="immunoglobulin complex, circulating"/>
@@ -542,7 +582,7 @@
             <span end="17052" id="17083276-151720" start="17025">pericentric heterochromatin</span>
         </annotation>
         <annotation id="17083276-402706">
-            <class id="http://craftcorpus.org/CRAFT_absence_of_association_with_any_centromere" label="absence of association with any centromere"/>
+            <class id="http://craftcorpus.org/CRAFT_absence_of_centromeric_association" label="absence of centromeric association"/>
             <span end="17218" id="17083276-402707" start="17204">noncentromeric</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_260535">
@@ -613,6 +653,10 @@
             <class id="http://purl.obolibrary.org/obo/GO_0000792" label="heterochromatin"/>
             <span end="19559" id="17083276-151874" start="19544">heterochromatin</span>
         </annotation>
+        <annotation id="17083276-414280">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="19634" id="17083276-414281" start="19623">pericentric</span>
+        </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_261263">
             <class id="http://purl.obolibrary.org/obo/GO_0033186" label="CAF-1 complex"/>
             <span end="19676" id="17083276-151878" start="19671">CAF-1</span>
@@ -676,6 +720,10 @@
         <annotation id="CRAFT_aggregate_ontology_Instance_262079">
             <class id="http://purl.obolibrary.org/obo/GO_0033186" label="CAF-1 complex"/>
             <span end="20898" id="17083276-151979" start="20893">CAF-1</span>
+        </annotation>
+        <annotation id="17083276-414282">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="20961" id="17083276-414283" start="20950">pericentric</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_261155">
             <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
@@ -764,6 +812,10 @@
         <annotation id="CRAFT_aggregate_ontology_Instance_260299">
             <class id="http://purl.obolibrary.org/obo/GO_0000792" label="heterochromatin"/>
             <span end="22945" id="17083276-152134" start="22930">heterochromatin</span>
+        </annotation>
+        <annotation id="17083276-414288">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="23015" id="17083276-414289" start="23004">pericentric</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_260503">
             <class id="http://purl.obolibrary.org/obo/GO_0000792" label="heterochromatin"/>
@@ -1026,10 +1078,22 @@
             <class id="http://purl.obolibrary.org/obo/GO_0005721" label="pericentric heterochromatin"/>
             <span end="39302" id="17083276-153363" start="39275">Pericentric Heterochromatin</span>
         </annotation>
+        <annotation id="17083276-414292">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="39339" id="17083276-414293" start="39328">pericentric</span>
+        </annotation>
+        <annotation id="17083276-414342">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_with_a_centromeric_sequence" label="attribute of association with a centromeric sequence"/>
+            <span end="39357" id="17083276-414343" start="39350">centric</span>
+        </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_261921">
             <class id="http://purl.obolibrary.org/obo/GO_0005634" label="nucleus"/>
             <span end="39414" id="17083276-153367" start="39405">nuclei of</span>
             <span end="39429" id="17083276-153368" start="39424">cells</span>
+        </annotation>
+        <annotation id="17083276-414294">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="39597" id="17083276-414295" start="39586">pericentric</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_262487">
             <class id="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site" label="chromosomal interval/location/part/portion/position/region/segment/site"/>
@@ -1040,9 +1104,29 @@
             <class id="http://purl.obolibrary.org/obo/GO_0010369" label="chromocenter"/>
             <span end="39679" id="17083276-153395" start="39666">chromocenters</span>
         </annotation>
+        <annotation id="17083276-414344">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_with_a_centromeric_sequence" label="attribute of association with a centromeric sequence"/>
+            <span end="39751" id="17083276-414345" start="39744">centric</span>
+        </annotation>
+        <annotation id="17083276-414296">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="39891" id="17083276-414297" start="39880">pericentric</span>
+        </annotation>
+        <annotation id="17083276-414346">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_with_a_centromeric_sequence" label="attribute of association with a centromeric sequence"/>
+            <span end="39903" id="17083276-414347" start="39896">centric</span>
+        </annotation>
+        <annotation id="17083276-414298">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="39954" id="17083276-414299" start="39943">pericentric</span>
+        </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_261725">
             <class id="http://purl.obolibrary.org/obo/GO_0010369" label="chromocenter"/>
             <span end="40057" id="17083276-153407" start="40044">chromocenters</span>
+        </annotation>
+        <annotation id="17083276-414300">
+            <class id="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere" label="attribute of association near a centromere"/>
+            <span end="40070" id="17083276-414301" start="40059">pericentric</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_261701">
             <class id="http://purl.obolibrary.org/obo/GO_0034399" label="nuclear periphery"/>

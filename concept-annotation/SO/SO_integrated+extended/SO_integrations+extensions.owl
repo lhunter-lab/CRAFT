@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:craft="http://craftcorpus.org/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:obo="http://purl.obolibrary.org/obo/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000817</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of a genotype being found in nature and/or in standard laboratory stock; or, a bearer of such an attribute.</obo:IAO_0000115>
+    <rdfs:label>wild-type attribute or bearer</rdfs:label>
+    <craft:annotatable_text>wild; wildtype; wild-type; wild type; wild types; wt; WTs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_evolutionary_conservation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000856</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of the maintenance by natural selection of the presence of identical biomacromolecular sequences or phenotypes across species; or, an attribute of such an occurrence, e.g., of being or having been maintained in such a manner.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of evolutionary conservation</rdfs:label>
+    <craft:annotatable_text>conservation; conservations; conserve; conserves; conserved; conserving; evolutionary conservation; evolutionary conservations; evolutionarily conserved</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_centromeric_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_SO_class>http://purl.obolibrary.org/obo/SO_0000577</craft:has_entailed_absence_of_association_with_SO_class>
+    <obo:IAO_0000115>An absence of an of association with (e.g., involving, possessing, being situated at) any centromere.</obo:IAO_0000115>
+    <rdfs:label>absence of centromeric association</rdfs:label>
+    <craft:annotatable_text>noncentromeric; non-centromeric</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_epitope">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0001018</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>An entity, part of an antigen, that bears a capability of binding to a receptor and being recognized by an immune system.</obo:IAO_0000115>
+    <rdfs:label>epitope</rdfs:label>
+    <craft:annotatable_text>epitope; epitopes</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_SO_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_SO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_oligonucleotide">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000696</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>A nucleobase-containing molecular entity with an oligomeric structure comprised of a linear sequence of nucleotide residues. An oligonucleotide must contain at least 2 nucleotide residues and typically contains fewer than 30.</obo:IAO_0000115>
+    <rdfs:label>oligonucleotide</rdfs:label>
+    <craft:annotatable_text>oligo; oligos; oligonucleotide; oligonucleotides</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_polypeptide">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000104</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>A peptide containing ten or more amino acid residues.</obo:IAO_0000115>
+    <rdfs:label>polypeptide</rdfs:label>
+    <craft:annotatable_text>polypeptide; polypeptides</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_gene_trap_construct_or_insertion">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001477</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A type of engineered plasmid construct designed to integrate into a genome and produce a fusion transcript between exons of the gene into which it inserts and a reporter element in the construct; or, an insertion that is the result of the integration of such a construct.</obo:IAO_0000115>
+    <rdfs:label>gene trap construct or insertion</rdfs:label>
+    <craft:annotatable_text>gene trap; gene traps; gene-trap; gene-traps</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_promoterless_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_SO_class>http://purl.obolibrary.org/obo/SO_0000167</craft:has_entailed_absence_of_association_with_SO_class>
+    <obo:IAO_0000115>An absence of an association with (e.g., involving, possessing) any promoter.</obo:IAO_0000115>
+    <rdfs:label>attribute of promoterless association</rdfs:label>
+    <craft:annotatable_text>promoterless; promoter-less</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glutamic_acid_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001454</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A glutamic acid as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>glutamic acid molecular entity or group</rdfs:label>
+    <craft:annotatable_text>glutamic acid; glutamic acids</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transgenic_attribute_or_bearer">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000902</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of being transgenic (i.e., transferred naturally or by genetic engineering from one organims to another); or, a bearer of such an attribute.</obo:IAO_0000115>
+    <rdfs:label>transgenic attribute or bearer</rdfs:label>
+    <craft:annotatable_text>Tg; transgenic; transgenics; transgenically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_tRNA_Trp">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000271</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>A tryptophanyl transfer RNA.</obo:IAO_0000115>
+    <rdfs:label>tRNA(Trp)</rdfs:label>
+    <craft:annotatable_text>tryptophanyl tRNA; tryptophanyl tRNAs; tRNA(Trp)</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_aspartic_acid_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001453</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An aspartic acid as a free molecular entity or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>aspartic acid molecular entity or group</rdfs:label>
+    <craft:annotatable_text>aspartic acid; aspartic acids</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_methionine_molecule_or_residue">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001442</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A methionine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>methionine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>M; Met; methionine; methionines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_gene_product">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000673</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A biomacromolecular product, either RNA or protein, resulting from the expression of a gene.</obo:IAO_0000115>
+    <rdfs:label>gene product</rdfs:label>
+    <craft:annotatable_text>gene product; gene products</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_nonmutant_attribute_or_bearer">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_SO_class>http://purl.obolibrary.org/obo/SO_0001060</craft:has_entailed_absence_of_association_with_SO_class>
+    <obo:IAO_0000115>An attribute of not bearing mutation; or, something not bearing mutation.</obo:IAO_0000115>
+    <rdfs:label>nonmutant attribute or bearer</rdfs:label>
+    <craft:annotatable_text>nonmutant; nonmutants; non-mutant; non-mutants</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_sequence_nullness_or_absence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_prototypically_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0002055</craft:has_prototypically_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of a biomacromolecular sequence being absent, nonfunctional, and/or not being produced.</obo:IAO_0000115>
+    <rdfs:label>sequence nullness or absence</rdfs:label>
+    <craft:annotatable_text>-</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_material_or_informational_biomacromolecular_sequence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000001</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A material or informational biomacromolecular sequence feature with an extent greater than zero, as a stretch of biomacromolecular sequence units.</obo:IAO_0000115>
+    <rdfs:label>material or informational biomacromolecular sequence</rdfs:label>
+    <craft:annotatable_text>sequence; sequences</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_poly_A_or_dA_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001441</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A poly(A) or poly(dA) as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>poly(A) or poly(dA) molecular entity or group</rdfs:label>
+    <craft:annotatable_text>poly A; poly A*; poly A+; polyA; polyA*; polyA+; poly(A); poly-A</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_fused_gene">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000287</craft:has_deductively_entailed_SO_class>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001565</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A variant whereby two or more genes become joined.</obo:IAO_0000115>
+    <rdfs:label>fused gene</rdfs:label>
+    <craft:annotatable_text>fusion gene; fusion genes; fusion of gene; fusions of genes; gene fusion; gene fusions</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_prototypically_entailed_SO_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_SO_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_SO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_DNA_recombinant_entity">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000298</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A recombinant entity, i.e., one in which DNA recombination has occurred.</obo:IAO_0000115>
+    <rdfs:label>DNA-recombinant entity</rdfs:label>
+    <craft:annotatable_text>recombinant; recombinants</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_phenylalanine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001441</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A phenylalanine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>phenylalanine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>F; Phe; phenylalanine; phenylalanines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_physical_mapping">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001249</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence or attribute of producing a physical map of a sequence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of physical mapping</rdfs:label>
+    <craft:annotatable_text>physical mapping</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_radiation_hybrid_mapping">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001252</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence or attribute of producing a radiation hybrid map.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of radiation hybrid mapping</rdfs:label>
+    <craft:annotatable_text>radiation hybrid mapping; RH mapping</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_splice_acceptor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0000164</craft:has_subsumed_SO_class>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0000706</craft:has_subsumed_SO_class>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001570</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A site located at the 3' end of an intron, defining the boundary between the intron and the adjacent exon at which splicing is to occur.</obo:IAO_0000115>
+    <rdfs:label>splice acceptor</rdfs:label>
+    <craft:annotatable_text>splice-acceptor; splice-acceptors; splice acceptor; splice acceptors; splice-acceptor site; splice-acceptor sites; splice acceptor site; splice acceptor sites</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_inosine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001230</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An inosine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>inosine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>I; inosine; inosines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_sequence_cloned_entity">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000151</craft:has_deductively_entailed_SO_class>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001059</craft:has_deductively_entailed_SO_class>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001060</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A cloned biomacromolecular sequence with one or more alterations/variations, or something (e.g., cell) that bears one or more such sequences.</obo:IAO_0000115>
+    <rdfs:label>sequence-cloned entity</rdfs:label>
+    <craft:annotatable_text>clone; clones</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_tryptophan_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001440</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A tryptophan as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>tryptophan molecular entity or group</rdfs:label>
+    <craft:annotatable_text>Trp; tryptophan; tryptophans; W</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_telomere">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000624</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>An end of a linear chromosome, required for the integrity and maintenance of the end.</obo:IAO_0000115>
+    <rdfs:label>telomere</rdfs:label>
+    <craft:annotatable_text>telomere; telomeres; telomeric; telomeric chromosomal region; telomeric chromosomal regions; telomeric chromosomal segment; telomeric chromosomal segments; telomeric chromosome region; telomeric chromosome regions;  telomeric chromosome segment; telomeric chromosome segments; telomeric region; telomeric regions; telomeric region of chromosome; telomeric regions of chromosomes;  telomeric segment; telomeric segments; telomeric segment of chromosome; telomeric segments of chromosomes; telomerically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_monogenic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000704</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., involving, situatedness at) (only) one gene or one kind of gene.</obo:IAO_0000115>
+    <rdfs:label>attribute of monogenic association</rdfs:label>
+    <craft:annotatable_text>monogenic; monogenically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_bearer_of_sequence_mutation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001059</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of producing a sequence mutation/alteration; or, an attribute of a participant in such an occurrence, e.g., of being mutated, or of causing sequence mutation; or, a sequence mutation/alteration that is the result of such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute/bearer of sequence mutation</rdfs:label>
+    <craft:annotatable_text>mutant</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_minus_minus_diploid_genotype">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0002055</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A diploid genotype in which each of the two copies of a given genomic component is not functional or not produced.</obo:IAO_0000115>
+    <rdfs:label>-/- diploid genotype</rdfs:label>
+    <craft:annotatable_text>-/-</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_post_translational_modification">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001089</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of covalently altering one or more amino acids in a protein after the protein has been completely translated and released from the ribosome; or, the altered amino acid or chemical group that is a result of such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/effect of post-translational modification</rdfs:label>
+    <craft:annotatable_text>posttranslational modification; posttranslational modifications; post-translational modification; post-translational modifications; post translational modification; post translational modifications</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsuming_SO_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_deductively_entailed_SO_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_entailed_SO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_effect_of_frameshifting">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000865</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of a change in the parsing of three nucleotides per codon relative to an initiating AUG codon, resulting in a variant gene product; or, an attribute of such an occurrence, e.g., of undergoing or having undergone such a change; or, the variant sequence that is the result of such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute/effect of translational frameshifting</rdfs:label>
+    <craft:annotatable_text>frameshift; frameshifts; frameshifted; frameshifting; frameshiftings; frame shift; frame shifts; frame shifted; frame shifting; frame shiftings; frame-shift; frame-shifts; frame-shifted; frame-shifting; frame-shiftings; reading frameshift; reading frameshifts; reading frame shift; reading frame shifts; reading frame-shift; reading frame-shifts</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_sequence_polymorphism">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0000694</craft:has_subsumed_SO_class>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001013</craft:has_subsumed_SO_class>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001766</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of having more than one allele that occupies a given gene's locus within a population; or, a given variation of such an attribute.</obo:IAO_0000115>
+    <rdfs:label>sequence polymorphism</rdfs:label>
+    <craft:annotatable_text>polymorphic; polymorphism; polymorphisms</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_asparagine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001449</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An asparagine as a free molecular entity or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>asparagine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>Asn; asparagine; asparagines; N</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_DNA_recombination">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000298</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence in which a new genotype is formed by reassortment of genes resulting in gene combinations different from those that were present in the parents; or, a sequence that is a result of such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/effect of DNA recombination</rdfs:label>
+    <craft:annotatable_text>recombination; recombinations; recombinational; DNA recombination; DNA recombinations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_plus_plus_diploid_genotype">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000817</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A diploid genotype in which each of the two copies of a given genomic component is present/functional/wild-type.</obo:IAO_0000115>
+    <rdfs:label>+/+ diploid genotype</rdfs:label>
+    <craft:annotatable_text>+/+</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_sequence_linearization">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000987</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of making a sequence that has two ends, i.e., one that is not sequentially circular; or, an attribute of a participant in such an occurrence, e.g., an attribute of being or having been made to have two ends, or of effecting or capable of effecting such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of sequence linearization</rdfs:label>
+    <craft:annotatable_text>linearise; linearises; linearising; linearisings; linearised; linearize; linearizes; linearizing; linearizings; linearized</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_sequence_remutation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001059</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of an additional sequence mutation; or, an attribute of such an occurrence, e.g., of undergoing or having undergone an additional sequence mutation.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of sequence remutation</rdfs:label>
+    <craft:annotatable_text>remutate; remutated; remutates; remutating; remutation; remutations; re-mutate; re-mutated; re-mutates; re-mutating; re-mutation; re-mutations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_rRNA">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000252</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>A ribosomal RNA, an RNA molecule that is an essential structural and functional component of ribosomes, the subcellular units responsible for protein synthesis.</obo:IAO_0000115>
+    <rdfs:label>rRNA</rdfs:label>
+    <craft:annotatable_text>ribosomal RNA; ribosomal RNAs; rRNA; rRNAs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_coding_sequence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000316</craft:has_deductively_entailed_SO_class>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000851</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A complete or partial coding sequence.</obo:IAO_0000115>
+    <rdfs:label>coding sequence</rdfs:label>
+    <craft:annotatable_text>CDS; coding region; coding region; coding sequence; coding sequences</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_allelism">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001023</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of existence/occurrence of two or more alleles of a given gene.</obo:IAO_0000115>
+    <rdfs:label>allelism</rdfs:label>
+    <craft:annotatable_text>allelism</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_intronic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_SO_class>http://purl.obolibrary.org/obo/SO_0000188</craft:has_entailed_absence_of_association_with_SO_class>
+    <obo:IAO_0000115>An absence of an of association with (e.g., involving, possessing) any intron.</obo:IAO_0000115>
+    <rdfs:label>absence of intronic association</rdfs:label>
+    <craft:annotatable_text>intronless; intron-less</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_sequence_recircularization">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000988</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of making a sequence that has no ends (i.e., no terminal nucleotide residues) again or of once more; or, an attribute of a participant in such an occurrence, e.g., an attribute of being or having been made to have no ends again or once more, or of effecting or capable of effecting such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of sequence recircularization</rdfs:label>
+    <craft:annotatable_text>recircularise; recircularises; recircularising; recircularisings; recircularised; re-circularise; re-circularises; re-circularising; re-circularisings; re-circularised; 
+recircularize; recircularizes; recircularizing; recircularizings; recircularized; re-circularize; re-circularizes; re-circularizing; re-circularizings; re-circularized</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_missense_variation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001583</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of sequence variation in which change in one or more bases has resulted in a different amino acid sequence but where the length is preserved.</obo:IAO_0000115>
+    <rdfs:label>attribute of missense variation</rdfs:label>
+    <craft:annotatable_text>missense</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_oligogenic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000704</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., involving, situatedness at) a small number of genes or kinds of genes.</obo:IAO_0000115>
+    <rdfs:label>attribute of oligogenic association</rdfs:label>
+    <craft:annotatable_text>oligogenic; oligogenically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_interallelic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001023</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of an association (e.g., involving, situatedness) between/among two or more alleles.</obo:IAO_0000115>
+    <rdfs:label>attribute of interallelic association</rdfs:label>
+    <craft:annotatable_text>interallelic; interallelically; inter-allelic; inter-allelically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_genotyping">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001027</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of determining the genotype of something; or, an attribute of the role of a participant in such an occurrence, e.g., an attribute of having or having had one's genotype determined.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of genotyping</rdfs:label>
+    <craft:annotatable_text>genotype; genotypes; genotyping; genotypings; genotyped</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/annotatable_text">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">annotatable text</rdfs:label>
+    <rdfs:label>annotatable text</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glutamate_or_glutamic_acid_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001454</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A glutamate or glutamic acid as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>glutamate/glutamic acid molecular entity or group</rdfs:label>
+    <craft:annotatable_text>Glu</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_or_bearer_of_epigenetic_modification">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001720</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of producing an epigenetically modification; or, an attribute of a participant in such an occurrence, e.g., of being epigenetically modified, or of causing epigenetic modification; or, a modification that is the result of such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute/bearer of epigenetic modification</rdfs:label>
+    <craft:annotatable_text>epigenetic; epigenetically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_translational_stop_site_or_occurrence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000319</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of termination of peptide translation; or, a site of a sequence where peptide translation can terminate.</obo:IAO_0000115>
+    <rdfs:label>translational stop site or occurrence</rdfs:label>
+    <craft:annotatable_text>translation stop; translational stop</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_promoter_trap_construct_or_insertion">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001478</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A type of engineered plasmid construct designed to integrate into a genome and express a reporter when inserted in close proximity to a promoter element; or, an insertion that is the result of the integration of such a construct.</obo:IAO_0000115>
+    <rdfs:label>promoter trap construct or insertion</rdfs:label>
+    <craft:annotatable_text>promoter trap; promoter traps</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_transgenic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_SO_class>http://purl.obolibrary.org/obo/SO_0000902</craft:has_entailed_absence_of_association_with_SO_class>
+    <obo:IAO_0000115>An attribute of an absence of an association with a transgene.</obo:IAO_0000115>
+    <rdfs:label>absence of transgenic association</rdfs:label>
+    <craft:annotatable_text>nontransgenic; non-transgenic; ntg</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transcriptional_start_site_or_occurrence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000315</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of initiation of RNA transcription; or, a site of a sequence where RNA transcription can initiate.</obo:IAO_0000115>
+    <rdfs:label>transcriptional start site or occurrence</rdfs:label>
+    <craft:annotatable_text>transcription start; transcriptional start</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_centromere">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000577</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>A region of a chromosome that includes the centromeric DNA and associated proteins.</obo:IAO_0000115>
+    <rdfs:label>centromere</rdfs:label>
+    <craft:annotatable_text>centric chromosomal region; centric chromosomal regions; centric chromosome region; centric chromosome regions; centromere; centromeres; centromeric; centromeric region; centromeric regions</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_sequence_normalness_or_presence_or_wildtypeness">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_prototypically_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000817</craft:has_prototypically_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of a biomacromolecular sequence being normal, present, and/or wild-type.</obo:IAO_0000115>
+    <rdfs:label>sequence normalness, presence or wildtypeness</rdfs:label>
+    <craft:annotatable_text>+</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_sequence_altered_entity">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001059</craft:has_deductively_entailed_SO_class>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001060</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A biomacromolecular sequence with one or more alterations/variations, or something (e.g., cell, organism) that bears one or more such sequences.</obo:IAO_0000115>
+    <rdfs:label>sequence-altered entity</rdfs:label>
+    <craft:annotatable_text>mutant; mutants</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_chromosomal_part_or_position_or_region_or_segment_or_site">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000830</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>An interval, location, part, position, portion, region, segment, or site of/on a chromosome.</obo:IAO_0000115>
+    <rdfs:label>chromosomal interval/location/part/portion/position/region/segment/site</rdfs:label>
+    <craft:annotatable_text>chromosomal domain; chromosomal domains; chromosomal location; chromosomal locations; chromosomal locus; chromosomal loci; chromosomal interval; chromosomal intervals; chromosomal part; chromosomal parts; chromosomal portion; chromosomal portions; chromosomal position; chromosomal positions; chromosomal region; chromosomal regions; chromosomal segment; chromosomal segments; chromosomal site; chromosoma sites; chromosomal stretch; chromosomal stretches; chromosome domain; chromosome domains; chromosome interval; chromosome intervals; chromosome location; chromosome locations; chromosome locus; chromosome loci; chromosome part; chromosome parts; chromosome portion; chromosome portions; chromosome position; chromosome positions; chromosome region; chromosome regions; chromosome segment; chromosome segments; chromosome site; chromosome sites; chromosome stretch; chromosome stretches; domain of chromosome; domains of chromosome; interval of chromosome; intervals of chromosome; locus of chromosome; loci of chromosome; part of chromosome; parts of chromosome; portion of chromosome; portions of chromosome; region of chromosome; regions of chromosome; segment of chromosome; segments of chromosome; site of chromosome; sites of chromosome; stretch of chromosome; stretches of chromosome; domain on chromosome; domains of chromosome; interval on chromosome; intervals of chromosome; location on chromosome; locations on chromosome; locus on chromosome; loci on chromosome; part on chromosome; parts on chromosome; portion on chromosome; portions on chromosome; position on chromosome; positions on chromosome; region on chromosome; regions on chromosome; segment on chromosome; segments on chromosome; site on chromosome; sites on chromosome; stretch on chromosome; stretches on chromosome</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_enzyme">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001185</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A gene or gene product that bears the functionality of catalysis of a biochemical reaction at physiological temperatures.</obo:IAO_0000115>
+    <rdfs:label>enzyme</rdfs:label>
+    <craft:annotatable_text>enzymatic; enzymatically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transgenesis">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000902</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An integration of a transgene into an anatomical (e.g., cell, tissue) or organismal entity.</obo:IAO_0000115>
+    <rdfs:label>transgenesis</rdfs:label>
+    <craft:annotatable_text>transgenesis</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_sequence_mutation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001059</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of producing a sequence mutation/alteration; or, an attribute of a participant in such an occurrence, e.g., of being mutated, or of causing sequence mutation.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of sequence mutation</rdfs:label>
+    <craft:annotatable_text>mutate; mutates; mutating; mutated; mutagenesis</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_valine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001436</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A valine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>valine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>V; Val; valine; valines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_amino_acid_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001237</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An amino acid as a free molecular entity or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>amino acid molecular entity or group</rdfs:label>
+    <craft:annotatable_text>aa; amino acid; amino acids</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_splice_donor">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0000163</craft:has_subsumed_SO_class>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0000707</craft:has_subsumed_SO_class>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001571</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A site located at the 5' end of an intron, defining the boundary between the intron and the adjacent exon at which splicing is to occur.</obo:IAO_0000115>
+    <rdfs:label>splice donor</rdfs:label>
+    <craft:annotatable_text>splice-donor; splice-donors; splice donor; splice donors; splice-donor site; splice-donor sites; splice donor site; splice donor sites</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_isoleucine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001438</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An isoleucine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>isoleucine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>I; Ile; isoleucine; isoleucines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_chromosome">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000340</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>A structure composed of a very long molecule of DNA that carries hereditary information, with or without associated proteins (e.g., histones).</obo:IAO_0000115>
+    <rdfs:label>chromosome</rdfs:label>
+    <craft:annotatable_text>chr; chromosomal; chromosomally; chromosome; chromosomes</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_gene_trapping">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001477</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence an attribute of employing a gene trap.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of gene trapping</rdfs:label>
+    <craft:annotatable_text>gene trapping; gene trappings; gene-trapping; gene-trappings; gene trapped; gene-trapped</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_a_centromeric_sequence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000577</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of an association with (e.g., situatedness at, involvement of, correlation with) a sequence that wholly or partly includes the sequence of a centromere.</obo:IAO_0000115>
+    <rdfs:label>attribute of association with a centromeric sequence</rdfs:label>
+    <craft:annotatable_text>centric</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_subgenome">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001026</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A subset of a genome, especially one that has a particular function.</obo:IAO_0000115>
+    <rdfs:label>subgenome</rdfs:label>
+    <craft:annotatable_text>subgenome; subgenomes; sub-genome; sub-genomes</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_biallelic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001023</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., involving, situatedness at) two alleles or two types of alleles.</obo:IAO_0000115>
+    <rdfs:label>attribute of biallelic association</rdfs:label>
+    <craft:annotatable_text>biallelic; biallelically; bi-allelic; bi-allelically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_DNA">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_bearer_of_attribute_interpretation>http://purl.obolibrary.org/obo/SO_0000352</craft:has_substitutable_SO_class_with_bearer_of_attribute_interpretation>
+    <obo:IAO_0000115>A DNA as a free molecular entity or as a substituent group, i.e., a DNA substring.</obo:IAO_0000115>
+    <rdfs:label>DNA</rdfs:label>
+    <craft:annotatable_text>deoxyribonucleic acid; DNA</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_histidine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001452</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A histidine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>histidine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>H; His; histidine; histidines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_plus_minus_diploid_genotype">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0002055</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A diploid genotype in which one of the two copies of a given genomic component is not functional or not produced and the other is present/functional/wild-type.</obo:IAO_0000115>
+    <rdfs:label>+/- diploid genotype</rdfs:label>
+    <craft:annotatable_text>+/-</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_cysteine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001447</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A cysteine as a free molecular entity or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>cysteine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>C; Cys; cysteine; cysteines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_alternatively_spliced_transcript_or_peptide">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_1001187</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An alternatively spliced transcript or peptide.</obo:IAO_0000115>
+    <rdfs:label>alternatively spliced transcript or peptide</rdfs:label>
+    <craft:annotatable_text>alternative splice form; alternative splice forms; alternative splice isoform; alternative splice isoforms; alternative splice product; alternative splice products;  alternative splice variant; alternative splice variants; alternatively spliced form; alternatively spliced forms; alternatively spliced isoform; alternatively spliced isoforms; alternatively spliced product; alternatively spliced products; alternatively spliced variant; alternatively spliced variants; splice form; splice forms; splice isoform; splice isoforms; splice variant; splice variants; spliced form; spliced forms; spliced isoform; spliced isoforms; spliced variant; spliced variants; splicing isoform; splicing isoforms; splicing variant; splicing variants</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_absence_of_allelic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_entailed_absence_of_association_with_SO_class>http://purl.obolibrary.org/obo/SO_0001023</craft:has_entailed_absence_of_association_with_SO_class>
+    <obo:IAO_0000115>An absence of an of association with (e.g., involving, possessing, being situated at) a set of alleles.</obo:IAO_0000115>
+    <rdfs:label>absence of allelic association</rdfs:label>
+    <craft:annotatable_text>nonallelic; non-allelic</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_tRNA">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000253</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>A transfer RNA, i.e., an adaptor molecule composed of RNA, typically 76 to 90 nucleotides in length in eukaryotes, that provides the physical link between the genetic code in mRNA and the amino acid sequence of proteins, carrying the correct sequence of amino acids to be combined by the protein-synthesizing machinery.</obo:IAO_0000115>
+    <rdfs:label>tRNA</rdfs:label>
+    <craft:annotatable_text>transfer RNA; transfer RNAs; tRNA; tRNAs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_biomacromolecular_motif">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001067</craft:has_subsumed_SO_class>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001079</craft:has_subsumed_SO_class>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001683</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A biomacromolecular sequence and/or structural motif.</obo:IAO_0000115>
+    <rdfs:label>biomacromolecular motif</rdfs:label>
+    <craft:annotatable_text>motif; motifs; motive; motives</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_threonine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001445</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A threonine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>threonine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>T; Thr; threonine; threonines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_nucleobase_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001236</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A nucleobase as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>nucleobase molecular entity or group</rdfs:label>
+    <craft:annotatable_text>base; bases; nucleic acid base; nucleic acid bases; nucleobase; nucleobases</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_near_a_centromere">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000577</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of an association with (e.g., situatedness at, involvement of, correlation with) a sequence near (but not including) a centromere.</obo:IAO_0000115>
+    <rdfs:label>attribute of association near a centromere</rdfs:label>
+    <craft:annotatable_text>pericentric; pericentrically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_genotype_sequence_entity_or_bearer">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001027</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>The complete set of genomic material of a biological bearer (e.g., organism, cell), or the allele(s) or variant(s) such a bearer carries in a particular gene or genomic location; or, a biological bearer of any such kind of genotypic sequence entity.</obo:IAO_0000115>
+    <rdfs:label>genotype sequence entity or bearer</rdfs:label>
+    <craft:annotatable_text>genotype; genotypes; genotypic; genotypically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_selenocysteine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001455</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A selenocysteine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>selenocysteine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>Sec; selenocysteine; selenocysteines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_proline_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001439</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A proline as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>proline molecular entity or group</rdfs:label>
+    <craft:annotatable_text>P; Pro; proline; prolines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_translational_start_site_or_occurrence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000318</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of initiation of peptide translation; or, a site of a sequence where peptide translation can initiate.</obo:IAO_0000115>
+    <rdfs:label>translational start site or occurrence</rdfs:label>
+    <craft:annotatable_text>translation start; translational start</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glutamine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001448</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A glutamine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>glutamine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>Gln; glutamine; glutamines; Q</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_serine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001444</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A serine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>serine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>S; Ser; serine; serines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_leucine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001437</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A leucine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>leucine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>L; Leu; leucine; leucines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_arginine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001449</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An arginine as a free molecular entity or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>arginine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>Arg; arginine; arginines; R</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_mutation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001059</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of a sequence mutation; or, a change/variation that is the effect of such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/effect of sequence mutation</rdfs:label>
+    <craft:annotatable_text>mutation; mutations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_regenotyping">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001027</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of determining the genotype of something again; or, an attribute of the role of a participant in such an occurrence, e.g., an attribute of having or having had one's genotype determined again.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of regenotyping</rdfs:label>
+    <craft:annotatable_text>regenotype; regenotypes; regenotyping; regenotypings; regenotyped; re-genotype; re-genotypes; re-genotyping; re-genotypings; re-genotyped</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_glycine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001443</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A glycine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>glycine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>G; Gly; glycine; glycines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_subclone">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsuming_SO_class>http://purl.obolibrary.org/obo/SO_0000151</craft:has_subsuming_SO_class>
+    <obo:IAO_0000115>A (presumably previously cloned) insert that has been cloned from one vector into another to gain desired functionality.</obo:IAO_0000115>
+    <rdfs:label>subclone</rdfs:label>
+    <craft:annotatable_text>subclone; subclones; sub-clone; sub-clones</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_more_than_one_polypeptide_domain">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000417</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., possessing, involving, being situated or inhering among) more than one polypeptide domain.</obo:IAO_0000115>
+    <rdfs:label>attribute of association with more than one polypeptide domain</rdfs:label>
+    <craft:annotatable_text>multidomain; multi-domain</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_biomarker">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001645</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A biological or chemical entity bearing a functionality of indicating a biological state.</obo:IAO_0000115>
+    <rdfs:label>biomarker</rdfs:label>
+    <craft:annotatable_text>biomarker; biomarkers</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_lysine_molecule_or_residue">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001450</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A lysine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>lysine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>K; Lys; lysine; lysines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_peptide_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001407</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A peptide as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>peptide molecular entity or group</rdfs:label>
+    <craft:annotatable_text>peptide; peptides; peptidergic; peptidyl</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_sequence_nullness">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0002055</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of a biomacromolecular sequence being null, i.e., nonfunctional and/or not being produced.</obo:IAO_0000115>
+    <rdfs:label>sequence nullness</rdfs:label>
+    <craft:annotatable_text>null</craft:annotatable_text>
+  </owl:Class>
+  <owl:Ontology rdf:about="http://craftcorpus.org/"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_transcriptional_stop_site_or_occurrence">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000141</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of termination of RNA transcription; or, a site of a sequence where RNA transcription can terminate.</obo:IAO_0000115>
+    <rdfs:label>transcriptional stop site or occurrence</rdfs:label>
+    <craft:annotatable_text>transcription stop; transcriptional stop</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_or_bearer_of_sequence_secondary_structure">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0000002</craft:has_subsumed_SO_class>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001078</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An attribute of secondary structure of a nucleotide or peptide sequence; or, something that bears such an attribute.</obo:IAO_0000115>
+    <rdfs:label>attribute/bearer of sequence secondary structure</rdfs:label>
+    <craft:annotatable_text>secondary structure; secondary structures; secondary structural</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_entailed_absence_of_association_with_SO_class">
+    <rdfs:subPropertyOf>
+      <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_SO_class">
+        <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_OBO_class"/>
+      </owl:AnnotationProperty>
+    </rdfs:subPropertyOf>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_bearer_of_null_variation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0002055</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A bearer of a null variation, i.e., a variation whereby the gene product is not functional or the gene product is not produced.</obo:IAO_0000115>
+    <rdfs:label>bearer of null variation</rdfs:label>
+    <craft:annotatable_text>null; nulls</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_tyrosine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001446</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>A tyrosine as a free molecular entity, or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>tyrosine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>Tyr; tyrosine; tyrosines; Y</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_association_with_more_than_one_gene">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000704</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., involving, situatedness at) more than one gene or kind of gene.</obo:IAO_0000115>
+    <rdfs:label>attribute of multigenic association</rdfs:label>
+    <craft:annotatable_text>multigene; multigenic; multi-gene; multi-genic; polygene; polygenic; poly-gene; poly-genic</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">definition</rdfs:label>
+    <rdfs:label>definition</rdfs:label>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_point_mutation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_1000008</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An occurrence of a mutation of a single biomacromolecular residue; or, a changed/variant residue that is the effect of such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/effect of point mutation</rdfs:label>
+    <craft:annotatable_text>point mutation; point mutations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_genomic_translocation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000199</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of a region of nucleotide sequence translocating to a new position; or, a translocated sequence that is the effect of such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/effect of genomic translocation</rdfs:label>
+    <craft:annotatable_text>translocation; translocations</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_aspartate_or_aspartic_acid_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001453</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An aspartate or aspartic acid as a free molecular entity or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>aspartate/aspartic acid molecular entity or group</rdfs:label>
+    <craft:annotatable_text>Asp; D</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label"/>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_monoallelic_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001023</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of some kind of association with (e.g., involving, situatedness at) (only) one allele or one kind of allele.</obo:IAO_0000115>
+    <rdfs:label>attribute of monoallelic association</rdfs:label>
+    <rdfs:label>http://purl.obolibrary.org/obo/SO_0001023</rdfs:label>
+    <craft:annotatable_text>monoallelic; monoallelically; mono-allelic; mono-allelically</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_mRNA">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>http://purl.obolibrary.org/obo/SO_0000234</craft:has_substitutable_SO_class_with_material_or_informational_sequence_entity_interpretation>
+    <obo:IAO_0000115>An RNA molecule that transfers the coding information for protein synthesis from the chromosomes to the ribosomes mRNA is formed from a DNA template by transcription. It may be a copy of a single gene or of several adjacent genes (polycistronic mRNA). On the ribosome, the sequence is converted into the programmed amino acid sequence through translation.</obo:IAO_0000115>
+    <rdfs:label>mRNA</rdfs:label>
+    <craft:annotatable_text>message; messages; messenger RNA; messenger RNAs; mRNA; mRNAs</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_nucleic_acid">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_bearer_of_attribute_interpretation>http://purl.obolibrary.org/obo/SO_0000348</craft:has_substitutable_SO_class_with_bearer_of_attribute_interpretation>
+    <obo:IAO_0000115>A macromolecule made up of nucleotide units and hydrolysable into certain pyrimidine or purine bases (usually adenine, cytosine, guanine, thymine, uracil), D-ribose or 2-deoxy-D-ribose and phosphoric acid.</obo:IAO_0000115>
+    <rdfs:label>nucleic acid</rdfs:label>
+    <craft:annotatable_text>nucleic acid; nucleic acids</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_subcloning">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000753</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of cloning a (presumably previously cloned) insert from one vector to another to gain the desired functionality of the insert; or, an attribute of a participant in such an occurrence, e.g., of being or having been cloned into another vector.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of subcloning</rdfs:label>
+    <craft:annotatable_text>subclone; subclones; subcloning; subclonings; subcloned; sub-clone; sub-clones; sub-cloning; sub-clonings; sub-cloned</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_nonsense_variation">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001587</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of sequence variation in which at least one base of a codon is changed, resulting in a premature stop codon, leading to a shortened polypeptide.</obo:IAO_0000115>
+    <rdfs:label>attribute of nonsense variation</rdfs:label>
+    <craft:annotatable_text>nonsense</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_sequence_based_cloning">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000151</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of producing a clone in the form of either a sequence or a bearer of a such a sequence (e.g., cell or organism); or, an attribute of a participant in such an occurrence, e.g., an attribute of being or having been cloned.</obo:IAO_0000115>
+    <rdfs:label>occurrence/attribute of sequence-based cloning</rdfs:label>
+    <craft:annotatable_text>clone; clones; cloning; clonings; cloned</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_RNA">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_substitutable_SO_class_with_bearer_of_attribute_interpretation>http://purl.obolibrary.org/obo/SO_0000356</craft:has_substitutable_SO_class_with_bearer_of_attribute_interpretation>
+    <obo:IAO_0000115>An RNA molecular entity or substituent group, i.e., substring of RNA.</obo:IAO_0000115>
+    <rdfs:label>RNA</rdfs:label>
+    <craft:annotatable_text>RNA; RNAs</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_substitutable_SO_class_with_bearer_of_attribute_interpretation">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_substitutable_SO_class"/>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_alanine_molecular_entity_or_group">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_subsumed_SO_class>http://purl.obolibrary.org/obo/SO_0001435</craft:has_subsumed_SO_class>
+    <obo:IAO_0000115>An alanine as a free molecular entity or a corresponding subsituent group.</obo:IAO_0000115>
+    <rdfs:label>alanine molecular entity or group</rdfs:label>
+    <craft:annotatable_text>A; Ala; alanine; alanines</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_occurrence_or_effect_of_sequence_retrotransposition">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000569</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An occurrence of transposition of a sequence in a genome by conversion of its transcribed RNA into DNA through reverse transcription; or, the transposed sequence that is the result of such an occurrence.</obo:IAO_0000115>
+    <rdfs:label>occurrence/effect of sequence retrotransposition</rdfs:label>
+    <craft:annotatable_text>retrotransposition; retrotranspositions</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_attribute_of_interchromosomal_association">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0000340</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>An attribute of some kind of association (e.g., existing, inhering, of being situated, of taking place) between or among chromosomes.</obo:IAO_0000115>
+    <rdfs:label>attribute of interchromosomal association</rdfs:label>
+    <craft:annotatable_text>interchromosomal; inter-chromosomal; interchromosally; inter-chromosomally</craft:annotatable_text>
+  </owl:Class>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_enhancer_trap_construct_or_insertion">
+    <rdfs:subClassOf rdf:resource="http://craftcorpus.org/CRAFT_SO_extension_class"/>
+    <craft:has_deductively_entailed_SO_class>http://purl.obolibrary.org/obo/SO_0001479</craft:has_deductively_entailed_SO_class>
+    <obo:IAO_0000115>A type of engineered plasmid construct designed to integrate into a genome and express a reporter when the expression from a basic minimal promoter is enhanced by genomic enhancer elements; or, an insertion that is the result of the integration of such a construct.</obo:IAO_0000115>
+    <rdfs:label>enhancer trap construct or insertion</rdfs:label>
+    <craft:annotatable_text>enhancer trap; enhancer traps</craft:annotatable_text>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_subsumed_SO_class">
+    <rdfs:subPropertyOf rdf:resource="http://craftcorpus.org/has_related_SO_class"/>
+  </owl:AnnotationProperty>
+  <owl:Class rdf:about="http://craftcorpus.org/CRAFT_SO_extension_class">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label>SO extension class</rdfs:label>
+  </owl:Class>
+  <owl:AnnotationProperty rdf:about="http://craftcorpus.org/has_related_OBO_class"/>
+</rdf:RDF>

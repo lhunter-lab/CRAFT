@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="12546709" text-file="12546709.txt">
+        <annotation id="12546709-413420">
+            <class id="http://craftcorpus.org/CRAFT_gene_product" label="gene product"/>
+            <span end="278" id="12546709-413421" start="265">gene products</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29165">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="719" id="12546709-29030" start="714">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28647">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="1022" id="12546709-29050" start="1013">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29847">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="1169" id="12546709-29067" start="1157">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28241">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="1451" id="12546709-29083" start="1447">wild</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29567">
+            <class id="http://craftcorpus.org/CRAFT_polypeptide" label="polypeptide"/>
+            <span end="1717" id="12546709-29100" start="1705">polypeptides</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28895">
+            <class id="http://craftcorpus.org/CRAFT_amino_acid_molecular_entity_or_group" label="amino acid molecular entity or group"/>
+            <span end="1804" id="12546709-29110" start="1794">amino acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29747">
+            <class id="http://craftcorpus.org/CRAFT_material_or_informational_biomacromolecular_sequence" label="material or informational biomacromolecular sequence"/>
+            <span end="1813" id="12546709-29112" start="1805">sequence</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28525">
+            <class id="http://purl.obolibrary.org/obo/SO_0000857" label="homologous"/>
+            <span end="1822" id="12546709-29114" start="1814">homology</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28387">
+            <class id="http://craftcorpus.org/CRAFT_material_or_informational_biomacromolecular_sequence" label="material or informational biomacromolecular sequence"/>
+            <span end="3182" id="12546709-29198" start="3174">sequence</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29949">
+            <class id="http://purl.obolibrary.org/obo/SO_0000857" label="homologous"/>
+            <span end="3191" id="12546709-29200" start="3183">homology</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28159">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="4527" id="12546709-29287" start="4523">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28693">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="4740" id="12546709-29301" start="4737">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29885">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5086" id="12546709-29337" start="5079">genomic</span>
+        </annotation>
+        <annotation id="12546709-413426">
+            <class id="http://craftcorpus.org/CRAFT_gene_product" label="gene product"/>
+            <span end="5582" id="12546709-413427" start="5569">gene products</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28935">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5684" id="12546709-29369" start="5680">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29715">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="5960" id="12546709-29383" start="5951">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29875">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6162" id="12546709-29395" start="6158">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28149">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="6223" id="12546709-29401" start="6214">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28991">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6901" id="12546709-29445" start="6896">genes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28715">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="6941" id="12546709-29447" start="6932">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28841">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="7237" id="12546709-29467" start="7228">wild type</span>
+        </annotation>
+        <annotation id="12546709-413432">
+            <class id="http://craftcorpus.org/CRAFT_gene_product" label="gene product"/>
+            <span end="7539" id="12546709-413433" start="7527">gene product</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_27995">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="9145" id="12546709-29583" start="9132">nucleic acids</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28823">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="10906" id="12546709-29639" start="10897">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28903">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="11085" id="12546709-29653" start="11076">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29187">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="11121" id="12546709-29657" start="11112">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29755">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="11237" id="12546709-29665" start="11228">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29483">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="11634" id="12546709-29689" start="11625">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29603">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="11845" id="12546709-29703" start="11836">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28247">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="12521" id="12546709-29732" start="12512">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29937">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="12954" id="12546709-29754" start="12942">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28919">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="13003" id="12546709-29760" start="12994">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28327">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="13278" id="12546709-29780" start="13269">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29529">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="13473" id="12546709-29798" start="13461">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29459">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="13588" id="12546709-29808" start="13576">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29007">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="14228" id="12546709-29843" start="14219">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29429">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="14327" id="12546709-29851" start="14315">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28251">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="14560" id="12546709-29861" start="14551">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29363">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="14767" id="12546709-29869" start="14764">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28459">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="14894" id="12546709-29875" start="14885">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_27947">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="15096" id="12546709-29885" start="15087">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29593">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="15303" id="12546709-29893" start="15300">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29861">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="15414" id="12546709-29903" start="15405">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29745">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="15453" id="12546709-29907" start="15444">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28673">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="16066" id="12546709-29935" start="16057">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28719">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="16172" id="12546709-29943" start="16163">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28181">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="16459" id="12546709-29955" start="16450">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29793">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="16725" id="12546709-29971" start="16716">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28829">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="17100" id="12546709-29997" start="17088">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28391">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="17519" id="12546709-30015" start="17507">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28419">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="17647" id="12546709-30019" start="17638">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_27961">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="17907" id="12546709-30029" start="17898">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28547">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="17959" id="12546709-30033" start="17950">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28877">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="18410" id="12546709-30055" start="18401">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29419">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="18728" id="12546709-30071" start="18719">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29789">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="18937" id="12546709-30081" start="18928">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28001">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="19123" id="12546709-30094" start="19111">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29435">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="19792" id="12546709-30136" start="19783">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29027">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="19980" id="12546709-30144" start="19971">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28435">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="20414" id="12546709-30156" start="20405">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28233">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="21014" id="12546709-30182" start="21005">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29739">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="21704" id="12546709-30221" start="21695">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28443">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="21931" id="12546709-30235" start="21922">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28859">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="22108" id="12546709-30247" start="22099">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29507">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="22165" id="12546709-30251" start="22156">wild type</span>
+        </annotation>
+        <annotation id="12546709-413437">
+            <class id="http://craftcorpus.org/CRAFT_gene_product" label="gene product"/>
+            <span end="22468" id="12546709-413438" start="22455">gene products</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28925">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="22570" id="12546709-30271" start="22566">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28603">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="22840" id="12546709-30285" start="22831">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29837">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="22972" id="12546709-30295" start="22968">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29751">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="23043" id="12546709-30301" start="23034">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29255">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="23635" id="12546709-30336" start="23622">nucleic acids</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28203">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="23858" id="12546709-30350" start="23854">wild</span>
+        </annotation>
+        <annotation id="12546709-413443">
+            <class id="http://craftcorpus.org/CRAFT_gene_product" label="gene product"/>
+            <span end="24054" id="12546709-413444" start="24042">gene product</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_27991">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="26817" id="12546709-30553" start="26805">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28293">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="27130" id="12546709-30565" start="27118">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28487">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="27220" id="12546709-30575" start="27208">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29445">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="27663" id="12546709-30597" start="27651">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29143">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="27851" id="12546709-30607" start="27839">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29761">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="28225" id="12546709-30624" start="28216">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28725">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="30295" id="12546709-30784" start="30291">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28357">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="30358" id="12546709-30788" start="30354">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29597">
+            <class id="http://craftcorpus.org/CRAFT_DNA" label="DNA"/>
+            <span end="31006" id="12546709-30828" start="31003">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29555">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="31354" id="12546709-30862" start="31347">genomic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_29191">
+            <class id="http://craftcorpus.org/CRAFT_wild_type_attribute_or_bearer" label="wild-type attribute or bearer"/>
+            <span end="31484" id="12546709-30872" start="31475">wild type</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28365">
+            <class id="http://craftcorpus.org/CRAFT_nucleic_acid" label="nucleic acid"/>
+            <span end="31859" id="12546709-30902" start="31847">nucleic acid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_28403">
+            <class id="http://craftcorpus.org/CRAFT_mRNA" label="mRNA"/>
+            <span end="32680" id="12546709-30957" start="32676">mRNA</span>
+        </annotation>
+    </document>
+</knowtator-project>

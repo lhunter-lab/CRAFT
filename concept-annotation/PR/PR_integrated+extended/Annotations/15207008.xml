@@ -769,15 +769,15 @@
             <class id="http://craftcorpus.org/CRAFT_protein" label="protein"/>
             <span end="30181" id="15207008-4560" start="30173">proteins</span>
         </annotation>
-        <annotation id="CRAFT_aggregate_ontology_Instance_72113">
-            <class id="http://purl.obolibrary.org/obo/PR_000009822" label="protein lin-37" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
-            <span end="30737" id="15207008-363648" start="30727">C. elegans</span>
-            <span end="30761" id="15207008-84297" start="30756">lin37</span>
-        </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_73605">
             <class id="http://purl.obolibrary.org/obo/PR_P34427" label="protein lin-36 (worm)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
             <span end="30737" id="15207008-84292" start="30727">C. elegans</span>
             <span end="30751" id="15207008-84293" start="30746">lin36</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_72113">
+            <class id="http://purl.obolibrary.org/obo/PR_000009822" label="protein lin-37" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>
+            <span end="30737" id="15207008-363648" start="30727">C. elegans</span>
+            <span end="30761" id="15207008-84297" start="30756">lin37</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_73355">
             <class id="http://purl.obolibrary.org/obo/PR_Q27365" label="protein lin-15A (worm)" interpretation="GENE, TRANSCRIPT OR PROTEIN"/>

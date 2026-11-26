@@ -486,10 +486,9 @@
             <class id="http://craftcorpus.org/CRAFT_occurrence_or_attribute_of_overexpression" label="occurrence/attribute of gene overexpression"/>
             <span end="30772" id="16221973-127722" start="30759">overexpressed</span>
         </annotation>
-        <annotation id="CRAFT_aggregate_ontology_Instance_179701">
-            <class id="http://purl.obolibrary.org/obo/GO_0051716" label="cellular response to stimulus" interpretation="OCCURRENCE OR ATTRIBUTE"/>
-            <span end="31072" id="16221973-127750" start="31068">cell</span>
-            <span end="31088" id="16221973-127751" start="31080">response</span>
+        <annotation id="16221973-414254">
+            <class id="http://purl.obolibrary.org/obo/GO_0033554" label="cellular response to stress" interpretation="OCCURRENCE OR ATTRIBUTE"/>
+            <span end="31088" id="16221973-414255" start="31068">cell stress response</span>
         </annotation>
         <annotation id="CRAFT_aggregate_ontology_Instance_179019">
             <class id="http://purl.obolibrary.org/obo/GO_0010467" label="gene expression" interpretation="OCCURRENCE OR ATTRIBUTE"/>

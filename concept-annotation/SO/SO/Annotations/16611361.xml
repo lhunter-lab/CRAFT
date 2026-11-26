@@ -1,0 +1,843 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowtator-project>
+    <document id="16611361" text-file="16611361.txt">
+        <annotation id="CRAFT_aggregate_ontology_Instance_216253">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="67" id="16611361-222382" start="61">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215907">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="545" id="16611361-222423" start="539">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215881">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="569" id="16611361-222427" start="565">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217033">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="596" id="16611361-222429" start="583">LoxP elements</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216843">
+            <class id="http://purl.obolibrary.org/obo/SO_0000188" label="intron" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="625" id="16611361-222431" start="618">introns</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215515">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="639" id="16611361-222435" start="635">exon</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215741">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="659" id="16611361-222439" start="655">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216803">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="736" id="16611361-222451" start="730">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216493">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="856" id="16611361-222455" start="846">loxP sites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216853">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="925" id="16611361-222459" start="919">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216407">
+            <class id="http://purl.obolibrary.org/obo/SO_0000359" label="floxed"/>
+            <span end="948" id="16611361-222465" start="942">floxed</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216939">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="1423" id="16611361-222516" start="1419">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217083">
+            <class id="http://purl.obolibrary.org/obo/SO_0000352" label="DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="1495" id="16611361-34001" start="1492">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215503">
+            <class id="http://purl.obolibrary.org/obo/SO_0000417" label="polypeptide_domain" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="1511" id="16611361-222530" start="1504">domains</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216925">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="2792" id="16611361-222649" start="2786">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215473">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="2988" id="16611361-222665" start="2984">exon</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216343">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3065" id="16611361-222667" start="3052">loxP elements</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216563">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3083" id="16611361-222669" start="3079">exon</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216355">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3238" id="16611361-222677" start="3225">loxP elements</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215579">
+            <class id="http://purl.obolibrary.org/obo/SO_0001644" label="targeting_vector" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3317" id="16611361-222679" start="3301">targeting vector</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215513">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3342" id="16611361-222681" start="3330">loxP element</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216909">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3364" id="16611361-222683" start="3359">exons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215733">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3397" id="16611361-222685" start="3389">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215949">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3423" id="16611361-222687" start="3411">loxP element</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215705">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3488" id="16611361-222695" start="3484">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215971">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3554" id="16611361-222699" start="3549">exons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215537">
+            <class id="http://purl.obolibrary.org/obo/SO_0000350" label="FRT_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3583" id="16611361-222701" start="3574">FRT sites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216597">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3604" id="16611361-222707" start="3600">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217073">
+            <class id="http://purl.obolibrary.org/obo/SO_0000061" label="restriction_enzyme_binding_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3708" id="16611361-222717" start="3669">restriction endonuclease cleavage sites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215867">
+            <class id="http://purl.obolibrary.org/obo/SO_0001644" label="targeting_vector" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3778" id="16611361-222723" start="3762">targeting vector</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216219">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3842" id="16611361-222729" start="3835">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216237">
+            <class id="http://purl.obolibrary.org/obo/SO_0001644" label="targeting_vector" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="3890" id="16611361-222731" start="3874">targeting vector</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215435">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4130" id="16611361-222754" start="4126">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216177">
+            <class id="http://purl.obolibrary.org/obo/SO_0000991" label="genomic_DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="4198" id="16611361-222764" start="4187">genomic DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216871">
+            <class id="http://purl.obolibrary.org/obo/SO_0001644" label="targeting_vector" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4289" id="16611361-222770" start="4273">targeting vector</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215889">
+            <class id="http://purl.obolibrary.org/obo/SO_0000352" label="DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="4339" id="16611361-34039" start="4336">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216429">
+            <class id="http://purl.obolibrary.org/obo/SO_0000352" label="DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="4486" id="16611361-34045" start="4483">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216617">
+            <class id="http://purl.obolibrary.org/obo/SO_0000352" label="DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="4508" id="16611361-34047" start="4505">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215599">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4579" id="16611361-222788" start="4570">loxP site</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215761">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4714" id="16611361-222798" start="4706">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216825">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="4992" id="16611361-222822" start="4988">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215771">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5010" id="16611361-222824" start="5004">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216855">
+            <class id="http://purl.obolibrary.org/obo/SO_0000352" label="DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="5062" id="16611361-34057" start="5059">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216431">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5106" id="16611361-222834" start="5102">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216763">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5126" id="16611361-222838" start="5120">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216783">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5227" id="16611361-222842" start="5221">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215825">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5283" id="16611361-222846" start="5275">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216003">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5433" id="16611361-222866" start="5429">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217053">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5465" id="16611361-222872" start="5457">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216975">
+            <class id="http://purl.obolibrary.org/obo/SO_0000350" label="FRT_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5513" id="16611361-222876" start="5504">FRT sites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215549">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5565" id="16611361-222882" start="5561">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215919">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5711" id="16611361-222904" start="5707">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216669">
+            <class id="http://purl.obolibrary.org/obo/SO_0000167" label="promoter" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5720" id="16611361-222906" start="5712">promoter</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216857">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5763" id="16611361-222912" start="5755">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216037">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5849" id="16611361-222916" start="5845">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215555">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5901" id="16611361-222926" start="5897">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215777">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="5906" id="16611361-222928" start="5902">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216671">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6022" id="16611361-222934" start="6016">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217067">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6072" id="16611361-222938" start="6065">genomic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216477">
+            <class id="http://purl.obolibrary.org/obo/SO_0001644" label="targeting_vector" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6103" id="16611361-222940" start="6087">targeting vector</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215805">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6114" id="16611361-222942" start="6109">exons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216409">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6208" id="16611361-222946" start="6201">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216499">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6233" id="16611361-222948" start="6229">loxP</span>
+            <span end="6274" id="16611361-222949" start="6269">sites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216047">
+            <class id="http://purl.obolibrary.org/obo/SO_0000350" label="FRT_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6260" id="16611361-222951" start="6257">FRT</span>
+            <span end="6274" id="16611361-222952" start="6269">sites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215815">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6296" id="16611361-222954" start="6287">cassettes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215927">
+            <class id="http://purl.obolibrary.org/obo/SO_0000412" label="restriction_fragment" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6467" id="16611361-222968" start="6433">restriction endonuclease fragments</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216535">
+            <class id="http://purl.obolibrary.org/obo/SO_0000991" label="genomic_DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="6543" id="16611361-222974" start="6532">genomic DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216179">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6695" id="16611361-222990" start="6691">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216879">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6713" id="16611361-222992" start="6707">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216593">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6782" id="16611361-223000" start="6776">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215885">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6840" id="16611361-223006" start="6836">Exon</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215973">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6894" id="16611361-223018" start="6886">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216979">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6932" id="16611361-223024" start="6928">exon</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216205">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6959" id="16611361-223028" start="6946">loxP elements</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216599">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6970" id="16611361-223032" start="6966">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215929">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="6994" id="16611361-223038" start="6990">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215505">
+            <class id="http://purl.obolibrary.org/obo/SO_0000412" label="restriction_fragment" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7144" id="16611361-223052" start="7123">restriction fragments</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217055">
+            <class id="http://purl.obolibrary.org/obo/SO_0000352" label="DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="7242" id="16611361-34079" start="7239">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215621">
+            <class id="http://purl.obolibrary.org/obo/SO_0000991" label="genomic_DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="7348" id="16611361-223067" start="7337">genomic DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216073">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7357" id="16611361-223071" start="7350">Primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215647">
+            <class id="http://purl.obolibrary.org/obo/SO_0000028" label="base_pair" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7427" id="16611361-223075" start="7425">bp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215563">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7438" id="16611361-223077" start="7434">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215987">
+            <class id="http://purl.obolibrary.org/obo/SO_0000028" label="base_pair" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7455" id="16611361-223079" start="7453">bp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215525">
+            <class id="http://purl.obolibrary.org/obo/SO_0000028" label="base_pair" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7487" id="16611361-223085" start="7485">bp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215613">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7496" id="16611361-223087" start="7489">alleles</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215763">
+            <class id="http://purl.obolibrary.org/obo/SO_0000028" label="base_pair" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7529" id="16611361-223093" start="7527">bp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216075">
+            <class id="http://purl.obolibrary.org/obo/SO_0001030" label="forward"/>
+            <span end="7542" id="16611361-223099" start="7541">F</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216413">
+            <class id="http://purl.obolibrary.org/obo/SO_0001031" label="reverse"/>
+            <span end="7544" id="16611361-223101" start="7543">R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216587">
+            <class id="http://purl.obolibrary.org/obo/SO_0000028" label="base_pair" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7552" id="16611361-223103" start="7550">bp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216747">
+            <class id="http://purl.obolibrary.org/obo/SO_0000028" label="base_pair" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7579" id="16611361-223105" start="7577">bp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216839">
+            <class id="http://purl.obolibrary.org/obo/SO_0000902" label="transgene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7591" id="16611361-223107" start="7581">transgenes</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216473">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7730" id="16611361-223117" start="7726">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216423">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7895" id="16611361-223136" start="7891">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216363">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7931" id="16611361-223148" start="7927">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216021">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="7936" id="16611361-223150" start="7932">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216261">
+            <class id="http://purl.obolibrary.org/obo/SO_0000167" label="promoter" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8096" id="16611361-223179" start="8088">promoter</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215847">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8237" id="16611361-223190" start="8233">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216251">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8281" id="16611361-223202" start="8277">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215541">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8286" id="16611361-223204" start="8282">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215709">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8314" id="16611361-223210" start="8310">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216467">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8348" id="16611361-223218" start="8344">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216779">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8353" id="16611361-223220" start="8349">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216755">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8504" id="16611361-223226" start="8494">loxP sites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217019">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8614" id="16611361-223236" start="8610">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215785">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8710" id="16611361-223248" start="8706">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215601">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8715" id="16611361-223250" start="8711">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216271">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8895" id="16611361-223264" start="8891">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216549">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8988" id="16611361-223276" start="8984">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216531">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="8993" id="16611361-223278" start="8989">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215947">
+            <class id="http://purl.obolibrary.org/obo/SO_0000352" label="DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="9031" id="16611361-34089" start="9028">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215917">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9078" id="16611361-223290" start="9071">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215437">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9188" id="16611361-223302" start="9175">loxP elements</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215893">
+            <class id="http://purl.obolibrary.org/obo/SO_0000234" label="mRNA" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9238" id="16611361-34093" start="9234">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215453">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9335" id="16611361-223314" start="9331">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216183">
+            <class id="http://purl.obolibrary.org/obo/SO_0000234" label="mRNA" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9383" id="16611361-34095" start="9379">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216869">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9479" id="16611361-223332" start="9475">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216211">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9484" id="16611361-223334" start="9480">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216885">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9529" id="16611361-223340" start="9525">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215703">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9534" id="16611361-223342" start="9530">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216687">
+            <class id="http://purl.obolibrary.org/obo/SO_0000234" label="mRNA" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9594" id="16611361-34097" start="9590">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216651">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9706" id="16611361-223364" start="9702">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215853">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9711" id="16611361-223366" start="9707">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216113">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9763" id="16611361-223372" start="9759">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216639">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9916" id="16611361-223397" start="9912">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215721">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="9921" id="16611361-223399" start="9917">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215657">
+            <class id="http://purl.obolibrary.org/obo/SO_0000704" label="gene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10066" id="16611361-223411" start="10062">gene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215511">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10110" id="16611361-223415" start="10106">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216799">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10115" id="16611361-223417" start="10111">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217075">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10248" id="16611361-223433" start="10244">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215677">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10253" id="16611361-223435" start="10249">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215649">
+            <class id="http://purl.obolibrary.org/obo/SO_0000167" label="promoter" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10304" id="16611361-223443" start="10296">promoter</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216121">
+            <class id="http://purl.obolibrary.org/obo/SO_0000234" label="mRNA" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10346" id="16611361-34109" start="10342">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216165">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10410" id="16611361-223453" start="10406">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216949">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10460" id="16611361-223461" start="10456">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216337">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10465" id="16611361-223463" start="10461">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216721">
+            <class id="http://purl.obolibrary.org/obo/SO_0000234" label="mRNA" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10529" id="16611361-34111" start="10525">mRNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216715">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10805" id="16611361-223491" start="10801">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215837">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10810" id="16611361-223493" start="10806">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215539">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10877" id="16611361-223503" start="10873">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216063">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="10882" id="16611361-223505" start="10878">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216283">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="11016" id="16611361-223515" start="11010">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216571">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="11159" id="16611361-223541" start="11155">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215981">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="11431" id="16611361-223567" start="11421">loxP sites</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215643">
+            <class id="http://purl.obolibrary.org/obo/SO_0000352" label="DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="11538" id="16611361-34121" start="11535">DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215921">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="11690" id="16611361-223595" start="11686">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216439">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="11708" id="16611361-223597" start="11702">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216043">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="11768" id="16611361-223605" start="11762">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215531">
+            <class id="http://purl.obolibrary.org/obo/SO_0000991" label="genomic_DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="11913" id="16611361-223619" start="11902">genomic DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216331">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="12339" id="16611361-223659" start="12335">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216377">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="12344" id="16611361-223661" start="12340">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215839">
+            <class id="http://purl.obolibrary.org/obo/SO_0000902" label="transgene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="12437" id="16611361-223675" start="12428">transgene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216767">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="12560" id="16611361-223683" start="12556">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215495">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="12576" id="16611361-223689" start="12572">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215455">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="12598" id="16611361-223695" start="12594">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216319">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="12629" id="16611361-223703" start="12625">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216143">
+            <class id="http://purl.obolibrary.org/obo/SO_0000155" label="plasmid" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13143" id="16611361-223737" start="13136">Plasmid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216013">
+            <class id="http://purl.obolibrary.org/obo/SO_0000153" label="BAC" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13191" id="16611361-223741" start="13160">bacterial artificial chromosome</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216773">
+            <class id="http://purl.obolibrary.org/obo/SO_0000153" label="BAC" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13196" id="16611361-223745" start="13193">BAC</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217047">
+            <class id="http://purl.obolibrary.org/obo/SO_0000991" label="genomic_DNA" interpretation="BEARER OF ATTRIBUTE"/>
+            <span end="13244" id="16611361-223749" start="13233">genomic DNA</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216487">
+            <class id="http://purl.obolibrary.org/obo/SO_0000155" label="plasmid" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13339" id="16611361-223755" start="13332">Plasmid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215795">
+            <class id="http://purl.obolibrary.org/obo/SO_0001026" label="genome" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13407" id="16611361-223763" start="13400">genomic</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216717">
+            <class id="http://purl.obolibrary.org/obo/SO_0000147" label="exon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13439" id="16611361-223767" start="13434">exons</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215995">
+            <class id="http://purl.obolibrary.org/obo/SO_0000440" label="vector_replicon" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13485" id="16611361-223769" start="13479">vector</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215431">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13558" id="16611361-223775" start="13550">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216007">
+            <class id="http://purl.obolibrary.org/obo/SO_0000155" label="plasmid" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13620" id="16611361-223777" start="13613">plasmid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215959">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13644" id="16611361-223783" start="13636">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216167">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13660" id="16611361-223785" start="13656">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215843">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13669" id="16611361-223789" start="13665">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215953">
+            <class id="http://purl.obolibrary.org/obo/SO_0000155" label="plasmid" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13707" id="16611361-223791" start="13700">plasmid</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216197">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13775" id="16611361-223795" start="13768">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216147">
+            <class id="http://purl.obolibrary.org/obo/SO_0000696" label="oligo" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13979" id="16611361-34143" start="13963">oligonucleotides</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216591">
+            <class id="http://purl.obolibrary.org/obo/SO_0000028" label="base_pair" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="13995" id="16611361-223799" start="13993">bp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216137">
+            <class id="http://purl.obolibrary.org/obo/SO_0000188" label="intron" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14025" id="16611361-223805" start="14019">intron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216325">
+            <class id="http://purl.obolibrary.org/obo/SO_0000188" label="intron" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14088" id="16611361-223809" start="14082">intron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216739">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14230" id="16611361-223819" start="14222">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216923">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14271" id="16611361-223823" start="14262">loxP site</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215811">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14316" id="16611361-223829" start="14312">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216305">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14336" id="16611361-223831" start="14328">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_217045">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14383" id="16611361-223833" start="14376">primers</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216555">
+            <class id="http://purl.obolibrary.org/obo/SO_0000696" label="oligo" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14586" id="16611361-34147" start="14570">oligonucleotides</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216491">
+            <class id="http://purl.obolibrary.org/obo/SO_0000028" label="base_pair" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14600" id="16611361-223837" start="14598">bp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216065">
+            <class id="http://purl.obolibrary.org/obo/SO_0000028" label="base_pair" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14621" id="16611361-223839" start="14619">bp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215879">
+            <class id="http://purl.obolibrary.org/obo/SO_0000188" label="intron" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14662" id="16611361-223845" start="14656">intron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215749">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14693" id="16611361-223847" start="14685">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215939">
+            <class id="http://purl.obolibrary.org/obo/SO_0000188" label="intron" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14726" id="16611361-223851" start="14720">intron</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216215">
+            <class id="http://purl.obolibrary.org/obo/SO_0001644" label="targeting_vector" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14816" id="16611361-223857" start="14800">targeting vector</span>
+        </annotation>
+        <annotation id="16611361-414037">
+            <class id="http://purl.obolibrary.org/obo/SO_0000987" label="linear"/>
+            <span end="14866" id="16611361-414038" start="14860">Linear</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216911">
+            <class id="http://purl.obolibrary.org/obo/SO_0001644" label="targeting_vector" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="14883" id="16611361-223867" start="14867">targeting vector</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216777">
+            <class id="http://purl.obolibrary.org/obo/SO_0001023" label="allele" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15189" id="16611361-223890" start="15183">allele</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216893">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15265" id="16611361-223898" start="15261">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216607">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15270" id="16611361-223900" start="15266">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216781">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15311" id="16611361-223908" start="15307">loxp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215821">
+            <class id="http://purl.obolibrary.org/obo/SO_0005853" label="gene_cassette" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15418" id="16611361-223920" start="15410">cassette</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216217">
+            <class id="http://purl.obolibrary.org/obo/SO_0000902" label="transgene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15487" id="16611361-223926" start="15478">transgene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215475">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15524" id="16611361-223932" start="15520">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215461">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15529" id="16611361-223934" start="15525">loxP</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215897">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15601" id="16611361-223952" start="15597">loxp</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215497">
+            <class id="http://purl.obolibrary.org/obo/SO_0000346" label="loxP_site" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15751" id="16611361-223966" start="15738">loxP elements</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216827">
+            <class id="http://purl.obolibrary.org/obo/SO_0000902" label="transgene" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="15791" id="16611361-223968" start="15782">transgene</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216991">
+            <class id="http://purl.obolibrary.org/obo/SO_0000696" label="oligo" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="16110" id="16611361-34163" start="16095">oligonucleotide</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216657">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="16117" id="16611361-223992" start="16111">primer</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215653">
+            <class id="http://purl.obolibrary.org/obo/SO_0001030" label="forward"/>
+            <span end="16260" id="16611361-224000" start="16259">F</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216115">
+            <class id="http://purl.obolibrary.org/obo/SO_0001031" label="reverse"/>
+            <span end="16262" id="16611361-224002" start="16261">R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215985">
+            <class id="http://purl.obolibrary.org/obo/SO_0000112" label="primer" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="16520" id="16611361-224008" start="16514">primer</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215711">
+            <class id="http://purl.obolibrary.org/obo/SO_0001030" label="forward"/>
+            <span end="16590" id="16611361-224012" start="16589">F</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216289">
+            <class id="http://purl.obolibrary.org/obo/SO_0001031" label="reverse"/>
+            <span end="16592" id="16611361-224014" start="16591">R</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_215659">
+            <class id="http://purl.obolibrary.org/obo/SO_0001644" label="targeting_vector" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="16952" id="16611361-224032" start="16936">targeting vector</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216643">
+            <class id="http://purl.obolibrary.org/obo/SO_0000155" label="plasmid" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="17381" id="16611361-224036" start="17373">plasmids</span>
+        </annotation>
+        <annotation id="CRAFT_aggregate_ontology_Instance_216175">
+            <class id="http://purl.obolibrary.org/obo/SO_0000155" label="plasmid" interpretation="MATERIAL OR INFORMATIONAL SEQUENCE ENTITY"/>
+            <span end="17728" id="16611361-224052" start="17720">plasmids</span>
+        </annotation>
+    </document>
+</knowtator-project>
